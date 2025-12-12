@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-12T10:40:08.782528+08:00",
-  "total_titles_processed": 922,
+  "generated_at": "2025-12-12T10:58:41.487601+08:00",
+  "total_titles_processed": 972,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 41,
       "titles": [
         {
           "title": "美英法德领导人就乌克兰问题通话，特朗普：言辞相当激烈",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时37分 ~ 10时40分]"
+          "appearance_count": 16,
+          "time_info": "[00时37分 ~ 10时58分]"
         },
         {
           "title": "盘点｜从研究机构到艺术中心，这是特朗普的“冠名全家桶”",
@@ -66,6 +66,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时26分 ~ 07时25分]"
+        },
+        {
+          "title": "加州州长再批特朗普：最具破坏性总统",
+          "url": "https://news.ifeng.com/c/8p18mDHMrQq",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时59分 ~ 10时58分]"
         },
         {
           "title": "据AXIOS网站：特朗普政府计划任命一名美国少将指挥驻加沙国际稳定部队（ISF）。",
@@ -129,6 +140,18 @@
           "time_info": "[04时29分 ~ 05时28分]"
         },
         {
+          "title": "高市早苗在日本众院预算委员会会议上示意，希望尽早与特朗普会面，此举释放了什么信号？",
+          "url": "https://www.zhihu.com/question/1982382027627073644",
+          "source": "知乎",
+          "ranks": [
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时59分 ~ 10时58分]"
+        },
+        {
           "title": "美媒：特朗普计划制裁马杜罗的侄子及多个运送委内瑞拉石油的公司",
           "url": "https://flash.jin10.com/detail/20251212030051169800",
           "source": "金十数据",
@@ -176,27 +199,15 @@
           "time_info": "[09时59分 ~ 10时40分]"
         },
         {
-          "title": "加州州长再批特朗普：最具破坏性总统",
-          "url": "https://news.ifeng.com/c/8p18mDHMrQq",
+          "title": "特朗普破大妨：美国AI电力遥遥领先，都归功于我",
+          "url": "https://news.ifeng.com/c/8p1EpDusf8A",
           "source": "凤凰网",
           "ranks": [
-            7
+            12
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时59分 ~ 10时40分]"
-        },
-        {
-          "title": "高市早苗在日本众院预算委员会会议上示意，希望尽早与特朗普会面，此举释放了什么信号？",
-          "url": "https://www.zhihu.com/question/1982382027627073644",
-          "source": "知乎",
-          "ranks": [
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时59分 ~ 10时40分]"
+          "time_info": "[10时39分 ~ 10时58分]"
         },
         {
           "title": "美众议院有关弹劾总统特朗普的动议经表决后被搁置",
@@ -281,17 +292,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时24分 ~ 04时29分]"
-        },
-        {
-          "title": "特朗普破大妨：美国AI电力遥遥领先，都归功于我",
-          "url": "https://news.ifeng.com/c/8p1EpDusf8A",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
         },
         {
           "title": "美国印第安纳州由共和党掌控的参议院否决了美国总统特朗普支持的国会选区重划方案。",
@@ -397,6 +397,17 @@
           "time_info": "03时24分"
         },
         {
+          "title": "特朗普计划推动将大麻重新归类为危害较低的药物",
+          "url": "https://flash.jin10.com/detail/20251212102622267800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时58分"
+        },
+        {
           "title": "美国总统特朗普：我从拜登政府那里继承了一个烂摊子——历史上最严重的通货膨胀和我国有史以来最高的物价。",
           "url": "https://flash.jin10.com/detail/20251212024001002800",
           "source": "金十数据",
@@ -477,7 +488,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "GPT-5.2来了！OpenAI称其为“最强专业知识工作大模型”",
@@ -488,19 +499,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时59分 ~ 10时40分]"
-        },
-        {
-          "title": "实测ChatGPT5.2有多强",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BChatGPT5.2%E6%9C%89%E5%A4%9A%E5%BC%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
+          "appearance_count": 4,
+          "time_info": "[09时59分 ~ 10时58分]"
         },
         {
           "title": "博通：公司并不预计OpenAI会在2026年带来太多的营收。",
@@ -514,16 +514,16 @@
           "time_info": "07时25分"
         },
         {
-          "title": "ChatGPT5.2正式发布",
-          "url": "https://search.bilibili.com/all?keyword=ChatGPT5.2%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83",
+          "title": "实测ChatGPT5.2有多强",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BChatGPT5.2%E6%9C%89%E5%A4%9A%E5%BC%BA",
           "source": "bilibili 热搜",
           "ranks": [
-            9,
-            26
+            5,
+            10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时59分 ~ 10时40分]"
+          "time_info": "[10时39分 ~ 10时58分]"
         },
         {
           "title": "GPT-5.2来了！OpenAI最新发布",
@@ -534,8 +534,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时59分 ~ 10时40分]"
+          "appearance_count": 4,
+          "time_info": "[09时59分 ~ 10时58分]"
         },
         {
           "title": "GPT-5.2 正式发布，OpenAI 称其为「最强专业知识工作大模型」，有哪些技术亮点？",
@@ -545,8 +545,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
+          "appearance_count": 3,
+          "time_info": "[10时39分 ~ 10时58分]"
+        },
+        {
+          "title": "ChatGPT5.2正式发布",
+          "url": "https://search.bilibili.com/all?keyword=ChatGPT5.2%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时59分 ~ 10时40分]"
         },
         {
           "title": "OpenAI的CEO Altman：对我们“即将推出的芯片”感到兴奋。",
@@ -727,6 +739,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时38分"
+        },
+        {
+          "title": "全面解析ChatGPT5.2",
+          "url": "https://search.bilibili.com/all?keyword=%E5%85%A8%E9%9D%A2%E8%A7%A3%E6%9E%90ChatGPT5.2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时58分"
         }
       ]
     },
@@ -755,8 +778,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时24分 ~ 10时40分]"
+          "appearance_count": 6,
+          "time_info": "[07时24分 ~ 10时58分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌0.1%，美股早盘出现V形反转，后续维持微涨状态。 热门中概股里，金山云初步收跌5.4%，Boss直聘跌3.4%，再鼎医药跌2.6%，小鹏跌2.4%，新东方跌1.6%，百度涨1.5%，蔚来涨1.7%，世纪互联涨2.1%，小马智行涨3.1%，阿特斯太阳能涨3.3%。 ETF中，CQQQ跌0.7%，KWEB跌0.6%。",
@@ -1012,8 +1035,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时59分 ~ 10时40分]"
+          "appearance_count": 4,
+          "time_info": "[09时59分 ~ 10时58分]"
         },
         {
           "title": "OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报",
@@ -1023,8 +1046,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
+          "appearance_count": 3,
+          "time_info": "[10时39分 ~ 10时58分]"
         },
         {
           "title": "谷歌母公司Alphabet跌幅扩大至3.5%。 微软涨1.2%，刷新日高。",
