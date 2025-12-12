@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-12T14:20:44.141838+08:00",
-  "total_titles_processed": 1311,
+  "generated_at": "2025-12-12T15:17:28.555143+08:00",
+  "total_titles_processed": 1405,
   "failed_sources": [],
   "trends": [
     {
@@ -21,6 +21,19 @@
           "time_info": "[00时37分 ~ 11时54分]"
         },
         {
+          "title": "高市早苗在日本众院预算委员会会议上示意，希望尽早与特朗普会面，此举释放了什么信号？",
+          "url": "https://www.zhihu.com/question/1982382027627073644",
+          "source": "知乎",
+          "ranks": [
+            8,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时59分 ~ 15时17分]"
+        },
+        {
           "title": "盘点｜从研究机构到艺术中心，这是特朗普的“冠名全家桶”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32144570",
           "source": "澎湃新闻",
@@ -34,18 +47,6 @@
           "time_info": "[00时37分 ~ 07时25分]"
         },
         {
-          "title": "高市早苗在日本众院预算委员会会议上示意，希望尽早与特朗普会面，此举释放了什么信号？",
-          "url": "https://www.zhihu.com/question/1982382027627073644",
-          "source": "知乎",
-          "ranks": [
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时59分 ~ 14时20分]"
-        },
-        {
           "title": "白宫：特朗普对俄乌都很失望",
           "url": "https://news.ifeng.com/c/8p1LpVJOOIe",
           "source": "凤凰网",
@@ -53,8 +54,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时27分 ~ 14时20分]"
+          "appearance_count": 4,
+          "time_info": "[12时27分 ~ 15时17分]"
         },
         {
           "title": "特朗普破大妨：美国AI电力遥遥领先，都归功于我",
@@ -64,8 +65,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时39分 ~ 14时20分]"
+          "appearance_count": 9,
+          "time_info": "[10时39分 ~ 15时17分]"
         },
         {
           "title": "加州州长再批特朗普：最具破坏性总统",
@@ -87,8 +88,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时15分 ~ 14时20分]"
+          "appearance_count": 3,
+          "time_info": "[13时15分 ~ 15时17分]"
         },
         {
           "title": "大陪审团拒绝起诉纽约州总检察长，特朗普再遭挫折",
@@ -408,7 +409,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -463,7 +464,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -593,8 +594,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时59分 ~ 14时20分]"
+          "appearance_count": 10,
+          "time_info": "[09时59分 ~ 15时17分]"
+        },
+        {
+          "title": "美联储重新任命11位地区联储主席 OpenAI发布更先进模型GPT-5.2 | 环球市场",
+          "url": "https://www.cls.cn/detail/2227268",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时53分 ~ 15时17分]"
         },
         {
           "title": "博通：公司并不预计OpenAI会在2026年带来太多的营收。",
@@ -620,17 +634,15 @@
           "time_info": "[10时39分 ~ 10时58分]"
         },
         {
-          "title": "美联储重新任命11位地区联储主席 OpenAI发布更先进模型GPT-5.2 | 环球市场",
-          "url": "https://www.cls.cn/detail/2227268",
-          "source": "财联社热门",
+          "title": "ChatGPT5.2有哪些新升级",
+          "url": "https://search.bilibili.com/all?keyword=ChatGPT5.2%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E5%8D%87%E7%BA%A7",
+          "source": "bilibili 热搜",
           "ranks": [
-            13,
-            12,
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时53分 ~ 14时20分]"
+          "appearance_count": 4,
+          "time_info": "[12时27分 ~ 15时17分]"
         },
         {
           "title": "GPT-5.2来了！OpenAI最新发布",
@@ -678,17 +690,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时59分 ~ 10时40分]"
-        },
-        {
-          "title": "ChatGPT5.2有哪些新升级",
-          "url": "https://search.bilibili.com/all?keyword=ChatGPT5.2%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E5%8D%87%E7%BA%A7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时27分 ~ 14时20分]"
         },
         {
           "title": "OpenAI的CEO Altman：对我们“即将推出的芯片”感到兴奋。",
@@ -897,8 +898,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时24分 ~ 14时20分]"
+          "appearance_count": 12,
+          "time_info": "[07时24分 ~ 15时17分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌0.1%，美股早盘出现V形反转，后续维持微涨状态。 热门中概股里，金山云初步收跌5.4%，Boss直聘跌3.4%，再鼎医药跌2.6%，小鹏跌2.4%，新东方跌1.6%，百度涨1.5%，蔚来涨1.7%，世纪互联涨2.1%，小马智行涨3.1%，阿特斯太阳能涨3.3%。 ETF中，CQQQ跌0.7%，KWEB跌0.6%。",
@@ -1119,8 +1120,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时39分 ~ 14时20分]"
+          "appearance_count": 9,
+          "time_info": "[10时39分 ~ 15时17分]"
         },
         {
           "title": "谷歌(GOOG.O)：开源一个新的网络研究代理基准，DEEPSEARCHQA，旨在测试代理在网络研究任务上的全面性。",
