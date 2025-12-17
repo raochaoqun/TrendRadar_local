@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-17T12:25:54.905747+08:00",
-  "total_titles_processed": 1128,
+  "generated_at": "2025-12-17T13:16:02.148177+08:00",
+  "total_titles_processed": 1190,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 56,
+      "match_count": 59,
       "titles": [
         {
           "title": "特朗普称自己执政近一年来在经济方面取得了成功，但赢得中期选举很困难，赢的概率有多大？会有哪些影响？",
@@ -23,8 +23,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时17分 ~ 12时25分]"
+          "appearance_count": 15,
+          "time_info": "[00时17分 ~ 13时16分]"
         },
         {
           "title": "“这是特朗普给泽连斯基的最后通牒：接受条件，否则就没机会了”",
@@ -66,6 +66,28 @@
           "time_info": "[00时17分 ~ 12时25分]"
         },
         {
+          "title": "特朗普：认定委内瑞拉现政府是“外国恐怖组织”",
+          "url": "https://news.ifeng.com/c/8p9PufcVOa6",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时45分 ~ 13时16分]"
+        },
+        {
+          "title": "特朗普签署公告，进一步限制外国公民入境美国",
+          "url": "https://news.ifeng.com/c/8p9E57zE6bJ",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时45分 ~ 13时16分]"
+        },
+        {
           "title": "释新闻｜泰国否认对柬埔寨停火，为什么特朗普的电话不管用？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32180845",
           "source": "澎湃新闻",
@@ -79,37 +101,16 @@
           "time_info": "[00时17分 ~ 07时12分]"
         },
         {
-          "title": "特朗普：认定委内瑞拉现政府是“外国恐怖组织”",
-          "url": "https://news.ifeng.com/c/8p9PufcVOa6",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时45分 ~ 12时25分]"
-        },
-        {
-          "title": "特朗普签署公告，进一步限制外国公民入境美国",
-          "url": "https://news.ifeng.com/c/8p9E57zE6bJ",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时45分 ~ 12时25分]"
-        },
-        {
           "title": "特朗普政府宣布对40国实施入境限制",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E5%AE%A3%E5%B8%83%E5%AF%B940%E5%9B%BD%E5%AE%9E%E6%96%BD%E5%85%A5%E5%A2%83%E9%99%90%E5%88%B6",
           "source": "bilibili 热搜",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时50分 ~ 12时25分]"
+          "appearance_count": 4,
+          "time_info": "[11时50分 ~ 13时16分]"
         },
         {
           "title": "特朗普将发表全国讲话：应对民调下滑 或预告新年政策",
@@ -121,6 +122,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
+        },
+        {
+          "title": "特朗普下令封锁所有受制裁委油轮",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E5%B0%81%E9%94%81%E6%89%80%E6%9C%89%E5%8F%97%E5%88%B6%E8%A3%81%E5%A7%94%E6%B2%B9%E8%BD%AE",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时54分 ~ 13时16分]"
         },
         {
           "title": "白宫新闻秘书莱维特：特朗普将于明天前往多佛空军基地，出席在叙利亚阵亡美军士兵的移交仪式。",
@@ -262,17 +274,6 @@
           "time_info": "[04时15分 ~ 05时13分]"
         },
         {
-          "title": "特朗普下令封锁所有受制裁委油轮",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E5%B0%81%E9%94%81%E6%89%80%E6%9C%89%E5%8F%97%E5%88%B6%E8%A3%81%E5%A7%94%E6%B2%B9%E8%BD%AE",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时54分 ~ 12时25分]"
-        },
-        {
           "title": "哈塞特势头不稳，特朗普亲信推举沃什当美联储主席，预测市场大变脸",
           "url": "https://wallstreetcn.com/articles/3761439",
           "source": "华尔街见闻",
@@ -318,6 +319,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时17分 ~ 01时18分]"
+        },
+        {
+          "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
+          "url": "https://wallstreetcn.com/articles/3761525",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时15分 ~ 13时16分]"
         },
         {
           "title": "特朗普签署公告 进一步限制外国公民入境美国",
@@ -379,6 +391,17 @@
           "time_info": "[08时54分 ~ 10时45分]"
         },
         {
+          "title": "马斯克又要给特朗普花钱了",
+          "url": "https://www.toutiao.com/trending/7584667287097986610/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时15分 ~ 13时16分]"
+        },
+        {
           "title": "特朗普称认定委政府是“恐怖组织”",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%AE%A4%E5%AE%9A%E5%A7%94%E6%94%BF%E5%BA%9C%E6%98%AF%E2%80%9C%E6%81%90%E6%80%96%E7%BB%84%E7%BB%87%E2%80%9D",
           "source": "百度热搜",
@@ -388,6 +411,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时45分 ~ 11时50分]"
+        },
+        {
+          "title": "专家预测特朗普将为中选出什么招",
+          "url": "https://www.toutiao.com/trending/7584654516868353579/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时15分 ~ 13时16分]"
         },
         {
           "title": "委内瑞拉政府：美国总统特朗普的封锁“完全不理性”，违反了自由贸易和航行自由。",
@@ -681,8 +715,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时11分 ~ 12时25分]"
+          "appearance_count": 8,
+          "time_info": "[07时11分 ~ 13时16分]"
         },
         {
           "title": "能源业ETF收跌3%，领跌美股行业ETF，标普能源板块也跌将近3%",
