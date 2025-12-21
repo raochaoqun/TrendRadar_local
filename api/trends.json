@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-21T12:31:16.467884+08:00",
-  "total_titles_processed": 760,
+  "generated_at": "2025-12-21T13:14:53.960236+08:00",
+  "total_titles_processed": 812,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "特朗普提名特战副司令执掌南方司令部",
@@ -41,8 +41,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时02分 ~ 12时31分]"
+          "appearance_count": 5,
+          "time_info": "[09时02分 ~ 13时14分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-20）",
@@ -113,11 +113,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时23分 ~ 12时31分]"
+          "appearance_count": 3,
+          "time_info": "[11时23分 ~ 13时14分]"
         },
         {
           "title": "特朗普对华“降调”能持续吗",
@@ -131,13 +132,24 @@
           "time_info": "[11时22分 ~ 11时23分]"
         },
         {
+          "title": "美联储主席之争进入白热化了，华尔街和华盛顿“暗流涌动”，特朗普“举棋不定”",
+          "url": "https://wallstreetcn.com/articles/3761784",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时14分"
+        },
+        {
           "title": "高市早苗着急早点见特朗普",
           "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E7%9D%80%E6%80%A5%E6%97%A9%E7%82%B9%E8%A7%81%E7%89%B9%E6%9C%97%E6%99%AE%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
         },
@@ -169,8 +181,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时14分 ~ 12时31分]"
+          "appearance_count": 14,
+          "time_info": "[00时14分 ~ 13时14分]"
         },
         {
           "title": "卖光英伟达、抵押Arm加杠杆！软银“孤注一掷”OpenAI，力争年底前资金到位",
@@ -197,8 +209,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时14分 ~ 12时31分]"
+          "appearance_count": 14,
+          "time_info": "[00时14分 ~ 13时14分]"
         },
         {
           "title": "OpenAI融资成败，将决定整个数据中心行业的命运",
@@ -217,7 +229,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "“三巫日”科技股撑美股指两连阳，日元重挫1.4%，银铜齐创新高",
@@ -242,8 +254,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时14分 ~ 12时31分]"
+          "appearance_count": 14,
+          "time_info": "[00时14分 ~ 13时14分]"
+        },
+        {
+          "title": "通胀降温令美股回暖，交易员希望利用2025年剩余时间喘口气",
+          "url": "https://flash.jin10.com/detail/20251221123146651800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时14分"
         },
         {
           "title": "美股连涨两天后 华尔街又“神气”了：今年圣诞行情有戏？",
@@ -280,11 +303,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时22分 ~ 12时31分]"
+          "appearance_count": 4,
+          "time_info": "[11时22分 ~ 13时14分]"
         }
       ]
     }
