@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-22T13:18:44.318792+08:00",
-  "total_titles_processed": 952,
+  "generated_at": "2025-12-22T14:21:49.303539+08:00",
+  "total_titles_processed": 1037,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "爱泼斯坦案16份文档上线不到一天离奇消失，含特朗普照片",
@@ -42,8 +42,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时14分 ~ 13时18分]"
+          "appearance_count": 17,
+          "time_info": "[00时14分 ~ 14时21分]"
         },
         {
           "title": "美外交人员协会：特朗普正解雇多名拜登任命的驻外大使",
@@ -57,8 +57,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[03时09分 ~ 13时18分]"
+          "appearance_count": 12,
+          "time_info": "[03时09分 ~ 14时21分]"
         },
         {
           "title": "美媒：以色列准备向特朗普汇报再次打击伊朗的方案",
@@ -71,8 +71,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[02时16分 ~ 13时18分]"
+          "appearance_count": 14,
+          "time_info": "[02时16分 ~ 14时21分]"
         },
         {
           "title": "唐宁街：英国首相斯塔默周日与美国总统特朗普对话，谈及乌克兰和加沙。",
@@ -170,11 +170,23 @@
           "url": "https://news.ifeng.com/c/8pHxHE8JrPj",
           "source": "凤凰网",
           "ranks": [
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时33分 ~ 13时18分]"
+          "appearance_count": 3,
+          "time_info": "[12时33分 ~ 14时21分]"
+        },
+        {
+          "title": "特朗普表态：必须是“超级鸽派”！",
+          "url": "https://news.ifeng.com/c/8pI2JngwUGB",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
         },
         {
           "title": "特朗普“钦点”联储主席呼之欲出，但为何上任后难令其如意？一文读懂",
@@ -185,8 +197,30 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时33分 ~ 14时21分]"
+        },
+        {
+          "title": "特朗普自称从政后不再“看脸”：多看美女一眼，就是死路一条",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32225414",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时33分 ~ 13时18分]"
+          "time_info": "[13时18分 ~ 14时21分]"
+        },
+        {
+          "title": "特朗普政府频频拦截油轮，美国会议员都看不下去了",
+          "url": "https://news.ifeng.com/c/8pI7DqwwUlP",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
         },
         {
           "title": "特朗普：任命路易斯安那州州长杰夫·兰德里为美国驻格陵兰岛特使。",
@@ -209,17 +243,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
-        },
-        {
-          "title": "特朗普自称从政后不再“看脸”：多看美女一眼，就是死路一条",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32225414",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时18分"
         }
       ]
     },
@@ -260,8 +283,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时33分 ~ 13时18分]"
+          "appearance_count": 3,
+          "time_info": "[12时33分 ~ 14时21分]"
         }
       ]
     },
@@ -280,8 +303,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时14分 ~ 13时18分]"
+          "appearance_count": 17,
+          "time_info": "[00时14分 ~ 14时21分]"
         },
         {
           "title": "“AI取代搜索”是伪命题？市场发现：谷歌才是对的！",
@@ -289,11 +312,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时01分 ~ 13时18分]"
+          "appearance_count": 4,
+          "time_info": "[11时01分 ~ 14时21分]"
         }
       ]
     },
