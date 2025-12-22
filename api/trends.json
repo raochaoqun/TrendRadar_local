@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-22T19:12:31.087224+08:00",
-  "total_titles_processed": 1527,
+  "generated_at": "2025-12-22T20:25:21.916410+08:00",
+  "total_titles_processed": 1630,
   "failed_sources": [],
   "trends": [
     {
@@ -141,6 +141,34 @@
           "time_info": "[00时14分 ~ 06时12分]"
         },
         {
+          "title": "美国人发愁：特朗普明摆着抢英伟达钱，但一个愿打一个愿挨",
+          "url": "https://news.ifeng.com/c/8pIHsNqm7yO",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时20分 ~ 20时25分]"
+        },
+        {
+          "title": "特朗普自称从政后不再“看脸”：多看美女一眼，就是死路一条",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32225414",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            19,
+            15,
+            13,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时18分 ~ 20时25分]"
+        },
+        {
           "title": "特朗普表态：必须是“超级鸽派”！",
           "url": "https://news.ifeng.com/c/8pI2JngwUGB",
           "source": "凤凰网",
@@ -150,17 +178,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时21分 ~ 16时19分]"
-        },
-        {
-          "title": "美国人发愁：特朗普明摆着抢英伟达钱，但一个愿打一个愿挨",
-          "url": "https://news.ifeng.com/c/8pIHsNqm7yO",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时20分 ~ 19时12分]"
         },
         {
           "title": "特朗普“钦点”联储主席呼之欲出，但为何上任后难令其如意？一文读懂",
@@ -175,22 +192,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时33分 ~ 17时20分]"
-        },
-        {
-          "title": "特朗普自称从政后不再“看脸”：多看美女一眼，就是死路一条",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32225414",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            19,
-            15,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时18分 ~ 19时12分]"
         },
         {
           "title": "特朗普政府频频拦截油轮，美国会议员都看不下去了",
@@ -262,19 +263,32 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时20分 ~ 19时12分]"
+          "appearance_count": 4,
+          "time_info": "[17时20分 ~ 20时25分]"
         },
         {
           "title": "丹麦对特朗普任命格陵兰岛特使深感不满",
           "url": "https://wallstreetcn.com/livenews/3024905",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时12分 ~ 20时25分]"
+        },
+        {
+          "title": "特朗普让克林顿成了主角",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A9%E5%85%8B%E6%9E%97%E9%A1%BF%E6%88%90%E4%BA%86%E4%B8%BB%E8%A7%92",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时12分 ~ 20时25分]"
         },
         {
           "title": "丹麦外交部长：美国总统特朗普任命驻格陵兰岛特别使节，证实美国仍对格陵兰岛感兴趣。",
@@ -330,23 +344,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
-        },
-        {
-          "title": "特朗普让克林顿成了主角",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A9%E5%85%8B%E6%9E%97%E9%A1%BF%E6%88%90%E4%BA%86%E4%B8%BB%E8%A7%92",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时12分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "美银Hartnett：市场聚焦美股大涨“迎新”可能性，唯一风险是“市场过于乐观”",
@@ -381,11 +384,25 @@
           "url": "https://wallstreetcn.com/articles/3761821",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时20分 ~ 19时12分]"
+          "appearance_count": 4,
+          "time_info": "[17时20分 ~ 20时25分]"
+        },
+        {
+          "title": "2025美股十大震撼事件：从关税风暴到AI狂潮 70万亿市场的盛宴与危机",
+          "url": "https://www.cls.cn/detail/2236150",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时18分 ~ 20时25分]"
         },
         {
           "title": "美股期货亚市盘初走高，标普500指数期货、纳斯达克100指数期货上涨0.3%。",
@@ -399,17 +416,15 @@
           "time_info": "07时11分"
         },
         {
-          "title": "2025美股十大震撼事件：从关税风暴到AI狂潮 70万亿市场的盛宴与危机",
-          "url": "https://www.cls.cn/detail/2236150",
-          "source": "财联社热门",
+          "title": "华尔街普遍看好2026年美股前景 这或许是个隐忧",
+          "url": "https://wallstreetcn.com/livenews/3024941",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12,
-            7,
-            6
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时18分 ~ 19时12分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         },
         {
           "title": "美股盘前，半导体股多数上涨，美光科技涨约3%，AMD、英伟达、台积电、英特尔涨约1%。",
@@ -422,6 +437,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时20分 ~ 18时14分]"
+        },
+        {
+          "title": "霍尼韦尔预计全年调整后销售额为375亿-377亿美元，此前预期为407亿-409亿美元。 霍尼韦尔预计全年调整后每股收益为9.70-9.80美元（剔除先进材料业务影响后）。 霍尼韦尔预计第四季度调整后销售额为98亿-100亿美元，此前预期为101亿-103亿美元。 霍尼韦尔预计第四季度调整后每股收益为2.48-2.58美元，此前预期为2.52-2.62美元。 霍尼韦尔美股盘前跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3024927",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         }
       ]
     },
