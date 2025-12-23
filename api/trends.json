@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-23T21:31:33.905240+08:00",
-  "total_titles_processed": 1903,
+  "generated_at": "2025-12-23T22:14:01.951980+08:00",
+  "total_titles_processed": 1992,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 84,
+      "match_count": 85,
       "titles": [
         {
           "title": "美国人发愁：特朗普明摆着抢英伟达钱，但一个愿打一个愿挨",
@@ -40,8 +40,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[08时57分 ~ 21时31分]"
+          "appearance_count": 19,
+          "time_info": "[08时57分 ~ 22时14分]"
         },
         {
           "title": "特朗普将建特朗普级新型战舰",
@@ -52,11 +52,12 @@
             6,
             11,
             13,
-            28
+            28,
+            12
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时52分 ~ 21时31分]"
+          "appearance_count": 18,
+          "time_info": "[10时52分 ~ 22时14分]"
         },
         {
           "title": "特朗普叫停美国最大海上风电项目",
@@ -180,6 +181,31 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[11时57分 ~ 15时18分]"
+        },
+        {
+          "title": "泰国外长：上次停火谈判太仓促，就为了给特朗普面子",
+          "url": "https://news.ifeng.com/c/8pJycIBu5di",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时14分 ~ 22时14分]"
+        },
+        {
+          "title": "特朗普又自恋,新战舰用自己名",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348288&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%88%E8%87%AA%E6%81%8B%2C%E6%96%B0%E6%88%98%E8%88%B0%E7%94%A8%E8%87%AA%E5%B7%B1%E5%90%8D",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时14分 ~ 22时14分]"
         },
         {
           "title": "克里姆林宫：俄总统特别代表德米特里耶夫与美国特使威特科夫和特朗普女婿库什纳的接触是“工作进程”的一部分。",
@@ -320,18 +346,6 @@
           "time_info": "[03时12分 ~ 05时11分]"
         },
         {
-          "title": "泰国外长：上次停火谈判太仓促，就为了给特朗普面子",
-          "url": "https://news.ifeng.com/c/8pJycIBu5di",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时14分 ~ 21时31分]"
-        },
-        {
           "title": "提醒：美国总统特朗普在佛罗里达州棕榈滩住所的讲话结束。",
           "url": "https://wallstreetcn.com/livenews/3025175",
           "source": "华尔街见闻-快讯",
@@ -342,18 +356,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时12分 ~ 08时57分]"
-        },
-        {
-          "title": "特朗普又自恋,新战舰用自己名",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348288&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%88%E8%87%AA%E6%81%8B%2C%E6%96%B0%E6%88%98%E8%88%B0%E7%94%A8%E8%87%AA%E5%B7%B1%E5%90%8D",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时14分 ~ 21时31分]"
         },
         {
           "title": "据华尔街日报：美国新级别军舰将以美国总统特朗普命名。",
@@ -511,6 +513,17 @@
           "time_info": "[20时24分 ~ 21时31分]"
         },
         {
+          "title": "特朗普夸耀与马克龙“交锋”战绩",
+          "url": "https://www.toutiao.com/trending/7586142427094908934/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时13分 ~ 22时14分]"
+        },
+        {
           "title": "美国总统特朗普：15艘潜艇正在建造或即将开工。",
           "url": "https://flash.jin10.com/detail/20251223062620577800",
           "source": "金十数据",
@@ -660,7 +673,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时31分"
         },
@@ -715,7 +728,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时31分"
         },
@@ -858,7 +871,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时31分"
         },
@@ -1189,7 +1202,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "最近24小时，MarketVector数字资产100小盘指数涨3.67%，暂报3623.80点，整体持续走高。 Solana目前涨1.39%，狗狗币涨3.09%，XRP涨1.15%。 MarketVector数字资产100涨1.56%，报18392.00点。 比特币涨1.55%，咱博爱89627.99美元；以太坊涨1.80%，报3043.51美元。",
@@ -1263,6 +1276,17 @@
           "time_info": "[05时11分 ~ 06时13分]"
         },
         {
+          "title": "美国GDP数据公布后，美元指数DXY小幅走高10点，最新报97.96。欧元兑美元EUR/USD小幅下跌，现报1.18。",
+          "url": "https://flash.jin10.com/detail/20251223213404675800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
+        },
+        {
           "title": "美元指数DXY跌破98，创5日新低。",
           "url": "https://flash.jin10.com/detail/20251223161014189800",
           "source": "金十数据",
@@ -1272,6 +1296,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时18分"
+        },
+        {
+          "title": "美国三季度GDP数据公布后，美元指数短线拉升",
+          "url": "https://wallstreetcn.com/livenews/3025632",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
         }
       ]
     },
