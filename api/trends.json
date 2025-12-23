@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-23T17:17:50.889618+08:00",
-  "total_titles_processed": 1548,
+  "generated_at": "2025-12-23T18:14:58.544133+08:00",
+  "total_titles_processed": 1624,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 74,
+      "match_count": 76,
       "titles": [
         {
           "title": "美国人发愁：特朗普明摆着抢英伟达钱，但一个愿打一个愿挨",
@@ -19,18 +19,6 @@
           "time_info": "[00时15分 ~ 08时57分]"
         },
         {
-          "title": "特朗普将建特朗普级新型战舰",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E5%BB%BA%E7%89%B9%E6%9C%97%E6%99%AE%E7%BA%A7%E6%96%B0%E5%9E%8B%E6%88%98%E8%88%B0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时52分 ~ 17时17分]"
-        },
-        {
           "title": "特朗普公布 \"黄金舰队\"计划，首艘舰艇预计在2028年完工",
           "url": "https://wallstreetcn.com/articles/3761868",
           "source": "华尔街见闻",
@@ -39,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时57分 ~ 17时17分]"
+          "appearance_count": 14,
+          "time_info": "[08时57分 ~ 18时14分]"
         },
         {
           "title": "特朗普：美国需要格陵兰岛不是为了关键矿产",
@@ -53,6 +41,19 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[10时52分 ~ 17时17分]"
+        },
+        {
+          "title": "特朗普将建特朗普级新型战舰",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E5%BB%BA%E7%89%B9%E6%9C%97%E6%99%AE%E7%BA%A7%E6%96%B0%E5%9E%8B%E6%88%98%E8%88%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[10时52分 ~ 18时14分]"
         },
         {
           "title": "特朗普叫停美国最大海上风电项目",
@@ -86,11 +87,12 @@
             10,
             16,
             15,
-            9
+            9,
+            22
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时52分 ~ 17时17分]"
+          "appearance_count": 13,
+          "time_info": "[10时52分 ~ 18时14分]"
         },
         {
           "title": "爱泼斯坦案文件恢复 特朗普出镜两次",
@@ -119,6 +121,21 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时15分 ~ 07时12分]"
+        },
+        {
+          "title": "特朗普：美国“必须得到格陵兰岛”",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E5%9B%BD%E2%80%9C%E5%BF%85%E9%A1%BB%E5%BE%97%E5%88%B0%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            24,
+            16,
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时17分 ~ 18时14分]"
         },
         {
           "title": "特朗普提出中美G2概念 日本不安",
@@ -150,29 +167,15 @@
           "time_info": "[11时57分 ~ 15时18分]"
         },
         {
-          "title": "特朗普：美国“必须得到格陵兰岛”",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E5%9B%BD%E2%80%9C%E5%BF%85%E9%A1%BB%E5%BE%97%E5%88%B0%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            24,
-            16,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时17分 ~ 17时17分]"
-        },
-        {
           "title": "如何看特朗普级战列舰计划",
           "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E7%89%B9%E6%9C%97%E6%99%AE%E7%BA%A7%E6%88%98%E5%88%97%E8%88%B0%E8%AE%A1%E5%88%92",
           "source": "bilibili 热搜",
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时17分 ~ 18时14分]"
         },
         {
           "title": "克里姆林宫：俄总统特别代表德米特里耶夫与美国特使威特科夫和特朗普女婿库什纳的接触是“工作进程”的一部分。",
@@ -477,6 +480,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
+        },
+        {
+          "title": "泰国外长：上次停火谈判太仓促，就为了给特朗普面子",
+          "url": "https://news.ifeng.com/c/8pJycIBu5di",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
+        },
+        {
+          "title": "特朗普又自恋,新战舰用自己名",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348288&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%88%E8%87%AA%E6%81%8B%2C%E6%96%B0%E6%88%98%E8%88%B0%E7%94%A8%E8%87%AA%E5%B7%B1%E5%90%8D",
+          "source": "贴吧",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
         },
         {
           "title": "美国总统特朗普：国防工业需要优先考虑生产支出。",
@@ -931,6 +956,18 @@
           "time_info": "[00时16分 ~ 02时19分]"
         },
         {
+          "title": "诺和诺德美股盘前涨约7%，美国食品药品监督管理局（FDA）已批准Wegovy®口服片，用于长期减轻及维持体重。",
+          "url": "https://wallstreetcn.com/livenews/3025508",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时17分 ~ 18时14分]"
+        },
+        {
           "title": "金十图示：2025年12月22日（周一）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251223013152796800",
           "source": "金十数据",
@@ -975,17 +1012,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
-        },
-        {
-          "title": "诺和诺德美股盘前涨约7%，美国食品药品监督管理局（FDA）已批准Wegovy®口服片，用于长期减轻及维持体重。",
-          "url": "https://wallstreetcn.com/livenews/3025508",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时17分"
         },
         {
           "title": "金十图示：2025年12月22日（周一）热门中概股行情一览（美股收盘）",
@@ -1160,8 +1186,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[01时12分 ~ 17时17分]"
+          "appearance_count": 22,
+          "time_info": "[01时12分 ~ 18时14分]"
         },
         {
           "title": "谷歌母公司Alphabet将以47.5亿美元（现金+债务）收购数据中心的能源/电力供应商Intersect。",
