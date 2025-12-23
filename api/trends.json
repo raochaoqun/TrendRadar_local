@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-23T15:18:07.383469+08:00",
-  "total_titles_processed": 1357,
+  "generated_at": "2025-12-23T16:18:59.389232+08:00",
+  "total_titles_processed": 1460,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 72,
+      "match_count": 73,
       "titles": [
         {
           "title": "美国人发愁：特朗普明摆着抢英伟达钱，但一个愿打一个愿挨",
@@ -27,8 +27,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时52分 ~ 15时18分]"
+          "appearance_count": 11,
+          "time_info": "[10时52分 ~ 16时18分]"
         },
         {
           "title": "特朗普公布 \"黄金舰队\"计划，首艘舰艇预计在2028年完工",
@@ -39,8 +39,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时57分 ~ 15时18分]"
+          "appearance_count": 12,
+          "time_info": "[08时57分 ~ 16时18分]"
         },
         {
           "title": "特朗普：美国需要格陵兰岛不是为了关键矿产",
@@ -51,8 +51,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时52分 ~ 15时18分]"
+          "appearance_count": 11,
+          "time_info": "[10时52分 ~ 16时18分]"
         },
         {
           "title": "特朗普叫停美国最大海上风电项目",
@@ -62,8 +62,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时52分 ~ 15时18分]"
+          "appearance_count": 11,
+          "time_info": "[10时52分 ~ 16时18分]"
         },
         {
           "title": "特朗普换大使细节披露：涉及全球近30国，均拜登时期上任",
@@ -85,11 +85,12 @@
             17,
             10,
             16,
-            15
+            15,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时52分 ~ 15时18分]"
+          "appearance_count": 11,
+          "time_info": "[10时52分 ~ 16时18分]"
         },
         {
           "title": "爱泼斯坦案文件恢复 特朗普出镜两次",
@@ -144,8 +145,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时33分 ~ 15时18分]"
+          "appearance_count": 8,
+          "time_info": "[12时33分 ~ 16时18分]"
         },
         {
           "title": "特朗普：美国“必须得到格陵兰岛”",
@@ -153,11 +154,12 @@
           "source": "百度热搜",
           "ranks": [
             26,
-            24
+            24,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时17分 ~ 15时18分]"
+          "appearance_count": 7,
+          "time_info": "[13时17分 ~ 16时18分]"
         },
         {
           "title": "克里姆林宫：俄总统特别代表德米特里耶夫与美国特使威特科夫和特朗普女婿库什纳的接触是“工作进程”的一部分。",
@@ -323,6 +325,18 @@
           "time_info": "[12时33分 ~ 13时18分]"
         },
         {
+          "title": "“特朗普级”战列舰性能如何",
+          "url": "https://www.toutiao.com/trending/7586915482419072538/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时17分 ~ 16时18分]"
+        },
+        {
           "title": "特朗普发出干预威胁后 美国在尼日利亚开展侦察飞行",
           "url": "https://flash.jin10.com/detail/20251223013612242800",
           "source": "金十数据",
@@ -405,17 +419,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时11分 ~ 06时13分]"
-        },
-        {
-          "title": "“特朗普级”战列舰性能如何",
-          "url": "https://www.toutiao.com/trending/7586915482419072538/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时17分 ~ 15时18分]"
         },
         {
           "title": "特朗普宣布新型战舰计划",
@@ -691,6 +694,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
+        },
+        {
+          "title": "特朗普为何要造战列舰",
+          "url": "https://www.toutiao.com/trending/7586940405795524115/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
         },
         {
           "title": "美国总统特朗普：下周我将与国防主承包商会面。",
@@ -1028,65 +1042,8 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "旧金山大停电，谷歌无人车Waymo乱作一团，特斯拉赢麻了",
-          "url": "https://wallstreetcn.com/articles/3761857",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[01时12分 ~ 15时18分]"
-        },
-        {
-          "title": "谷歌母公司Alphabet将以47.5亿美元（现金+债务）收购数据中心的能源/电力供应商Intersect。",
-          "url": "https://wallstreetcn.com/livenews/3025054",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
-        },
-        {
-          "title": "尼日利亚与谷歌就新海底电缆进行深入谈判。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3025398",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时21分 ~ 15时18分]"
-        },
-        {
-          "title": "第一太阳能涨7.1%，创2024年6月份以来盘中新高，投资者关注谷歌母公司Alphabet达成的清洁能源交易。",
-          "url": "https://wallstreetcn.com/livenews/3025122",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时11分 ~ 06时13分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "最近24小时，MarketVector数字资产100小盘指数涨3.67%，暂报3623.80点，整体持续走高。 Solana目前涨1.39%，狗狗币涨3.09%，XRP涨1.15%。 MarketVector数字资产100涨1.56%，报18392.00点。 比特币涨1.55%，咱博爱89627.99美元；以太坊涨1.80%，报3043.51美元。",
@@ -1098,6 +1055,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
+        },
+        {
+          "title": "美元指数跌破98，创5日新低，日内跌0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3025481",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
         },
         {
           "title": "最近24小时，MarketVector数字资产100小盘指数涨3.67%，暂报3623.80点，整体持续走高。 Solana目前涨1.39%，狗狗币涨3.09%，XRP涨1.15%。 MarketVector数字资产100涨1.56%，报18392.00点。 比特币涨1.55%，暂报89627.99美元；以太坊涨1.80%，报3043.51美元。",
@@ -1131,6 +1099,74 @@
           "ranks": [
             14,
             26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时11分 ~ 06时13分]"
+        },
+        {
+          "title": "美元指数DXY跌破98，创5日新低。",
+          "url": "https://flash.jin10.com/detail/20251223161014189800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "旧金山大停电，谷歌无人车Waymo乱作一团，特斯拉赢麻了",
+          "url": "https://wallstreetcn.com/articles/3761857",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 20,
+          "time_info": "[01时12分 ~ 16时18分]"
+        },
+        {
+          "title": "谷歌母公司Alphabet将以47.5亿美元（现金+债务）收购数据中心的能源/电力供应商Intersect。",
+          "url": "https://wallstreetcn.com/livenews/3025054",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时16分"
+        },
+        {
+          "title": "尼日利亚与谷歌就新海底电缆进行深入谈判。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3025398",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 15时18分]"
+        },
+        {
+          "title": "第一太阳能涨7.1%，创2024年6月份以来盘中新高，投资者关注谷歌母公司Alphabet达成的清洁能源交易。",
+          "url": "https://wallstreetcn.com/livenews/3025122",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
