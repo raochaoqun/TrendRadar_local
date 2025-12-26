@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T12:31:26.308812+08:00",
-  "total_titles_processed": 960,
+  "generated_at": "2025-12-26T13:16:06.069628+08:00",
+  "total_titles_processed": 1000,
   "failed_sources": [],
   "trends": [
     {
@@ -17,6 +17,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时15分 ~ 07时12分]"
+        },
+        {
+          "title": "特朗普圣诞夜动手！美国空袭尼日利亚，目标直指石油和稀土？",
+          "url": "https://wallstreetcn.com/articles/3762107",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时51分 ~ 13时16分]"
         },
         {
           "title": "特朗普政府的移民局：要求阿富汗移民在圣诞节及元旦报到",
@@ -55,16 +68,15 @@
           "time_info": "07时12分"
         },
         {
-          "title": "特朗普圣诞夜动手！美国空袭尼日利亚，目标直指石油和稀土？",
-          "url": "https://wallstreetcn.com/articles/3762107",
-          "source": "华尔街见闻",
+          "title": "特朗普官宣“黄金舰队”计划：真不是冲着中国，两国关系可好了",
+          "url": "https://news.ifeng.com/c/8pOSTawSWI3",
+          "source": "凤凰网",
           "ranks": [
-            6,
-            4
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时51分 ~ 12时31分]"
+          "appearance_count": 5,
+          "time_info": "[10时51分 ~ 13时16分]"
         },
         {
           "title": "乌克兰总统泽连斯基：与美国特使威特科夫和特朗普高级顾问库什纳通话约一小时。",
@@ -122,17 +134,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时12分 ~ 04时14分]"
-        },
-        {
-          "title": "特朗普官宣“黄金舰队”计划：真不是冲着中国，两国关系可好了",
-          "url": "https://news.ifeng.com/c/8pOSTawSWI3",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时51分 ~ 12时31分]"
         },
         {
           "title": "俄外交部：希望特朗普在委内瑞拉局势问题上“务实和理性”",
@@ -202,11 +203,12 @@
           "source": "金十数据",
           "ranks": [
             10,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时55分 ~ 12时31分]"
+          "appearance_count": 3,
+          "time_info": "[11时55分 ~ 13时16分]"
         }
       ]
     },
@@ -224,8 +226,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时15分 ~ 12时31分]"
+          "appearance_count": 15,
+          "time_info": "[00时15分 ~ 13时16分]"
         }
       ]
     },
