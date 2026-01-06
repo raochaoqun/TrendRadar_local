@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T18:15:10.477557+08:00",
-  "total_titles_processed": 1686,
+  "generated_at": "2026-01-06T19:12:38.317900+08:00",
+  "total_titles_processed": 1785,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 66,
+      "match_count": 67,
       "titles": [
         {
           "title": "特朗普接连向6国发出威胁，哥总统强硬表态",
@@ -121,11 +121,12 @@
             15,
             23,
             24,
-            20
+            20,
+            27
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时17分 ~ 18时15分]"
+          "appearance_count": 28,
+          "time_info": "[00时17分 ~ 19时12分]"
         },
         {
           "title": "特朗普宣布美国接管委内瑞拉，将让美石油巨头进入委内瑞拉，意味着什么？委内瑞拉接下来将面临哪些危机？",
@@ -178,17 +179,6 @@
           "time_info": "[01时16分 ~ 08时59分]"
         },
         {
-          "title": "特朗普绑架马杜罗后，台湾岛内有人开始害怕了",
-          "url": "https://news.ifeng.com/c/8pgiEdwqhPP",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时57分 ~ 15时20分]"
-        },
-        {
           "title": "特朗普下一个目标？丹麦首相：美国若“强取”格陵兰岛，意味着北约的终结",
           "url": "https://wallstreetcn.com/articles/3762615",
           "source": "华尔街见闻",
@@ -198,8 +188,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时18分 ~ 18时15分]"
+          "appearance_count": 9,
+          "time_info": "[13时18分 ~ 19时12分]"
         },
         {
           "title": "格陵兰岛总理回应特朗普",
@@ -210,11 +200,23 @@
             29,
             15,
             17,
-            18
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时00分 ~ 19时12分]"
+        },
+        {
+          "title": "特朗普绑架马杜罗后，台湾岛内有人开始害怕了",
+          "url": "https://news.ifeng.com/c/8pgiEdwqhPP",
+          "source": "凤凰网",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[12时00分 ~ 18时15分]"
+          "time_info": "[10时57分 ~ 15时20分]"
         },
         {
           "title": "特朗普对印度买俄石油发出最后通牒",
@@ -270,7 +272,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
         },
@@ -442,11 +444,12 @@
           "url": "https://www.toutiao.com/trending/7591141159599276095/",
           "source": "今日头条",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时14分 ~ 18时15分]"
+          "appearance_count": 3,
+          "time_info": "[18时14分 ~ 19时12分]"
         },
         {
           "title": "美国参议院多数党领袖John Thune：事先并不知道特朗普要袭击委内瑞拉。",
@@ -569,7 +572,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
         },
@@ -695,6 +698,17 @@
           "time_info": "10时57分"
         },
         {
+          "title": "丹麦首相要求特朗普停止对格陵兰岛的“威胁”，称其享有北约的安全保障",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32319045",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
+        },
+        {
           "title": "美国参议员马克·凯利：美国国防部长赫格塞思和唐纳德·特朗普无权决定美国民众如何评价他们的政府。",
           "url": "https://flash.jin10.com/detail/20260106004424537800",
           "source": "金十数据",
@@ -797,8 +811,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时12分 ~ 18时15分]"
+          "appearance_count": 16,
+          "time_info": "[07时12分 ~ 19时12分]"
         },
         {
           "title": "美股指集体高开，台积电涨超3%再创新高，伦铜触及1.3万美元创新高，现货白银涨6%，现货黄金突破4450美元，原油转涨",
@@ -994,8 +1008,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时57分 ~ 18时15分]"
+          "appearance_count": 13,
+          "time_info": "[10时57分 ~ 19时12分]"
         },
         {
           "title": "OpenAI家务机器人售价2万美元",
