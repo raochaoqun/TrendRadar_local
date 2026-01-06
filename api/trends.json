@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-06T16:19:46.056828+08:00",
-  "total_titles_processed": 1490,
+  "generated_at": "2026-01-06T17:18:58.241426+08:00",
+  "total_titles_processed": 1597,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时57分 ~ 16时19分]"
+          "appearance_count": 10,
+          "time_info": "[10时57分 ~ 17时18分]"
         },
         {
           "title": "美国是否会在哥伦比亚开展行动？特朗普：这听上去挺不错的",
@@ -79,8 +79,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时59分 ~ 16时19分]"
+          "appearance_count": 11,
+          "time_info": "[08时59分 ~ 17时18分]"
         },
         {
           "title": "国际刑事法院原首席检察官：特朗普犯了“侵略罪”",
@@ -119,11 +119,12 @@
             12,
             13,
             15,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时17分 ~ 16时19分]"
+          "appearance_count": 25,
+          "time_info": "[00时17分 ~ 17时18分]"
         },
         {
           "title": "特朗普宣布美国接管委内瑞拉，将让美石油巨头进入委内瑞拉，意味着什么？委内瑞拉接下来将面临哪些危机？",
@@ -135,6 +136,20 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时17分 ~ 07时13分]"
+        },
+        {
+          "title": "中方回应特朗普威胁古巴等国",
+          "url": "https://www.douyin.com/hot/2358268",
+          "source": "抖音",
+          "ranks": [
+            14,
+            16,
+            29,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时57分 ~ 17时18分]"
         },
         {
           "title": "特朗普称格陵兰岛“到处都是中国船只”，外交部驳斥",
@@ -162,20 +177,6 @@
           "time_info": "[01时16分 ~ 08时59分]"
         },
         {
-          "title": "中方回应特朗普威胁古巴等国",
-          "url": "https://www.douyin.com/hot/2358268",
-          "source": "抖音",
-          "ranks": [
-            14,
-            16,
-            29,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时57分 ~ 16时19分]"
-        },
-        {
           "title": "特朗普绑架马杜罗后，台湾岛内有人开始害怕了",
           "url": "https://news.ifeng.com/c/8pgiEdwqhPP",
           "source": "凤凰网",
@@ -198,6 +199,20 @@
           "time_info": "[00时17分 ~ 00时18分]"
         },
         {
+          "title": "特朗普：美国将深度介入委内瑞拉",
+          "url": "https://www.cls.cn/detail/2248692",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时41分 ~ 17时18分]"
+        },
+        {
           "title": "据NBC：美国总统特朗普表示，该项目可能只需不到18个月。",
           "url": "https://flash.jin10.com/detail/20260106070427283800",
           "source": "金十数据",
@@ -209,28 +224,30 @@
           "time_info": "07时13分"
         },
         {
-          "title": "特朗普：美国将深度介入委内瑞拉",
-          "url": "https://www.cls.cn/detail/2248692",
-          "source": "财联社热门",
+          "title": "特朗普下一个目标？丹麦首相：美国若“强取”格陵兰岛，意味着北约的终结",
+          "url": "https://wallstreetcn.com/articles/3762615",
+          "source": "华尔街见闻",
           "ranks": [
-            13,
-            11,
-            12
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[12时41分 ~ 16时19分]"
+          "time_info": "[13时18分 ~ 17时18分]"
         },
         {
-          "title": "丹麦首相警告特朗普涉格陵兰岛言论",
-          "url": "https://www.toutiao.com/trending/7592114928259285042/",
-          "source": "今日头条",
+          "title": "格陵兰岛总理回应特朗普",
+          "url": "https://www.douyin.com/hot/2358627",
+          "source": "抖音",
           "ranks": [
-            2
+            20,
+            29,
+            15,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时19分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时00分 ~ 17时18分]"
         },
         {
           "title": "据NBC：美国总统特朗普表示，美国可能会资助石油公司重建该国能源基础设施。",
@@ -312,18 +329,6 @@
           "time_info": "07时13分"
         },
         {
-          "title": "特朗普下一个目标？丹麦首相：美国若“强取”格陵兰岛，意味着北约的终结",
-          "url": "https://wallstreetcn.com/articles/3762615",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时18分 ~ 16时19分]"
-        },
-        {
           "title": "下一个打击目标？特朗普威胁对哥伦比亚动武 哥方强烈驳斥",
           "url": "https://www.cls.cn/detail/2248057",
           "source": "财联社热门",
@@ -333,19 +338,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时17分 ~ 02时20分]"
-        },
-        {
-          "title": "格陵兰岛总理回应特朗普",
-          "url": "https://www.douyin.com/hot/2358627",
-          "source": "抖音",
-          "ranks": [
-            20,
-            29,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时00分 ~ 16时19分]"
         },
         {
           "title": "美国本周将会见石油高管们，讨论（特朗普政府掳走委内瑞拉总统马杜罗之后的）委国“复苏”问题。",
@@ -359,6 +351,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时20分 ~ 04时16分]"
+        },
+        {
+          "title": "丹麦首相警告特朗普涉格陵兰岛言论",
+          "url": "https://www.toutiao.com/trending/7592114928259285042/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时19分 ~ 17时18分]"
         },
         {
           "title": "墨西哥总统回应特朗普：合作可以，干预不行",
@@ -757,8 +761,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时12分 ~ 16时19分]"
+          "appearance_count": 13,
+          "time_info": "[07时12分 ~ 17时18分]"
         },
         {
           "title": "美股指集体高开，台积电涨超3%再创新高，伦铜触及1.3万美元创新高，现货白银涨6%，现货黄金突破4450美元，原油转涨",
@@ -953,8 +957,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时57分 ~ 16时19分]"
+          "appearance_count": 10,
+          "time_info": "[10时57分 ~ 17时18分]"
         },
         {
           "title": "OpenAI家务机器人售价2万美元",
