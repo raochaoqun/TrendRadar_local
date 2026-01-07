@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-07T20:26:47.162024+08:00",
-  "total_titles_processed": 1953,
+  "generated_at": "2026-01-07T21:34:27.744416+08:00",
+  "total_titles_processed": 2058,
   "failed_sources": [],
   "trends": [
     {
@@ -36,11 +36,12 @@
           "source": "知乎",
           "ranks": [
             7,
-            5
+            5,
+            11
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[08时59分 ~ 20时26分]"
+          "appearance_count": 16,
+          "time_info": "[08时59分 ~ 21时34分]"
         },
         {
           "title": "特朗普下一个目标？丹麦首相：美国若“强取”格陵兰岛，意味着北约的终结",
@@ -104,8 +105,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时57分 ~ 20时26分]"
+          "appearance_count": 14,
+          "time_info": "[10时57分 ~ 21时34分]"
         },
         {
           "title": "曝特朗普对委动手前曾暗示油企高管",
@@ -121,6 +122,19 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时16分 ~ 07时13分]"
+        },
+        {
+          "title": "特朗普称美国将从委内瑞拉获得5000万桶石油，外交部：中国在委合法权益必须得到保护",
+          "url": "https://www.cls.cn/detail/2250493",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时21分 ~ 21时34分]"
         },
         {
           "title": "特朗普向印度发出新警告",
@@ -162,18 +176,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时20分 ~ 17时21分]"
-        },
-        {
-          "title": "特朗普称美国将从委内瑞拉获得5000万桶石油，外交部：中国在委合法权益必须得到保护",
-          "url": "https://www.cls.cn/detail/2250493",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时21分 ~ 20时26分]"
         },
         {
           "title": "特朗普不满马杜罗：他学我跳舞",
@@ -235,6 +237,17 @@
           "time_info": "[08时59分 ~ 09时00分]"
         },
         {
+          "title": "特朗普的下一步，难了",
+          "url": "https://news.ifeng.com/c/8pj2YQ7rnj3",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时26分 ~ 21时34分]"
+        },
+        {
           "title": "哈马斯于加沙废墟中重塑统治 对特朗普和平计划构成挑战",
           "url": "https://flash.jin10.com/detail/20260107171146691800",
           "source": "金十数据",
@@ -257,17 +270,6 @@
           "time_info": "00时17分"
         },
         {
-          "title": "特朗普的下一步，难了",
-          "url": "https://news.ifeng.com/c/8pj2YQ7rnj3",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时26分"
-        },
-        {
           "title": "美国总统特朗普重申对国防承包商的批评。",
           "url": "https://flash.jin10.com/detail/20260107000144682800",
           "source": "金十数据",
@@ -288,6 +290,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时13分"
+        },
+        {
+          "title": "WTI原油短线走低，特朗普称委内瑞拉将向美国交付3000-5000万桶石油",
+          "url": "https://wallstreetcn.com/articles/3762696",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时21分 ~ 21时34分]"
         },
         {
           "title": "哥伦比亚就特朗普言论向美国发出外交照会",
@@ -364,19 +379,6 @@
           "time_info": "[04时14分 ~ 05时13分]"
         },
         {
-          "title": "WTI原油短线走低，特朗普称委内瑞拉将向美国交付3000-5000万桶石油",
-          "url": "https://wallstreetcn.com/articles/3762696",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时21分 ~ 20时26分]"
-        },
-        {
           "title": "白宫：特朗普谋划获取格陵兰岛的方案 美军开路是可行选项",
           "url": "https://flash.jin10.com/detail/20260107045536947800",
           "source": "金十数据",
@@ -417,11 +419,12 @@
           "source": "澎湃新闻",
           "ranks": [
             15,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时15分 ~ 20时26分]"
+          "appearance_count": 4,
+          "time_info": "[18时15分 ~ 21时34分]"
         },
         {
           "title": "特朗普敲打印度",
@@ -574,6 +577,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时59分 ~ 09时00分]"
+        },
+        {
+          "title": "特朗普称委内瑞拉将向美国移交3000万至5000万桶石油",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32331777",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时26分 ~ 21时34分]"
         },
         {
           "title": "特朗普政府正讨论获取格陵兰岛方案",
@@ -796,17 +811,6 @@
           "time_info": "07时13分"
         },
         {
-          "title": "特朗普称委内瑞拉将向美国移交3000万至5000万桶石油",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32331777",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时26分"
-        },
-        {
           "title": "美国特使威特科夫：特朗普坚决支持安全协议，这些协议将用于抵御任何针对乌克兰的攻击，并保护乌克兰。",
           "url": "https://flash.jin10.com/detail/20260107032038128800",
           "source": "金十数据",
@@ -1000,7 +1004,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时26分"
         },
