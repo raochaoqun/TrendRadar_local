@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-07T09:00:38.481815+08:00",
-  "total_titles_processed": 869,
+  "generated_at": "2026-01-07T10:58:08.464038+08:00",
+  "total_titles_processed": 1015,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 71,
+      "match_count": 74,
       "titles": [
         {
           "title": "特朗普下一个目标？丹麦首相：美国若“强取”格陵兰岛，意味着北约的终结",
@@ -49,6 +49,28 @@
           "time_info": "[00时16分 ~ 07时13分]"
         },
         {
+          "title": "【早报】中方出手！禁止所有两用物项对日本军事用途出口；特朗普考虑动用美军等“一系列选项”获取格陵兰岛",
+          "url": "https://www.cls.cn/detail/2249909",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时59分 ~ 10时58分]"
+        },
+        {
+          "title": "特朗普：委内瑞拉将向美国移交数千万桶石油",
+          "url": "https://news.ifeng.com/c/8piFwnPic7a",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时59分 ~ 10时58分]"
+        },
+        {
           "title": "特朗普向多个国家发出威胁",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%91%E5%A4%9A%E4%B8%AA%E5%9B%BD%E5%AE%B6%E5%8F%91%E5%87%BA%E5%A8%81%E8%83%81",
           "source": "bilibili 热搜",
@@ -78,28 +100,6 @@
           "time_info": "[04时14分 ~ 07时13分]"
         },
         {
-          "title": "【早报】中方出手！禁止所有两用物项对日本军事用途出口；特朗普考虑动用美军等“一系列选项”获取格陵兰岛",
-          "url": "https://www.cls.cn/detail/2249909",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时59分 ~ 09时00分]"
-        },
-        {
-          "title": "特朗普：委内瑞拉将向美国移交数千万桶石油",
-          "url": "https://news.ifeng.com/c/8piFwnPic7a",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时59分 ~ 09时00分]"
-        },
-        {
           "title": "特朗普称若输中期选举或被弹劾",
           "url": "https://www.toutiao.com/trending/7591446002708774921/",
           "source": "今日头条",
@@ -109,6 +109,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时59分 ~ 09时00分]"
+        },
+        {
+          "title": "特朗普考虑动用美军等一系列选项得到格陵兰岛，欧洲多国发布联合声明，后续可能会如何发展？格陵兰岛危险吗？",
+          "url": "https://www.zhihu.com/question/1991388819304510504",
+          "source": "知乎",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时59分 ~ 10时58分]"
         },
         {
           "title": "特朗普：将与国防承包商对话。",
@@ -170,6 +182,18 @@
           "time_info": "[03时11分 ~ 05时13分]"
         },
         {
+          "title": "特朗普政府正在讨论获取格陵兰岛的方案 北欧五国外长发表联合声明 | 环球市场",
+          "url": "https://www.cls.cn/detail/2249902",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时59分 ~ 10时58分]"
+        },
+        {
           "title": "美媒：鲁比奥透露特朗普意欲购买格陵兰岛 淡化军事行动考量",
           "url": "https://flash.jin10.com/detail/20260107060405066800",
           "source": "金十数据",
@@ -218,6 +242,17 @@
           "time_info": "[04时14分 ~ 05时13分]"
         },
         {
+          "title": "特朗普向印度发出新警告",
+          "url": "https://news.ifeng.com/c/8piCojZXRGw",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时59分 ~ 10时58分]"
+        },
+        {
           "title": "白宫：特朗普谋划获取格陵兰岛的方案 美军开路是可行选项",
           "url": "https://flash.jin10.com/detail/20260107045536947800",
           "source": "金十数据",
@@ -228,6 +263,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时13分 ~ 06时13分]"
+        },
+        {
+          "title": "研究：特朗普关税未明显推高美国通胀 关税收入已开始下滑",
+          "url": "https://www.cls.cn/detail/2249781",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时59分 ~ 10时58分]"
+        },
+        {
+          "title": "美国高院更新日程表 最早于9日宣布特朗普关税案裁决",
+          "url": "https://www.cls.cn/detail/2249866",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时59分 ~ 10时58分]"
         },
         {
           "title": "特朗普敲打印度",
@@ -242,15 +300,15 @@
           "time_info": "[07时13分 ~ 09时00分]"
         },
         {
-          "title": "特朗普考虑动用美军等一系列选项得到格陵兰岛，欧洲多国发布联合声明，后续可能会如何发展？格陵兰岛危险吗？",
-          "url": "https://www.zhihu.com/question/1991388819304510504",
+          "title": "特朗普称「委内瑞拉临时政府将向美移交 3 千万至 5 千万桶石油」，委内瑞拉妥协了吗？",
+          "url": "https://www.zhihu.com/question/1992144765781840551",
           "source": "知乎",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时59分 ~ 09时00分]"
+          "time_info": "[10时57分 ~ 10时58分]"
         },
         {
           "title": "美国国务卿卢比奥告知议员们：总统特朗普希望能收购格陵兰岛。（华尔街日报）",
@@ -288,28 +346,6 @@
           "time_info": "[04时14分 ~ 05时13分]"
         },
         {
-          "title": "特朗普政府正在讨论获取格陵兰岛的方案 北欧五国外长发表联合声明 | 环球市场",
-          "url": "https://www.cls.cn/detail/2249902",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时59分 ~ 09时00分]"
-        },
-        {
-          "title": "特朗普向印度发出新警告",
-          "url": "https://news.ifeng.com/c/8piCojZXRGw",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时59分 ~ 09时00分]"
-        },
-        {
           "title": "特朗普：若输中期选举 我可能被弹劾",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E8%8B%A5%E8%BE%93%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE+%E6%88%91%E5%8F%AF%E8%83%BD%E8%A2%AB%E5%BC%B9%E5%8A%BE",
           "source": "百度热搜",
@@ -344,17 +380,6 @@
           "time_info": "[05时13分 ~ 06时13分]"
         },
         {
-          "title": "研究：特朗普关税未明显推高美国通胀 关税收入已开始下滑",
-          "url": "https://www.cls.cn/detail/2249781",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时59分 ~ 09时00分]"
-        },
-        {
           "title": "美国高级官员表示，美国总统特朗普及其顾问正在讨论各种选项，包括从丹麦手中购买该领土，或与该岛建立自由联合协定。",
           "url": "https://flash.jin10.com/detail/20260107043749113800",
           "source": "金十数据",
@@ -365,17 +390,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时13分 ~ 06时13分]"
-        },
-        {
-          "title": "美国高院更新日程表 最早于9日宣布特朗普关税案裁决",
-          "url": "https://www.cls.cn/detail/2249866",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时59分 ~ 09时00分]"
         },
         {
           "title": "据白宫声明，美国总统特朗普已明确表示，获取格陵兰岛是“国家安全优先事项”。",
@@ -436,6 +450,17 @@
           "time_info": "[08时59分 ~ 09时00分]"
         },
         {
+          "title": "特朗普称妻子讨厌他跳舞：不像个总统",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%A6%BB%E5%AD%90%E8%AE%A8%E5%8E%8C%E4%BB%96%E8%B7%B3%E8%88%9E%EF%BC%9A%E4%B8%8D%E5%83%8F%E4%B8%AA%E6%80%BB%E7%BB%9F",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时57分 ~ 10时58分]"
+        },
+        {
           "title": "特朗普政府正停止向五个由民主党领导的州提供100亿美元的公共援助资金。",
           "url": "https://flash.jin10.com/detail/20260107005331579800",
           "source": "金十数据",
@@ -489,6 +514,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时13分"
+        },
+        {
+          "title": "特朗普将于美国东部时间周三下午2:30（北京时间次日凌晨3:30）签署行政命令。",
+          "url": "https://flash.jin10.com/detail/20260107102154678800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时58分"
         },
         {
           "title": "美国总统特朗普：将加快武器生产速度。 F-35战斗机和阿帕奇直升机的生产时间太长。",
@@ -552,7 +588,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时00分"
         },
@@ -640,7 +676,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时00分"
         },
@@ -673,7 +709,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时00分"
         },
@@ -695,7 +731,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时00分"
         },
@@ -824,7 +860,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "地缘紧张但未失控，美股债同涨，道指新高，疲软美元撑商品走强，原油转涨，白银暴涨",
@@ -874,8 +910,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时13分 ~ 09时00分]"
+          "appearance_count": 5,
+          "time_info": "[07时13分 ~ 10时58分]"
         },
         {
           "title": "资金大轮动，美股标普和道指创新高，金属狂潮延续，沪镍夜盘涨停，原油下挫",
@@ -887,6 +923,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
+        },
+        {
+          "title": "达利欧年度复盘：美元等法币贬值，美股高回报只是“计价幻觉”，黄金跑赢一切",
+          "url": "https://wallstreetcn.com/articles/3762638",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时59分 ~ 10时58分]"
         },
         {
           "title": "金十图示：2026年01月06日（周二）美股热门股票行情一览（美股收盘）",
@@ -937,17 +985,6 @@
           "time_info": "[05时13分 ~ 06时13分]"
         },
         {
-          "title": "达利欧年度复盘：美元等法币贬值，美股高回报只是“计价幻觉”，黄金跑赢一切",
-          "url": "https://wallstreetcn.com/articles/3762638",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时59分 ~ 09时00分]"
-        },
-        {
           "title": "（美股）费城金银指数收涨4.72%，报370.56点，时隔数日再创收盘历史新高。 （全球时段）纽约证交所ARCA金矿开采商指数收涨4.02%，报2605.98点，亚太盘初至美股开盘这段时间维持微幅上涨状态——持稳于2510点附近，之后跳空走高并持续扩大涨幅。 （美股）原材料指数涨2.70%，报241.25点。 （美股）金属与矿业指数涨1.88%，报232.82点。",
           "url": "https://wallstreetcn.com/livenews/3031910",
           "source": "华尔街见闻-快讯",
@@ -970,6 +1007,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时19分 ~ 03时11分]"
+        },
+        {
+          "title": "美联储理事米兰再次呼吁激进降息，称今年需降息超100基点，而其同僚巴尔金则表示，2025年累计降息75个基点后，利率已进入中性利率的估计区间，凸显美联储内部分歧。当前美股三大股指多空信号分化，现货金银整体多头优势，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20260107103252586800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时58分"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收跌超4.1%，苹果跌超1.8%，亚马逊涨约3.4%",
