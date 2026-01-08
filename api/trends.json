@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T10:57:41.182997+08:00",
-  "total_titles_processed": 989,
+  "generated_at": "2026-01-08T12:01:49.913695+08:00",
+  "total_titles_processed": 1095,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 73,
+      "match_count": 77,
       "titles": [
         {
           "title": "特朗普的下一步，难了",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时19分 ~ 10时57分]"
+          "appearance_count": 12,
+          "time_info": "[00时19分 ~ 12时01分]"
         },
         {
           "title": "美称西半球是“我们的半球”、特朗普不会容忍安全威胁，外交部回应",
@@ -27,8 +27,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时19分 ~ 10时57分]"
+          "appearance_count": 12,
+          "time_info": "[00时19分 ~ 12时01分]"
         },
         {
           "title": "特朗普称「委内瑞拉临时政府将向美移交 3 千万至 5 千万桶石油」，委内瑞拉妥协了吗？",
@@ -56,6 +56,18 @@
           "time_info": "[00时19分 ~ 07时13分]"
         },
         {
+          "title": "特朗普签署备忘录宣布美国退出 66 个国际组织，如何解读？特朗普为何近期大动作频频？",
+          "url": "https://www.zhihu.com/question/1992497349604438807",
+          "source": "知乎",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时57分 ~ 12时01分]"
+        },
+        {
           "title": "美国总统特朗普：Raytheon必须停止回购股票。",
           "url": "https://wallstreetcn.com/livenews/3032696",
           "source": "华尔街见闻-快讯",
@@ -65,6 +77,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时13分"
+        },
+        {
+          "title": "特朗普提出将美军费提至1.5万亿美元",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%90%E5%87%BA%E5%B0%86%E7%BE%8E%E5%86%9B%E8%B4%B9%E6%8F%90%E8%87%B31.5%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时01分"
         },
         {
           "title": "英国方面表示，英国首相斯塔默于今晚与美国总统特朗普通话，并阐述了其在格陵兰岛问题上的立场。",
@@ -87,17 +110,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时59分"
-        },
-        {
-          "title": "特朗普签署备忘录宣布美国退出 66 个国际组织，如何解读？特朗普为何近期大动作频频？",
-          "url": "https://www.zhihu.com/question/1992497349604438807",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时57分"
         },
         {
           "title": "特朗普：将禁止大型机构投资者购买更多独栋住宅",
@@ -353,6 +365,18 @@
           "time_info": "[02时20分 ~ 03时15分]"
         },
         {
+          "title": "特朗普指示美国退出“不再符合美国利益”的66个国际组织",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32340360",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时57分 ~ 12时01分]"
+        },
+        {
           "title": "美国总统特朗普：在问题得到纠正之前，我不会允许国防公司发放股息或进行股票回购。",
           "url": "https://flash.jin10.com/detail/20260108031010315800",
           "source": "金十数据",
@@ -386,6 +410,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
+        },
+        {
+          "title": "美国总统特朗普：将于美东时间周四下午5:30参加政策会议。",
+          "url": "https://flash.jin10.com/detail/20260108114002884800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时01分"
         },
         {
           "title": "特朗普住房新政引发震荡 黑石集团股价应声重挫逾9%",
@@ -443,6 +478,28 @@
           "time_info": "07时13分"
         },
         {
+          "title": "彻底不减支了？特朗普称2027年美军事预算应是1.5万亿美元，较今年暴增50%",
+          "url": "https://wallstreetcn.com/articles/3762789",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时01分"
+        },
+        {
+          "title": "特朗普威胁吞并格陵兰岛，六种棋局推演",
+          "url": "https://news.ifeng.com/c/8pk5HcG7PZo",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时01分"
+        },
+        {
           "title": "美国总统特朗普：他们将用从我们新的石油协议中获得的资金来支付。",
           "url": "https://flash.jin10.com/detail/20260108060622273800",
           "source": "金十数据",
@@ -460,7 +517,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
         },
@@ -537,18 +594,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时57分"
-        },
-        {
-          "title": "特朗普指示美国退出“不再符合美国利益”的66个国际组织",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32340360",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
         },
@@ -614,7 +660,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
         },
@@ -625,7 +671,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
         },
@@ -757,7 +803,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
         },
@@ -790,7 +836,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
         },
@@ -834,7 +880,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
         }
@@ -852,8 +898,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时59分 ~ 10时57分]"
+          "appearance_count": 3,
+          "time_info": "[08时59分 ~ 12时01分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 国防股遭特朗普点名打压",
@@ -862,11 +908,12 @@
           "ranks": [
             12,
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时13分 ~ 10时57分]"
+          "appearance_count": 4,
+          "time_info": "[07时13分 ~ 12时01分]"
         },
         {
           "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，贵金属回落",
@@ -904,13 +951,25 @@
           "time_info": "[06时13分 ~ 07时13分]"
         },
         {
+          "title": "美股再现“马斯克式”天价薪酬包 游戏驿站抛出百亿美元CEO激励计划",
+          "url": "https://www.cls.cn/detail/2251127",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时57分 ~ 12时01分]"
+        },
+        {
           "title": "美股三大期指涨跌不一 贵金属、存储概念盘前承压 | 今夜看点",
           "url": "https://www.cls.cn/detail/2251045",
           "source": "财联社热门",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
         },
@@ -935,17 +994,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
-        },
-        {
-          "title": "美股再现“马斯克式”天价薪酬包 游戏驿站抛出百亿美元CEO激励计划",
-          "url": "https://www.cls.cn/detail/2251127",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时57分"
         },
         {
           "title": "金十图示：2026年01月07日（周三）美股热门股票行情一览（美股收盘）",
