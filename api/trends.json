@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-09T21:33:19.882387+08:00",
-  "total_titles_processed": 2052,
+  "generated_at": "2026-01-09T22:17:35.873172+08:00",
+  "total_titles_processed": 2149,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 166,
+      "match_count": 167,
       "titles": [
         {
           "title": "特朗普要加军费，全球军工股大涨，纳指跌0.5%，美债强势，金银继续回调，白银失守75美元",
@@ -32,6 +32,30 @@
           "time_info": "[00时18分 ~ 07时12分]"
         },
         {
+          "title": "中方回应特朗普涉台言论：解决台湾问题是中国人自己的事",
+          "url": "https://www.cls.cn/detail/2252966",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时19分 ~ 22时17分]"
+        },
+        {
+          "title": "特朗普：取消对委内瑞拉第二波打击",
+          "url": "https://news.ifeng.com/c/8pmFjAsY9wc",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时14分 ~ 22时17分]"
+        },
+        {
           "title": "崔天凯：特朗普退出66个国际组织求“破”，中方应以“立”为主",
           "url": "https://m.thepaper.cn/newsDetail_forward_32345211",
           "source": "澎湃新闻",
@@ -48,24 +72,6 @@
           "time_info": "[10时58分 ~ 18时15分]"
         },
         {
-          "title": "特朗普表示，美国必须「拥有」整个格陵兰，释放了什么信号？",
-          "url": "https://www.zhihu.com/question/1992865566088721749",
-          "source": "知乎",
-          "ranks": [
-            17,
-            15,
-            12,
-            11,
-            8,
-            9,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[13时18分 ~ 21时33分]"
-        },
-        {
           "title": "特朗普放话“我不需要国际法”",
           "url": "https://news.ifeng.com/c/8plmHsoaK5L",
           "source": "凤凰网",
@@ -74,8 +80,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时02分 ~ 21时33分]"
+          "appearance_count": 15,
+          "time_info": "[12时02分 ~ 22时17分]"
         },
         {
           "title": "特朗普：美联储主席人选已定，但我暂时不想说",
@@ -90,6 +96,25 @@
           "time_info": "[08时59分 ~ 15时19分]"
         },
         {
+          "title": "特朗普表示，美国必须「拥有」整个格陵兰，释放了什么信号？",
+          "url": "https://www.zhihu.com/question/1992865566088721749",
+          "source": "知乎",
+          "ranks": [
+            17,
+            15,
+            12,
+            11,
+            8,
+            9,
+            5,
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[13时18分 ~ 22时17分]"
+        },
+        {
           "title": "“特朗普版QE”？特朗普指示“两房”购买2000亿美元美国抵押贷款债券",
           "url": "https://wallstreetcn.com/articles/3762899",
           "source": "华尔街见闻",
@@ -99,20 +124,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时02分 ~ 21时33分]"
-        },
-        {
-          "title": "中方回应特朗普涉台言论：解决台湾问题是中国人自己的事",
-          "url": "https://www.cls.cn/detail/2252966",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时19分 ~ 21时33分]"
+          "appearance_count": 15,
+          "time_info": "[12时02分 ~ 22时17分]"
         },
         {
           "title": "特朗普创纪录1.5万亿军费要打“世界大战”？军工股大反弹，无人机厂商两位数高涨",
@@ -126,8 +139,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时58分 ~ 21时33分]"
+          "appearance_count": 17,
+          "time_info": "[10时58分 ~ 22时17分]"
         },
         {
           "title": "特朗普一口气退出了哪66个国际组织？",
@@ -164,17 +177,6 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时18分 ~ 12时02分]"
-        },
-        {
-          "title": "特朗普：取消对委内瑞拉第二波打击",
-          "url": "https://news.ifeng.com/c/8pmFjAsY9wc",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时14分 ~ 21时33分]"
         },
         {
           "title": "特朗普指示美国退出“不再符合美国利益”的66个国际组织",
@@ -251,6 +253,17 @@
           "time_info": "[01时20分 ~ 07时12分]"
         },
         {
+          "title": "特朗普妄称中国若在其任内改变台湾现状，他将非常不悦，中方回应",
+          "url": "https://news.ifeng.com/c/8pm6HIDB94W",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时19分 ~ 22时17分]"
+        },
+        {
           "title": "特朗普放话必须“拥有”整个格陵兰 欧盟高官：“极其令人担忧”",
           "url": "https://www.cls.cn/detail/2252516",
           "source": "财联社热门",
@@ -264,17 +277,6 @@
           "time_info": "[12时02分 ~ 17时20分]"
         },
         {
-          "title": "特朗普妄称中国若在其任内改变台湾现状，他将非常不悦，中方回应",
-          "url": "https://news.ifeng.com/c/8pm6HIDB94W",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时19分 ~ 21时33分]"
-        },
-        {
           "title": "外交部回应特朗普涉台言论",
           "url": "https://www.douyin.com/hot/2362093",
           "source": "抖音",
@@ -283,8 +285,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时14分 ~ 21时33分]"
+          "appearance_count": 6,
+          "time_info": "[18时14分 ~ 22时17分]"
         },
         {
           "title": "观察｜特朗普势在必得格陵兰岛，欧洲还能争取何种“交易”？",
@@ -414,7 +416,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
         },
@@ -1038,7 +1040,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
         },
@@ -1071,7 +1073,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
         },
@@ -1239,6 +1241,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
+        },
+        {
+          "title": "哈梅内伊喊话特朗普",
+          "url": "https://wallstreetcn.com/livenews/3034207",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
         },
         {
           "title": "特朗普抛出1.5万亿军费“大礼包” 国防巨头股价触底反弹",
@@ -1918,7 +1931,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
         }
@@ -1926,7 +1939,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "临近周五，美股轮动加剧，芯片股两连阴、小盘股指新高，地缘风险撑原油强劲反弹",
@@ -1936,8 +1949,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[08时59分 ~ 21时33分]"
+          "appearance_count": 19,
+          "time_info": "[08时59分 ~ 22时17分]"
         },
         {
           "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，美元两连涨，金银铜跌离高位",
@@ -1974,8 +1987,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时58分 ~ 21时33分]"
+          "appearance_count": 17,
+          "time_info": "[10时58分 ~ 22时17分]"
         },
         {
           "title": "美股三大期指集体走低 特朗普提高军费防务板块大涨 | 今夜看点",
@@ -2062,6 +2075,28 @@
           "time_info": "[08时59分 ~ 09时00分]"
         },
         {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-01-09）",
+          "url": "https://flash.jin10.com/detail/20260109220150497800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
+        },
+        {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3034208",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
+        },
+        {
           "title": "英特尔美股盘后涨2%，美国总统特朗普声称会见了该公司CEO。",
           "url": "https://wallstreetcn.com/livenews/3033566",
           "source": "华尔街见闻-快讯",
@@ -2115,6 +2150,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
+        },
+        {
+          "title": "美国非农等数据公布后，美股期货短线拉升，纳指期货日内涨0.43%，标普500指数期货涨0.33%，道指期货涨0.28%；美国国债下跌，美元指数短线下挫。现货黄金短线拉升，向上触及4490美元/盎司，日内涨0.30%。",
+          "url": "https://wallstreetcn.com/livenews/3034194",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
         },
         {
           "title": "金十图示：2026年01月08日（周四）热门中概股行情一览（美股盘中）",
@@ -2274,7 +2320,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
         },
@@ -2285,7 +2331,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
         },
@@ -2296,7 +2342,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
         },
