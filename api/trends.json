@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-13T22:18:22.666974+08:00",
-  "total_titles_processed": 2065,
+  "generated_at": "2026-01-13T23:17:05.153077+08:00",
+  "total_titles_processed": 2178,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 93,
+      "match_count": 95,
       "titles": [
         {
           "title": "伊朗局势突然反转，特朗普又心生一计",
@@ -18,6 +18,18 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[08时55分 ~ 18时15分]"
+        },
+        {
+          "title": "美媒：特朗普政府对伊朗行动选项“远超传统空袭”",
+          "url": "https://news.ifeng.com/c/8pspQ2slRcl",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[17时20分 ~ 23时17分]"
         },
         {
           "title": "特朗普称中俄只能在美方控制下购买委原油，中方回应",
@@ -43,18 +55,6 @@
           "time_info": "[07时11分 ~ 15时19分]"
         },
         {
-          "title": "美媒：特朗普政府对伊朗行动选项“远超传统空袭”",
-          "url": "https://news.ifeng.com/c/8pspQ2slRcl",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时20分 ~ 22时18分]"
-        },
-        {
           "title": "特朗普威胁古巴，委内瑞拉发声",
           "url": "https://news.ifeng.com/c/8pqpuA2I7mV",
           "source": "凤凰网",
@@ -65,6 +65,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时18分 ~ 07时11分]"
+        },
+        {
+          "title": "特朗普想对伊朗直接动手，万斯“踩刹车”？",
+          "url": "https://news.ifeng.com/c/8psqYtTK9Dp",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[19时13分 ~ 23时17分]"
         },
         {
           "title": "特朗普转发“鲁比奥将成为古巴总统”帖子：听起来不错",
@@ -104,8 +115,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时52分 ~ 22时18分]"
+          "appearance_count": 18,
+          "time_info": "[10时52分 ~ 23时17分]"
         },
         {
           "title": "特朗普：最高法若作出对美不利裁决，我们就完蛋了",
@@ -130,19 +141,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[08时55分 ~ 22时18分]"
-        },
-        {
-          "title": "特朗普想对伊朗直接动手，万斯“踩刹车”？",
-          "url": "https://news.ifeng.com/c/8psqYtTK9Dp",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时13分 ~ 22时18分]"
+          "appearance_count": 20,
+          "time_info": "[08时55分 ~ 23时17分]"
         },
         {
           "title": "北约秘书长帮腔特朗普：中俄恐将越来越活跃",
@@ -168,8 +168,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时52分 ~ 22时18分]"
+          "appearance_count": 18,
+          "time_info": "[10时52分 ~ 23时17分]"
         },
         {
           "title": "从“架空美联储”到“起诉鲍威尔”--“输不起中选”的特朗普决定“接管美联储”",
@@ -598,6 +598,17 @@
           "time_info": "[03时15分 ~ 04时15分]"
         },
         {
+          "title": "特朗普的石油“变脸记”",
+          "url": "https://www.toutiao.com/trending/7593644852442054699/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时16分 ~ 23时17分]"
+        },
+        {
           "title": "特朗普：任何与伊朗开展业务的国家都将被征收25%关税",
           "url": "https://flash.jin10.com/detail/20260113054813875800",
           "source": "金十数据",
@@ -730,6 +741,17 @@
           "time_info": "01时17分"
         },
         {
+          "title": "WTI原油日内涨幅达3.0%，报61.1美元/桶。美国总统特朗普取消与伊朗的会议（安排）。",
+          "url": "https://wallstreetcn.com/livenews/3036257",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
           "title": "白宫官员：美国总统特朗普将于周四会见委内瑞拉反对派领导人。",
           "url": "https://flash.jin10.com/detail/20260113014955133800",
           "source": "金十数据",
@@ -769,7 +791,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         },
@@ -1096,7 +1118,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "伊朗局势微妙、鲍威尔被诉，美股债汇三杀，黄金突破4620美元，现货白银涨超6%，铜逼近新高，油价回调",
@@ -1165,7 +1187,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         },
@@ -1215,6 +1237,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时21分 ~ 18时15分]"
+        },
+        {
+          "title": "核心通胀降温，美股指集体高开，日元跌至159，现货白银站上87美元，伊朗局势提振油价",
+          "url": "https://wallstreetcn.com/articles/3763167",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时16分 ~ 23时17分]"
         },
         {
           "title": "美股Q4财报季前瞻：市场预期偏低或有惊喜，AI交易和科技巨头迎考验！",
@@ -1278,9 +1311,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
+        },
+        {
+          "title": "行业ETF美股盘初涨跌各异，能源业ETF涨1.27%，网络股指数ETF涨0.58%，半导体ETF涨0.42%，科技行业ETF涨幅不到0.1%，银行业ETF跌超0.2%，金融业ETF跌0.9%。",
+          "url": "https://wallstreetcn.com/livenews/3036251",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         },
         {
           "title": "金十图示：2026年01月12日（周一）美股热门股票行情一览（美股收盘）",
@@ -1396,8 +1440,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[08时55分 ~ 22时18分]"
+          "appearance_count": 20,
+          "time_info": "[08时55分 ~ 23时17分]"
         },
         {
           "title": "苹果选中Gemini，谷歌登上“4万亿”",
@@ -1411,8 +1455,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[08时55分 ~ 22时18分]"
+          "appearance_count": 20,
+          "time_info": "[08时55分 ~ 23时17分]"
         },
         {
           "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
@@ -1449,6 +1493,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
+        },
+        {
+          "title": "UP主锐评苹果谷歌合作",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%94%90%E8%AF%84%E8%8B%B9%E6%9E%9C%E8%B0%B7%E6%AD%8C%E5%90%88%E4%BD%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时35分 ~ 23时17分]"
         },
         {
           "title": "苹果接入Gemini模型想做啥",
@@ -1531,18 +1587,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时18分 ~ 01时17分]"
-        },
-        {
-          "title": "UP主锐评苹果谷歌合作",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%94%90%E8%AF%84%E8%8B%B9%E6%9E%9C%E8%B0%B7%E6%AD%8C%E5%90%88%E4%BD%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时35分 ~ 22时18分]"
         },
         {
           "title": "美股七巨头收盘播报｜谷歌涨1%，收盘市值达到4万亿美元，Meta跌1.7%",
@@ -1701,8 +1745,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时20分 ~ 22时18分]"
+          "appearance_count": 11,
+          "time_info": "[17时20分 ~ 23时17分]"
         },
         {
           "title": "DeepSeek发布梁文锋署名新论文",
