@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T21:33:19.077939+08:00",
-  "total_titles_processed": 1959,
+  "generated_at": "2026-01-16T22:16:21.440799+08:00",
+  "total_titles_processed": 2029,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 90,
+      "match_count": 96,
       "titles": [
         {
           "title": "美军航母开往中东，特朗普要“速战速决”？",
@@ -19,20 +19,6 @@
           "time_info": "[00时24分 ~ 13时19分]"
         },
         {
-          "title": "梦想成真!特朗普喜提二手诺奖",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349232&amp;topic_name=%E6%A2%A6%E6%83%B3%E6%88%90%E7%9C%9F%21%E7%89%B9%E6%9C%97%E6%99%AE%E5%96%9C%E6%8F%90%E4%BA%8C%E6%89%8B%E8%AF%BA%E5%A5%96",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            3,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时19分 ~ 21时33分]"
-        },
-        {
           "title": "特朗普：我会去委内瑞拉，委代总统将访美",
           "url": "https://news.ifeng.com/c/8pw6KwgQUWD",
           "source": "凤凰网",
@@ -42,6 +28,21 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时24分 ~ 07时13分]"
+        },
+        {
+          "title": "梦想成真!特朗普喜提二手诺奖",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349232&amp;topic_name=%E6%A2%A6%E6%83%B3%E6%88%90%E7%9C%9F%21%E7%89%B9%E6%9C%97%E6%99%AE%E5%96%9C%E6%8F%90%E4%BA%8C%E6%89%8B%E8%AF%BA%E5%A5%96",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[15时19分 ~ 22时16分]"
         },
         {
           "title": "特朗普暂缓对伊朗动武决定",
@@ -91,8 +92,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时01分 ~ 21时33分]"
+          "appearance_count": 13,
+          "time_info": "[11时01分 ~ 22时16分]"
         },
         {
           "title": "航母打击群开往中东，特朗普：希望“速战速决”！伊朗进入最高战备状态，约2000枚导弹可覆盖美以基地！多国航班绕飞伊领空",
@@ -109,6 +110,18 @@
           "time_info": "[09时01分 ~ 20时25分]"
         },
         {
+          "title": "特朗普暂缓对伊朗发动军事打击，此举出于什么考虑？其后续可能有什么新动作？",
+          "url": "https://www.zhihu.com/question/1995430633518944539",
+          "source": "知乎",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时18分 ~ 22时16分]"
+        },
+        {
           "title": "特朗普称将“观望”伊朗局势发展，美油盘中跌3%",
           "url": "https://wallstreetcn.com/articles/3763320",
           "source": "华尔街见闻",
@@ -120,16 +133,17 @@
           "time_info": "[00时24分 ~ 05时14分]"
         },
         {
-          "title": "特朗普暂缓对伊朗发动军事打击，此举出于什么考虑？其后续可能有什么新动作？",
-          "url": "https://www.zhihu.com/question/1995430633518944539",
-          "source": "知乎",
+          "title": "特朗普笑纳“二手”诺贝尔和平奖奖章，诺奖委员会发声明",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32398697",
+          "source": "澎湃新闻",
           "ranks": [
             17,
-            18
+            18,
+            15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时18分 ~ 21时33分]"
+          "appearance_count": 7,
+          "time_info": "[18时14分 ~ 22时16分]"
         },
         {
           "title": "美国总统特朗普：我们已经正式进入加沙“20点和平计划”的下一阶段。",
@@ -141,19 +155,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
-        },
-        {
-          "title": "特朗普笑纳“二手”诺贝尔和平奖奖章，诺奖委员会发声明",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32398697",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            18,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时14分 ~ 21时33分]"
         },
         {
           "title": "美国总统特朗普：欧盟对美国科技公司非常不公平。",
@@ -198,6 +199,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时25分"
+        },
+        {
+          "title": "特朗普暂缓对关键矿产进口征收新关税 白银市场出现获利了结和价格回撤",
+          "url": "https://flash.jin10.com/detail/20260116215118029800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
         },
         {
           "title": "市场消息：特朗普将指示美国一家关键电网运营机构举行紧急拍卖。",
@@ -255,6 +267,17 @@
           "time_info": "19时13分"
         },
         {
+          "title": "美指走高和特朗普对伊威胁缓解推动金银价格双双下跌",
+          "url": "https://flash.jin10.com/detail/20260116214827667800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
           "title": "美国总统特朗普将授意关键的美国电网运营商执行紧急（批发电价）拍卖。",
           "url": "https://wallstreetcn.com/livenews/3038251",
           "source": "华尔街见闻-快讯",
@@ -264,6 +287,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
+        },
+        {
+          "title": "特朗普拟紧急干预电力市场：强压AI巨头签15年长约，为150亿美元新电厂买单",
+          "url": "https://wallstreetcn.com/articles/3763449",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时12分 ~ 22时16分]"
         },
         {
           "title": "白宫发布关于美国总统特朗普医疗保健计划的清单。 特朗普希望降低保费。 特朗普要求国会山编纂关于降低医药成本的（立法）协议。",
@@ -353,18 +388,6 @@
           "time_info": "[12时03分 ~ 13时19分]"
         },
         {
-          "title": "特朗普拟紧急干预电力市场：强压AI巨头签15年长约，为150亿美元新电厂买单",
-          "url": "https://wallstreetcn.com/articles/3763449",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时12分 ~ 21时33分]"
-        },
-        {
           "title": "美媒爆内塔尼亚胡在通话中请求特朗普推迟可能对伊朗发动的军事打击，白宫回应",
           "url": "https://wallstreetcn.com/livenews/3038415",
           "source": "华尔街见闻-快讯",
@@ -423,6 +446,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时13分 ~ 11时01分]"
+        },
+        {
+          "title": "释新闻｜特朗普为何暂缓对伊朗动武？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32397863",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时25分 ~ 22时16分]"
         },
         {
           "title": "特朗普暂缓对伊朗动武决定",
@@ -494,6 +529,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时18分 ~ 04时16分]"
+        },
+        {
+          "title": "由于特朗普政府将签署协议以抑制电价，一些电力公司股价在盘前下跌，Talen Energy下跌6.8%，Vistra下跌3.2%，Constellation Energy下跌2.6%。",
+          "url": "https://wallstreetcn.com/livenews/3038829",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时33分 ~ 22时16分]"
         },
         {
           "title": "特朗普盟友声称冰岛将成为“第52州”，冰岛要求美方作出解释",
@@ -579,18 +626,6 @@
           "time_info": "[06时14分 ~ 07时13分]"
         },
         {
-          "title": "释新闻｜特朗普为何暂缓对伊朗动武？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32397863",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时25分 ~ 21时33分]"
-        },
-        {
           "title": "美国总统特朗普称赞低油气价格。",
           "url": "https://flash.jin10.com/detail/20260116052721995800",
           "source": "金十数据",
@@ -623,6 +658,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
+        },
+        {
+          "title": "据Politico：美国众议院共和党人自行设定的禁止投票挑战特朗普关税政策的禁令将于本月底到期。",
+          "url": "https://flash.jin10.com/detail/20260116214324557800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
         },
         {
           "title": "马查多把诺贝尔和平奖颁给特朗普",
@@ -680,6 +726,17 @@
           "time_info": "03时18分"
         },
         {
+          "title": "委内瑞拉反对派领导人马查多：委内瑞拉人“支持美国总统特朗普的行动”。",
+          "url": "https://flash.jin10.com/detail/20260116214042937800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
           "title": "白宫新闻秘书莱维特：特朗普正密切关注伊朗的局势。",
           "url": "https://flash.jin10.com/detail/20260116024351365800",
           "source": "金十数据",
@@ -722,17 +779,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时01分"
-        },
-        {
-          "title": "由于特朗普政府将签署协议以抑制电价，一些电力公司股价在盘前下跌，Talen Energy下跌6.8%，Vistra下跌3.2%，Constellation Energy下跌2.6%。",
-          "url": "https://wallstreetcn.com/livenews/3038829",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时33分"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：特朗普希望美联储独立运作。",
@@ -785,9 +831,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
+        },
+        {
+          "title": "委内瑞拉反对派领导人马查多：特朗普“值得”获得诺贝尔和平奖。",
+          "url": "https://flash.jin10.com/detail/20260116213904331800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
         },
         {
           "title": "白宫新闻秘书莱维特：特朗普正处于对美联储人事任命的决策阶段，他目前有几位心仪的人选来出任这一职位。特朗普将在未来几周内就美联储主席人选作出决定。",
@@ -832,6 +889,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "委内瑞拉反对派领导人马查多：告诉美国总统特朗普要信任委内瑞拉人民。",
+          "url": "https://flash.jin10.com/detail/20260116213732205800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
         },
         {
           "title": "“先别打伊朗”，以总理劝告特朗普避免隔靴搔痒式进攻",
@@ -939,7 +1007,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
         },
@@ -972,7 +1040,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
         },
@@ -983,7 +1051,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
         },
@@ -1046,7 +1114,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "台积电带飞芯片股，力撑美股指反弹，白银一度跌逾7%后走V，原油大跌",
@@ -1057,8 +1125,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时01分 ~ 21时33分]"
+          "appearance_count": 16,
+          "time_info": "[09时01分 ~ 22时16分]"
         },
         {
           "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
@@ -1194,6 +1262,17 @@
           "time_info": "[06时14分 ~ 07时13分]"
         },
         {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-01-16）",
+          "url": "https://flash.jin10.com/detail/20260116214314914800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
           "title": "美股收盘：三大股指小幅收涨 大型金融股走强",
           "url": "https://flash.jin10.com/detail/20260116050146912800",
           "source": "金十数据",
@@ -1314,8 +1393,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时01分 ~ 21时33分]"
+          "appearance_count": 14,
+          "time_info": "[11时01分 ~ 22时16分]"
         },
         {
           "title": "美国联邦法官在OpenAI与马斯克的诉讼斗争中下令，该案将于4月开庭审理。OpenAI与微软失去避战马斯克的最后机会。",
