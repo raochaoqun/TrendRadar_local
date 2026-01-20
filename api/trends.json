@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-20T14:23:13.615484+08:00",
-  "total_titles_processed": 1208,
+  "generated_at": "2026-01-20T15:21:53.507946+08:00",
+  "total_titles_processed": 1320,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 65,
+      "match_count": 67,
       "titles": [
         {
           "title": "特朗普致信挪威首相：我不再有义务只考虑和平",
@@ -30,8 +30,22 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时18分 ~ 14时23分]"
+          "appearance_count": 17,
+          "time_info": "[00时18分 ~ 15时21分]"
+        },
+        {
+          "title": "特朗普再掀贸易摩擦 黄金白银大涨 全球股市承压 | 环球市场",
+          "url": "https://www.cls.cn/detail/2262874",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时12分 ~ 15时21分]"
         },
         {
           "title": "会武力夺岛？特朗普：无可奉告",
@@ -46,18 +60,16 @@
           "time_info": "[02时20分 ~ 08时59分]"
         },
         {
-          "title": "特朗普再掀贸易摩擦 黄金白银大涨 全球股市承压 | 环球市场",
-          "url": "https://www.cls.cn/detail/2262874",
-          "source": "财联社热门",
+          "title": "特朗普写了一封信，杀气腾腾，槽点满满",
+          "url": "https://news.ifeng.com/c/8q3qn0KjEks",
+          "source": "凤凰网",
           "ranks": [
-            11,
-            4,
-            3,
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时12分 ~ 14时23分]"
+          "appearance_count": 8,
+          "time_info": "[08时59分 ~ 15时21分]"
         },
         {
           "title": "反制特朗普，马克龙冲最猛，默茨想拉住他",
@@ -69,18 +81,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[02时20分 ~ 08时59分]"
-        },
-        {
-          "title": "特朗普写了一封信，杀气腾腾，槽点满满",
-          "url": "https://news.ifeng.com/c/8q3qn0KjEks",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时59分 ~ 14时23分]"
         },
         {
           "title": "特朗普为何强夺格陵兰岛？贝森特：因为欧洲“软弱”",
@@ -129,8 +129,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时07分 ~ 14时23分]"
+          "appearance_count": 6,
+          "time_info": "[12时07分 ~ 15时21分]"
         },
         {
           "title": "美联储独立性的分水岭！明天，美国最高法院审“特朗普诉库克案”",
@@ -143,8 +143,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时59分 ~ 14时23分]"
+          "appearance_count": 8,
+          "time_info": "[08时59分 ~ 15时21分]"
         },
         {
           "title": "特朗普重返白宫一周年，怎样评价他这一年的执政成绩？给美国带来了什么？",
@@ -156,8 +156,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时59分 ~ 14时23分]"
+          "appearance_count": 8,
+          "time_info": "[08时59分 ~ 15时21分]"
         },
         {
           "title": "特朗普继续威胁，“100%加税，欧洲等着吧”",
@@ -167,8 +167,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时22分 ~ 14时23分]"
+          "appearance_count": 3,
+          "time_info": "[14时22分 ~ 15时21分]"
         },
         {
           "title": "欧洲8国集体回应特朗普关税威胁",
@@ -191,6 +191,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时18分 ~ 01时17分]"
+        },
+        {
+          "title": "特朗普关税威胁引发欧股抛售 奢侈品股全线大跌",
+          "url": "https://www.cls.cn/detail/2262836",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时07分 ~ 15时21分]"
+        },
+        {
+          "title": "金十整理：不入局就加征200%关税？特朗普的“加沙和平委员会”为何难获响应？",
+          "url": "https://flash.jin10.com/detail/20260120151936040800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         },
         {
           "title": "特朗普拒绝表明他是否会动用武力来夺取格陵兰岛，现货黄金多头占比达66%，现货白银多头占比达76%。后市市场情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
@@ -221,21 +245,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
         },
         {
-          "title": "特朗普关税威胁引发欧股抛售 奢侈品股全线大跌",
-          "url": "https://www.cls.cn/detail/2262836",
+          "title": "手握“10万亿美元武器”！分析师热议：欧洲是否会祭出“资本战”反击特朗普？",
+          "url": "https://www.cls.cn/detail/2263060",
           "source": "财联社热门",
           "ranks": [
-            12,
-            11
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时07分 ~ 14时23分]"
+          "appearance_count": 4,
+          "time_info": "[13时23分 ~ 15时21分]"
         },
         {
           "title": "丹麦外交部长：相信英国首相斯塔默已与美国总统特朗普直接通话。",
@@ -248,17 +271,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时18分 ~ 01时17分]"
-        },
-        {
-          "title": "手握“10万亿美元武器”！分析师热议：欧洲是否会祭出“资本战”反击特朗普？",
-          "url": "https://www.cls.cn/detail/2263060",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时23分 ~ 14时23分]"
         },
         {
           "title": "欧盟将召开特别峰会应对特朗普“夺岛”关税",
@@ -526,7 +538,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
         },
@@ -570,9 +582,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
+        },
+        {
+          "title": "是否会武力夺取格陵兰岛？特朗普回应：无可奉告！",
+          "url": "https://www.cls.cn/detail/2262925",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         },
         {
           "title": "美国总统特朗普：没有回头路可走。 格陵兰对国家和世界安全至关重要。 我同意在达沃斯与各方举行会议。 与北约秘书长马克·吕特进行了非常愉快的电话交谈。",
@@ -581,7 +604,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
         },
@@ -636,7 +659,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
         },
@@ -724,7 +747,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
         },
@@ -757,7 +780,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
         }
@@ -778,8 +801,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时59分 ~ 14时23分]"
+          "appearance_count": 8,
+          "time_info": "[08时59分 ~ 15时21分]"
         },
         {
           "title": "三年10倍！OpenAI年化营收突破200亿美元 今年重点推实际应用",
@@ -791,8 +814,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时01分 ~ 14时23分]"
+          "appearance_count": 7,
+          "time_info": "[11时01分 ~ 15时21分]"
         },
         {
           "title": "OpenAI政策主管Lehane在达沃斯接受采访时说，该公司计划2026年发布第一款设备。（Axios）",
@@ -897,8 +920,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时12分 ~ 14时23分]"
+          "appearance_count": 10,
+          "time_info": "[07时12分 ~ 15时21分]"
         },
         {
           "title": "格陵兰引发关税战风险，欧美股齐跌，“马丁·路德·金纪念日”美股债休市，金银再创新高，铜价逼近13000",
