@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-21T18:18:39.110538+08:00",
-  "total_titles_processed": 1699,
+  "generated_at": "2026-01-21T19:17:16.818545+08:00",
+  "total_titles_processed": 1801,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 140,
+      "match_count": 142,
       "titles": [
         {
           "title": "“格陵兰2026年成为美国领土”！特朗普“深夜”P图：加拿大、委内瑞拉都被划入美国版图",
@@ -91,8 +91,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时01分 ~ 18时18分]"
+          "appearance_count": 12,
+          "time_info": "[11时01分 ~ 19时17分]"
         },
         {
           "title": "“拿地”的诱惑：格陵兰岛问题替代方案全否定，特朗普想要的是产权",
@@ -105,11 +105,12 @@
             12,
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时01分 ~ 18时18分]"
+          "appearance_count": 12,
+          "time_info": "[11时01分 ~ 19时17分]"
         },
         {
           "title": "“拿地”的诱惑：格陵兰岛替代方案全否定，特朗普想要的是产权",
@@ -124,6 +125,30 @@
           "time_info": "[09时01分 ~ 13时22分]"
         },
         {
+          "title": "特朗普称“和平委员会”可能取代联合国，中方回应",
+          "url": "https://www.cls.cn/detail/2264936",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时24分 ~ 19时17分]"
+        },
+        {
+          "title": "芬兰总统“出招”：邀特朗普蒸桑拿",
+          "url": "https://news.ifeng.com/c/8q65PAAxlZG",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时24分 ~ 19时17分]"
+        },
+        {
           "title": "特朗普关税威胁不留情面，芬兰总统格外尴尬",
           "url": "https://news.ifeng.com/c/8q5VLcoKihU",
           "source": "凤凰网",
@@ -133,6 +158,21 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时01分 ~ 13时22分]"
+        },
+        {
+          "title": "特朗普：联合国应继续存在，但“和平委员会”或取而代之",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32429423",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            17,
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时22分 ~ 19时17分]"
         },
         {
           "title": "冯德莱恩回应特朗普：你错了，无论政治还是商业，协议就是协议",
@@ -170,43 +210,6 @@
           "time_info": "[00时23分 ~ 07时13分]"
         },
         {
-          "title": "芬兰总统“出招”：邀特朗普蒸桑拿",
-          "url": "https://news.ifeng.com/c/8q65PAAxlZG",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时24分 ~ 18时18分]"
-        },
-        {
-          "title": "特朗普称“和平委员会”可能取代联合国，中方回应",
-          "url": "https://www.cls.cn/detail/2264936",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时24分 ~ 18时18分]"
-        },
-        {
-          "title": "特朗普：联合国应继续存在，但“和平委员会”或取而代之",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32429423",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时22分 ~ 18时18分]"
-        },
-        {
           "title": "特朗普称和平委员会或取代联合国",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%92%8C%E5%B9%B3%E5%A7%94%E5%91%98%E4%BC%9A%E6%88%96%E5%8F%96%E4%BB%A3%E8%81%94%E5%90%88%E5%9B%BD",
           "source": "bilibili 热搜",
@@ -240,6 +243,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时22分 ~ 07时13分]"
+        },
+        {
+          "title": "特朗普回归后签署「大而美」法案、开启全球贸易战，真的让制造业回归了吗？重塑了美国国内的经济结构吗？",
+          "url": "https://www.zhihu.com/question/1996540321803301777",
+          "source": "知乎",
+          "ranks": [
+            20,
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时20分 ~ 19时17分]"
         },
         {
           "title": "美国总统特朗普：我本该获得诺贝尔和平奖。",
@@ -317,6 +333,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时07分"
+        },
+        {
+          "title": "世界经济论坛：特朗普演讲将按计划于当地时间下午2:30（北京时间晚21:30）开始。",
+          "url": "https://wallstreetcn.com/livenews/3041250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
         },
         {
           "title": "特朗普回应不去G7峰会",
@@ -492,16 +519,15 @@
           "time_info": "[12时37分 ~ 15时21分]"
         },
         {
-          "title": "特朗普回归后签署「大而美」法案、开启全球贸易战，真的让制造业回归了吗？重塑了美国国内的经济结构吗？",
-          "url": "https://www.zhihu.com/question/1996540321803301777",
-          "source": "知乎",
+          "title": "特朗普刚喊完中俄威胁，转头就否了",
+          "url": "https://news.ifeng.com/c/8q61Pub3oAS",
+          "source": "凤凰网",
           "ranks": [
-            20,
-            14
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时20分 ~ 18时18分]"
+          "appearance_count": 3,
+          "time_info": "[18时18分 ~ 19时17分]"
         },
         {
           "title": "以色列罕见与特朗普公开叫板",
@@ -633,17 +659,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时01分 ~ 11时02分]"
-        },
-        {
-          "title": "特朗普刚喊完中俄威胁，转头就否了",
-          "url": "https://news.ifeng.com/c/8q61Pub3oAS",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时18分"
         },
         {
           "title": "美国总统特朗普：很快就会打击陆路毒品走私。",
@@ -850,7 +865,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         },
@@ -1205,6 +1220,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "城堡基金CEO格里芬：美国总统特朗普试图鼓励美联储推行的宽松货币政策加大了通胀风险。",
+          "url": "https://flash.jin10.com/detail/20260121185148194800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
         },
         {
           "title": "美国总统特朗普：希望最高法院在关税问题上做正确的决定。 福特汽车表现如此出色，全因关税之缘故。",
@@ -1616,8 +1642,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时13分 ~ 18时18分]"
+          "appearance_count": 14,
+          "time_info": "[07时13分 ~ 19时17分]"
         },
         {
           "title": "美股指集体低开，纳指跌1.6%，日债引领全球国债抛售潮，黄金一度突破4750美元",
@@ -1719,6 +1745,18 @@
           "time_info": "[06时15分 ~ 07时13分]"
         },
         {
+          "title": "寄望达沃斯“降温地缘局势”，美股指期货齐涨，拼多多盘前涨7%，黄金新高后回落，日债大幅反弹",
+          "url": "https://wallstreetcn.com/articles/3763768",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时18分 ~ 19时17分]"
+        },
+        {
           "title": "纽约期银涨6.7%，美股盘前刷新历史高位，逼近96美元",
           "url": "https://wallstreetcn.com/livenews/3040696",
           "source": "华尔街见闻-快讯",
@@ -1787,17 +1825,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时07分"
-        },
-        {
-          "title": "寄望达沃斯“降温地缘局势”，美股指期货齐涨，拼多多盘前涨7%，黄金新高后回落，日债大幅反弹",
-          "url": "https://wallstreetcn.com/articles/3763768",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时18分"
         },
         {
           "title": "金十图示：2026年01月20日（周二）美股热门股票行情一览（美股盘中）",
@@ -1900,7 +1927,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         },
@@ -1934,7 +1961,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         },
@@ -2009,11 +2036,12 @@
             8,
             5,
             13,
-            17
+            17,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时37分 ~ 18时18分]"
+          "appearance_count": 10,
+          "time_info": "[12时37分 ~ 19时17分]"
         },
         {
           "title": "DeepSeek新模型MODEL1曝光 代码预示新架构",
