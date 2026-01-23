@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-23T14:21:52.934285+08:00",
-  "total_titles_processed": 1353,
+  "generated_at": "2026-01-23T15:19:48.130854+08:00",
+  "total_titles_processed": 1474,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 94,
+      "match_count": 96,
       "titles": [
         {
           "title": "在中国大量采购之下，拉美多国挺过特朗普关税冲击",
@@ -54,8 +54,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时01分 ~ 14时21分]"
+          "appearance_count": 7,
+          "time_info": "[09时01分 ~ 15时19分]"
         },
         {
           "title": "特朗普达沃斯演讲，被群嘲了",
@@ -77,8 +77,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时22分 ~ 14时21分]"
+          "appearance_count": 19,
+          "time_info": "[00时22分 ~ 15时19分]"
         },
         {
           "title": "美国底层活不起，特朗普却在达沃斯炫耀“让富人更富”",
@@ -161,17 +161,6 @@
           "time_info": "[00时22分 ~ 09时01分]"
         },
         {
-          "title": "泽连斯基批欧对俄施压不够：特朗普能拦截影子舰队，你们不能？",
-          "url": "https://news.ifeng.com/c/8q8xOf6LCUH",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时01分 ~ 14时21分]"
-        },
-        {
           "title": "特朗普为啥时隔一天态度变了",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E5%95%A5%E6%97%B6%E9%9A%94%E4%B8%80%E5%A4%A9%E6%80%81%E5%BA%A6%E5%8F%98%E4%BA%86%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
@@ -183,6 +172,30 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时22分 ~ 07时14分]"
+        },
+        {
+          "title": "马斯克用谐音梗暗讽特朗普的“和平委员会”",
+          "url": "https://v.ifeng.com/c/8q8wrrYsxgK",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时01分 ~ 15时19分]"
+        },
+        {
+          "title": "泽连斯基批欧对俄施压不够：特朗普能拦截影子舰队，你们不能？",
+          "url": "https://news.ifeng.com/c/8q8xOf6LCUH",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时01分 ~ 15时19分]"
         },
         {
           "title": "特朗普执政一年把美国推向何方",
@@ -200,18 +213,6 @@
           "time_info": "[02时19分 ~ 07时14分]"
         },
         {
-          "title": "马斯克用谐音梗暗讽特朗普的“和平委员会”",
-          "url": "https://v.ifeng.com/c/8q8wrrYsxgK",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时01分 ~ 14时21分]"
-        },
-        {
           "title": "特朗普达沃斯演讲：格陵兰岛是美国核心安全利益，但美不会武力夺取，寻求立即谈判",
           "url": "https://wallstreetcn.com/articles/3763851",
           "source": "华尔街见闻",
@@ -221,6 +222,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时22分 ~ 01时22分]"
+        },
+        {
+          "title": "特朗普回应手背再现瘀青：我非常好，手磕到桌子",
+          "url": "https://news.ifeng.com/c/8q96HMKxd1u",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 15时19分]"
         },
         {
           "title": "德国总理默茨：特朗普放弃吞并格陵兰的计划，这让人感到欣慰。",
@@ -256,15 +269,15 @@
           "time_info": "11时01分"
         },
         {
-          "title": "特朗普回应手背再现瘀青：我非常好，手磕到桌子",
-          "url": "https://news.ifeng.com/c/8q96HMKxd1u",
+          "title": "达沃斯后，特朗普狂发80条帖子…",
+          "url": "https://news.ifeng.com/c/8q9DLsy9hjV",
           "source": "凤凰网",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时21分"
+          "time_info": "15时19分"
         },
         {
           "title": "美国总统特朗普声称：我并不热衷于401K计划 。",
@@ -591,6 +604,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
+        },
+        {
+          "title": "可“全面进入”格陵兰岛？特朗普透露协议细节，又被“光速打脸”！",
+          "url": "https://www.cls.cn/detail/2267216",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
         },
         {
           "title": "美国总统特朗普：意大利需获得立法部门批准才能加入“和平委员会”。",
@@ -1114,8 +1138,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时14分 ~ 14时21分]"
+          "appearance_count": 8,
+          "time_info": "[07时14分 ~ 15时19分]"
         },
         {
           "title": "特朗普TACO助推全球股市反弹，美股指集体高开，纳指涨0.9%，美债承压",
