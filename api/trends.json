@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-23T13:21:41.137106+08:00",
-  "total_titles_processed": 1248,
+  "generated_at": "2026-01-23T14:21:52.934285+08:00",
+  "total_titles_processed": 1353,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 93,
+      "match_count": 94,
       "titles": [
         {
           "title": "在中国大量采购之下，拉美多国挺过特朗普关税冲击",
@@ -42,8 +42,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时22分 ~ 13时21分]"
+          "appearance_count": 18,
+          "time_info": "[00时22分 ~ 14时21分]"
+        },
+        {
+          "title": "特朗普称加拿大因美国而存在，加总理回应",
+          "url": "https://news.ifeng.com/c/8q8mPoxeaJ8",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时01分 ~ 14时21分]"
         },
         {
           "title": "特朗普达沃斯演讲，被群嘲了",
@@ -65,8 +77,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时22分 ~ 13时21分]"
+          "appearance_count": 18,
+          "time_info": "[00时22分 ~ 14时21分]"
         },
         {
           "title": "美国底层活不起，特朗普却在达沃斯炫耀“让富人更富”",
@@ -80,17 +92,6 @@
           "time_info": "[00时22分 ~ 09时01分]"
         },
         {
-          "title": "特朗普称加拿大因美国而存在，加总理回应",
-          "url": "https://news.ifeng.com/c/8q8mPoxeaJ8",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时01分 ~ 13时21分]"
-        },
-        {
           "title": "1小时闭门会谈后，特朗普称与泽连斯基会晤非常好",
           "url": "https://news.ifeng.com/c/8q88cGpXCla",
           "source": "凤凰网",
@@ -99,8 +100,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时22分 ~ 13时21分]"
+          "appearance_count": 18,
+          "time_info": "[00时22分 ~ 14时21分]"
         },
         {
           "title": "特朗普称「和平委员会」可能取代联合国，「和平委员会」到底是什么？特朗普成立该机构的真实意图是什么？",
@@ -160,6 +161,17 @@
           "time_info": "[00时22分 ~ 09时01分]"
         },
         {
+          "title": "泽连斯基批欧对俄施压不够：特朗普能拦截影子舰队，你们不能？",
+          "url": "https://news.ifeng.com/c/8q8xOf6LCUH",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时01分 ~ 14时21分]"
+        },
+        {
           "title": "特朗普为啥时隔一天态度变了",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E5%95%A5%E6%97%B6%E9%9A%94%E4%B8%80%E5%A4%A9%E6%80%81%E5%BA%A6%E5%8F%98%E4%BA%86%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
@@ -171,28 +183,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时22分 ~ 07时14分]"
-        },
-        {
-          "title": "泽连斯基批欧对俄施压不够：特朗普能拦截影子舰队，你们不能？",
-          "url": "https://news.ifeng.com/c/8q8xOf6LCUH",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时01分 ~ 13时21分]"
-        },
-        {
-          "title": "马斯克用谐音梗暗讽特朗普的“和平委员会”",
-          "url": "https://v.ifeng.com/c/8q8wrrYsxgK",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时01分 ~ 13时21分]"
         },
         {
           "title": "特朗普执政一年把美国推向何方",
@@ -208,6 +198,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[02时19分 ~ 07时14分]"
+        },
+        {
+          "title": "马斯克用谐音梗暗讽特朗普的“和平委员会”",
+          "url": "https://v.ifeng.com/c/8q8wrrYsxgK",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时01分 ~ 14时21分]"
         },
         {
           "title": "特朗普达沃斯演讲：格陵兰岛是美国核心安全利益，但美不会武力夺取，寻求立即谈判",
@@ -252,6 +254,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时01分"
+        },
+        {
+          "title": "特朗普回应手背再现瘀青：我非常好，手磕到桌子",
+          "url": "https://news.ifeng.com/c/8q96HMKxd1u",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
         },
         {
           "title": "美国总统特朗普声称：我并不热衷于401K计划 。",
@@ -359,8 +372,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时35分 ~ 13时21分]"
+          "appearance_count": 4,
+          "time_info": "[12时35分 ~ 14时21分]"
         },
         {
           "title": "法国用特朗普表情包回怼特朗普",
@@ -1101,8 +1114,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时14分 ~ 13时21分]"
+          "appearance_count": 7,
+          "time_info": "[07时14分 ~ 14时21分]"
         },
         {
           "title": "特朗普TACO助推全球股市反弹，美股指集体高开，纳指涨0.9%，美债承压",
