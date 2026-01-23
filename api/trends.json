@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-23T15:19:48.130854+08:00",
-  "total_titles_processed": 1474,
+  "generated_at": "2026-01-23T16:19:21.489278+08:00",
+  "total_titles_processed": 1594,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 96,
+      "match_count": 104,
       "titles": [
         {
           "title": "在中国大量采购之下，拉美多国挺过特朗普关税冲击",
@@ -54,8 +54,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时01分 ~ 15时19分]"
+          "appearance_count": 8,
+          "time_info": "[09时01分 ~ 16时19分]"
         },
         {
           "title": "特朗普达沃斯演讲，被群嘲了",
@@ -77,8 +77,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时22分 ~ 15时19分]"
+          "appearance_count": 20,
+          "time_info": "[00时22分 ~ 16时19分]"
         },
         {
           "title": "美国底层活不起，特朗普却在达沃斯炫耀“让富人更富”",
@@ -161,6 +161,18 @@
           "time_info": "[00时22分 ~ 09时01分]"
         },
         {
+          "title": "马斯克用谐音梗暗讽特朗普的“和平委员会”",
+          "url": "https://v.ifeng.com/c/8q8wrrYsxgK",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时01分 ~ 16时19分]"
+        },
+        {
           "title": "特朗普为啥时隔一天态度变了",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E5%95%A5%E6%97%B6%E9%9A%94%E4%B8%80%E5%A4%A9%E6%80%81%E5%BA%A6%E5%8F%98%E4%BA%86%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
@@ -174,18 +186,6 @@
           "time_info": "[01时22分 ~ 07时14分]"
         },
         {
-          "title": "马斯克用谐音梗暗讽特朗普的“和平委员会”",
-          "url": "https://v.ifeng.com/c/8q8wrrYsxgK",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时01分 ~ 15时19分]"
-        },
-        {
           "title": "泽连斯基批欧对俄施压不够：特朗普能拦截影子舰队，你们不能？",
           "url": "https://news.ifeng.com/c/8q8xOf6LCUH",
           "source": "凤凰网",
@@ -194,8 +194,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时01分 ~ 15时19分]"
+          "appearance_count": 7,
+          "time_info": "[11时01分 ~ 16时19分]"
         },
         {
           "title": "特朗普执政一年把美国推向何方",
@@ -213,6 +213,18 @@
           "time_info": "[02时19分 ~ 07时14分]"
         },
         {
+          "title": "特朗普回应手背再现瘀青：我非常好，手磕到桌子",
+          "url": "https://news.ifeng.com/c/8q96HMKxd1u",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时21分 ~ 16时19分]"
+        },
+        {
           "title": "特朗普达沃斯演讲：格陵兰岛是美国核心安全利益，但美不会武力夺取，寻求立即谈判",
           "url": "https://wallstreetcn.com/articles/3763851",
           "source": "华尔街见闻",
@@ -224,16 +236,15 @@
           "time_info": "[00时22分 ~ 01时22分]"
         },
         {
-          "title": "特朗普回应手背再现瘀青：我非常好，手磕到桌子",
-          "url": "https://news.ifeng.com/c/8q96HMKxd1u",
+          "title": "达沃斯后，特朗普狂发80条帖子…",
+          "url": "https://news.ifeng.com/c/8q9DLsy9hjV",
           "source": "凤凰网",
           "ranks": [
-            5,
-            4
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时21分 ~ 15时19分]"
+          "time_info": "[15时19分 ~ 16时19分]"
         },
         {
           "title": "德国总理默茨：特朗普放弃吞并格陵兰的计划，这让人感到欣慰。",
@@ -258,6 +269,17 @@
           "time_info": "04时16分"
         },
         {
+          "title": "特朗普称将于4月访华 中方回应",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E4%BA%8E4%E6%9C%88%E8%AE%BF%E5%8D%8E%20%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
           "title": "特朗普左手背再现新瘀青，最新回应：吃药副作用，磕到桌子容易青",
           "url": "https://wallstreetcn.com/livenews/3042505",
           "source": "华尔街见闻-快讯",
@@ -267,17 +289,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时01分"
-        },
-        {
-          "title": "达沃斯后，特朗普狂发80条帖子…",
-          "url": "https://news.ifeng.com/c/8q9DLsy9hjV",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时19分"
         },
         {
           "title": "美国总统特朗普声称：我并不热衷于401K计划 。",
@@ -495,6 +506,18 @@
           "time_info": "[02时20分 ~ 03时19分]"
         },
         {
+          "title": "可“全面进入”格陵兰岛？特朗普透露协议细节，又被“光速打脸”！",
+          "url": "https://www.cls.cn/detail/2267216",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时19分 ~ 16时19分]"
+        },
+        {
           "title": "中方回应特朗普达沃斯言论",
           "url": "https://www.toutiao.com/trending/7598085406047453226/",
           "source": "今日头条",
@@ -540,6 +563,17 @@
           "time_info": "07时14分"
         },
         {
+          "title": "分析师：黄金越来越像是对冲特朗普政策不确定性的工具",
+          "url": "https://flash.jin10.com/detail/20260123154520032800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
           "title": "美国参议员沃伦警告AI债务隐忧，敦促特朗普政府调查“不透明”的数据中心融资",
           "url": "https://wallstreetcn.com/livenews/3042186",
           "source": "华尔街见闻-快讯",
@@ -560,6 +594,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
+        },
+        {
+          "title": "特朗普称将于4月访问中国，外交部回应",
+          "url": "https://www.cls.cn/detail/2267695",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
+          "title": "特朗普称将于4月访华 中方回应",
+          "url": "https://www.douyin.com/hot/2377206",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
         },
         {
           "title": "美国总统特朗普在社交平台发文称，“到处都是创纪录的数字！我应该争取第四个任期吗？”",
@@ -604,17 +660,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
-        },
-        {
-          "title": "可“全面进入”格陵兰岛？特朗普透露协议细节，又被“光速打脸”！",
-          "url": "https://www.cls.cn/detail/2267216",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时19分"
         },
         {
           "title": "美国总统特朗普：意大利需获得立法部门批准才能加入“和平委员会”。",
@@ -705,6 +750,17 @@
           "time_info": "06时15分"
         },
         {
+          "title": "法国外交部长：目前尚无北约秘书长与美国总统特朗普就格陵兰岛达成协议的细节。",
+          "url": "https://flash.jin10.com/detail/20260123153716040800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
           "title": "罗马尼亚总统丹：仍在分析罗马尼亚是否能够加入美国总统特朗普的和平委员会。",
           "url": "https://flash.jin10.com/detail/20260123014941696800",
           "source": "金十数据",
@@ -791,6 +847,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
+        },
+        {
+          "title": "外交部回应特朗普称将于4月访问中国",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E4%BA%8E4%E6%9C%88%E8%AE%BF%E9%97%AE%E4%B8%AD%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
         },
         {
           "title": "白宫贸易顾问纳瓦罗：本周的美国GDP数据显示，特朗普推动的制造业繁荣逐渐根基稳固。",
@@ -969,6 +1036,17 @@
           "time_info": "02时20分"
         },
         {
+          "title": "外交部回应特朗普称将于4月访问中国",
+          "url": "https://www.toutiao.com/trending/7597610597631033407/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
           "title": "美国总统特朗普：（谈及格陵兰岛框架协议）有一种良好的精神来促成此事。",
           "url": "https://flash.jin10.com/detail/20260123055247255800",
           "source": "金十数据",
@@ -1088,6 +1166,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
+        },
+        {
+          "title": "特朗普称将于4月访问中国，外交部回应",
+          "url": "https://wallstreetcn.com/livenews/3042688",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
         },
         {
           "title": "摩根大通股价回吐部分涨幅，现涨1.3%，此前外媒报道特朗普将起诉摩根大通及CEO戴蒙。",
@@ -1424,8 +1513,19 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "美元指数DXY短线下跌25点，现报98.27。",
+          "url": "https://flash.jin10.com/detail/20260123154510389800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
         {
           "title": "美元指数DXY日内跌超0.50%，现报98.30。",
           "url": "https://flash.jin10.com/detail/20260123044526005800",
@@ -1551,6 +1651,23 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[02时19分 ~ 09时01分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Claude",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "仅用半小时！Claude Code“终结”英伟达“最强护城河”？",
+          "url": "https://wallstreetcn.com/articles/3764001",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
         }
       ]
     }
