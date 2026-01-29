@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T20:34:08.175113+08:00",
-  "total_titles_processed": 1966,
+  "generated_at": "2026-01-29T21:53:56.758725+08:00",
+  "total_titles_processed": 2075,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 59,
+      "match_count": 62,
       "titles": [
         {
           "title": "特朗普：一支庞大的舰队正前往伊朗",
@@ -108,8 +108,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时08分 ~ 20时34分]"
+          "appearance_count": 10,
+          "time_info": "[13时08分 ~ 21时53分]"
         },
         {
           "title": "国际金银价格再度创出历史新高 特朗普威胁将再次打击伊朗 | 环球市场",
@@ -156,15 +156,17 @@
           "time_info": "[12时01分 ~ 17时33分]"
         },
         {
-          "title": "美国总统特朗普称赞英伟达为“特朗普账户”捐款。",
-          "url": "https://flash.jin10.com/detail/20260129004308229800",
-          "source": "金十数据",
+          "title": "特朗普升级对伊施压，布油重回70美元，白银冲上120后回落，黄金突破5500，美元持续下挫",
+          "url": "https://wallstreetcn.com/articles/3764423",
+          "source": "华尔街见闻",
           "ranks": [
-            5
+            7,
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时26分"
+          "appearance_count": 5,
+          "time_info": "[18时27分 ~ 21时53分]"
         },
         {
           "title": "释新闻｜特朗普连续第三天施压伊朗再提核计划，美国要开打了吗？",
@@ -174,23 +176,23 @@
             15,
             14,
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时33分 ~ 20时34分]"
+          "appearance_count": 6,
+          "time_info": "[17时33分 ~ 21时53分]"
         },
         {
-          "title": "特朗普升级对伊施压，布油重回70美元，白银冲上120后回落，黄金突破5500，美元持续下挫",
-          "url": "https://wallstreetcn.com/articles/3764423",
-          "source": "华尔街见闻",
+          "title": "美国总统特朗普称赞英伟达为“特朗普账户”捐款。",
+          "url": "https://flash.jin10.com/detail/20260129004308229800",
+          "source": "金十数据",
           "ranks": [
-            7,
-            6
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时27分 ~ 20时34分]"
+          "appearance_count": 1,
+          "time_info": "01时26分"
         },
         {
           "title": "美国总统特朗普结束在“特朗普账号”活动上的发言。",
@@ -381,6 +383,17 @@
           "time_info": "02时26分"
         },
         {
+          "title": "白宫边境事务负责人Homan：将在明尼苏达州开展针对性行动。 特朗普不会放弃其反移民使命。",
+          "url": "https://wallstreetcn.com/livenews/3046514",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
+        },
+        {
           "title": "美国总统特朗普感谢达利欧在康涅狄格州为“特朗普账户”进行投资。",
           "url": "https://flash.jin10.com/detail/20260129004148471800",
           "source": "金十数据",
@@ -535,6 +548,17 @@
           "time_info": "00时25分"
         },
         {
+          "title": "美国边境事务负责人霍曼：美国总统特朗普并未在反移民使命上投降。",
+          "url": "https://flash.jin10.com/detail/20260129213435452800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
+        },
+        {
           "title": "鲍威尔：我不会针对（美国总统特朗普的司法部刑事调查）传唤在已有声明的基础上做出更多表态。",
           "url": "https://wallstreetcn.com/livenews/3045782",
           "source": "华尔街见闻-快讯",
@@ -629,7 +653,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时34分"
         },
@@ -689,6 +713,17 @@
           "time_info": "05时22分"
         },
         {
+          "title": "特朗普表示鲍威尔没有理由维持高利率 称拒绝降息损害国家安全",
+          "url": "https://wallstreetcn.com/livenews/3046487",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
+        },
+        {
           "title": "美法官叫停特朗普政府针对明尼苏达州合法难民的审查政策",
           "url": "https://flash.jin10.com/detail/20260129120407962800",
           "source": "金十数据",
@@ -703,7 +738,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "美股“七巨头”财报即将亮相：投资者该关注哪些要点？",
@@ -762,7 +797,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时34分"
         },
@@ -787,6 +822,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-01-29）",
+          "url": "https://flash.jin10.com/detail/20260129214609846800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
         },
         {
           "title": "特斯拉美股盘后快速回吐涨幅，该公司称2026年资本开支将超200亿美元。",
@@ -856,6 +902,17 @@
           "time_info": "17时33分"
         },
         {
+          "title": "美股期指小幅走高 金银铜等集体大涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2274635",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
+        },
+        {
           "title": "美股涨幅收窄，道指转跌，标普500指数持平，纳斯达克指数涨0.2%。",
           "url": "https://flash.jin10.com/detail/20260128235421935800",
           "source": "金十数据",
@@ -895,7 +952,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时34分"
         },
@@ -972,7 +1029,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时34分"
         },
@@ -991,7 +1048,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美元指数DXY日内大涨1.00%，现报96.72。",
@@ -1036,6 +1093,68 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
+        },
+        {
+          "title": "美国系列数据公布后，现货金银、美元指数DXY波动暂不大。",
+          "url": "https://flash.jin10.com/detail/20260129213207835800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "ChatGPT 流量份额从 86% 降至 65%，这一变化由哪些因素造成？",
+          "url": "https://www.zhihu.com/question/1994095464539255007",
+          "source": "知乎",
+          "ranks": [
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时24分 ~ 21时53分]"
+        },
+        {
+          "title": "英伟达、微软和亚马逊正在商谈向OpenAI投资约600亿美元。亚马逊或将扩大与OpenAI的云服务器租赁协议。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3046051",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时01分"
+        },
+        {
+          "title": "OpenAI 发布基于 GPT-5.2 的 Prism，专注科研领域的 AI 协作。科研人能用它来做些什么？",
+          "url": "https://www.zhihu.com/question/1999888901490304692",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：非常愿意投资OpenAI。",
+          "url": "https://flash.jin10.com/detail/20260129134256119800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时35分"
         }
       ]
     },
@@ -1064,11 +1183,12 @@
             27,
             12,
             14,
-            15
+            15,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时33分 ~ 20时34分]"
+          "appearance_count": 6,
+          "time_info": "[17时33分 ~ 21时53分]"
         },
         {
           "title": "谷歌母公司Alphabet美股盘后涨3%，投资者关注Meta业绩报告。",
@@ -1080,46 +1200,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "ChatGPT 流量份额从 86% 降至 65%，这一变化由哪些因素造成？",
-          "url": "https://www.zhihu.com/question/1994095464539255007",
-          "source": "知乎",
-          "ranks": [
-            14,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时24分 ~ 20时34分]"
-        },
-        {
-          "title": "英伟达、微软和亚马逊正在商谈向OpenAI投资约600亿美元。亚马逊或将扩大与OpenAI的云服务器租赁协议。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3046051",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时01分"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：非常愿意投资OpenAI。",
-          "url": "https://flash.jin10.com/detail/20260129134256119800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时35分"
         }
       ]
     }
