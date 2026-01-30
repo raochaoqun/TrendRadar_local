@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T13:11:03.077470+08:00",
-  "total_titles_processed": 1117,
+  "generated_at": "2026-01-30T14:36:49.678636+08:00",
+  "total_titles_processed": 1232,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 91,
+      "match_count": 93,
       "titles": [
         {
           "title": "释新闻｜特朗普连续第三天施压伊朗再提核计划，美国要开打了吗？",
@@ -23,6 +23,30 @@
           "time_info": "[00时32分 ~ 13时11分]"
         },
         {
+          "title": "特朗普称美联储“新掌门”周五揭晓 沃什获提名概率飙升至87%！",
+          "url": "https://www.cls.cn/detail/2275048",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时01分 ~ 14时36分]"
+        },
+        {
+          "title": "今晚官宣！报道称特朗普拟提名沃什执掌美联储，市场押注其胜率飙至95%",
+          "url": "https://wallstreetcn.com/articles/3764534",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时10分 ~ 14时36分]"
+        },
+        {
           "title": "美政府关门危机解除？特朗普与舒默接近达成协议，拆分DHS预算并重谈移民执法限制",
           "url": "https://wallstreetcn.com/articles/3764456",
           "source": "华尔街见闻",
@@ -36,17 +60,6 @@
           "time_info": "[06时19分 ~ 13时11分]"
         },
         {
-          "title": "今晚官宣！报道称特朗普拟提名沃什执掌美联储，市场押注其胜率飙至95%",
-          "url": "https://wallstreetcn.com/articles/3764534",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时10分 ~ 13时11分]"
-        },
-        {
           "title": "打击伊朗的机会窗口未到，特朗普在等什么？",
           "url": "https://v.ifeng.com/c/8qJY5CqQQ7n",
           "source": "凤凰网",
@@ -58,16 +71,27 @@
           "time_info": "[00时32分 ~ 05时19分]"
         },
         {
-          "title": "特朗普称美联储“新掌门”周五揭晓 沃什获提名概率飙升至87%！",
-          "url": "https://www.cls.cn/detail/2275048",
-          "source": "财联社热门",
+          "title": "特朗普：计划30日公布美联储下任主席提名",
+          "url": "https://news.ifeng.com/c/8qKUiK0pwuH",
+          "source": "凤凰网",
           "ranks": [
-            10,
-            5
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时01分 ~ 13时11分]"
+          "appearance_count": 6,
+          "time_info": "[09时08分 ~ 14时36分]"
+        },
+        {
+          "title": "特朗普宣布国家紧急状态",
+          "url": "https://news.ifeng.com/c/8qKOxahNKqK",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时08分 ~ 14时36分]"
         },
         {
           "title": "特朗普宣布国家紧急状态",
@@ -79,6 +103,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
+        },
+        {
+          "title": "特朗普威胁对加拿大飞机加征50%关税",
+          "url": "https://news.ifeng.com/c/8qKQWKa5M3r",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时08分 ~ 14时36分]"
         },
         {
           "title": "美国总统特朗普：俄乌局势取得很大进展，俄罗斯一周内不会进行开火。",
@@ -98,7 +133,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时11分"
         },
@@ -114,38 +149,26 @@
           "time_info": "09时08分"
         },
         {
-          "title": "特朗普：计划30日公布美联储下任主席提名",
-          "url": "https://news.ifeng.com/c/8qKUiK0pwuH",
+          "title": "特朗普：将开放委内瑞拉领空",
+          "url": "https://news.ifeng.com/c/8qKaGjQKJrg",
           "source": "凤凰网",
           "ranks": [
-            7,
-            8
+            7
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[09时08分 ~ 13时11分]"
+          "time_info": "[12时01分 ~ 14时36分]"
         },
         {
-          "title": "特朗普宣布国家紧急状态",
-          "url": "https://news.ifeng.com/c/8qKOxahNKqK",
-          "source": "凤凰网",
+          "title": "美国总统特朗普：（谈及联邦执法人员枪杀亚历克斯·普雷蒂事件）美国移民和海关执法局官员当时“冷静而沉着”。",
+          "url": "https://flash.jin10.com/detail/20260130142933819800",
+          "source": "金十数据",
           "ranks": [
-            9
+            4
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时08分 ~ 13时11分]"
-        },
-        {
-          "title": "特朗普威胁对加拿大飞机加征50%关税",
-          "url": "https://news.ifeng.com/c/8qKQWKa5M3r",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时08分 ~ 13时11分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
         },
         {
           "title": "金十提示：美国总统特朗普在结束内阁会议前，没有回答任何问题。",
@@ -198,17 +221,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时31分 ~ 03时24分]"
-        },
-        {
-          "title": "特朗普：将开放委内瑞拉领空",
-          "url": "https://news.ifeng.com/c/8qKaGjQKJrg",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时01分 ~ 13时11分]"
         },
         {
           "title": "新西兰总理：拒绝加入美国总统特朗普所谓“和平委员会”的邀请。",
@@ -642,7 +654,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时11分"
         },
@@ -664,7 +676,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时11分"
         },
@@ -854,6 +866,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
+        },
+        {
+          "title": "特朗普宣布国家紧急状态，威胁对向古巴提供石油的国家加征关税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32496464",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
         },
         {
           "title": "美国总统特朗普：希望我们不会出现政府停摆，民主党人也不希望政府停摆。",
@@ -1082,6 +1105,17 @@
           "time_info": "[00时32分 ~ 06时19分]"
         },
         {
+          "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银新高后一度跳水，铜油走强",
+          "url": "https://wallstreetcn.com/articles/3764423",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时08分 ~ 14时36分]"
+        },
+        {
           "title": "美股期指小幅走高 金银铜等集体大涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2274635",
           "source": "财联社热门",
@@ -1096,17 +1130,6 @@
           "time_info": "[00时32分 ~ 12时02分]"
         },
         {
-          "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银新高后一度跳水，铜油走强",
-          "url": "https://wallstreetcn.com/articles/3764423",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时08分 ~ 13时11分]"
-        },
-        {
           "title": "美股收盘：业绩引爆微软Meta冰火两极 存储股闪迪盘后狂飙",
           "url": "https://www.cls.cn/detail/2274922",
           "source": "财联社热门",
@@ -1115,8 +1138,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时18分 ~ 13时11分]"
+          "appearance_count": 7,
+          "time_info": "[07时18分 ~ 14时36分]"
         },
         {
           "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银跳水后反弹，铜油走强",
