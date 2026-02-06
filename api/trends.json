@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-06T15:40:36.573636+08:00",
-  "total_titles_processed": 1367,
+  "generated_at": "2026-02-06T16:31:49.469297+08:00",
+  "total_titles_processed": 1463,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 43,
       "titles": [
         {
           "title": "美俄唯一核军控条约失效，特朗普：不如谈个新的",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时08分 ~ 15时40分]"
+          "appearance_count": 7,
+          "time_info": "[09时08分 ~ 16时31分]"
         },
         {
           "title": "是否谋求第三任期？特朗普：告诉你就太无聊了",
@@ -49,11 +49,23 @@
           "ranks": [
             11,
             7,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时06分 ~ 15时40分]"
+          "appearance_count": 6,
+          "time_info": "[12时06分 ~ 16时31分]"
+        },
+        {
+          "title": "中方回应特朗普公开支持高市早苗",
+          "url": "https://news.ifeng.com/c/8qWaGQvtmJo",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
         },
         {
           "title": "特朗普称支持高市早苗赢得日本大选，外交部：不作评论",
@@ -62,7 +74,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
         },
@@ -305,6 +317,17 @@
           "time_info": "[04时23分 ~ 05时21分]"
         },
         {
+          "title": "外交部回应特朗普支持高市赢得大选",
+          "url": "https://www.toutiao.com/trending/7603649349884759562/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
           "title": "特朗普：与其延长“新削减战略武器条约” 不如制定新条约",
           "url": "https://flash.jin10.com/detail/20260206025549486800",
           "source": "金十数据",
@@ -498,6 +521,17 @@
           "time_info": "[00时36分 ~ 06时18分]"
         },
         {
+          "title": "软件股抛售蔓延，就业数据疲软，美股指跌超1%，白银暴跌19%，比特币崩跌，美债中概涨",
+          "url": "https://wallstreetcn.com/articles/3765023",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时06分 ~ 16时31分]"
+        },
+        {
           "title": "美股科技股抛售蔓延，闪迪跌近 16%，AMD 跌超 17% 创八年多来最大单日跌幅，光伏板块爆发，如何解读？",
           "url": "https://www.zhihu.com/question/2002675555208803379",
           "source": "知乎",
@@ -512,17 +546,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时36分 ~ 07时17分]"
-        },
-        {
-          "title": "软件股抛售蔓延，就业数据疲软，美股指跌超1%，白银暴跌19%，比特币崩跌，美债中概涨",
-          "url": "https://wallstreetcn.com/articles/3765023",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时06分 ~ 15时40分]"
         },
         {
           "title": "美股收盘：纳指连续三天均跌超1%",
@@ -865,8 +888,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时06分 ~ 15时40分]"
+          "appearance_count": 6,
+          "time_info": "[12时06分 ~ 16时31分]"
         }
       ]
     },
@@ -881,7 +904,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
         },
@@ -923,8 +946,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时08分 ~ 15时40分]"
+          "appearance_count": 7,
+          "time_info": "[09时08分 ~ 16时31分]"
         },
         {
           "title": "如何评价 Anthropic 最新发布的 Claude Opus 4.6? 有哪些技术亮点值得关注？",
