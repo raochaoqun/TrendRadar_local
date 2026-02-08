@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T20:27:49.848345+08:00",
-  "total_titles_processed": 1168,
+  "generated_at": "2026-02-08T21:38:58.843664+08:00",
+  "total_titles_processed": 1243,
   "failed_sources": [],
   "trends": [
     {
@@ -278,11 +278,12 @@
           "ranks": [
             2,
             12,
-            19
+            19,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时17分 ~ 20时27分]"
+          "appearance_count": 4,
+          "time_info": "[18时17分 ~ 21时38分]"
         },
         {
           "title": "特朗普：需要通过竞争来打击散播虚假新闻的电视网络",
@@ -316,11 +317,12 @@
           "source": "金十数据",
           "ranks": [
             10,
-            17
+            17,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时16分 ~ 20时27分]"
+          "appearance_count": 3,
+          "time_info": "[19时16分 ~ 21时38分]"
         },
         {
           "title": "特朗普拒为种族主义视频道歉",
@@ -357,11 +359,12 @@
           "ranks": [
             7,
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时18分 ~ 20时27分]"
+          "appearance_count": 24,
+          "time_info": "[00时18分 ~ 21时38分]"
         },
         {
           "title": "美股三大期指集体反弹 亚马逊盘前大跌近9% | 今夜看点",
@@ -385,8 +388,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时33分 ~ 20时27分]"
+          "appearance_count": 7,
+          "time_info": "[15时33分 ~ 21时38分]"
         }
       ]
     },
@@ -423,8 +426,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时22分 ~ 20时27分]"
+          "appearance_count": 6,
+          "time_info": "[16时22分 ~ 21时38分]"
         }
       ]
     },
@@ -441,8 +444,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时22分 ~ 20时27分]"
+          "appearance_count": 5,
+          "time_info": "[17时22分 ~ 21时38分]"
         }
       ]
     },
@@ -457,11 +460,12 @@
           "ranks": [
             2,
             7,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时17分 ~ 20时27分]"
+          "appearance_count": 4,
+          "time_info": "[18时17分 ~ 21时38分]"
         }
       ]
     }
