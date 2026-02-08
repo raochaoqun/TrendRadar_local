@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-08T21:38:58.843664+08:00",
-  "total_titles_processed": 1243,
+  "generated_at": "2026-02-08T22:20:03.222185+08:00",
+  "total_titles_processed": 1299,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "道指突破5万大关！特朗普自夸：提前三年就完成目标，任期结束将站上10万点",
@@ -244,6 +244,17 @@
           "time_info": "[09时30分 ~ 16时22分]"
         },
         {
+          "title": "日本首相高市早苗：将于三月会见特朗普期间，深化与美国的经济安全关系，包括稀土供应问题。",
+          "url": "https://flash.jin10.com/detail/20260208215651951800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
           "title": "美国总统特朗普：期待洪都拉斯总统阿斯富拉再次访问美国。",
           "url": "https://flash.jin10.com/detail/20260208105726564800",
           "source": "金十数据",
@@ -325,6 +336,17 @@
           "time_info": "[19时16分 ~ 21时38分]"
         },
         {
+          "title": "特朗普被白头海雕打脸视频再度火了",
+          "url": "https://www.toutiao.com/trending/7603686321965662214/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时19分 ~ 22时20分]"
+        },
+        {
           "title": "特朗普拒为种族主义视频道歉",
           "url": "https://www.toutiao.com/trending/7603770305999323142/",
           "source": "今日头条",
@@ -353,6 +375,20 @@
           "time_info": "[00时18分 ~ 07时20分]"
         },
         {
+          "title": "美股本周大波动，投资者在担心：美国经济真的强吗？AI成利空了？避险资产炒成风险资产了？",
+          "url": "https://wallstreetcn.com/articles/3765246",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时33分 ~ 22时20分]"
+        },
+        {
           "title": "美股收盘：道指历史首次站上5万点 中概股指数涨超3%",
           "url": "https://www.cls.cn/detail/2283586",
           "source": "财联社热门",
@@ -363,8 +399,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时18分 ~ 21时38分]"
+          "appearance_count": 26,
+          "time_info": "[00时18分 ~ 22时20分]"
         },
         {
           "title": "美股三大期指集体反弹 亚马逊盘前大跌近9% | 今夜看点",
@@ -376,20 +412,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时18分 ~ 06时16分]"
-        },
-        {
-          "title": "美股本周大波动，投资者在担心：美国经济真的强吗？AI成利空了？避险资产炒成风险资产了？",
-          "url": "https://wallstreetcn.com/articles/3765246",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时33分 ~ 21时38分]"
         }
       ]
     },
@@ -426,8 +448,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时22分 ~ 21时38分]"
+          "appearance_count": 8,
+          "time_info": "[16时22分 ~ 22时20分]"
         }
       ]
     },
@@ -444,8 +466,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时22分 ~ 21时38分]"
+          "appearance_count": 7,
+          "time_info": "[17时22分 ~ 22时20分]"
         }
       ]
     },
@@ -461,11 +483,12 @@
             2,
             7,
             9,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时17分 ~ 21时38分]"
+          "appearance_count": 5,
+          "time_info": "[18时17分 ~ 22时20分]"
         }
       ]
     }
