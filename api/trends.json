@@ -1,12 +1,28 @@
 {
-  "generated_at": "2026-02-10T19:43:12.564821+08:00",
-  "total_titles_processed": 1579,
+  "generated_at": "2026-02-10T20:48:53.629188+08:00",
+  "total_titles_processed": 1683,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
+        {
+          "title": "谷爱凌回应特朗普大骂冬奥运动员",
+          "url": "https://www.toutiao.com/trending/7605068464549744178/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            11,
+            13,
+            14,
+            26,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时25分 ~ 20时48分]"
+        },
         {
           "title": "特朗普再放豪言：我选的美联储掌门沃什 有能力推动美国经济增长15%！",
           "url": "https://www.cls.cn/detail/2285295",
@@ -19,21 +35,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时25分 ~ 16时40分]"
-        },
-        {
-          "title": "谷爱凌回应特朗普大骂冬奥运动员",
-          "url": "https://www.toutiao.com/trending/7605068464549744178/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            11,
-            13,
-            14,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时25分 ~ 19时43分]"
         },
         {
           "title": "以“和平”为名：特朗普调停冲突，意在关键矿产？",
@@ -119,6 +120,17 @@
           "time_info": "06时27分"
         },
         {
+          "title": "内塔尼亚胡1年内将第7次见特朗普，以官员回应",
+          "url": "https://news.ifeng.com/c/8qdLiMlCmog",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时44分 ~ 20时48分]"
+        },
+        {
           "title": "加拿大谴责特朗普阻挠美加跨国大桥项目",
           "url": "https://wallstreetcn.com/livenews/3052839",
           "source": "华尔街见闻-快讯",
@@ -141,17 +153,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时27分 ~ 07时29分]"
-        },
-        {
-          "title": "内塔尼亚胡1年内将第7次见特朗普，以官员回应",
-          "url": "https://news.ifeng.com/c/8qdLiMlCmog",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时44分 ~ 19时43分]"
         },
         {
           "title": "再翻一倍？特朗普豪言：我任期结束前 道指将站上10万点！",
@@ -265,6 +266,17 @@
           "time_info": "07时29分"
         },
         {
+          "title": "美国贸易代表格里尔：美国与加拿大的谈判主要针对跨国大桥议题。特朗普总统对这一问题存在合理关切。",
+          "url": "https://flash.jin10.com/detail/20260210201654942800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时48分"
+        },
+        {
           "title": "美媒：特朗普称首个任期内在美联储主席人选决策上“犯了大错”",
           "url": "https://wallstreetcn.com/livenews/3052671",
           "source": "华尔街见闻-快讯",
@@ -345,7 +357,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "科技股继续提振美股，标普逼近历史高位，美元跌破97关口，黄金重回5000美元，期银盘中涨近9%",
@@ -356,8 +368,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时23分 ~ 19时43分]"
+          "appearance_count": 11,
+          "time_info": "[09时23分 ~ 20时48分]"
         },
         {
           "title": "美股三大指数开盘小幅下跌，美债走跌，英镑延续涨势，黄金涨至5040美元",
@@ -504,6 +516,28 @@
           "time_info": "[01时43分 ~ 02时45分]"
         },
         {
+          "title": "美股三大期指小幅走高 经济数据即将扎堆公布 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2286272",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时48分"
+        },
+        {
+          "title": "可口可乐第四季度净营收118亿美元，市场预估120.3亿美元。 第四季度可比每股收益0.58美元，市场预估0.57美元。 预计2026年资本支出22亿美元，市场预估23.1亿美元。 可口可乐美股盘前一度跌超2.5%。",
+          "url": "https://wallstreetcn.com/livenews/3053030",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时48分"
+        },
+        {
           "title": "金十图示：2026年02月09日（周一）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260210013148662800",
           "source": "金十数据",
@@ -565,7 +599,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时43分"
         },
@@ -579,6 +613,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
+        },
+        {
+          "title": "法拉利预计2026年调整后EBITDA至少为29.3亿欧元，市场预期为29.1亿欧元。 第四季度EBITDA为7亿欧元，市场预期为6.62亿欧元。 第四季度净利润为3.81亿欧元，市场预期为3.83亿欧元。 第四季度稀释后每股收益为2.14欧元，市场预期为2.13欧元。 第四季度营收为18亿欧元，市场预期为17.7亿欧元。 第四季度交付量为3,152辆，市场预期为3,262辆。 法拉利美股盘前一度涨超9%。",
+          "url": "https://wallstreetcn.com/livenews/3053021",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时48分"
         },
         {
           "title": "美股三大指数集体上涨 纳指涨近1%",
@@ -606,7 +651,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "美国已通过多个渠道要求韩国批准谷歌将该国高精度地图数据出口至海外；同时，美国贸易代表格里尔对韩国的非关税壁垒表示强烈担忧。（彭博）",
@@ -668,6 +713,39 @@
           "time_info": "[02时45分 ~ 03时58分]"
         },
         {
+          "title": "谷歌母公司Alphabet的100年期英镑债在各期限券种中获得最高认购。",
+          "url": "https://wallstreetcn.com/livenews/3053034",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时48分"
+        },
+        {
+          "title": "字节“乘胜追击”又发新一代图像模型 称可与谷歌旗舰产品对标",
+          "url": "https://www.cls.cn/detail/2285787",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时48分"
+        },
+        {
+          "title": "谷歌母公司Alphabet将通过发行英镑债券筹集创纪录的45亿英镑资金，其英镑债券发行吸引了创纪录的240亿英镑认购需求。",
+          "url": "https://wallstreetcn.com/livenews/3053029",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时48分"
+        },
+        {
           "title": "谷歌“向天再借一百年”！全球科技界将迎来本世纪首只“百年债券”",
           "url": "https://www.cls.cn/detail/2285329",
           "source": "财联社热门",
@@ -685,7 +763,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时43分"
         },
@@ -696,7 +774,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时43分"
         },
@@ -819,7 +897,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时43分"
         }
