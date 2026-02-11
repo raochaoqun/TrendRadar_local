@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-11T17:43:21.478619+08:00",
-  "total_titles_processed": 1406,
+  "generated_at": "2026-02-11T18:40:29.661922+08:00",
+  "total_titles_processed": 1494,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 55,
+      "match_count": 58,
       "titles": [
         {
           "title": "特朗普被曝私下大发雷霆：5500亿美元还没落地，日本蓄意拖延？",
@@ -31,17 +31,6 @@
           "time_info": "[09时20分 ~ 17时43分]"
         },
         {
-          "title": "内塔尼亚胡1年内将第7次见特朗普，以官员回应",
-          "url": "https://news.ifeng.com/c/8qdLiMlCmog",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时57分 ~ 07时31分]"
-        },
-        {
           "title": "特朗普又翻脸了，中国再躺枪",
           "url": "https://news.ifeng.com/c/8qeOp6WY2Il",
           "source": "凤凰网",
@@ -51,8 +40,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时20分 ~ 17时43分]"
+          "appearance_count": 10,
+          "time_info": "[09时20分 ~ 18时40分]"
+        },
+        {
+          "title": "内塔尼亚胡1年内将第7次见特朗普，以官员回应",
+          "url": "https://news.ifeng.com/c/8qdLiMlCmog",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时57分 ~ 07时31分]"
         },
         {
           "title": "以总理将见特朗普，伊朗外长：美国不要受以色列影响",
@@ -66,6 +66,17 @@
           "time_info": "[09时20分 ~ 16时37分]"
         },
         {
+          "title": "外交部回应特朗普涉中加合作言论",
+          "url": "https://news.ifeng.com/c/8qetZSIVPBA",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时43分 ~ 18时40分]"
+        },
+        {
           "title": "特朗普放话：若美伊谈判无果 或向中东增派航母打击群",
           "url": "https://www.cls.cn/detail/2286509",
           "source": "财联社热门",
@@ -76,17 +87,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时20分 ~ 14时04分]"
-        },
-        {
-          "title": "外交部回应特朗普涉中加合作言论",
-          "url": "https://news.ifeng.com/c/8qetZSIVPBA",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时43分"
         },
         {
           "title": "美国总统特朗普：我认为美联储主席提名人凯文·沃什同意所说说的。",
@@ -135,6 +135,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时56分 ~ 05时35分]"
+        },
+        {
+          "title": "特朗普：伊朗希望达成协议，不然太蠢了",
+          "url": "https://news.ifeng.com/c/8qf0rfTG2o3",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时40分"
         },
         {
           "title": "内塔尼亚胡将向特朗普提供有关伊朗军事能力的新情报",
@@ -551,6 +562,28 @@
           "time_info": "02时57分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-11）",
+          "url": "https://flash.jin10.com/detail/20260211181613310800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时40分"
+        },
+        {
+          "title": "外交部回应特朗普涉中加合作言论",
+          "url": "https://www.toutiao.com/trending/7605448481570897961/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时40分"
+        },
+        {
           "title": "据美国媒体报道，以色列总理内塔尼亚胡10日晚在白宫与美国总统特朗普的特使威特科夫和女婿库什纳举行会晤，双方讨论了伊朗局势。",
           "url": "https://flash.jin10.com/detail/20260211122756306800",
           "source": "金十数据",
@@ -653,7 +686,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "科技股继续提振美股，标普逼近历史高位，美元跌破97关口，黄金重回5000美元，期银盘中涨近9%",
@@ -688,8 +721,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时20分 ~ 17时43分]"
+          "appearance_count": 10,
+          "time_info": "[09时20分 ~ 18时40分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 道指续创历史新高",
@@ -725,8 +758,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时03分 ~ 17时43分]"
+          "appearance_count": 6,
+          "time_info": "[14时03分 ~ 18时40分]"
         },
         {
           "title": "莫德纳宣布，美国食品药品管理局（FDA）拒绝审查其流感疫苗MRNA Flu申请。 FDA称，该公司临床试验（受试样本）不够大，也没有得到很好的控制。 莫德纳美股盘后跌9%。",
@@ -845,6 +878,17 @@
           "time_info": "01时57分"
         },
         {
+          "title": "84 岁吉姆·罗杰斯清空美股，坚定持有金银铜称要留给后代，预言下次危机是其一生中最惨烈危机，如何解读？",
+          "url": "https://www.zhihu.com/question/2004662806780338439",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时40分"
+        },
+        {
           "title": "金十图示：2026年02月10日（周二）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260211013017856800",
           "source": "金十数据",
@@ -862,7 +906,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时43分"
         }
