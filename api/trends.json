@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-13T18:31:38.172774+08:00",
-  "total_titles_processed": 1630,
+  "generated_at": "2026-02-13T19:25:28.054175+08:00",
+  "total_titles_processed": 1728,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 61,
+      "match_count": 63,
       "titles": [
         {
           "title": "美国总统特朗普预计将于4月初访问中国？外交部：双方就此保持着沟通",
@@ -47,11 +47,12 @@
           "ranks": [
             1,
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时17分 ~ 18时31分]"
+          "appearance_count": 9,
+          "time_info": "[09时17分 ~ 19时25分]"
         },
         {
           "title": "特朗普威胁伊朗：不达成协议，就进入第二阶段",
@@ -127,6 +128,20 @@
           "time_info": "[12时12分 ~ 18时31分]"
         },
         {
+          "title": "煤炭业的狂欢 环保者的悲哀！特朗普宣布撤销“温室气体危害认定”",
+          "url": "https://www.cls.cn/detail/2289315",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时54分 ~ 19时25分]"
+        },
+        {
           "title": "美国总统特朗普：环保署废除了美国气候监管的基础，此举将消除1.3 万亿美元的监管成本。",
           "url": "https://flash.jin10.com/detail/20260213024705661800",
           "source": "金十数据",
@@ -138,20 +153,6 @@
           "time_info": "02时48分"
         },
         {
-          "title": "煤炭业的狂欢 环保者的悲哀！特朗普宣布撤销“温室气体危害认定”",
-          "url": "https://www.cls.cn/detail/2289315",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时54分 ~ 18时31分]"
-        },
-        {
           "title": "以色列总理办公室：内塔尼亚胡将远程参加美国以色列公共事务委员会（AIPAC）年会，因此下周不会飞往华盛顿。内塔尼亚胡也不会参加特朗普组织的和平委员会会议。",
           "url": "https://flash.jin10.com/detail/20260213014349442800",
           "source": "金十数据",
@@ -161,6 +162,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
+        },
+        {
+          "title": "特朗普被曝下月初召开拉美峰会“遏制中国”",
+          "url": "https://news.ifeng.com/c/8qiBqEpZEqH",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时35分 ~ 19时25分]"
         },
         {
           "title": "市场消息：特朗普领导下的美国环境保护署采取行动，推翻了前总统拜登此前制定的汽车尾气排放规定，这些规定原本旨在推动电动汽车产量提升。",
@@ -236,18 +249,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时48分 ~ 04时24分]"
-        },
-        {
-          "title": "特朗普被曝下月初召开拉美峰会“遏制中国”",
-          "url": "https://news.ifeng.com/c/8qiBqEpZEqH",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时35分 ~ 18时31分]"
         },
         {
           "title": "伦铝期货短线下挫，日内由涨转跌，现报3092美元/吨。消息面上，特朗普准备取消对金属和铝制品征收的关税。",
@@ -418,6 +419,18 @@
           "time_info": "[03时44分 ~ 04时24分]"
         },
         {
+          "title": "特朗普称印度同意不再购买俄油？俄方回应：没听说过",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32593433",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 19时25分]"
+        },
+        {
           "title": "美国总统特朗普：如果伊朗不达成协议，将会遭受非常严重的创伤。与伊朗的谈判最终取决于我。",
           "url": "https://flash.jin10.com/detail/20260213030643145800",
           "source": "金十数据",
@@ -559,6 +572,17 @@
           "time_info": "02时48分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-13）",
+          "url": "https://flash.jin10.com/detail/20260213184225992800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
+        },
+        {
           "title": "美国官员：美国总统特朗普将于下周在首次和平委员会会议上宣布一项针对加沙的数十亿美元资助计划。",
           "url": "https://flash.jin10.com/detail/20260213023254034800",
           "source": "金十数据",
@@ -636,17 +660,6 @@
           "time_info": "03时44分"
         },
         {
-          "title": "特朗普称印度同意不再购买俄油？俄方回应：没听说过",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32593433",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时31分"
-        },
-        {
           "title": "美国参议院民主党成员Warren发函给证券交易委员会（SEC）主席Paul Atkins。 Warren质询SEC对总统特朗普2025年围绕代理顾问们签署的一项命令的执行情况。 Warren认为，特朗普的命令“似乎意在削弱股东们的权益，让管理层掌握更大的权力”。 Warren询问，SEC已经采取了哪些行动、或者打算如何执行特朗普的命令。",
           "url": "https://wallstreetcn.com/livenews/3054616",
           "source": "华尔街见闻-快讯",
@@ -689,6 +702,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
+        },
+        {
+          "title": "逾6亿美元拨款“被砍”，4州起诉特朗普政府",
+          "url": "https://wallstreetcn.com/livenews/3055132",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
         },
         {
           "title": "美国总统特朗普：我们基本上已经叫停了美国所有的风力发电机项目。",
@@ -738,7 +762,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "强劲非农打击降息预期，AI担忧拖累美股指，美债承压，金银涨，原油冲高回落",
@@ -760,8 +784,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时17分 ~ 18时31分]"
+          "appearance_count": 9,
+          "time_info": "[09时17分 ~ 19时25分]"
         },
         {
           "title": "【早报】深夜跳水！美股、黄金、白银、原油集体大跌；央行今日出手，万亿逆回购来了",
@@ -809,19 +833,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时54分 ~ 18时31分]"
-        },
-        {
-          "title": "CPI前夕美股高开低走，盘中标普纳指跌超1%、思科跌超10%，白银跳水超7%",
-          "url": "https://wallstreetcn.com/articles/3765553",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时51分 ~ 02时48分]"
+          "appearance_count": 7,
+          "time_info": "[13时54分 ~ 19时25分]"
         },
         {
           "title": "AI恐慌扩散，科技股再度拖垮美股，地产股连日重挫，苹果市值一日蒸发2000亿",
@@ -833,8 +846,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时12分 ~ 18时31分]"
+          "appearance_count": 8,
+          "time_info": "[12时12分 ~ 19时25分]"
+        },
+        {
+          "title": "CPI前夕美股高开低走，盘中标普纳指跌超1%、思科跌超10%，白银跳水超7%",
+          "url": "https://wallstreetcn.com/articles/3765553",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时51分 ~ 02时48分]"
         },
         {
           "title": "美国CPI前夕，美股指盘中转跌，盘中纳指跌超1%、思科跌超10%",
@@ -860,6 +884,18 @@
           "time_info": "[09时17分 ~ 14时48分]"
         },
         {
+          "title": "引爆美股“黑色星期四”的导火索，是这家市值600万美元的“小公司”",
+          "url": "https://wallstreetcn.com/articles/3765636",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时48分 ~ 19时25分]"
+        },
+        {
           "title": "美股存储芯片指数收涨不到1.4%",
           "url": "https://wallstreetcn.com/livenews/3054760",
           "source": "华尔街见闻-快讯",
@@ -869,6 +905,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
+        },
+        {
+          "title": "美股油气股开年大涨超20% 分析师看好2026年全年行情",
+          "url": "https://flash.jin10.com/detail/20260213190005725800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
         },
         {
           "title": "Rivian美股盘前大涨19%，公司第四季度业绩超预期，且预计2026年交付量将激增53%。",
@@ -882,16 +929,15 @@
           "time_info": "17时35分"
         },
         {
-          "title": "引爆美股“黑色星期四”的导火索，是这家市值600万美元的“小公司”",
-          "url": "https://wallstreetcn.com/articles/3765636",
-          "source": "华尔街见闻",
+          "title": "国际金银、美股、石油、 BTC 等均现下跌，银价一度跌超 11%，发生了什么，春节期间应如何防范大波动行情？",
+          "url": "https://www.zhihu.com/question/2005568531748648323",
+          "source": "知乎",
           "ranks": [
-            10,
-            8
+            18
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[14时48分 ~ 18时31分]"
+          "time_info": "[15时43分 ~ 19时25分]"
         },
         {
           "title": "金十图示：2026年02月12日（周四）美股热门股票行情一览（美股收盘）",
@@ -952,17 +998,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时25分 ~ 06时23分]"
-        },
-        {
-          "title": "国际金银、美股、石油、 BTC 等均现下跌，银价一度跌超 11%，发生了什么，春节期间应如何防范大波动行情？",
-          "url": "https://www.zhihu.com/question/2005568531748648323",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时43分 ~ 18时31分]"
         },
         {
           "title": "纳斯达克金龙中国指数收跌3.00%，报7599.35点，美股盘初持续走低，北京时间00:00过后持续低位窄幅震荡。 成分股。 热门中概股里，腾讯音乐初步收跌10%，携程跌6%，贝壳跌5.8%，B站、百度、阿特斯、百胜中国跌超4%，阿里跌3.4%，亚朵涨1.2%，世纪互联涨3.7%。 ETF中，中概互联网指数ETF（KWEB）收跌3.84%，中国科技指数ETF（CQQQ）收跌2.48%。 德银嘉实沪深300指数ETF（ASHR）收跌0.56%，XtrackersHarvest中证50（ASHS）收涨0.16%。",
@@ -1179,11 +1214,12 @@
             12,
             15,
             16,
-            18
+            18,
+            14
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时46分 ~ 18时31分]"
+          "appearance_count": 20,
+          "time_info": "[00时46分 ~ 19时25分]"
         },
         {
           "title": "UP主实测DeepSeek新模型",
@@ -1199,8 +1235,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时46分 ~ 18时31分]"
+          "appearance_count": 20,
+          "time_info": "[00时46分 ~ 19时25分]"
         },
         {
           "title": "DeepSeek变冷淡了",
@@ -1223,11 +1259,12 @@
           "ranks": [
             12,
             13,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时43分 ~ 18时31分]"
+          "appearance_count": 5,
+          "time_info": "[15时43分 ~ 19时25分]"
         },
         {
           "title": "DeepSeek回应被指冷淡",
