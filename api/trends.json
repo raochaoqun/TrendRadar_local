@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-15T19:16:13.215714+08:00",
-  "total_titles_processed": 1093,
+  "generated_at": "2026-02-15T20:28:41.755880+08:00",
+  "total_titles_processed": 1167,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "王毅：特朗普非常尊重中方，但还有人想打压中国",
@@ -46,6 +46,17 @@
           "time_info": "[12时13分 ~ 19时16分]"
         },
         {
+          "title": "民主党轮番安抚欧洲：再忍忍，特朗普3年后就会离开",
+          "url": "https://news.ifeng.com/c/8qlaP330gp4",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时17分 ~ 20时28分]"
+        },
+        {
           "title": "乌克兰总统泽连斯基：（被问及美国总统特朗普关于乌克兰的最新评论时）“有点”感受到压力。",
           "url": "https://flash.jin10.com/detail/20260214195624100800",
           "source": "金十数据",
@@ -79,15 +90,18 @@
           "time_info": "[00时18分 ~ 07时15分]"
         },
         {
-          "title": "民主党轮番安抚欧洲：再忍忍，特朗普3年后就会离开",
-          "url": "https://news.ifeng.com/c/8qlaP330gp4",
-          "source": "凤凰网",
+          "title": "泽连斯基慕安会演讲：美国总让乌克兰让步，“有点”感受到特朗普的压力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32614935",
+          "source": "澎湃新闻",
           "ranks": [
-            5
+            11,
+            8,
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时17分 ~ 19时16分]"
+          "appearance_count": 6,
+          "time_info": "[16时22分 ~ 20时28分]"
         },
         {
           "title": "王毅：特朗普尊重中方 有人想打压中国",
@@ -118,17 +132,6 @@
           "time_info": "[15时32分 ~ 19时16分]"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-15）",
-          "url": "https://flash.jin10.com/detail/20260215183847434800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时16分"
-        },
-        {
           "title": "特朗普：北约看在我的份上付了5%国防支出",
           "url": "https://news.ifeng.com/c/8qk233NwWlu",
           "source": "凤凰网",
@@ -151,19 +154,6 @@
           "time_info": "[00时18分 ~ 03时17分]"
         },
         {
-          "title": "泽连斯基慕安会演讲：美国总让乌克兰让步，“有点”感受到特朗普的压力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32614935",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时22分 ~ 19时16分]"
-        },
-        {
           "title": "被特朗普恶搞成猿猴 奥巴马首次回应",
           "url": "https://flash.jin10.com/detail/20260215135912358800",
           "source": "金十数据",
@@ -177,6 +167,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[14时39分 ~ 18时17分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-15）",
+          "url": "https://flash.jin10.com/detail/20260215183847434800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时16分 ~ 20时28分]"
         },
         {
           "title": "曝特朗普发涉种族主义视频被批后发怒",
@@ -215,6 +217,17 @@
           "time_info": "09时16分"
         },
         {
+          "title": "2026慕安会｜王毅：特朗普非常尊重中方，但还有人想打压中国",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32610423",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
+        },
+        {
           "title": "奥巴马回应被特朗普恶搞成猴",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A5%A5%E5%B7%B4%E9%A9%AC%E5%9B%9E%E5%BA%94%E8%A2%AB%E7%89%B9%E6%9C%97%E6%99%AE%E6%81%B6%E6%90%9E%E6%88%90%E7%8C%B4%23&t=31&band_rank=17&Refer=top",
           "source": "微博",
@@ -241,8 +254,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时16分 ~ 19时16分]"
+          "appearance_count": 11,
+          "time_info": "[09时16分 ~ 20时28分]"
         },
         {
           "title": "字节豆包2.0发布：推理成本降一个数量级，正面对标GPT-5和Gemini 3",
@@ -345,11 +358,12 @@
           "url": "https://wallstreetcn.com/articles/3765742",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时15分 ~ 19时16分]"
+          "appearance_count": 3,
+          "time_info": "[19时15分 ~ 20时28分]"
         }
       ]
     },
@@ -384,8 +398,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时18分 ~ 19时16分]"
+          "appearance_count": 21,
+          "time_info": "[00时18分 ~ 20时28分]"
         }
       ]
     },
