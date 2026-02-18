@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-18T15:45:15.781921+08:00",
-  "total_titles_processed": 1198,
+  "generated_at": "2026-02-18T16:35:03.000146+08:00",
+  "total_titles_processed": 1279,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 41,
       "titles": [
         {
           "title": "哈梅内伊回应特朗普威胁",
@@ -53,8 +53,22 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时15分 ~ 15时45分]"
+          "appearance_count": 9,
+          "time_info": "[09时15分 ~ 16时35分]"
+        },
+        {
+          "title": "特朗普女儿伊万卡中文拜年：新年快乐",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A5%B3%E5%84%BF%E4%BC%8A%E4%B8%87%E5%8D%A1%E4%B8%AD%E6%96%87%E6%8B%9C%E5%B9%B4%EF%BC%9A%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            14,
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时12分 ~ 16时35分]"
         },
         {
           "title": "特朗普涉台最新表态，台当局和日本都慌了",
@@ -79,6 +93,17 @@
           "time_info": "[03时41分 ~ 07时21分]"
         },
         {
+          "title": "特朗普、拜登、奥巴马、克林顿齐发声",
+          "url": "https://news.ifeng.com/c/8qqUCbPAN8F",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 16时35分]"
+        },
+        {
           "title": "美国纽约市市长：美国总统特朗普政府再次解冻了7700万美元的纽约隧道资金。",
           "url": "https://flash.jin10.com/detail/20260218012450530800",
           "source": "金十数据",
@@ -99,30 +124,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
-        },
-        {
-          "title": "美空军确认“空军一号”新涂装将采用特朗普偏爱的配色：红、白、金、深蓝",
-          "url": "https://flash.jin10.com/detail/20260218152713560800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时45分"
-        },
-        {
-          "title": "特朗普女儿伊万卡中文拜年：新年快乐",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A5%B3%E5%84%BF%E4%BC%8A%E4%B8%87%E5%8D%A1%E4%B8%AD%E6%96%87%E6%8B%9C%E5%B9%B4%EF%BC%9A%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时12分 ~ 15时45分]"
         },
         {
           "title": "市场消息：特朗普内阁与顾问开会讨论中期选举策略。",
@@ -147,6 +148,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时41分 ~ 05时26分]"
+        },
+        {
+          "title": "美空军确认“空军一号”新涂装将采用特朗普偏爱的配色：红、白、金、深蓝",
+          "url": "https://flash.jin10.com/detail/20260218152713560800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时45分 ~ 16时35分]"
         },
         {
           "title": "美国食品药品管理局（FDA）主管Makary宣称：特朗普政府是“非常支持疫苗的”。",
@@ -484,8 +497,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时15分 ~ 15时45分]"
+          "appearance_count": 9,
+          "time_info": "[09时15分 ~ 16时35分]"
         },
         {
           "title": "美股休市，科技股拖累欧股反弹，黄金失去“中国动力”失守5000美元，人民币涨破6.89",
@@ -509,8 +522,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时51分 ~ 15时45分]"
+          "appearance_count": 19,
+          "time_info": "[00时51分 ~ 16时35分]"
+        },
+        {
+          "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
+          "url": "https://www.cls.cn/detail/2291354",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时12分 ~ 16时35分]"
         },
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，大宗商品普跌，英央行降息预期上升，英镑一度跳水1%",
@@ -522,17 +546,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时20分 ~ 07时21分]"
-        },
-        {
-          "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
-          "url": "https://www.cls.cn/detail/2291354",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时12分 ~ 15时45分]"
         },
         {
           "title": "凯撒娱乐（CZR）美股盘后涨超3%。 该公司四季度同店净营收29.2亿美元，分析师预期28.9亿美元。 四季度同店调整后EBITDA为9.01亿美元，分析师预期9.001亿美元。",
@@ -852,6 +865,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Qwen",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "阿里千问：Qwen 3.5 Plus现在可以在AI Gateway上使用了。",
+          "url": "https://flash.jin10.com/detail/20260218155737801800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         }
       ]
     }
