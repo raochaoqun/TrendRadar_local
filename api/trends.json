@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-20T06:22:37.144232+08:00",
-  "total_titles_processed": 615,
+  "generated_at": "2026-02-20T07:22:23.183515+08:00",
+  "total_titles_processed": 670,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 73,
+      "match_count": 82,
       "titles": [
         {
           "title": "美国总统特朗普：石油和天然气正在增产。",
@@ -14,7 +14,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         },
@@ -282,6 +282,42 @@
           "time_info": "[04时22分 ~ 05时24分]"
         },
         {
+          "title": "美国总统特朗普赞赏私人行业的就业增长。",
+          "url": "https://wallstreetcn.com/livenews/3056792",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 07时22分]"
+        },
+        {
+          "title": "美国总统特朗普谈及最高法院对其关税政策的审判，宣称：我一直都在等待（判决结果）。",
+          "url": "https://wallstreetcn.com/livenews/3056791",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 07时22分]"
+        },
+        {
+          "title": "美国总统特朗普：共和党必须在选民身份和邮寄选票问题上取胜。",
+          "url": "https://wallstreetcn.com/livenews/3056790",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 07时22分]"
+        },
+        {
           "title": "美国众议院民主党成员们要求调查总统特朗普家族的加密货币公司。 向特朗普的财政部长贝森特询问有关World Liberty财务问题。（CNBC）",
           "url": "https://wallstreetcn.com/livenews/3056763",
           "source": "华尔街见闻-快讯",
@@ -323,9 +359,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
+        },
+        {
+          "title": "特朗普称在“可负担性”问题上赢得了胜利",
+          "url": "https://flash.jin10.com/detail/20260220064356197800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
         },
         {
           "title": "特朗普：那些假新闻喋喋不休地谈论“负担能力，负担能力”。你们注意到了吗？过去两周你们没听到哪个词？“负担能力”。因为我赢了。我赢得了负担能力。",
@@ -334,20 +381,31 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         },
         {
-          "title": "美国总统特朗普赞赏私人行业的就业增长。",
-          "url": "https://wallstreetcn.com/livenews/3056792",
+          "title": "美国总统特朗普谈及住房经适性，宣称：我们已经解决了这个问题。 正在终结华尔街公司购买住房这个“骗局”。",
+          "url": "https://wallstreetcn.com/livenews/3056813",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时22分"
+          "time_info": "07时22分"
+        },
+        {
+          "title": "十天内对伊朗动手？特朗普：美伊必须达成有意义协议，否则发生“糟糕的事”",
+          "url": "https://wallstreetcn.com/articles/3765876",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
         },
         {
           "title": "特朗普：5000万桶委内瑞拉石油正运往休斯敦。",
@@ -356,20 +414,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         },
         {
-          "title": "美国总统特朗普谈及最高法院对其关税政策的审判，宣称：我一直都在等待（判决结果）。",
-          "url": "https://wallstreetcn.com/livenews/3056791",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普批评健康保险公司，并表示有关其股票上涨的报道让他感到不满。",
+          "url": "https://flash.jin10.com/detail/20260220064053130800",
+          "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时22分"
+          "time_info": "07时22分"
         },
         {
           "title": "特朗普：石油和天然气产量上升了。",
@@ -378,18 +436,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时22分"
-        },
-        {
-          "title": "美国总统特朗普：共和党必须在选民身份和邮寄选票问题上取胜。",
-          "url": "https://wallstreetcn.com/livenews/3056790",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         },
@@ -411,7 +458,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         },
@@ -433,9 +480,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
+        },
+        {
+          "title": "美国总统特朗普：（建议人们）出门购买戴尔电脑。",
+          "url": "https://wallstreetcn.com/livenews/3056808",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
         },
         {
           "title": "特朗普：如果没有和伊朗达成协议，将会发生糟糕的事情",
@@ -466,7 +524,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         },
@@ -477,7 +535,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         },
@@ -499,7 +557,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         },
@@ -521,7 +579,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         },
@@ -548,13 +606,24 @@
           "time_info": "05时24分"
         },
         {
+          "title": "美国总统特朗普赞赏商务部长卢特尼克。",
+          "url": "https://wallstreetcn.com/livenews/3056803",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
           "title": "特朗普称赞私营部门的就业增长。",
           "url": "https://flash.jin10.com/detail/20260220054443140800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         },
@@ -576,7 +645,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         },
@@ -590,6 +659,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
+        },
+        {
+          "title": "美国总统特朗普：（美国的）石油和天然气正在增产。 从委内瑞拉攫取的5000万桶石油正被运往得州休斯敦。",
+          "url": "https://wallstreetcn.com/livenews/3056800",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
         },
         {
           "title": "特朗普称，挪威已同意主办和平委员会活动",
@@ -609,9 +689,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
+        },
+        {
+          "title": "伊朗致联合国秘书长的信：特朗普的言论表明“存在军事侵略的真正风险”。",
+          "url": "https://flash.jin10.com/detail/20260220062210840800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
         },
         {
           "title": "美国总统特朗普：我才不在乎诺贝尔奖。",
@@ -642,7 +733,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         },
@@ -719,7 +810,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         },
@@ -752,7 +843,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         },
@@ -777,6 +868,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时40分"
+        },
+        {
+          "title": "特朗普主持加沙“和平委员会”首次会议 美国承诺出资100亿",
+          "url": "https://flash.jin10.com/detail/20260220061036766800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
         },
         {
           "title": "美国总统特朗普：必须与伊朗达成一份具有实质性意义的协议。 伊朗不可以拥有核武器。 我们与伊朗还需付出努力。 或许十天能了解中东和平状况。 认为哈马斯会放弃武装，否则他们将遭到严厉袭击。",
@@ -818,7 +920,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         },
@@ -840,7 +942,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         }
@@ -848,7 +950,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "美股三大指数高开后悉数转跌，明星科技股普跌，黄金站上5000美元",
@@ -860,6 +962,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时40分 ~ 05时24分]"
+        },
+        {
+          "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2291237",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时40分 ~ 07时22分]"
         },
         {
           "title": "科技股力撑美股两连阳，美联储自曝通胀担忧，道指盘中闪跌，美伊风险助原油大反弹",
@@ -875,19 +990,6 @@
           "time_info": "[00时40分 ~ 06时22分]"
         },
         {
-          "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2291237",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 06时22分]"
-        },
-        {
           "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
           "url": "https://www.cls.cn/detail/2291551",
           "source": "财联社热门",
@@ -896,8 +998,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 06时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时40分 ~ 07时22分]"
         },
         {
           "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
@@ -908,8 +1010,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 06时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时40分 ~ 07时22分]"
         },
         {
           "title": "科技股拖累美股，金融股砸盘，美伊开打危险撑原油至半年新高，降息分歧压制黄金涨势",
@@ -918,20 +1020,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时22分"
-        },
-        {
-          "title": "周四（2月19日）纽约尾盘，现货黄金涨0.42%，报4998.50美元/盎司。 COMEX黄金期货涨0.09%，报5014美元/盎司。 现货白银涨1.32%，报78.2375美元/盎司。 COMEX白银期货涨0.82%。 COMEX铜期货跌0.67%，报5.8240美元/磅。 现货铂金跌0.32%，现货钯金跌1.45%。 （美股）费城金银指数收涨1.51%，报422.69点。 （全球时段）纽约证交所ARCA金矿开采商指数涨1.26%，报2982.07点。 （美股）原材料指数收跌0.09%，金属与矿业指数收跌0.17%。",
-          "url": "https://wallstreetcn.com/livenews/3056799",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 07时22分]"
         },
         {
           "title": "金十图示：2026年02月19日（周四）美股热门股票行情一览（美股收盘）",
@@ -967,6 +1058,18 @@
           "time_info": "05时24分"
         },
         {
+          "title": "周四（2月19日）纽约尾盘，现货黄金涨0.42%，报4998.50美元/盎司。 COMEX黄金期货涨0.09%，报5014美元/盎司。 现货白银涨1.32%，报78.2375美元/盎司。 COMEX白银期货涨0.82%。 COMEX铜期货跌0.67%，报5.8240美元/磅。 现货铂金跌0.32%，现货钯金跌1.45%。 （美股）费城金银指数收涨1.51%，报422.69点。 （全球时段）纽约证交所ARCA金矿开采商指数涨1.26%，报2982.07点。 （美股）原材料指数收跌0.09%，金属与矿业指数收跌0.17%。",
+          "url": "https://wallstreetcn.com/livenews/3056799",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 07时22分]"
+        },
+        {
           "title": "航空业ETF收跌将近4%，领跌美股行业ETF",
           "url": "https://wallstreetcn.com/livenews/3056775",
           "source": "华尔街见闻-快讯",
@@ -988,6 +1091,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时40分 ~ 02时41分]"
+        },
+        {
+          "title": "美股大类资产类ETF涨跌各异，布油基金涨超2.2%",
+          "url": "https://wallstreetcn.com/livenews/3056806",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "AppLovin美股盘后涨6.6%。",
+          "url": "https://wallstreetcn.com/livenews/3056801",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
         }
       ]
     },
@@ -1046,11 +1171,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 06时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时40分 ~ 07时22分]"
         },
         {
           "title": "英国政府：OpenAI和微软(MSFT.O)承诺为人工智能安全研究所的旗舰对齐项目提供新资金。",
