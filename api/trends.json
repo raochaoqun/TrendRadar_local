@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-23T01:18:51.252777+08:00",
-  "total_titles_processed": 345,
+  "generated_at": "2026-02-23T02:22:16.790924+08:00",
+  "total_titles_processed": 367,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "特朗普新加征关税税率加码至15% 美政府“越权”关税引企业诉讼潮",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 01时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 02时22分]"
         },
         {
           "title": "特朗普：原本10%的全球进口关税税率将升至15%",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 01时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 02时22分]"
         },
         {
           "title": "美国前商务部长：其他关税方案，都会削弱特朗普对华谈判筹码",
@@ -37,8 +37,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 01时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 02时22分]"
         },
         {
           "title": "美州长向特朗普发账单，要求退回87亿美元关税",
@@ -48,8 +48,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 01时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 02时22分]"
         },
         {
           "title": "日方批特朗普再加征关税：混乱环境或致日企撤离美国",
@@ -59,30 +59,30 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 01时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 02时22分]"
         },
         {
-          "title": "特朗普要求网飞开除苏珊·赖斯，司法部正审查华纳收购案",
-          "url": "https://wallstreetcn.com/livenews/3057281",
+          "title": "特朗普宣布签署行政令 加征10%全球进口关税",
+          "url": "https://www.cls.cn/detail/2292246",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 02时22分]"
+        },
+        {
+          "title": "格陵兰岛自治政府总理回应特朗普“医院船”提议",
+          "url": "https://wallstreetcn.com/livenews/3057287",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时18分"
-        },
-        {
-          "title": "一名试图闯入特朗普海湖庄园的男子被枪击身亡",
-          "url": "https://wallstreetcn.com/livenews/3057279",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时18分"
+          "time_info": "02时22分"
         },
         {
           "title": "格陵兰岛总理对美国总统特朗普派遣医疗船前往格陵兰岛的提议说：“不了，谢谢。”",
@@ -93,19 +93,32 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 01时18分]"
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 02时22分]"
         },
         {
-          "title": "特朗普宣布签署行政令 加征10%全球进口关税",
-          "url": "https://www.cls.cn/detail/2292246",
-          "source": "财联社热门",
+          "title": "特朗普要求网飞开除苏珊·赖斯，司法部正审查华纳收购案",
+          "url": "https://wallstreetcn.com/livenews/3057281",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            3,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 01时18分]"
+          "appearance_count": 2,
+          "time_info": "[01时18分 ~ 02时22分]"
+        },
+        {
+          "title": "一名试图闯入特朗普海湖庄园的男子被枪击身亡",
+          "url": "https://wallstreetcn.com/livenews/3057279",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时18分 ~ 02时22分]"
         },
         {
           "title": "特朗普：将在常规关税基础上对全球征收10%的进口关税",
@@ -124,23 +137,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 01时18分]"
-        },
-        {
-          "title": "美国总统特使：特朗普感到“好奇”，“伊朗为何还没有屈服”",
-          "url": "https://wallstreetcn.com/livenews/3057256",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21,
+            19,
             25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 01时18分]"
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 02时22分]"
         },
         {
           "title": "美国贸易代表格里尔：鉴于局势的“紧迫性”，美国总统特朗普已将10%的关税提高到15%。",
@@ -148,6 +150,18 @@
           "source": "金十数据",
           "ranks": [
             24,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 02时22分]"
+        },
+        {
+          "title": "美国总统特使：特朗普感到“好奇”，“伊朗为何还没有屈服”",
+          "url": "https://wallstreetcn.com/livenews/3057256",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21,
             25
           ],
           "is_new": false,
@@ -179,8 +193,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 01时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 02时22分]"
         },
         {
           "title": "表面风光之下，OpenAI的“四大困境”",
@@ -190,8 +204,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 01时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 02时22分]"
         }
       ]
     },
@@ -207,8 +221,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 01时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 02时22分]"
         },
         {
           "title": "过去30年来未见之局面！美股指数波动之小创1960年来之最，而个股波动率却高达指数7倍",
@@ -218,8 +232,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 01时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 02时22分]"
         }
       ]
     },
@@ -233,11 +247,12 @@
           "source": "知乎",
           "ranks": [
             12,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 01时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 02时22分]"
         }
       ]
     }
