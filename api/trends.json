@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-26T20:40:42.782236+08:00",
-  "total_titles_processed": 1770,
+  "generated_at": "2026-02-26T22:06:27.322166+08:00",
+  "total_titles_processed": 1908,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
         {
           "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
@@ -74,8 +74,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时47分 ~ 20时40分]"
+          "appearance_count": 8,
+          "time_info": "[14时47分 ~ 22时06分]"
         },
         {
           "title": "白宫官员：特朗普和泽连斯基通电话。",
@@ -102,6 +102,17 @@
           "time_info": "[03时45分 ~ 05时28分]"
         },
         {
+          "title": "特朗普政府劳工部提出有利于零工经济的工人身份认定规则。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3059618",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
+        },
+        {
           "title": "美国总统特朗普与乌克兰总统泽连斯基通电话。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3059016",
           "source": "华尔街见闻-快讯",
@@ -114,6 +125,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时56分 ~ 05时28分]"
+        },
+        {
+          "title": "特朗普白宫设宴，请美国男子冰球队吃麦当劳",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32658507",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时36分 ~ 22时06分]"
         },
         {
           "title": "梳理｜特朗普吹、民主党骂，回看美国史上最长国情咨文",
@@ -129,17 +153,15 @@
           "time_info": "[16时35分 ~ 19时33分]"
         },
         {
-          "title": "特朗普白宫设宴，请美国男子冰球队吃麦当劳",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32658507",
-          "source": "澎湃新闻",
+          "title": "特朗普和泽连斯基通话30分钟，谈及俄乌冲突结束时间",
+          "url": "https://news.ifeng.com/c/8r3yuvat2ge",
+          "source": "凤凰网",
           "ranks": [
-            16,
-            14,
-            13
+            8
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[18时36分 ~ 20时40分]"
+          "time_info": "[19时33分 ~ 22时06分]"
         },
         {
           "title": "乌克兰总统顾问：泽连斯基与特朗普举行电话会谈，会谈已结束。",
@@ -176,17 +198,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时09分 ~ 09时10分]"
-        },
-        {
-          "title": "特朗普和泽连斯基通话30分钟，谈及俄乌冲突结束时间",
-          "url": "https://news.ifeng.com/c/8r3yuvat2ge",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时33分 ~ 20时40分]"
         },
         {
           "title": "乌克兰总统泽连斯基：刚刚和美国总统特朗普通了电话。美国总统特使威特科夫和贾里德·库什纳也参加了通话。我们讨论了双方代表明天在日内瓦双边会晤中将要讨论的问题，以及三月初三方谈判团队全体会议的筹备工作。",
@@ -301,6 +312,17 @@
           "time_info": "07时21分"
         },
         {
+          "title": "特朗普威胁将教父饰演者驱逐出境",
+          "url": "https://www.toutiao.com/trending/7610586645797863478/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
+        },
+        {
           "title": "据福克斯新闻：乌克兰将在与俄罗斯举行日内瓦会谈前夕会见特朗普特使。",
           "url": "https://flash.jin10.com/detail/20260226003354542800",
           "source": "金十数据",
@@ -348,7 +370,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 18,
       "titles": [
         {
           "title": "科技股带领美股连涨两日，英伟达盘后一度涨3%，人民币涨近250点，加密货币大反弹",
@@ -359,8 +381,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时21分 ~ 20时40分]"
+          "appearance_count": 14,
+          "time_info": "[07时21分 ~ 22时06分]"
         },
         {
           "title": "静待英伟达财报，美股指高开，纳指涨幅扩大至1%，科技股普涨，现货黄金日内涨超1%",
@@ -412,6 +434,39 @@
           "time_info": "[18时36分 ~ 19时33分]"
         },
         {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3059616",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
+        },
+        {
+          "title": "英伟达“答卷”难解AI担忧，美股三大期指集体下跌，存储盘前走强，金涨银跌，油价大幅上涨",
+          "url": "https://wallstreetcn.com/articles/3766225",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
+        },
+        {
+          "title": "美股三大期指集体走高 英伟达盘前上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2296406",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
+        },
+        {
           "title": "网络股指数ETF收涨约2.3%，领跑美股行业ETF",
           "url": "https://wallstreetcn.com/livenews/3059060",
           "source": "华尔街见闻-快讯",
@@ -421,6 +476,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
+        },
+        {
+          "title": "Stellantis美股盘前涨超4%，报道称公司考虑引入零跑汽车技术，降低欧洲电动车成本。",
+          "url": "https://wallstreetcn.com/livenews/3059610",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
         },
         {
           "title": "爱奇艺(IQ.O)美股盘前涨5%，此前公布的财报显示第四季度营收有所增长。",
@@ -487,6 +553,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
+        },
+        {
+          "title": "赫兹租车第四季度总营收20.3亿美元，市场预期20亿美元。 第四季度调整后每股亏损63美分，市场预期每股亏损52美分。 赫兹租车美股盘前跌近10%。",
+          "url": "https://wallstreetcn.com/livenews/3059601",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
         },
         {
           "title": "金十图示：2026年02月25日（周三）美股热门股票行情一览（美股盘中）",
