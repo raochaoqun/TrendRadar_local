@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-26T19:33:57.243963+08:00",
-  "total_titles_processed": 1674,
+  "generated_at": "2026-02-26T20:40:42.782236+08:00",
+  "total_titles_processed": 1770,
   "failed_sources": [],
   "trends": [
     {
@@ -67,6 +67,17 @@
           "time_info": "[12时07分 ~ 17时39分]"
         },
         {
+          "title": "美向以部署 11 架 F-22 战斗机，并在伊周边集结航母，特朗普发出最后通牒，伊朗为何「还不屈服」？",
+          "url": "https://www.zhihu.com/question/2009941400440025198",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时47分 ~ 20时40分]"
+        },
+        {
           "title": "白宫官员：特朗普和泽连斯基通电话。",
           "url": "https://flash.jin10.com/detail/20260226022519108800",
           "source": "金十数据",
@@ -89,17 +100,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时45分 ~ 05时28分]"
-        },
-        {
-          "title": "美向以部署 11 架 F-22 战斗机，并在伊周边集结航母，特朗普发出最后通牒，伊朗为何「还不屈服」？",
-          "url": "https://www.zhihu.com/question/2009941400440025198",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时47分 ~ 19时33分]"
         },
         {
           "title": "美国总统特朗普与乌克兰总统泽连斯基通电话。（Axios）",
@@ -127,6 +127,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时35分 ~ 19时33分]"
+        },
+        {
+          "title": "特朗普白宫设宴，请美国男子冰球队吃麦当劳",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32658507",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时36分 ~ 20时40分]"
         },
         {
           "title": "乌克兰总统顾问：泽连斯基与特朗普举行电话会谈，会谈已结束。",
@@ -165,6 +178,17 @@
           "time_info": "[09时09分 ~ 09时10分]"
         },
         {
+          "title": "特朗普和泽连斯基通话30分钟，谈及俄乌冲突结束时间",
+          "url": "https://news.ifeng.com/c/8r3yuvat2ge",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时33分 ~ 20时40分]"
+        },
+        {
           "title": "乌克兰总统泽连斯基：刚刚和美国总统特朗普通了电话。美国总统特使威特科夫和贾里德·库什纳也参加了通话。我们讨论了双方代表明天在日内瓦双边会晤中将要讨论的问题，以及三月初三方谈判团队全体会议的筹备工作。",
           "url": "https://flash.jin10.com/detail/20260226033018187800",
           "source": "金十数据",
@@ -200,18 +224,6 @@
           "time_info": "[09时09分 ~ 09时10分]"
         },
         {
-          "title": "特朗普白宫设宴，请美国男子冰球队吃麦当劳",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32658507",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时36分 ~ 19时33分]"
-        },
-        {
           "title": "特朗普把国情咨文演讲开成吹牛大会",
           "url": "https://www.toutiao.com/trending/7611003629566168602/",
           "source": "今日头条",
@@ -232,17 +244,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
-        },
-        {
-          "title": "特朗普和泽连斯基通话30分钟，谈及俄乌冲突结束时间",
-          "url": "https://news.ifeng.com/c/8r3yuvat2ge",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时33分"
         },
         {
           "title": "市场消息：特朗普目前正在与泽连斯基通电话。",
@@ -358,8 +359,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时21分 ~ 19时33分]"
+          "appearance_count": 13,
+          "time_info": "[07时21分 ~ 20时40分]"
         },
         {
           "title": "静待英伟达财报，美股指高开，纳指涨幅扩大至1%，科技股普涨，现货黄金日内涨超1%",
