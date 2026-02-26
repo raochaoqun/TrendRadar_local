@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T06:23:16.826600+08:00",
-  "total_titles_processed": 631,
+  "generated_at": "2026-02-27T07:21:45.177643+08:00",
+  "total_titles_processed": 701,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "特朗普和泽连斯基通话30分钟，谈及俄乌冲突结束时间",
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时46分 ~ 06时23分]"
+          "appearance_count": 11,
+          "time_info": "[00时46分 ~ 07时21分]"
         },
         {
           "title": "美向以部署 11 架 F-22 战斗机，并在伊周边集结航母，特朗普发出最后通牒，伊朗为何「还不屈服」？",
@@ -26,11 +26,12 @@
             11,
             16,
             18,
-            17
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时46分 ~ 06时23分]"
+          "appearance_count": 11,
+          "time_info": "[00时46分 ~ 07时21分]"
         },
         {
           "title": "特朗普白宫设宴，请美国男子冰球队吃麦当劳",
@@ -41,8 +42,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时46分 ~ 06时23分]"
+          "appearance_count": 11,
+          "time_info": "[00时46分 ~ 07时21分]"
         },
         {
           "title": "据《今日以色列》：美国官员称，特朗普预计将在周五召集高级顾问，详细讨论伊朗问题，并决定对德黑兰的行动方针。讨论的重点不是袭击是否会发生，而是其范围和潜在目标。官员表示，讨论的选项包括核设施、导弹基地、国家机构和基础设施。",
@@ -51,18 +52,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时23分"
-        },
-        {
-          "title": "周四（2月26日），降息赢家指数涨1.02%。 “特朗普关税输家”指数涨0.97%，“特朗普金融指数”涨1.11%。 散户抱团概念股指数/迷因股（meme stock）指数涨3.57%。",
-          "url": "https://wallstreetcn.com/livenews/3059780",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
         },
@@ -143,6 +133,18 @@
           "time_info": "[05时25分 ~ 06时23分]"
         },
         {
+          "title": "周四（2月26日），降息赢家指数涨1.02%。 “特朗普关税输家”指数涨0.97%，“特朗普金融指数”涨1.11%。 散户抱团概念股指数/迷因股（meme stock）指数涨3.57%。",
+          "url": "https://wallstreetcn.com/livenews/3059780",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时23分 ~ 07时21分]"
+        },
+        {
           "title": "美国参议院民主党成员Warren发函货币监理署（OCC）、联邦存款保险公司（FDID）、以及EREBOR Bank。 Warren向亚马逊询问，总统特朗普的关税是否造成（该公司）涨价。",
           "url": "https://wallstreetcn.com/livenews/3059695",
           "source": "华尔街见闻-快讯",
@@ -175,6 +177,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时52分"
+        },
+        {
+          "title": "美国纽约市长Mandani与总统特朗普讨论修建1.2万套住房的想法。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3059806",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
         },
         {
           "title": "媒体：特朗普旨在借能源让古巴更加依赖美国",
@@ -279,7 +292,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 14,
       "titles": [
         {
           "title": "科技股带领美股连涨两日，英伟达盘后一度涨3%，人民币涨近250点，加密货币大反弹",
@@ -289,19 +302,31 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时46分 ~ 06时23分]"
+          "appearance_count": 11,
+          "time_info": "[00时46分 ~ 07时21分]"
         },
         {
           "title": "美股三大期指集体走高 英伟达盘前上涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2296406",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时46分 ~ 06时23分]"
+          "appearance_count": 11,
+          "time_info": "[00时46分 ~ 07时21分]"
+        },
+        {
+          "title": "美股收盘：英伟达绩后再现惯性跳水 拖累纳指跌超1%",
+          "url": "https://www.cls.cn/detail/2296570",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
         },
         {
           "title": "戴尔(DELL.N)美股盘后涨幅扩大至12%。",
@@ -310,9 +335,31 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
+        },
+        {
+          "title": "奈飞(NFLX.O)美股盘后大涨近8%。",
+          "url": "https://flash.jin10.com/detail/20260227064744288800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "奈飞拒绝像派拉蒙（Paramount SkyDance）那样提高收购华纳兄弟探索公司（WBD）的报价。 这笔（潜在的）收购交易不再具有财务魅力。 本来，这笔交易有望创造股东价值。 奈飞将恢复股票回购计划。 奈飞美股盘后涨约8%。",
+          "url": "https://wallstreetcn.com/livenews/3059808",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
         },
         {
           "title": "美股七巨头收盘播报｜周四（2月26日），美国科技股七巨头（Magnificent 7）指数跌1.89%，报196.96点，美股早盘持续走低，北京时间23:34刷新日低至195.64点，随后持续低位震荡。",
@@ -321,7 +368,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
         },
@@ -332,7 +379,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
         },
@@ -343,7 +390,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
         },
@@ -354,9 +401,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
+        },
+        {
+          "title": "CoreWeave美股盘后跌幅扩大至12%。",
+          "url": "https://wallstreetcn.com/livenews/3059799",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
         },
         {
           "title": "金十图示：2026年02月26日（周四）热门中概股行情一览（美股收盘）",
@@ -365,7 +423,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
         },
@@ -376,7 +434,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
         },
@@ -387,7 +445,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
         }
@@ -398,17 +456,6 @@
       "match_count": 9,
       "titles": [
         {
-          "title": "谷歌公司在谷歌翻译中推出基于人工智能（AI）的功能。 谷歌与Mass. AI启动新款训练试点。",
-          "url": "https://wallstreetcn.com/livenews/3059781",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时23分"
-        },
-        {
           "title": "谷歌推出最新图像模型Nano Banana 2",
           "url": "https://flash.jin10.com/detail/20260227001845830800",
           "source": "金十数据",
@@ -418,6 +465,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时46分"
+        },
+        {
+          "title": "谷歌公司在谷歌翻译中推出基于人工智能（AI）的功能。 谷歌与Mass. AI启动新款训练试点。",
+          "url": "https://wallstreetcn.com/livenews/3059781",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时23分 ~ 07时21分]"
         },
         {
           "title": "谷歌：推出更快版本的最新图像模型Nano Banana 2，并将在谷歌旗下各产品中逐步上线。",
@@ -502,6 +561,46 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "据华尔街日报：OpenAI创始人Sam Altman的Tools for Humanity与Gap、Visa、Tinder合作，推广World ID人类验证产品（区分人类与机器人的身份验证技术）。",
+          "url": "https://flash.jin10.com/detail/20260227025809636800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时38分 ~ 04时27分]"
+        },
+        {
+          "title": "OpenAI：已解决ChatGPT相关问题。",
+          "url": "https://flash.jin10.com/detail/20260227000316365800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时46分"
+        },
+        {
+          "title": "OpenAI：将与加拿大执法机构建立直接联系渠道，承诺与加拿大政府和专家合作，继续强化我们的强化执法转介标准。",
+          "url": "https://flash.jin10.com/detail/20260227062334976800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 3,
       "titles": [
@@ -542,35 +641,6 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "据华尔街日报：OpenAI创始人Sam Altman的Tools for Humanity与Gap、Visa、Tinder合作，推广World ID人类验证产品（区分人类与机器人的身份验证技术）。",
-          "url": "https://flash.jin10.com/detail/20260227025809636800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时38分 ~ 04时27分]"
-        },
-        {
-          "title": "OpenAI：已解决ChatGPT相关问题。",
-          "url": "https://flash.jin10.com/detail/20260227000316365800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时46分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek",
       "match_count": 1,
       "titles": [
@@ -585,6 +655,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时25分 ~ 06时23分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Claude",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据AXIOS：Anthropic首席执行官表示，昨晚收到的五角大楼合同条款在防止Claude被用于大规模监视方面几乎没有取得任何进展。公司仍致力于继续谈判。",
+          "url": "https://flash.jin10.com/detail/20260227063415951800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
         }
       ]
     }
