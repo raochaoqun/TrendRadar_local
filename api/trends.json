@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T07:21:45.177643+08:00",
-  "total_titles_processed": 701,
+  "generated_at": "2026-02-27T09:09:15.240750+08:00",
+  "total_titles_processed": 845,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "特朗普和泽连斯基通话30分钟，谈及俄乌冲突结束时间",
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时46分 ~ 07时21分]"
+          "appearance_count": 13,
+          "time_info": "[00时46分 ~ 09时09分]"
         },
         {
           "title": "美向以部署 11 架 F-22 战斗机，并在伊周边集结航母，特朗普发出最后通牒，伊朗为何「还不屈服」？",
@@ -39,11 +39,12 @@
           "source": "澎湃新闻",
           "ranks": [
             13,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时46分 ~ 07时21分]"
+          "appearance_count": 13,
+          "time_info": "[00时46分 ~ 09时09分]"
         },
         {
           "title": "据《今日以色列》：美国官员称，特朗普预计将在周五召集高级顾问，详细讨论伊朗问题，并决定对德黑兰的行动方针。讨论的重点不是袭击是否会发生，而是其范围和潜在目标。官员表示，讨论的选项包括核设施、导弹基地、国家机构和基础设施。",
@@ -157,6 +158,17 @@
           "time_info": "[01时52分 ~ 02时39分]"
         },
         {
+          "title": "AI挤崩电网、引爆电费？特朗普要求科技巨头自建电厂压电价",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32660479",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时08分 ~ 09时09分]"
+        },
+        {
           "title": "特朗普威胁驱逐教父饰演者",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E9%A9%B1%E9%80%90%E6%95%99%E7%88%B6%E9%A5%B0%E6%BC%94%E8%80%85%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
@@ -185,7 +197,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -287,6 +299,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时39分"
+        },
+        {
+          "title": "特朗普周四听取了有关伊朗军事选项的简报。（ABC）",
+          "url": "https://wallstreetcn.com/livenews/3059856",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时09分"
         }
       ]
     },
@@ -314,19 +337,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时46分 ~ 07时21分]"
+          "appearance_count": 13,
+          "time_info": "[00时46分 ~ 09时09分]"
         },
         {
           "title": "美股收盘：英伟达绩后再现惯性跳水 拖累纳指跌超1%",
           "url": "https://www.cls.cn/detail/2296570",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时21分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时21分 ~ 09时09分]"
         },
         {
           "title": "戴尔(DELL.N)美股盘后涨幅扩大至12%。",
@@ -346,7 +370,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -357,7 +381,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -412,7 +436,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -453,7 +477,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "谷歌推出最新图像模型Nano Banana 2",
@@ -502,6 +526,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时39分 ~ 04时27分]"
+        },
+        {
+          "title": "谷歌Nano Banana 2亮相：专业能力全面下放 成本腰斩一半",
+          "url": "https://www.cls.cn/detail/2296526",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时08分 ~ 09时09分]"
         },
         {
           "title": "谷歌：谷歌翻译App在美国和印度上线AI驱动的新功能，网页版也将很快推出。",
@@ -562,7 +597,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "据华尔街日报：OpenAI创始人Sam Altman的Tools for Humanity与Gap、Visa、Tinder合作，推广World ID人类验证产品（区分人类与机器人的身份验证技术）。",
@@ -575,6 +610,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时38分 ~ 04时27分]"
+        },
+        {
+          "title": "OpenAI向加拿大官员作出多项承诺，将加强安全机制",
+          "url": "https://wallstreetcn.com/livenews/3059885",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时09分"
         },
         {
           "title": "OpenAI：已解决ChatGPT相关问题。",
@@ -594,7 +640,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         }
@@ -641,6 +687,34 @@
       ]
     },
     {
+      "keyword_group": "Claude",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "全球最大主权财富基金用Claude“扫雷”：问题公司24小时现形",
+          "url": "https://www.cls.cn/detail/2296527",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时08分 ~ 09时09分]"
+        },
+        {
+          "title": "据AXIOS：Anthropic首席执行官表示，昨晚收到的五角大楼合同条款在防止Claude被用于大规模监视方面几乎没有取得任何进展。公司仍致力于继续谈判。",
+          "url": "https://flash.jin10.com/detail/20260227063415951800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek",
       "match_count": 1,
       "titles": [
@@ -655,23 +729,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时25分 ~ 06时23分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Claude",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "据AXIOS：Anthropic首席执行官表示，昨晚收到的五角大楼合同条款在防止Claude被用于大规模监视方面几乎没有取得任何进展。公司仍致力于继续谈判。",
-          "url": "https://flash.jin10.com/detail/20260227063415951800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时21分"
         }
       ]
     }
