@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T18:29:00.832950+08:00",
-  "total_titles_processed": 1582,
+  "generated_at": "2026-02-27T19:26:01.161098+08:00",
+  "total_titles_processed": 1689,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "特朗普和泽连斯基通话30分钟，谈及俄乌冲突结束时间",
@@ -60,8 +60,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时08分 ~ 18时29分]"
+          "appearance_count": 14,
+          "time_info": "[09时08分 ~ 19时26分]"
         },
         {
           "title": "史无前例！联合国宣布特朗普夫人将主持安理会会议",
@@ -73,6 +73,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[15时39分 ~ 18时29分]"
+        },
+        {
+          "title": "美军中东最高指挥官向特朗普汇报",
+          "url": "https://www.toutiao.com/trending/7611361368545280036/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            9,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时31分 ~ 19时26分]"
         },
         {
           "title": "据《今日以色列》：美国官员称，特朗普预计将在周五召集高级顾问，详细讨论伊朗问题，并决定对德黑兰的行动方针。讨论的重点不是袭击是否会发生，而是其范围和潜在目标。官员表示，讨论的选项包括核设施、导弹基地、国家机构和基础设施。",
@@ -103,7 +116,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
         },
@@ -120,6 +133,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时52分 ~ 04时27分]"
+        },
+        {
+          "title": "爱泼斯坦案风波延烧，希拉里一句话把矛头指向特朗普",
+          "url": "https://news.ifeng.com/c/8r5SIs2UIPN",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时32分 ~ 19时26分]"
         },
         {
           "title": "【伊美间接谈判结束 斡旋方称谈判“取得重大进展”】总台记者获悉，当地时间2月26日，伊美第三轮间接谈判结束。阿曼外交大臣巴德尔表示，在双方同各自国家政府进行磋商后，各方将尽快举行下一轮谈判。技术层面的谈判将于下周在维也纳举行。巴德尔通过其社交媒体发文表示，当天日内瓦谈判“取得重大进展”。不过，此前谈判仍在进行时有美方消息传出，称美国总统特使威特科夫和特朗普女婿库什纳对伊朗代表团在上午谈判中的表态感到失望。伊朗与美国的第三轮间接谈判26日在瑞士日内瓦举行。此次谈判由阿曼斡旋，在阿曼驻日内瓦外交代表机构举行。伊朗外交部长阿拉格齐率领伊朗代表团参加谈判，美方谈判代表是美国总统特使威特科夫和美国总统特朗普的女婿库什纳。（央视）",
@@ -208,18 +233,6 @@
           "time_info": "[12时04分 ~ 13时45分]"
         },
         {
-          "title": "美军中东最高指挥官向特朗普汇报",
-          "url": "https://www.toutiao.com/trending/7611361368545280036/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时31分 ~ 18时29分]"
-        },
-        {
           "title": "白宫：特朗普愿在无前提条件下与金正恩对话",
           "url": "https://news.ifeng.com/c/8r4zqmCwYJf",
           "source": "凤凰网",
@@ -229,17 +242,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时44分 ~ 14时40分]"
-        },
-        {
-          "title": "爱泼斯坦案风波延烧，希拉里一句话把矛头指向特朗普",
-          "url": "https://news.ifeng.com/c/8r5SIs2UIPN",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时32分 ~ 18时29分]"
         },
         {
           "title": "特朗普2026国会演讲全解析",
@@ -307,6 +309,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时39分"
+        },
+        {
+          "title": "民调显示，68%的美国人表示，尽管特朗普声称美国经济正在繁荣，但他们并不认为如此。82%的美国人表示美国仍然存在显著的通货膨胀。",
+          "url": "https://flash.jin10.com/detail/20260227190305454800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
         },
         {
           "title": "市场消息：希拉里·克林顿将告诉监督委员会成员，应当要求特朗普就爱泼斯坦档案在宣誓情况下作出说明。",
@@ -798,11 +811,12 @@
             5,
             26,
             18,
-            15
+            15,
+            27
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时44分 ~ 18时29分]"
+          "appearance_count": 11,
+          "time_info": "[13时44分 ~ 19时26分]"
         },
         {
           "title": "据华尔街日报：OpenAI创始人Sam Altman的Tools for Humanity与Gap、Visa、Tinder合作，推广World ID人类验证产品（区分人类与机器人的身份验证技术）。",
