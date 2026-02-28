@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-28T17:18:16.207803+08:00",
-  "total_titles_processed": 1497,
+  "generated_at": "2026-02-28T18:14:49.805538+08:00",
+  "total_titles_processed": 1618,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 128,
+      "match_count": 135,
       "titles": [
         {
           "title": "专访｜打击伊核设施“刺激”特朗普军事冒进，以色列欲再推美国动武",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时03分 ~ 17时18分]"
+          "appearance_count": 9,
+          "time_info": "[09时03分 ~ 18时14分]"
         },
         {
           "title": "【早报】证监会召开重磅会议，吴清发声；特朗普警告伊朗“有时候不得不打”",
@@ -29,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时46分 ~ 17时18分]"
+          "appearance_count": 8,
+          "time_info": "[11时46分 ~ 18时14分]"
         },
         {
           "title": "多国撤人，航母抵以，美国要边打边谈？特朗普称美伊将继续谈判、警告“有时不得不打”",
@@ -42,8 +42,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时03分 ~ 17时18分]"
+          "appearance_count": 9,
+          "time_info": "[09时03分 ~ 18时14分]"
         },
         {
           "title": "美军中东最高指挥官向特朗普汇报",
@@ -71,6 +71,21 @@
           "time_info": "[11时46分 ~ 15时20分]"
         },
         {
+          "title": "多国撤人、双航母就位，特朗普就伊朗问题释放最新信号",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32669796",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            11,
+            12,
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时03分 ~ 18时14分]"
+        },
+        {
           "title": "爱泼斯坦案风波延烧，希拉里一句话把矛头指向特朗普",
           "url": "https://news.ifeng.com/c/8r5SIs2UIPN",
           "source": "凤凰网",
@@ -80,20 +95,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时29分 ~ 07时16分]"
-        },
-        {
-          "title": "多国撤人、双航母就位，特朗普就伊朗问题释放最新信号",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32669796",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            11,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时03分 ~ 17时18分]"
         },
         {
           "title": "释疑｜特朗普再出重拳，美国用了哪些杀招让古巴“窒息”？",
@@ -106,17 +107,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时29分 ~ 06时15分]"
-        },
-        {
-          "title": "特朗普宣布打击伊朗",
-          "url": "https://www.douyin.com/hot/2414412",
-          "source": "抖音",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时18分 ~ 17时18分]"
         },
         {
           "title": "特朗普对伊核谈判不满",
@@ -139,6 +129,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
+        },
+        {
+          "title": "特朗普透露美伊将继续谈判 但警告“有时候不得不打”",
+          "url": "https://www.cls.cn/detail/2297953",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时26分 ~ 18时14分]"
+        },
+        {
+          "title": "完整视频！特朗普就袭击伊朗发声明：我们不能再容忍了",
+          "url": "https://news.ifeng.com/c/8r7ACm4yay5",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
         },
         {
           "title": "特朗普发布白宫宴会厅完工效果图，称其为“同类建筑中最宏伟的一座”。",
@@ -180,7 +193,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
         },
@@ -207,6 +220,29 @@
           "time_info": "06时15分"
         },
         {
+          "title": "美国总统特朗普预计将于当地时间周六上午再次向全国发表讲话。（AXIOS)",
+          "url": "https://wallstreetcn.com/livenews/3060783",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
+        },
+        {
+          "title": "特朗普宣布打击伊朗",
+          "url": "https://www.douyin.com/hot/2414412",
+          "source": "抖音",
+          "ranks": [
+            2,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时18分 ~ 18时14分]"
+        },
+        {
           "title": "美国总统特朗普：汽油价格正在大幅下降。",
           "url": "https://flash.jin10.com/detail/20260228020904700800",
           "source": "金十数据",
@@ -218,16 +254,17 @@
           "time_info": "02时28分"
         },
         {
-          "title": "特朗普透露美伊将继续谈判 但警告“有时候不得不打”",
-          "url": "https://www.cls.cn/detail/2297953",
-          "source": "财联社热门",
+          "title": "特朗普宣布打击伊朗",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E6%89%93%E5%87%BB%E4%BC%8A%E6%9C%97",
+          "source": "bilibili 热搜",
           "ranks": [
+            1,
             12,
-            13
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时26分 ~ 17时18分]"
+          "appearance_count": 3,
+          "time_info": "[16时18分 ~ 18时14分]"
         },
         {
           "title": "美国总统特朗普：我们看看伊朗局势将如何发展，一切都会有好的结果。",
@@ -241,18 +278,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时28分 ~ 04时19分]"
-        },
-        {
-          "title": "特朗普宣布打击伊朗",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E6%89%93%E5%87%BB%E4%BC%8A%E6%9C%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时18分 ~ 17时18分]"
         },
         {
           "title": "美国总统特朗普谈伊朗：得达成有意义的协议才行。",
@@ -464,6 +489,19 @@
           "time_info": "[02时28分 ~ 04时19分]"
         },
         {
+          "title": "特朗普称美军对伊朗进行军事打击",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E5%86%9B%E5%AF%B9%E4%BC%8A%E6%9C%97%E8%BF%9B%E8%A1%8C%E5%86%9B%E4%BA%8B%E6%89%93%E5%87%BB",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时18分 ~ 18时14分]"
+        },
+        {
           "title": "“特朗普的安全芭比”，危险了",
           "url": "https://news.ifeng.com/c/8r6sxbP9dJN",
           "source": "凤凰网",
@@ -524,6 +562,18 @@
           "time_info": "[07时16分 ~ 09时03分]"
         },
         {
+          "title": "特朗普：将彻底摧毁伊朗海军",
+          "url": "https://www.toutiao.com/trending/7611423404086247467/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时18分 ~ 18时14分]"
+        },
+        {
           "title": "美国总统特朗普：感谢委内瑞拉，我们双方目前关系良好。",
           "url": "https://flash.jin10.com/detail/20260228055815726800",
           "source": "金十数据",
@@ -558,18 +608,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时46分 ~ 12时48分]"
-        },
-        {
-          "title": "特朗普称美军对伊朗进行军事打击",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E5%86%9B%E5%AF%B9%E4%BC%8A%E6%9C%97%E8%BF%9B%E8%A1%8C%E5%86%9B%E4%BA%8B%E6%89%93%E5%87%BB",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时18分 ~ 17时18分]"
         },
         {
           "title": "特朗普发文呼吁最高法院重审或再审其关税政策案",
@@ -739,6 +777,18 @@
           "time_info": "[16时18分 ~ 17时18分]"
         },
         {
+          "title": "特朗普表示将彻底摧毁伊朗海军",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%A1%A8%E7%A4%BA%E5%B0%86%E5%BD%BB%E5%BA%95%E6%91%A7%E6%AF%81%E4%BC%8A%E6%9C%97%E6%B5%B7%E5%86%9B%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时18分 ~ 18时14分]"
+        },
+        {
           "title": "特朗普就伊朗问题释放最新信号",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%B1%E4%BC%8A%E6%9C%97%E9%97%AE%E9%A2%98%E9%87%8A%E6%94%BE%E6%9C%80%E6%96%B0%E4%BF%A1%E5%8F%B7",
           "source": "百度热搜",
@@ -827,6 +877,17 @@
           "time_info": "02时28分"
         },
         {
+          "title": "据AXIOS网站：美国总统特朗普预计将于当地时间周六上午再次向全国发表讲话。",
+          "url": "https://flash.jin10.com/detail/20260228180442504800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
+        },
+        {
           "title": "美国总统特朗普：国务卿鲁比奥正“在非常高的层面”处理古巴问题。",
           "url": "https://flash.jin10.com/detail/20260228020403832800",
           "source": "金十数据",
@@ -913,6 +974,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时26分"
+        },
+        {
+          "title": "特朗普",
+          "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
         },
         {
           "title": "伊朗同意不拥有「可制造核弹的核材料」，特朗普称「更愿和平解决问题」，美伊局势是否会有缓和？",
@@ -1025,6 +1097,17 @@
           "time_info": "07时16分"
         },
         {
+          "title": "特朗普呼吁伊朗政权更迭，他在打什么主意？能如愿吗？",
+          "url": "https://www.zhihu.com/question/2011106976499724764",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
+        },
+        {
           "title": "美国联邦住房金融局局长普尔特：抵押贷款利率降至5%区间！感谢特朗普总统！",
           "url": "https://flash.jin10.com/detail/20260228031931827800",
           "source": "金十数据",
@@ -1042,7 +1125,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
         },
@@ -1130,7 +1213,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
         },
@@ -1223,6 +1306,17 @@
           "time_info": "16时18分"
         },
         {
+          "title": "特朗普：等行动结束接管伊朗政府",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%AD%89%E8%A1%8C%E5%8A%A8%E7%BB%93%E6%9D%9F%E6%8E%A5%E7%AE%A1%E4%BC%8A%E6%9C%97%E6%94%BF%E5%BA%9C",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
+        },
+        {
           "title": "美国总统特朗普：应称为“拯救美国法案”（Save America Act），而不是“Save Act”。共和党人必须开始使用“拯救美国法案”这一说法——更具力度，也更具描述性。",
           "url": "https://flash.jin10.com/detail/20260228022930909800",
           "source": "金十数据",
@@ -1278,17 +1372,6 @@
           "time_info": "02时28分"
         },
         {
-          "title": "特朗普：将彻底摧毁伊朗海军",
-          "url": "https://www.toutiao.com/trending/7611423404086247467/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时18分"
-        },
-        {
           "title": "美国总统特朗普：我们的目标是通过消除伊朗政权的迫切威胁来保护美国民众。",
           "url": "https://flash.jin10.com/detail/20260228153644862800",
           "source": "金十数据",
@@ -1320,6 +1403,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时18分"
+        },
+        {
+          "title": "特朗普喊话伊朗：放下武器",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%96%8A%E8%AF%9D%E4%BC%8A%E6%9C%97%EF%BC%9A%E6%94%BE%E4%B8%8B%E6%AD%A6%E5%99%A8",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
         },
         {
           "title": "特朗普透露美伊将继续谈判 并警告“有时候不得不打”",
@@ -1361,7 +1455,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
         },
@@ -1405,7 +1499,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
         },
@@ -1443,17 +1537,6 @@
           "time_info": "16时18分"
         },
         {
-          "title": "特朗普表示将彻底摧毁伊朗海军",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%A1%A8%E7%A4%BA%E5%B0%86%E5%BD%BB%E5%BA%95%E6%91%A7%E6%AF%81%E4%BC%8A%E6%9C%97%E6%B5%B7%E5%86%9B%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时18分"
-        },
-        {
           "title": "美国总统特朗普：伊朗最好聪明点，达成协议。",
           "url": "https://flash.jin10.com/detail/20260228014247967800",
           "source": "金十数据",
@@ -1471,7 +1554,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
         }
@@ -1494,8 +1577,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[05时20分 ~ 17时18分]"
+          "appearance_count": 12,
+          "time_info": "[05时20分 ~ 18时14分]"
         },
         {
           "title": "亚马逊、英伟达和软银豪掷1100亿美元 OpenAI估值冲至7300亿美元",
@@ -1522,6 +1605,20 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时29分 ~ 07时16分]"
+        },
+        {
+          "title": "解读OpenAI获千亿美元投资背后",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBOpenAI%E8%8E%B7%E5%8D%83%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84%E8%83%8C%E5%90%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            16,
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时26分 ~ 18时14分]"
         },
         {
           "title": "消息人士称，英伟达正准备推出一款专用芯片，以撼动人工智能计算领域的竞争格局。OpenAI即将成为英伟达新款处理器的最大客户之一。",
@@ -1612,20 +1709,6 @@
           "time_info": "[03时27分 ~ 04时19分]"
         },
         {
-          "title": "解读OpenAI获千亿美元投资背后",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBOpenAI%E8%8E%B7%E5%8D%83%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84%E8%83%8C%E5%90%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            16,
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时26分 ~ 17时18分]"
-        },
-        {
           "title": "OpenAI创始人奥尔特曼：我们也会构建技术安全措施，以确保我们的模型按预期运行，美国国防部也希望如此。",
           "url": "https://flash.jin10.com/detail/20260228105824885800",
           "source": "金十数据",
@@ -1686,7 +1769,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "美PPI、伊朗局势、私募危机拖累美股，道指跌1%，10年期美债收益率跌破4%，金银油涨",
@@ -1697,8 +1780,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时03分 ~ 17时18分]"
+          "appearance_count": 9,
+          "time_info": "[09时03分 ~ 18时14分]"
+        },
+        {
+          "title": "美股收盘：英伟达再度蒸发万亿市值 金融板块全线重挫",
+          "url": "https://www.cls.cn/detail/2297908",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时16分 ~ 18时14分]"
         },
         {
           "title": "超预期PPI打压降息预期，AI担忧发酵，美股指集体低开，金银油携手大涨，美债上扬，人民币贬近150点",
@@ -1714,19 +1810,6 @@
           "time_info": "[00时29分 ~ 06时15分]"
         },
         {
-          "title": "美股收盘：英伟达再度蒸发万亿市值 金融板块全线重挫",
-          "url": "https://www.cls.cn/detail/2297908",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时16分 ~ 17时18分]"
-        },
-        {
           "title": "伊朗局势演变会如何影响美股、黄金和原油？一文读懂",
           "url": "https://www.cls.cn/detail/2298093",
           "source": "财联社热门",
@@ -1735,8 +1818,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时20分 ~ 17时18分]"
+          "appearance_count": 4,
+          "time_info": "[15时20分 ~ 18时14分]"
         },
         {
           "title": "地缘政治与信贷担忧拖累美股，道指跌1%，10年期美债收益率跌破4%，金银拉升，原油走强",
@@ -1783,6 +1866,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时46分"
+        },
+        {
+          "title": "以色列突袭伊朗，正准备 4 天的联合进攻，原油、黄金、美股接下来怎么走？",
+          "url": "https://www.zhihu.com/question/2011096140146286806",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
         },
         {
           "title": "美股金银指数收涨超1.6%，历史上首次站上470点，2月份累涨23%",
