@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-01T21:34:10.279506+08:00",
-  "total_titles_processed": 1735,
+  "generated_at": "2026-03-01T22:17:01.489388+08:00",
+  "total_titles_processed": 1790,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时13分 ~ 21时34分]"
+          "appearance_count": 15,
+          "time_info": "[12时13分 ~ 22时17分]"
         },
         {
           "title": "伊朗媒体说伊朗总统等将领导国家，特朗普：外交解决方案仍“易于”达成，已有可执掌伊朗政权的“合适人选”",
@@ -43,8 +43,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时13分 ~ 21时34分]"
+          "appearance_count": 15,
+          "time_info": "[12时13分 ~ 22时17分]"
         },
         {
           "title": "高市早苗当众施压下属：别让我在特朗普面前难堪！网友：职场霸凌",
@@ -93,11 +93,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时13分 ~ 21时34分]"
+          "appearance_count": 15,
+          "time_info": "[12时13分 ~ 22时17分]"
         },
         {
           "title": "实时更新丨特朗普宣布哈梅内伊已死",
@@ -109,6 +110,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时14分 ~ 09时18分]"
+        },
+        {
+          "title": "特朗普不怕油价？报道称美国不考虑释放战略原油储备，而OPEC+考虑增产",
+          "url": "https://wallstreetcn.com/articles/3766448",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时13分 ~ 22时17分]"
         },
         {
           "title": "特朗普：伊朗最高领袖哈梅内伊已身亡",
@@ -374,18 +388,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时14分 ~ 07时14分]"
-        },
-        {
-          "title": "特朗普不怕油价？报道称美国不考虑释放战略原油储备，而OPEC+考虑增产",
-          "url": "https://wallstreetcn.com/articles/3766448",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时13分 ~ 21时34分]"
         },
         {
           "title": "美国副总统万斯、能源部长Wright、财政部长贝森特陪同总统特朗普监督美军与以色列袭击伊朗的过程。（NBC）",
@@ -898,7 +900,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时34分"
         },
@@ -992,8 +994,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时16分 ~ 21时34分]"
+          "appearance_count": 28,
+          "time_info": "[00时16分 ~ 22时17分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：不会执行违宪命令",
