@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-01T17:20:54.504271+08:00",
-  "total_titles_processed": 1394,
+  "generated_at": "2026-03-01T18:16:14.405822+08:00",
+  "total_titles_processed": 1472,
   "failed_sources": [],
   "trends": [
     {
@@ -17,6 +17,34 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时16分 ~ 09时18分]"
+        },
+        {
+          "title": "美以空袭致伊近千人伤亡 特朗普称哈梅内伊“已死” 伊朗否认",
+          "url": "https://wallstreetcn.com/articles/3766446",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            5,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时13分 ~ 18时16分]"
+        },
+        {
+          "title": "伊朗媒体说伊朗总统等将领导国家，特朗普：外交解决方案仍“易于”达成，已有可执掌伊朗政权的“合适人选”",
+          "url": "https://wallstreetcn.com/articles/3766454",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时13分 ~ 18时16分]"
         },
         {
           "title": "高市早苗当众施压下属：别让我在特朗普面前难堪！网友：职场霸凌",
@@ -46,19 +74,6 @@
           "time_info": "[00时16分 ~ 05时13分]"
         },
         {
-          "title": "美以空袭致伊近千人伤亡 特朗普称哈梅内伊“已死” 伊朗否认",
-          "url": "https://wallstreetcn.com/articles/3766446",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时13分 ~ 17时20分]"
-        },
-        {
           "title": "多国撤人、双航母就位，特朗普就伊朗问题释放最新信号",
           "url": "https://m.thepaper.cn/newsDetail_forward_32669796",
           "source": "澎湃新闻",
@@ -73,18 +88,16 @@
           "time_info": "[00时16分 ~ 07时14分]"
         },
         {
-          "title": "伊朗媒体说伊朗总统等将领导国家，特朗普：外交解决方案仍“易于”达成，已有可执掌伊朗政权的“合适人选”",
-          "url": "https://wallstreetcn.com/articles/3766454",
-          "source": "华尔街见闻",
+          "title": "特朗普称哈梅内伊已身亡 伊外交部此前回应称其“安然无恙”",
+          "url": "https://www.cls.cn/detail/2298666",
+          "source": "财联社热门",
           "ranks": [
             9,
-            7,
-            5,
-            4
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时13分 ~ 17时20分]"
+          "appearance_count": 9,
+          "time_info": "[12时13分 ~ 18时16分]"
         },
         {
           "title": "实时更新丨特朗普宣布哈梅内伊已死",
@@ -96,18 +109,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时14分 ~ 09时18分]"
-        },
-        {
-          "title": "特朗普称哈梅内伊已身亡 伊外交部此前回应称其“安然无恙”",
-          "url": "https://www.cls.cn/detail/2298666",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时13分 ~ 17时20分]"
         },
         {
           "title": "特朗普：伊朗最高领袖哈梅内伊已身亡",
@@ -957,8 +958,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时16分 ~ 17时20分]"
+          "appearance_count": 22,
+          "time_info": "[00时16分 ~ 18时16分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：不会执行违宪命令",
