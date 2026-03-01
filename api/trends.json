@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-02T04:16:21.174279+08:00",
-  "total_titles_processed": 517,
+  "generated_at": "2026-03-02T05:15:03.018610+08:00",
+  "total_titles_processed": 549,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 32,
       "titles": [
         {
           "title": "伊朗媒体说伊朗总统等将领导国家，特朗普：外交解决方案仍“易于”达成，已有可执掌伊朗政权的“合适人选”",
@@ -15,8 +15,42 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 04时16分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 05时15分]"
+        },
+        {
+          "title": "美以空袭致伊近千人伤亡 特朗普称哈梅内伊“已死” 伊朗否认",
+          "url": "https://wallstreetcn.com/articles/3766446",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 05时15分]"
+        },
+        {
+          "title": "特朗普不怕油价？报道称美国不考虑释放战略原油储备，而OPEC+考虑增产",
+          "url": "https://wallstreetcn.com/articles/3766448",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 05时15分]"
+        },
+        {
+          "title": "特朗普称哈梅内伊已身亡 伊外交部此前回应称其“安然无恙”",
+          "url": "https://www.cls.cn/detail/2298666",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 05时15分]"
         },
         {
           "title": "特朗普：美军在对伊行动中打死48名伊朗指挥官",
@@ -45,38 +79,61 @@
           "time_info": "[00时17分 ~ 03时16分]"
         },
         {
-          "title": "美以空袭致伊近千人伤亡 特朗普称哈梅内伊“已死” 伊朗否认",
-          "url": "https://wallstreetcn.com/articles/3766446",
-          "source": "华尔街见闻",
+          "title": "美以伊战争最新动态｜特朗普：对伊军事行动或持4周",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
           "ranks": [
-            7
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 04时16分]"
+          "appearance_count": 2,
+          "time_info": "[05时14分 ~ 05时15分]"
         },
         {
-          "title": "特朗普不怕油价？报道称美国不考虑释放战略原油储备，而OPEC+考虑增产",
-          "url": "https://wallstreetcn.com/articles/3766448",
-          "source": "华尔街见闻",
+          "title": "特朗普政府将于周二向国会作伊朗问题的简报",
+          "url": "https://flash.jin10.com/detail/20260302044632602800",
+          "source": "金十数据",
           "ranks": [
-            9,
-            10
+            1
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 04时16分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
         },
         {
-          "title": "特朗普称哈梅内伊已身亡 伊外交部此前回应称其“安然无恙”",
-          "url": "https://www.cls.cn/detail/2298666",
-          "source": "财联社热门",
+          "title": "特朗普仍愿与伊朗进行更多对话，准备就袭击事件发表演讲",
+          "url": "https://flash.jin10.com/detail/20260302043240591800",
+          "source": "金十数据",
           "ranks": [
-            12
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
+        },
+        {
+          "title": "特朗普：对伊朗的军事行动可能持续4周",
+          "url": "https://flash.jin10.com/detail/20260302043144054800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
+        },
+        {
+          "title": "白宫：特朗普已分别与以色列、巴林及阿联酋领导人通话",
+          "url": "https://wallstreetcn.com/livenews/3061264",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            18,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 04时16分]"
+          "appearance_count": 3,
+          "time_info": "[03时16分 ~ 05时15分]"
         },
         {
           "title": "据《大西洋月刊》：特朗普对是否长期介入以支持伊朗“抗议活动”态度模糊。",
@@ -103,18 +160,6 @@
           "time_info": "[00时17分 ~ 01时16分]"
         },
         {
-          "title": "白宫：特朗普已分别与以色列、巴林及阿联酋领导人通话",
-          "url": "https://wallstreetcn.com/livenews/3061264",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时16分 ~ 04时16分]"
-        },
-        {
           "title": "据《大西洋月刊》：美国总统特朗普表示，他计划与伊朗政权进行新谈判。",
           "url": "https://flash.jin10.com/detail/20260302001021486800",
           "source": "金十数据",
@@ -132,11 +177,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            22
+            22,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时16分 ~ 04时16分]"
+          "appearance_count": 3,
+          "time_info": "[03时16分 ~ 05时15分]"
         },
         {
           "title": "据《大西洋月刊》：美国总统特朗普表示，伊朗希望对话，他也同意对话。",
@@ -149,6 +195,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时17分 ~ 01时16分]"
+        },
+        {
+          "title": "特朗普：对伊朗军事行动可能持续约4周",
+          "url": "https://wallstreetcn.com/livenews/3061289",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
         },
         {
           "title": "特朗普：已摧毁并击沉9艘伊朗军舰 美已基本摧毁伊朗海军总部",
@@ -311,7 +368,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
         }
@@ -332,8 +389,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 04时16分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 05时15分]"
         }
       ]
     }
