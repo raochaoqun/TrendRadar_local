@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-03T18:32:12.511056+08:00",
-  "total_titles_processed": 1696,
+  "generated_at": "2026-03-03T19:26:12.250236+08:00",
+  "total_titles_processed": 1802,
   "failed_sources": [],
   "trends": [
     {
@@ -38,8 +38,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时06分 ~ 18时32分]"
+          "appearance_count": 11,
+          "time_info": "[12时06分 ~ 19时26分]"
+        },
+        {
+          "title": "特朗普批民主党：如果不动手，他们又要叫唤",
+          "url": "https://news.ifeng.com/c/8rBnoV8tG9m",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时42分 ~ 19时26分]"
         },
         {
           "title": "美国要“打入”伊朗？特朗普不排除“必要时”派遣地面部队，北约称不参与军事行动",
@@ -50,8 +62,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时13分 ~ 18时32分]"
+          "appearance_count": 12,
+          "time_info": "[09时13分 ~ 19时26分]"
         },
         {
           "title": "特朗普称不达目标不停战 伊朗称何时停战由伊方决定",
@@ -64,18 +76,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时32分 ~ 07时17分]"
-        },
-        {
-          "title": "特朗普批民主党：如果不动手，他们又要叫唤",
-          "url": "https://news.ifeng.com/c/8rBnoV8tG9m",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时42分 ~ 18时32分]"
         },
         {
           "title": "特朗普称对伊朗军事行动或持续约4周，伊朗公布反击“成果”，英法德或采取防御",
@@ -115,6 +115,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[02时33分 ~ 15时36分]"
+        },
+        {
+          "title": "特朗普夫人首次主持安理会会议，中方强烈谴责",
+          "url": "https://news.ifeng.com/c/8rBij7DRy9X",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时06分 ~ 19时26分]"
         },
         {
           "title": "特朗普，还有一仗？",
@@ -170,15 +181,15 @@
           "time_info": "[00时32分 ~ 07时17分]"
         },
         {
-          "title": "特朗普夫人首次主持安理会会议，中方强烈谴责",
-          "url": "https://news.ifeng.com/c/8rBij7DRy9X",
-          "source": "凤凰网",
+          "title": "特朗普放话“不惜一切” ，全球市场遭遇“黑色星期二”，除了原油，一切都在跌！",
+          "url": "https://wallstreetcn.com/articles/3766590",
+          "source": "华尔街见闻",
           "ranks": [
-            6
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时06分 ~ 18时32分]"
+          "appearance_count": 4,
+          "time_info": "[18时31分 ~ 19时26分]"
         },
         {
           "title": "美以伊战争最新动态｜特朗普：不排除向伊派地面部队",
@@ -203,15 +214,29 @@
           "time_info": "[00时32分 ~ 01时42分]"
         },
         {
-          "title": "特朗普放话“不惜一切” ，全球市场遭遇“黑色星期二”，除了原油，一切都在跌！",
-          "url": "https://wallstreetcn.com/articles/3766590",
-          "source": "华尔街见闻",
+          "title": "美使馆遭袭，特朗普：将很快采取报复行动",
+          "url": "https://www.cls.cn/detail/2300728",
+          "source": "财联社热门",
           "ranks": [
-            1
+            12,
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时31分 ~ 18时32分]"
+          "appearance_count": 8,
+          "time_info": "[15时36分 ~ 19时26分]"
+        },
+        {
+          "title": "冲突升级！美伊双方都“不惜代价”，特朗普吹嘘“无限”弹药，并将很快回应大使馆遇袭",
+          "url": "https://wallstreetcn.com/articles/3766606",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时31分 ~ 19时26分]"
         },
         {
           "title": "美以伊战争最新动态｜特朗普回应是否怕美国本土遭袭",
@@ -234,19 +259,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时13分"
-        },
-        {
-          "title": "美使馆遭袭，特朗普：将很快采取报复行动",
-          "url": "https://www.cls.cn/detail/2300728",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时36分 ~ 18时32分]"
         },
         {
           "title": "美国会拟限制特朗普继续对伊动武",
@@ -305,6 +317,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
+        },
+        {
+          "title": "特朗普：没有必要对伊朗采取地面军事行动",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32689484",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时33分 ~ 19时26分]"
         },
         {
           "title": "前美联储主席、前美国财政部长耶伦：总统特朗普的行动推高了美国国债的风险溢价。",
@@ -402,29 +427,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时31分 ~ 05时26分]"
-        },
-        {
-          "title": "特朗普：没有必要对伊朗采取地面军事行动",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32689484",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时33分 ~ 18时32分]"
-        },
-        {
-          "title": "冲突升级！美伊双方都“不惜代价”，特朗普吹嘘“无限”弹药，并将很快回应大使馆遇袭",
-          "url": "https://wallstreetcn.com/articles/3766606",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时31分 ~ 18时32分]"
         },
         {
           "title": "前美联储主席、前美国财政部长耶伦：对美国经济前景感到乐观，但（面临）“严重风险”。 关注伊朗风险，具体取决于（美国和以色列挑起的）战争持续的时间。 如果油价居高不下、或进一步上涨，恐怕会引发美国通胀担忧。 3%的通胀率中，可能有0.5个百分点来自（总统特朗普挑起的）关税。 如果油价偏高，将伤害到经济增长，并构成通胀风险。 伊朗局势将让美联储“更容易维持”政策利率不变。 特朗普对美联储理事库克的所作所为“只能用无法想象来形容”。 美国司法部的任何刑事指控都将对美联储“构成巨大的威胁”。",
@@ -742,8 +744,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时13分 ~ 18时32分]"
+          "appearance_count": 12,
+          "time_info": "[09时13分 ~ 19时26分]"
         },
         {
           "title": "伊朗危机冲击，美股指低开，纳指跌超1.5%，布油涨8%，黄金突破5400",
@@ -965,11 +967,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时29分 ~ 18时32分]"
+          "appearance_count": 7,
+          "time_info": "[16时29分 ~ 19时26分]"
         },
         {
           "title": "大批OpenAI用户转投Anthropic，后者登顶美国APP下载榜",
