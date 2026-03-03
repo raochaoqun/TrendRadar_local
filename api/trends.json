@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-03T21:53:19.453031+08:00",
-  "total_titles_processed": 2003,
+  "generated_at": "2026-03-03T22:38:04.852456+08:00",
+  "total_titles_processed": 2102,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 64,
+      "match_count": 65,
       "titles": [
         {
           "title": "“委内瑞拉模式”结局是选项之一？特朗普：同意与伊朗新领导层对话，伊朗：不谈",
@@ -38,8 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时06分 ~ 21时53分]"
+          "appearance_count": 16,
+          "time_info": "[12时06分 ~ 22时38分]"
         },
         {
           "title": "特朗普批民主党：如果不动手，他们又要叫唤",
@@ -63,8 +63,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时13分 ~ 21时53分]"
+          "appearance_count": 17,
+          "time_info": "[09时13分 ~ 22时38分]"
         },
         {
           "title": "特朗普称不达目标不停战 伊朗称何时停战由伊方决定",
@@ -100,6 +100,19 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时32分 ~ 09时13分]"
+        },
+        {
+          "title": "冲突升级！美伊双方都“不惜代价”，特朗普吹嘘“无限”弹药，并将很快回应大使馆遇袭",
+          "url": "https://wallstreetcn.com/articles/3766606",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[18时31分 ~ 22时38分]"
         },
         {
           "title": "特朗普3月访华能否成行？外交部回应",
@@ -167,19 +180,6 @@
           "time_info": "[00时32分 ~ 07时17分]"
         },
         {
-          "title": "冲突升级！美伊双方都“不惜代价”，特朗普吹嘘“无限”弹药，并将很快回应大使馆遇袭",
-          "url": "https://wallstreetcn.com/articles/3766606",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时31分 ~ 21时53分]"
-        },
-        {
           "title": "特朗普称不达目标不停战",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E8%BE%BE%E7%9B%AE%E6%A0%87%E4%B8%8D%E5%81%9C%E6%88%98",
           "source": "bilibili 热搜",
@@ -193,6 +193,18 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时32分 ~ 07时17分]"
+        },
+        {
+          "title": "斩首?老外通报特朗普坐标",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351311&amp;topic_name=%E6%96%A9%E9%A6%96%3F%E8%80%81%E5%A4%96%E9%80%9A%E6%8A%A5%E7%89%B9%E6%9C%97%E6%99%AE%E5%9D%90%E6%A0%87",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时34分 ~ 22时38分]"
         },
         {
           "title": "特朗普放话“不惜一切” ，全球市场遭遇“黑色星期二”，除了原油，一切都在跌！",
@@ -239,18 +251,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[15时36分 ~ 19时26分]"
-        },
-        {
-          "title": "斩首?老外通报特朗普坐标",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351311&amp;topic_name=%E6%96%A9%E9%A6%96%3F%E8%80%81%E5%A4%96%E9%80%9A%E6%8A%A5%E7%89%B9%E6%9C%97%E6%99%AE%E5%9D%90%E6%A0%87",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时34分 ~ 21时53分]"
         },
         {
           "title": "美以伊战争最新动态｜特朗普回应是否怕美国本土遭袭",
@@ -525,6 +525,17 @@
           "time_info": "14时38分"
         },
         {
+          "title": "欧洲信用风险指标创去年4月特朗普关税动荡以来最大增幅",
+          "url": "https://wallstreetcn.com/livenews/3062837",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
           "title": "美媒：特朗普主张对伊朗开战的多项理由不成立",
           "url": "https://flash.jin10.com/detail/20260303083406982800",
           "source": "金十数据",
@@ -759,7 +770,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 24,
+      "match_count": 28,
       "titles": [
         {
           "title": "能源和科技股力撑，美股指走V收复失地，原油暴涨重创美债，美元大涨，黄金冲高回落",
@@ -770,8 +781,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时13分 ~ 21时53分]"
+          "appearance_count": 17,
+          "time_info": "[09时13分 ~ 22时38分]"
         },
         {
           "title": "伊朗危机冲击，美股指低开，纳指跌超1.5%，布油涨8%，黄金突破5400",
@@ -805,8 +816,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时34分 ~ 21时53分]"
+          "appearance_count": 5,
+          "time_info": "[20时34分 ~ 22时38分]"
         },
         {
           "title": "避险情绪席卷市场 美股期指大幅下挫 原油黄金齐涨 | 今夜看点",
@@ -904,6 +915,17 @@
           "time_info": "[20时34分 ~ 21时53分]"
         },
         {
+          "title": "战火升级点燃恐慌情绪 美股三大期指均跌超1% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2301690",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时37分 ~ 22时38分]"
+        },
+        {
           "title": "数字货币市场在美股开盘后反弹，Solana涨超8%，以太币涨超7%",
           "url": "https://wallstreetcn.com/livenews/3062073",
           "source": "华尔街见闻-快讯",
@@ -938,6 +960,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时19分 ~ 07时17分]"
+        },
+        {
+          "title": "美股存储概念股下跌，美光科技(MU.O)下跌8%，西部数据(WDC.O)跌7.2%，希捷科技(STX.O)跌6.2%，闪迪(SNDK.O)跌5.4%。",
+          "url": "https://flash.jin10.com/detail/20260303223215225800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
+          "title": "美股三大股指低开 纳指跌超2%",
+          "url": "https://flash.jin10.com/detail/20260303223024155800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
         },
         {
           "title": "美股狂欢到头了吗",
@@ -1006,13 +1050,24 @@
           "time_info": "02时33分"
         },
         {
+          "title": "周二美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3062829",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
           "title": "金十数据整理：每日美股市场要闻速递（2026-03-03）",
           "url": "https://flash.jin10.com/detail/20260303212356871800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时53分"
         },
@@ -1042,7 +1097,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 10,
       "titles": [
         {
           "title": "OpenAI的“五角大楼时刻”？ChatGPT卸载量暴增近300% 一星评分飙升775%",
@@ -1055,8 +1110,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时29分 ~ 21时53分]"
+          "appearance_count": 12,
+          "time_info": "[16时29分 ~ 22时38分]"
+        },
+        {
+          "title": "OpenAI与美国五角大楼在AI协议中新增监控保护条款。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3062845",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
         },
         {
           "title": "大批OpenAI用户转投Anthropic，后者登顶美国APP下载榜",
@@ -1071,6 +1137,17 @@
           "time_info": "[05时26分 ~ 06时19分]"
         },
         {
+          "title": "据AXIOS网站：OpenAI与美国国防部的新条款尚未正式签署。",
+          "url": "https://flash.jin10.com/detail/20260303222622632800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
           "title": "OpenAI与美国国防部在合作协议中新增更多监控保护条款。（AXIOS）",
           "url": "https://wallstreetcn.com/livenews/3062254",
           "source": "华尔街见闻-快讯",
@@ -1080,6 +1157,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时13分"
+        },
+        {
+          "title": "据AXIOS网站：OpenAI与美国国防部同意加强近期合同。",
+          "url": "https://flash.jin10.com/detail/20260303222545463800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
         },
         {
           "title": "内部备忘录显示，美国国务院将内部聊天机器人所用模型从Anthropic切换至OpenAI。",
@@ -1102,6 +1190,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
+        },
+        {
+          "title": "据AXIOS网站：OpenAI、美国国防部在AI协议中加入监控保护措施。",
+          "url": "https://flash.jin10.com/detail/20260303222435130800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
         },
         {
           "title": "标普将软银评级展望下调至“负面”，因其对OpenAI追加投资",
