@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-04T13:09:54.410874+08:00",
-  "total_titles_processed": 1174,
+  "generated_at": "2026-03-04T14:35:27.288022+08:00",
+  "total_titles_processed": 1290,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 75,
+      "match_count": 78,
       "titles": [
         {
           "title": "冲突升级！美伊双方都“不惜代价”，特朗普吹嘘“无限”弹药，并将很快回应大使馆遇袭",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时36分 ~ 13时09分]"
+          "appearance_count": 13,
+          "time_info": "[00时36分 ~ 14时35分]"
         },
         {
           "title": "动武后才通知国会！特朗普向国会提交《战争权力法案》通知",
@@ -39,8 +39,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时36分 ~ 13时09分]"
+          "appearance_count": 13,
+          "time_info": "[00时36分 ~ 14时35分]"
         },
         {
           "title": "胡锡进：伊朗希望用新的“中东泥潭”吓退特朗普",
@@ -142,6 +142,30 @@
           "time_info": "01时36分"
         },
         {
+          "title": "特朗普下令两手保海湾地区航运，伊朗警告船只勿经霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/articles/3766660",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时01分 ~ 14时35分]"
+        },
+        {
+          "title": "西班牙回应特朗普称将切断贸易往来",
+          "url": "https://www.toutiao.com/trending/7612678791206387775/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时09分 ~ 14时35分]"
+        },
+        {
           "title": "市场消息：伊拉克总理候选人阿尔-马利基宣布撤回总理竞选，几周前特朗普曾要求他退出。",
           "url": "https://flash.jin10.com/detail/20260304054539761800",
           "source": "金十数据",
@@ -154,6 +178,18 @@
           "time_info": "[06时20分 ~ 07时17分]"
         },
         {
+          "title": "特朗普威胁：将切断美国和西班牙之间的贸易往来",
+          "url": "https://www.cls.cn/detail/2301855",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时01分 ~ 14时35分]"
+        },
+        {
           "title": "美国明尼苏达州起诉总统特朗普将医保资金（MediCAid fund）“武器化”。",
           "url": "https://wallstreetcn.com/livenews/3062933",
           "source": "华尔街见闻-快讯",
@@ -164,39 +200,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时36分 ~ 02时35分]"
-        },
-        {
-          "title": "西班牙回应特朗普称将切断贸易往来",
-          "url": "https://www.toutiao.com/trending/7612678791206387775/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时09分 ~ 12时02分]"
-        },
-        {
-          "title": "特朗普下令两手保海湾地区航运，伊朗警告船只勿经霍尔木兹海峡",
-          "url": "https://wallstreetcn.com/articles/3766660",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时01分 ~ 13时09分]"
-        },
-        {
-          "title": "特朗普威胁：将切断美国和西班牙之间的贸易往来",
-          "url": "https://www.cls.cn/detail/2301855",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时01分 ~ 13时09分]"
         },
         {
           "title": "美国总统特朗普：我们正在对关税进行各种研究。 所有国家都向维持他们已经与美国达成的协议。",
@@ -245,6 +248,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时23分 ~ 05时25分]"
+        },
+        {
+          "title": "美伊战火引发能源危机？特朗普出手：将为“霍尔木兹油轮”护航，并提供保险！",
+          "url": "https://www.cls.cn/detail/2301976",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时09分 ~ 14时35分]"
         },
         {
           "title": "美国总统特朗普：英国必须解决非法移民和能源问题。",
@@ -368,6 +383,17 @@
           "time_info": "05时25分"
         },
         {
+          "title": "“我心中的人选大部分也死了”，特朗普被曝接触地方武装组织",
+          "url": "https://news.ifeng.com/c/8rDb9UBLUA1",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时35分"
+        },
+        {
           "title": "美国总统特朗普：英国“非常、非常不合作”。",
           "url": "https://flash.jin10.com/detail/20260304012112730800",
           "source": "金十数据",
@@ -423,6 +449,17 @@
           "time_info": "05时25分"
         },
         {
+          "title": "特朗普“军舰为油轮护航”言论引发质疑",
+          "url": "https://wallstreetcn.com/livenews/3063396",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时35分"
+        },
+        {
           "title": "沃什未上任已挑战重重，同僚质疑与油价飙升恐令其难圆特朗普的降息梦",
           "url": "https://wallstreetcn.com/livenews/3062944",
           "source": "华尔街见闻-快讯",
@@ -456,6 +493,17 @@
           "time_info": "05时25分"
         },
         {
+          "title": "特朗普拟护航霍尔木兹海峡能源运输 航运业称难解危机",
+          "url": "https://flash.jin10.com/detail/20260304141143210800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时35分"
+        },
+        {
           "title": "【特朗普：将切断美国和西班牙之间的贸易往来】3月3日，美国总统特朗普在白宫会见德国总理默茨期间抨击西班牙在袭击伊朗行动中“缺乏合作”，并宣布将切断美国和西班牙之间的一切贸易往来，因为西班牙是“一个糟糕的盟友”。 特朗普表示：“西班牙的表现很糟糕。”他还称，已指示财政部长贝森特“切断与西班牙的所有往来”。 特朗普补充说：“我们将切断与西班牙的所有贸易。我们不想与西班牙有任何往来。”（央视）",
           "url": "https://wallstreetcn.com/livenews/3062943",
           "source": "华尔街见闻-快讯",
@@ -473,18 +521,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时09分"
-        },
-        {
-          "title": "美伊战火引发能源危机？特朗普出手：将为“霍尔木兹油轮”护航，并提供保险！",
-          "url": "https://www.cls.cn/detail/2301976",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时09分"
         },
@@ -814,7 +851,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时09分"
         },
@@ -879,8 +916,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时09分 ~ 13时09分]"
+          "appearance_count": 5,
+          "time_info": "[09时09分 ~ 14时35分]"
         },
         {
           "title": "美股收盘：中东冲突加剧通胀担忧 三大股指集体收跌",
@@ -892,8 +929,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时17分 ~ 13时09分]"
+          "appearance_count": 6,
+          "time_info": "[07时17分 ~ 14时35分]"
         },
         {
           "title": "特朗普承诺“护航”，美股指跌幅收窄，纳指仍跌超1%，原油冲高回落涨5%，美元强势二连涨，金银重挫",
