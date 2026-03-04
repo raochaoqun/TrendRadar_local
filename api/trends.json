@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-04T18:27:03.324732+08:00",
-  "total_titles_processed": 1732,
+  "generated_at": "2026-03-04T19:24:03.566046+08:00",
+  "total_titles_processed": 1823,
   "failed_sources": [],
   "trends": [
     {
@@ -39,8 +39,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时01分 ~ 18时27分]"
+          "appearance_count": 11,
+          "time_info": "[12时01分 ~ 19时24分]"
         },
         {
           "title": "斩首?老外通报特朗普坐标",
@@ -53,11 +53,23 @@
             19,
             21,
             24,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时36分 ~ 18时27分]"
+          "appearance_count": 20,
+          "time_info": "[00时36分 ~ 19时24分]"
+        },
+        {
+          "title": "“我心中的人选大部分也死了”，特朗普被曝接触地方武装组织",
+          "url": "https://news.ifeng.com/c/8rDb9UBLUA1",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时35分 ~ 19时24分]"
         },
         {
           "title": "胡锡进：伊朗希望用新的“中东泥潭”吓退特朗普",
@@ -91,17 +103,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时36分 ~ 01时36分]"
-        },
-        {
-          "title": "“我心中的人选大部分也死了”，特朗普被曝接触地方武装组织",
-          "url": "https://news.ifeng.com/c/8rDb9UBLUA1",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时35分 ~ 18时27分]"
         },
         {
           "title": "美国总统特朗普：如果伊朗参加世界杯，我真不在乎。",
@@ -209,6 +210,17 @@
           "time_info": "[12时01分 ~ 15时32分]"
         },
         {
+          "title": "特朗普会见默茨“敲打”欧洲，威胁西班牙切断贸易，否认被以拖入战争，预计油价大跌",
+          "url": "https://wallstreetcn.com/articles/3766656",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时31分 ~ 19时24分]"
+        },
+        {
           "title": "西班牙回应特朗普称将切断贸易往来",
           "url": "https://www.toutiao.com/trending/7612678791206387775/",
           "source": "今日头条",
@@ -245,15 +257,16 @@
           "time_info": "[01时36分 ~ 02时35分]"
         },
         {
-          "title": "特朗普会见默茨“敲打”欧洲，威胁西班牙切断贸易，否认被以拖入战争，预计油价大跌",
-          "url": "https://wallstreetcn.com/articles/3766656",
-          "source": "华尔街见闻",
+          "title": "民调显示 43% 美民众反对打击伊朗，怕重蹈伊拉克覆辙，特朗普为何执意升级打击？为何能越过国会授权开战？",
+          "url": "https://www.zhihu.com/question/2012477817481344424",
+          "source": "知乎",
           "ranks": [
-            10
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时31分 ~ 18时27分]"
+          "appearance_count": 4,
+          "time_info": "[18时26分 ~ 19时24分]"
         },
         {
           "title": "美国总统特朗普：我们正在对关税进行各种研究。 所有国家都向维持他们已经与美国达成的协议。",
@@ -314,17 +327,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时35分 ~ 15时32分]"
-        },
-        {
-          "title": "民调显示 43% 美民众反对打击伊朗，怕重蹈伊拉克覆辙，特朗普为何执意升级打击？为何能越过国会授权开战？",
-          "url": "https://www.zhihu.com/question/2012477817481344424",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时26分 ~ 18时27分]"
         },
         {
           "title": "美国总统特朗普：英国必须解决非法移民和能源问题。",
@@ -964,11 +966,12 @@
           "url": "https://wallstreetcn.com/articles/3766590",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时09分 ~ 18时27分]"
+          "appearance_count": 12,
+          "time_info": "[09时09分 ~ 19时24分]"
         },
         {
           "title": "能源和科技股力撑，美股指走V收复失地，原油暴涨重创美债，美元大涨，黄金冲高回落",
@@ -1013,11 +1016,12 @@
           "url": "https://wallstreetcn.com/articles/3766668",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时26分 ~ 18时27分]"
+          "appearance_count": 4,
+          "time_info": "[18时26分 ~ 19时24分]"
         },
         {
           "title": "特朗普承诺“护航”，美股指跌幅收窄，纳指仍跌超1%，原油冲高回落涨5%，美元强势二连涨，金银重挫",
@@ -1187,7 +1191,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         }
