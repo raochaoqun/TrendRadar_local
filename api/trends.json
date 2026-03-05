@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-05T16:31:10.390824+08:00",
-  "total_titles_processed": 1475,
+  "generated_at": "2026-03-05T17:35:04.185664+08:00",
+  "total_titles_processed": 1572,
   "failed_sources": [],
   "trends": [
     {
@@ -31,6 +31,19 @@
           "time_info": "[00时31分 ~ 06时22分]"
         },
         {
+          "title": "特朗普打伊朗，美国国会管不了？参议院未通过叫停特朗普打击伊朗的投票",
+          "url": "https://wallstreetcn.com/articles/3766752",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时03分 ~ 17时35分]"
+        },
+        {
           "title": "特朗普正式提名凯文·沃什出任美联储主席 参议院确认战将启",
           "url": "https://www.cls.cn/detail/2303132",
           "source": "财联社热门",
@@ -43,17 +56,16 @@
           "time_info": "[09时11分 ~ 14时41分]"
         },
         {
-          "title": "特朗普打伊朗，美国国会管不了？参议院未通过叫停特朗普打击伊朗的投票",
-          "url": "https://wallstreetcn.com/articles/3766752",
-          "source": "华尔街见闻",
+          "title": "弹药告急！特朗普将召见军工大佬，筹划掏500亿美元补充军火",
+          "url": "https://news.ifeng.com/c/8rFCPechKEM",
+          "source": "凤凰网",
           "ranks": [
-            4,
-            6,
-            7
+            5,
+            11
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[12时03分 ~ 16时31分]"
+          "time_info": "[13时40分 ~ 17时35分]"
         },
         {
           "title": "特朗普会见默茨“敲打”欧洲，威胁西班牙切断贸易，否认被以拖入战争，预计油价大跌",
@@ -108,18 +120,6 @@
           "time_info": "[00时31分 ~ 09时11分]"
         },
         {
-          "title": "弹药告急！特朗普将召见军工大佬，筹划掏500亿美元补充军火",
-          "url": "https://news.ifeng.com/c/8rFCPechKEM",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时40分 ~ 16时31分]"
-        },
-        {
           "title": "西班牙首相回击特朗普",
           "url": "https://www.douyin.com/hot/2419161",
           "source": "抖音",
@@ -129,8 +129,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时03分 ~ 16时31分]"
+          "appearance_count": 11,
+          "time_info": "[12时03分 ~ 17时35分]"
         },
         {
           "title": "美国弹药库存告急！特朗普本周将召集军工巨头赴白宫，讨论加快武器生产",
@@ -159,6 +159,19 @@
           "time_info": "[09时11分 ~ 14时41分]"
         },
         {
+          "title": "伊朗高官让特朗普想想美以谁优先",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E9%AB%98%E5%AE%98%E8%AE%A9%E7%89%B9%E6%9C%97%E6%99%AE%E6%83%B3%E6%83%B3%E7%BE%8E%E4%BB%A5%E8%B0%81%E4%BC%98%E5%85%88%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21,
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时40分 ~ 17时35分]"
+        },
+        {
           "title": "美以伊战争最新动态｜参议院末能阻止特朗普继续动武",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -179,19 +192,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
-        },
-        {
-          "title": "伊朗高官让特朗普想想美以谁优先",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E9%AB%98%E5%AE%98%E8%AE%A9%E7%89%B9%E6%9C%97%E6%99%AE%E6%83%B3%E6%83%B3%E7%BE%8E%E4%BB%A5%E8%B0%81%E4%BC%98%E5%85%88%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21,
-            22,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时40分 ~ 16时31分]"
         },
         {
           "title": "据知情人士透露，美国白宫计划在3月底之前递交关于下一个财年的预算申请。 特朗普政府尤其希望在3月31日当天披露预算报告。（彭博）",
@@ -498,7 +498,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 18,
       "titles": [
         {
           "title": "美国“小非农”超预期回暖，美股指高开，纳指涨幅扩大至1%，美油转跌，断供影响伦铝创四年新高",
@@ -531,8 +531,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时22分 ~ 16时31分]"
+          "appearance_count": 13,
+          "time_info": "[07时22分 ~ 17时35分]"
         },
         {
           "title": "美股收盘：通胀担忧暂缓、油价持稳 科技股带动大盘重拾升势",
@@ -559,6 +559,39 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时31分 ~ 13时41分]"
+        },
+        {
+          "title": "美股期指集体拉升，油价跳水，韩股暴力反弹近10%，白银跌3%",
+          "url": "https://wallstreetcn.com/articles/3766762",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时34分 ~ 17时35分]"
+        },
+        {
+          "title": "博通美股盘前涨超6%，公司业绩略超预期，季度营收指引超预期。",
+          "url": "https://wallstreetcn.com/livenews/3064398",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
+        },
+        {
+          "title": "美股三大股指期货集体拉升，纳指期货涨0.16%，标普500指数期货涨0.10%； 美元指数日内转跌，印度卢比兑美元涨0.8%； 美、布两油短线走低，现分别报75.6美元/桶和82.07美元/桶； 欧洲斯托克600指数转涨，现涨0.6%。",
+          "url": "https://wallstreetcn.com/livenews/3064397",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
         },
         {
           "title": "美股七巨头收盘播报｜亚马逊收涨将近3.9%，特斯拉涨超3.4%",
@@ -607,6 +640,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时22分 ~ 07时22分]"
+        },
+        {
+          "title": "特朗普何时会在对伊战争上收手？华尔街策略师：美股至少得跌10%",
+          "url": "https://www.cls.cn/detail/2303241",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时34分 ~ 17时35分]"
         },
         {
           "title": "周三（3月4日），存储芯片与硬件供应链指数涨3.90%，报105.81点，美股开盘后90分钟高开高走，随后平缓地逐步回吐涨幅。",
