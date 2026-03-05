@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-06T03:08:59.666470+08:00",
-  "total_titles_processed": 386,
+  "generated_at": "2026-03-06T04:30:00.051223+08:00",
+  "total_titles_processed": 443,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "特朗普：若满分10分，我给美对伊行动打15分",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时54分 ~ 03时08分]"
+          "appearance_count": 4,
+          "time_info": "[01时54分 ~ 04时30分]"
         },
         {
           "title": "特朗普“大发战争财”，借打伊朗搞募款",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时54分 ~ 03时08分]"
+          "appearance_count": 4,
+          "time_info": "[01时54分 ~ 04时30分]"
         },
         {
           "title": "沆瀣一气！53对47，美国会参议院否决限制特朗普战争权力的议案",
@@ -37,19 +37,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时54分 ~ 03时08分]"
-        },
-        {
-          "title": "美国总统特朗普：马克韦恩·穆林（Markwayne Mullin）将于2026年3月31日起担任美国国土安全部部长。",
-          "url": "https://wallstreetcn.com/livenews/3064642",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时08分"
+          "appearance_count": 4,
+          "time_info": "[01时54分 ~ 04时30分]"
         },
         {
           "title": "美国总统特朗普：美国拥有海量军火，国防工业正加大生产。无需启动《国防生产法》。",
@@ -61,17 +50,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
-        },
-        {
-          "title": "美国国土安全部部长将换人，特朗普提名新人选",
-          "url": "https://wallstreetcn.com/livenews/3064640",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时08分"
         },
         {
           "title": "美国总统特朗普：伊朗行动进展超预期，不会给出时间表。",
@@ -96,6 +74,18 @@
           "time_info": "01时54分"
         },
         {
+          "title": "美国总统特朗普：马克韦恩·穆林（Markwayne Mullin）将于2026年3月31日起担任美国国土安全部部长。",
+          "url": "https://wallstreetcn.com/livenews/3064642",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时08分 ~ 04时30分]"
+        },
+        {
           "title": "特朗普表示，他并未批准那项耗资2亿美元、由国土安全部部长克里斯蒂·诺姆（Kristi Noem）出镜的边境安全广告宣传活动。（路透社）",
           "url": "https://wallstreetcn.com/livenews/3064616",
           "source": "华尔街见闻-快讯",
@@ -108,6 +98,18 @@
           "time_info": "[01时54分 ~ 03时08分]"
         },
         {
+          "title": "美国国土安全部部长将换人，特朗普提名新人选",
+          "url": "https://wallstreetcn.com/livenews/3064640",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时08分 ~ 04时30分]"
+        },
+        {
           "title": "特朗普打伊朗，美国国会管不了？参议院未通过叫停特朗普打击伊朗的投票",
           "url": "https://wallstreetcn.com/articles/3766752",
           "source": "华尔街见闻",
@@ -115,8 +117,20 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时54分 ~ 04时30分]"
+        },
+        {
+          "title": "特朗普倾向于解除诺姆的国土安全部长职务（彭博社）",
+          "url": "https://wallstreetcn.com/livenews/3064636",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            22
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时54分 ~ 03时08分]"
+          "time_info": "[03时08分 ~ 04时30分]"
         },
         {
           "title": "美国总统特朗普：挑选（伊朗）新领导人进程尚处初期，伊朗最高领袖哈梅内伊之子当选可能性不大。",
@@ -136,20 +150,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
         },
         {
-          "title": "特朗普倾向于解除诺姆的国土安全部长职务（彭博社）",
-          "url": "https://wallstreetcn.com/livenews/3064636",
+          "title": "美国总统特朗普：无意动用战略石油储备。（路透社）",
+          "url": "https://wallstreetcn.com/livenews/3064652",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时08分"
+          "time_info": "04时30分"
         },
         {
           "title": "美国总统特朗普：支持库尔德人向伊朗发动攻势；我认为如果他们想这么做，那就太好了。",
@@ -169,7 +183,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
         },
@@ -221,7 +235,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "中东局势打击风险偏好，美股指下跌，纳指跌0.5%，美油涨5%，金银齐跌",
@@ -231,8 +245,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时54分 ~ 03时08分]"
+          "appearance_count": 4,
+          "time_info": "[01时54分 ~ 04时30分]"
         },
         {
           "title": "强劲数据重燃风险偏好，科技股带领美股反弹，纳指涨1.3%，美债三连跌，加密货币大涨",
@@ -242,19 +256,42 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时54分 ~ 03时08分]"
+          "appearance_count": 4,
+          "time_info": "[01时54分 ~ 04时30分]"
         },
         {
           "title": "油价延续涨势冲击市场 美股三大期指集体走低 | 今夜看点",
           "url": "https://www.cls.cn/detail/2304327",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时54分 ~ 03时08分]"
+          "appearance_count": 4,
+          "time_info": "[01时54分 ~ 04时30分]"
+        },
+        {
+          "title": "金十图示：2026年03月05日（周四）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260306033140632800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时30分"
+        },
+        {
+          "title": "金十图示：2026年03月05日（周四）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260306033140119800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时30分"
         },
         {
           "title": "美股道琼斯指数跌幅扩大至2%，报47759.04点。",
@@ -263,7 +300,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
         },
@@ -274,7 +311,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
         }
@@ -285,35 +322,37 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "OpenAI发布GPT-5.4 为首个具备原生计算机操作能力的模型",
-          "url": "https://flash.jin10.com/detail/20260306024056758800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
           "title": "OpenAI发布GPT-5.4及GPT-5.4 Pro模型，支持高达100万token的上下文窗口",
           "url": "https://wallstreetcn.com/livenews/3064630",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            13,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时08分 ~ 04时30分]"
         },
         {
           "title": "OpenAI：正式推出GPT‑5.4，将在ChatGPT和API中发布GPT‑5.4 Pro。",
           "url": "https://wallstreetcn.com/livenews/3064629",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            14,
+            29
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时08分 ~ 04时30分]"
+        },
+        {
+          "title": "OpenAI发布GPT-5.4 为首个具备原生计算机操作能力的模型",
+          "url": "https://flash.jin10.com/detail/20260306024056758800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
         }
@@ -321,8 +360,19 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "地缘局势助推“美元荒”逻辑，美元指数涨0.50%",
+          "url": "https://wallstreetcn.com/livenews/3064653",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时30分"
+        },
         {
           "title": "WTI原油扩大涨幅，每桶突破78美元至2025年1月以来最高水平，彭博美元即期指数上涨0.5%至盘中高点。 G-10货币日内全线下跌，澳元以约1%的跌幅领跌。 加元跑赢，在主要货币中跌幅最小。",
           "url": "https://wallstreetcn.com/livenews/3064589",
