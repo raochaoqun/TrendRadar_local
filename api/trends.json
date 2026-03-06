@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-03-06T07:45:10.765127+08:00",
-  "total_titles_processed": 585,
+  "generated_at": "2026-03-06T09:15:23.662898+08:00",
+  "total_titles_processed": 722,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 44,
       "titles": [
         {
           "title": "特朗普：若满分10分，我给美对伊行动打15分",
           "url": "https://news.ifeng.com/c/8rFQi0S5RcE",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时54分 ~ 07时45分]"
+          "appearance_count": 10,
+          "time_info": "[01时54分 ~ 09时15分]"
         },
         {
           "title": "特朗普“大发战争财”，借打伊朗搞募款",
@@ -52,6 +53,17 @@
           "time_info": "[01时54分 ~ 06时21分]"
         },
         {
+          "title": "特朗普妄称“必须亲自参与”选定伊朗新领导人",
+          "url": "https://news.ifeng.com/c/8rGUp5Pquod",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时15分"
+        },
+        {
           "title": "特朗普政府正在权衡降低油价的所有选项",
           "url": "https://flash.jin10.com/detail/20260306044548051800",
           "source": "金十数据",
@@ -80,7 +92,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
         },
@@ -127,6 +139,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
+        },
+        {
+          "title": "特朗普要求立即赦免以色列总理",
+          "url": "https://news.ifeng.com/c/8rGUp5Pqv3s",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时15分"
         },
         {
           "title": "美国总统特朗普：目前汽油价格并未大幅上涨；霍尔木兹海峡将保持开放。",
@@ -243,11 +266,12 @@
           "url": "https://www.cls.cn/detail/2304459",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时44分 ~ 07时45分]"
+          "appearance_count": 3,
+          "time_info": "[07时44分 ~ 09时15分]"
         },
         {
           "title": "美国总统特朗普：挑选（伊朗）新领导人进程尚处初期，伊朗最高领袖哈梅内伊之子当选可能性不大。",
@@ -327,6 +351,17 @@
           "time_info": "06时21分"
         },
         {
+          "title": "美国内政部长透露：特朗普政府正考虑“所有方案”来控制油价！",
+          "url": "https://www.cls.cn/detail/2304524",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时15分"
+        },
+        {
           "title": "美国总统特朗普：伊朗的防空武器没了，通讯设施和飞机都没了。",
           "url": "https://flash.jin10.com/detail/20260306053838884800",
           "source": "金十数据",
@@ -349,6 +384,17 @@
           "time_info": "06时21分"
         },
         {
+          "title": "美国24州联合起诉特朗普政府新关税政策",
+          "url": "https://news.ifeng.com/c/8rGDBDdQi38",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时15分"
+        },
+        {
           "title": "特朗普政府承诺“护航”原油供应？华尔街和行业专家疾呼：还不够！",
           "url": "https://www.cls.cn/detail/2303813",
           "source": "财联社热门",
@@ -360,13 +406,24 @@
           "time_info": "01时54分"
         },
         {
+          "title": "Anthropic CEO Dario Amodei为一份泄露的批评特朗普政府的备忘录道歉。（AXIOS）",
+          "url": "https://wallstreetcn.com/livenews/3064729",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时15分"
+        },
+        {
           "title": "美国国防部长赫格塞思：（被问及特朗普有关“有权决定伊朗下一任领导人”的言论）美国并未扩大其在伊朗的军事目标。",
           "url": "https://flash.jin10.com/detail/20260306061952883800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
         },
@@ -393,6 +450,17 @@
           "time_info": "01时54分"
         },
         {
+          "title": "据AXIOS网站：Anthropic首席执行官就泄露的批评特朗普的备忘录致歉。",
+          "url": "https://flash.jin10.com/detail/20260306083924046800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时15分"
+        },
+        {
           "title": "美媒：特朗普要求库尔德人协助美国对伊朗行动",
           "url": "https://wallstreetcn.com/livenews/3064590",
           "source": "华尔街见闻-快讯",
@@ -410,7 +478,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
         },
@@ -432,7 +500,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
         }
@@ -440,7 +508,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "中东局势打击风险偏好，美股指下跌，纳指跌0.5%，美油涨5%，金银齐跌",
@@ -473,8 +541,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时54分 ~ 07时45分]"
+          "appearance_count": 10,
+          "time_info": "[01时54分 ~ 09时15分]"
         },
         {
           "title": "非农前夜，油价飙升引发通胀担忧，芯片股领跌美股，美债四连跌，美元走强",
@@ -484,19 +552,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时44分 ~ 07时45分]"
+          "appearance_count": 3,
+          "time_info": "[07时44分 ~ 09时15分]"
         },
         {
           "title": "美股收盘：道琼斯指数暴跌近800点，伊朗冲突外溢油价飙升",
           "url": "https://www.cls.cn/detail/2304478",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时44分 ~ 07时45分]"
+          "appearance_count": 3,
+          "time_info": "[07时44分 ~ 09时15分]"
         },
         {
           "title": "道指跌近800点，小盘股指下挫2%，领跌美股基准股指",
@@ -591,6 +660,17 @@
           "time_info": "06时21分"
         },
         {
+          "title": "日韩股指跌幅快速收窄，日经225指数现跌0.14%，韩国首尔综合指数跌0.26%。 美股期货小幅走高，标普500指数期货现涨0.2%，纳斯达克100指数期货涨0.1%。",
+          "url": "https://wallstreetcn.com/livenews/3064716",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时15分"
+        },
+        {
           "title": "美股收盘：道指跌1.6% 哔哩哔哩跌7%",
           "url": "https://flash.jin10.com/detail/20260306050150725800",
           "source": "金十数据",
@@ -605,7 +685,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "OpenAI发布GPT-5.4及GPT-5.4 Pro模型，支持高达100万token的上下文窗口",
@@ -630,6 +710,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时08分 ~ 04时30分]"
+        },
+        {
+          "title": "OpenAI发布最强专业模型GPT-5.4",
+          "url": "https://www.toutiao.com/trending/7613911179013918271/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时15分"
         },
         {
           "title": "OpenAI发布GPT-5.4 为首个具备原生计算机操作能力的模型",
@@ -682,6 +773,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Qwen",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何看待林俊旸和他所带领开发的 Qwen 系列模型对行业的贡献？",
+          "url": "https://www.zhihu.com/question/2012928663889338822",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时15分"
         }
       ]
     }
