@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-09T19:29:15.195707+08:00",
-  "total_titles_processed": 1587,
+  "generated_at": "2026-03-09T20:38:03.273399+08:00",
+  "total_titles_processed": 1701,
   "failed_sources": [],
   "trends": [
     {
@@ -32,8 +32,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时12分 ~ 19时29分]"
+          "appearance_count": 14,
+          "time_info": "[09时12分 ~ 20时38分]"
         },
         {
           "title": "国际油价冲破100大关，特朗普不慌不忙回应“很快会下跌”！",
@@ -74,6 +74,17 @@
           "time_info": "[01时16分 ~ 05时15分]"
         },
         {
+          "title": "特朗普回应拉里贾尼威胁",
+          "url": "https://news.ifeng.com/c/8rM7NkGzfDg",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时36分 ~ 20时38分]"
+        },
+        {
           "title": "美媒劝特朗普见好就收",
           "url": "https://news.ifeng.com/c/8rLmtoks9IL",
           "source": "凤凰网",
@@ -112,17 +123,6 @@
           "time_info": "[00时17分 ~ 07时15分]"
         },
         {
-          "title": "特朗普回应拉里贾尼威胁",
-          "url": "https://news.ifeng.com/c/8rM7NkGzfDg",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时36分 ~ 19时29分]"
-        },
-        {
           "title": "特朗普：已排除库尔德武装参战可能，部署地面部队需要“非常好的理由”",
           "url": "https://wallstreetcn.com/articles/3766970",
           "source": "华尔街见闻",
@@ -134,6 +134,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时17分 ~ 06时14分]"
+        },
+        {
+          "title": "特朗普：将与以总理共同作出停战决定",
+          "url": "https://news.ifeng.com/c/8rM8XXIvw2a",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时38分 ~ 20时38分]"
         },
         {
           "title": "特朗普回应何时结束对伊朗战争",
@@ -194,6 +206,17 @@
           "time_info": "09时12分"
         },
         {
+          "title": "胡锡进：伊朗成心气特朗普，把一口带血的痰吐他脸上",
+          "url": "https://news.ifeng.com/c/8rM8XXIvw5H",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时36分 ~ 20时38分]"
+        },
+        {
           "title": "美国总统特朗普：短期内的油价在伊朗核威胁消除后会迅速下降。",
           "url": "https://wallstreetcn.com/livenews/3065949",
           "source": "华尔街见闻-快讯",
@@ -203,17 +226,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
-        },
-        {
-          "title": "特朗普：将与以总理共同作出停战决定",
-          "url": "https://news.ifeng.com/c/8rM8XXIvw2a",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时38分 ~ 19时29分]"
         },
         {
           "title": "特朗普要求赦免以色列总理 以总统：战争期间“不讨论”",
@@ -300,17 +312,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时44分 ~ 17时38分]"
-        },
-        {
-          "title": "胡锡进：伊朗成心气特朗普，把一口带血的痰吐他脸上",
-          "url": "https://news.ifeng.com/c/8rM8XXIvw5H",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时36分 ~ 19时29分]"
         },
         {
           "title": "特朗普称适时结束对伊军事行动",
@@ -558,7 +559,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
         },
