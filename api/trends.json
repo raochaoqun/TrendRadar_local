@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-09T16:34:06.189832+08:00",
-  "total_titles_processed": 1287,
+  "generated_at": "2026-03-09T17:38:51.099336+08:00",
+  "total_titles_processed": 1394,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 44,
       "titles": [
         {
           "title": "王毅谈特朗普访华",
@@ -44,6 +44,21 @@
           "time_info": "[01时16分 ~ 05时15分]"
         },
         {
+          "title": "国际油价冲破100大关，特朗普不慌不忙回应“很快会下跌”！",
+          "url": "https://www.cls.cn/detail/2306588",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时08分 ~ 17时38分]"
+        },
+        {
           "title": "哈梅内伊次子当选伊朗新任最高领袖 特朗普威胁“难长久”",
           "url": "https://wallstreetcn.com/articles/3766987",
           "source": "华尔街见闻",
@@ -54,22 +69,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时12分 ~ 16时34分]"
+          "appearance_count": 8,
+          "time_info": "[09时12分 ~ 17时38分]"
         },
         {
-          "title": "国际油价冲破100大关，特朗普不慌不忙回应“很快会下跌”！",
-          "url": "https://www.cls.cn/detail/2306588",
-          "source": "财联社热门",
+          "title": "美媒劝特朗普见好就收",
+          "url": "https://news.ifeng.com/c/8rLmtoks9IL",
+          "source": "凤凰网",
           "ranks": [
-            9,
-            5,
-            4,
-            3
+            5
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[12时08分 ~ 16时34分]"
+          "time_info": "[13时51分 ~ 17时38分]"
         },
         {
           "title": "伊朗：今天或选出最高领袖！特朗普再度妄称：希望参与伊朗下一任领导人选择",
@@ -83,17 +95,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时17分 ~ 07时15分]"
-        },
-        {
-          "title": "美媒劝特朗普见好就收",
-          "url": "https://news.ifeng.com/c/8rLmtoks9IL",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时51分 ~ 16时34分]"
         },
         {
           "title": "委内瑞拉代总统致函特朗普",
@@ -148,6 +149,17 @@
           "time_info": "[12时08分 ~ 16时34分]"
         },
         {
+          "title": "美以伊战争｜中方回应特朗普威胁伊朗最高领袖",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
+        },
+        {
           "title": "特朗普回应油价暴涨",
           "url": "https://flash.jin10.com/detail/20260309065548946800",
           "source": "金十数据",
@@ -191,6 +203,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时17分 ~ 04时15分]"
+        },
+        {
+          "title": "特朗普称适时结束对伊军事行动",
+          "url": "https://www.douyin.com/hot/2423798",
+          "source": "抖音",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时50分 ~ 17时38分]"
         },
         {
           "title": "市场消息：特朗普在战争期间仍然坚持打高尔夫。",
@@ -243,27 +266,17 @@
           "time_info": "[03时18分 ~ 04时15分]"
         },
         {
-          "title": "特朗普称适时结束对伊军事行动",
-          "url": "https://www.douyin.com/hot/2423798",
-          "source": "抖音",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时50分 ~ 16时34分]"
-        },
-        {
           "title": "美媒使用旧视频掩盖特朗普失礼行为",
           "url": "https://www.toutiao.com/trending/7615121103565340681/",
           "source": "今日头条",
           "ranks": [
             7,
-            8
+            8,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时44分 ~ 16时34分]"
+          "appearance_count": 4,
+          "time_info": "[15时44分 ~ 17时38分]"
         },
         {
           "title": "特朗普称适时结束对伊军事行动",
@@ -371,6 +384,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时12分 ~ 12时08分]"
+        },
+        {
+          "title": "特朗普：将与以总理共同作出停战决定",
+          "url": "https://news.ifeng.com/c/8rM8XXIvw2a",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
         },
         {
           "title": "据福克斯新闻：特朗普对伊朗新最高领袖“并不满意”。",
@@ -508,7 +532,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "做空ETF、恐慌指数都在飙！高盛戳穿美股“假平静”，市场实则极度脆弱",
@@ -516,11 +540,23 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时21分 ~ 07时15分]"
+          "appearance_count": 8,
+          "time_info": "[02时21分 ~ 17时38分]"
+        },
+        {
+          "title": "美股股指期货跌幅收窄至1%附近，此前均跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3066404",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
         },
         {
           "title": "美股三大股指期货周一全线低开，均跌1%。",
@@ -552,7 +588,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
         },
@@ -595,6 +631,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Qwen",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Qwen管理调整出炉：周靖人代管千问模型一号位，刘大一恒管理更多团队",
+          "url": "https://wallstreetcn.com/livenews/3066386",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
         }
       ]
     }
