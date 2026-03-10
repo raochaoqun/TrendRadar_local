@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-10T22:53:23.672882+08:00",
-  "total_titles_processed": 2088,
+  "generated_at": "2026-03-10T23:52:32.463881+08:00",
+  "total_titles_processed": 2171,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 128,
+      "match_count": 129,
       "titles": [
         {
           "title": "TACO！特朗普称“战争很快结束”，美国股债深V反转，原油一度较日高跳水30%",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时06分 ~ 22时53分]"
+          "appearance_count": 18,
+          "time_info": "[09时06分 ~ 23时52分]"
         },
         {
           "title": "【早报】特朗普：将取消部分制裁，以平抑油价；国际油价高位跳水",
@@ -87,8 +87,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时06分 ~ 22时53分]"
+          "appearance_count": 18,
+          "time_info": "[09时06分 ~ 23时52分]"
         },
         {
           "title": "专家预言“霍尔木兹危机”将持续更久，特朗普发出“20倍攻击力”警告！",
@@ -233,6 +233,29 @@
           "time_info": "[12时01分 ~ 13时11分]"
         },
         {
+          "title": "特朗普称对伊军事行动很快结束，专家：美出现短板，被伊朗抓住",
+          "url": "https://news.ifeng.com/c/8rNxjUXwYy8",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时37分 ~ 23时52分]"
+        },
+        {
+          "title": "特朗普对伊朗开战的目标达成了吗？他承受了多大压力？",
+          "url": "https://v.ifeng.com/c/8rNwUGNMvZG",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时37分 ~ 23时52分]"
+        },
+        {
           "title": "美以伊战争｜特朗普考虑接替穆杰塔巴人选，中方表态",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -244,26 +267,18 @@
           "time_info": "[16时31分 ~ 17时35分]"
         },
         {
-          "title": "特朗普称对伊军事行动很快结束，专家：美出现短板，被伊朗抓住",
-          "url": "https://news.ifeng.com/c/8rNxjUXwYy8",
-          "source": "凤凰网",
+          "title": "特朗普：有可能有条件同伊朗谈判",
+          "url": "https://www.cls.cn/detail/2308807",
+          "source": "财联社热门",
           "ranks": [
-            2
+            13,
+            4,
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时37分 ~ 22时53分]"
-        },
-        {
-          "title": "特朗普对伊朗开战的目标达成了吗？他承受了多大压力？",
-          "url": "https://v.ifeng.com/c/8rNwUGNMvZG",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时37分 ~ 22时53分]"
+          "appearance_count": 4,
+          "time_info": "[20时37分 ~ 23时52分]"
         },
         {
           "title": "媒体证实是美国「战斧」巡航导弹炸了伊朗小学，特朗普曾说是伊朗「自导自演」，究竟是怎么回事？",
@@ -300,19 +315,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[20时37分 ~ 21时56分]"
-        },
-        {
-          "title": "特朗普：有可能有条件同伊朗谈判",
-          "url": "https://www.cls.cn/detail/2308807",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时37分 ~ 22时53分]"
         },
         {
           "title": "大逆转！特朗普一句“战争结束”，美国股债深V反转，原油一度较日高跳水30%",
@@ -368,6 +370,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
+        },
+        {
+          "title": "美国总统特使威特科夫：（谈伊朗问题）美国总统特朗普始终愿意对话。",
+          "url": "https://flash.jin10.com/detail/20260310234539359800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
         },
         {
           "title": "金十提示：特朗普在共和党活动上的发言结束，其此前宣称在5:30左右举行的新闻发布会势必延后。",
@@ -1468,7 +1481,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "美股收盘：特朗普称战争“基本结束” 三大指数集体收涨 纳指涨超1%",
@@ -1507,6 +1520,18 @@
           "time_info": "[00时46分 ~ 00时47分]"
         },
         {
+          "title": "特朗普释放停战对话信号，美股开盘涨跌互现，美元持续下跌，现货黄金日内涨幅达1%，油价跳水",
+          "url": "https://wallstreetcn.com/articles/3767097",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时53分 ~ 23时52分]"
+        },
+        {
           "title": "受特朗普言论影响，美股三大股指均转涨，纳指涨超1%。",
           "url": "https://flash.jin10.com/detail/20260310032807160800",
           "source": "金十数据",
@@ -1516,17 +1541,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时34分"
-        },
-        {
-          "title": "特朗普释放停战对话信号，美股开盘涨跌互现，美元持续下跌，现货黄金日内涨幅达1%，油价跳水",
-          "url": "https://wallstreetcn.com/articles/3767097",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时53分"
         },
         {
           "title": "市场对伊朗战争结束信心减弱 美股反弹势头停滞",
@@ -1770,6 +1784,17 @@
           "time_info": "21时56分"
         },
         {
+          "title": "波音(BA.N)公布2月交付数据公布后，美股股价下跌3.1%。",
+          "url": "https://flash.jin10.com/detail/20260310230408773800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
+        },
+        {
           "title": "标普500指数跌幅收窄至0.5%，美股盘初一度下跌1.5%。",
           "url": "https://wallstreetcn.com/livenews/3066608",
           "source": "华尔街见闻-快讯",
@@ -1806,8 +1831,19 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "IPX Power宣布正式作为独立发电企业（IPP）投入运营，此前谷歌已完成对能源供应商Intersect的收购。",
+          "url": "https://wallstreetcn.com/livenews/3067419",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
+        },
         {
           "title": "美股七巨头收盘播报｜英伟达、谷歌A至少收涨2.7%",
           "url": "https://wallstreetcn.com/livenews/3066727",
@@ -1827,7 +1863,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时53分"
         },
@@ -1838,7 +1874,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时53分"
         },
@@ -1852,6 +1888,57 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "周一（3月9日）纽约尾盘，ICE美元指数涨0.19%，报99.173点，日内交投区间为98.978–99.695点，亚太早盘刷新日高，随后逐步回落。 彭博美元指数涨0.10%，报1204.63点，日内交投区间为1202.96-1211.49点。",
+          "url": "https://wallstreetcn.com/livenews/3066702",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时34分 ~ 04时23分]"
+        },
+        {
+          "title": "纳指实现V形反转，此前一度跌1.4%。半导体指数涨超1.2%，生物科技指数涨超0.6%。 标普500指数仍然跌超0.4%，道指维持400点、0.8%的跌幅，银行指数目前跌2.5%。 彭博美元指数回吐涨幅，油价涨势减退。",
+          "url": "https://wallstreetcn.com/livenews/3066629",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时47分"
+        },
+        {
+          "title": "美元指数跌0.63%。 澳元兑美元上涨0.50%，至0.7104。 英镑兑美元上涨0.31%，至1.3470。 欧元兑美元上涨0.12%，至1.1652。",
+          "url": "https://wallstreetcn.com/livenews/3067147",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
+          "title": "新兴市场股市和汇市涨幅扩大，油价刷新日低。 标普500指数涨超0.2%，道指涨超0.3%，纳指涨超。4%，半导体指数涨1.6%，银行指数涨0.6%。 布伦特原油日内跌幅达11.5%，报87.42美元/桶。 WTI原油日内跌幅达12.0%，报83.16美元/桶。 荷兰天然气期货跌超16%。",
+          "url": "https://wallstreetcn.com/livenews/3067396",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
         }
       ]
     },
@@ -1892,46 +1979,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "周一（3月9日）纽约尾盘，ICE美元指数涨0.19%，报99.173点，日内交投区间为98.978–99.695点，亚太早盘刷新日高，随后逐步回落。 彭博美元指数涨0.10%，报1204.63点，日内交投区间为1202.96-1211.49点。",
-          "url": "https://wallstreetcn.com/livenews/3066702",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时34分 ~ 04时23分]"
-        },
-        {
-          "title": "纳指实现V形反转，此前一度跌1.4%。半导体指数涨超1.2%，生物科技指数涨超0.6%。 标普500指数仍然跌超0.4%，道指维持400点、0.8%的跌幅，银行指数目前跌2.5%。 彭博美元指数回吐涨幅，油价涨势减退。",
-          "url": "https://wallstreetcn.com/livenews/3066629",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
-        },
-        {
-          "title": "美元指数跌0.63%。 澳元兑美元上涨0.50%，至0.7104。 英镑兑美元上涨0.31%，至1.3470。 欧元兑美元上涨0.12%，至1.1652。",
-          "url": "https://wallstreetcn.com/livenews/3067147",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时31分"
         }
       ]
     },
