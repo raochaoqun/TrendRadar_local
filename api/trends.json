@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-10T19:25:58.269975+08:00",
-  "total_titles_processed": 1749,
+  "generated_at": "2026-03-10T20:37:30.569902+08:00",
+  "total_titles_processed": 1858,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 119,
+      "match_count": 127,
       "titles": [
         {
           "title": "TACO！特朗普称“战争很快结束”，美国股债深V反转，原油一度较日高跳水30%",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时06分 ~ 19时25分]"
+          "appearance_count": 15,
+          "time_info": "[09时06分 ~ 20时37分]"
         },
         {
           "title": "【早报】特朗普：将取消部分制裁，以平抑油价；国际油价高位跳水",
@@ -87,8 +87,24 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时06分 ~ 19时25分]"
+          "appearance_count": 15,
+          "time_info": "[09时06分 ~ 20时37分]"
+        },
+        {
+          "title": "专家预言“霍尔木兹危机”将持续更久，特朗普发出“20倍攻击力”警告！",
+          "url": "https://www.cls.cn/detail/2308078",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7,
+            6,
+            4,
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时36分 ~ 20时37分]"
         },
         {
           "title": "是时候卖原油了？美银Hartnett：特朗普要赢中期选举，美伊战争必须在3月“降级”",
@@ -106,22 +122,6 @@
           "time_info": "[00时46分 ~ 14时37分]"
         },
         {
-          "title": "专家预言“霍尔木兹危机”将持续更久，特朗普发出“20倍攻击力”警告！",
-          "url": "https://www.cls.cn/detail/2308078",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            7,
-            6,
-            4,
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时36分 ~ 19时25分]"
-        },
-        {
           "title": "美媒最新民调：特朗普支持率下滑至44%",
           "url": "https://news.ifeng.com/c/8rNS9E6Ovmp",
           "source": "凤凰网",
@@ -129,8 +129,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时10分 ~ 19时25分]"
+          "appearance_count": 12,
+          "time_info": "[13时10分 ~ 20时37分]"
         },
         {
           "title": "美媒：特朗普没有对伊朗的“战后计划”",
@@ -140,8 +140,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时01分 ~ 19时25分]"
+          "appearance_count": 14,
+          "time_info": "[12时01分 ~ 20时37分]"
         },
         {
           "title": "特朗普：将与以总理共同作出停战决定",
@@ -165,6 +165,21 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时46分 ~ 12时02分]"
+        },
+        {
+          "title": "普京与特朗普通话讨论伊朗局势",
+          "url": "https://www.douyin.com/hot/2424957",
+          "source": "抖音",
+          "ranks": [
+            15,
+            22,
+            24,
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时36分 ~ 20时37分]"
         },
         {
           "title": "特朗普：若伊朗阻断霍尔木兹海峡，美将施以“比以往猛烈20倍的打击”",
@@ -216,21 +231,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时01分 ~ 13时11分]"
-        },
-        {
-          "title": "普京与特朗普通话讨论伊朗局势",
-          "url": "https://www.douyin.com/hot/2424957",
-          "source": "抖音",
-          "ranks": [
-            15,
-            22,
-            24,
-            25,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时36分 ~ 19时25分]"
         },
         {
           "title": "美以伊战争｜特朗普考虑接替穆杰塔巴人选，中方表态",
@@ -313,6 +313,28 @@
           "time_info": "09时06分"
         },
         {
+          "title": "美以伊战争｜特朗普称可能与伊朗对话",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
+          "title": "特朗普称对伊军事行动很快结束，专家：美出现短板，被伊朗抓住",
+          "url": "https://news.ifeng.com/c/8rNxjUXwYy8",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
           "title": "美国总统特朗普：谈论缴获伊朗石油还为时尚早。",
           "url": "https://flash.jin10.com/detail/20260310011925949800",
           "source": "金十数据",
@@ -355,6 +377,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
+        },
+        {
+          "title": "特朗普对伊朗开战的目标达成了吗？他承受了多大压力？",
+          "url": "https://v.ifeng.com/c/8rNwUGNMvZG",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
         },
         {
           "title": "特朗普新闻发布会：对伊军事行动会很快结束、油价涨幅低于预期",
@@ -622,7 +655,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
         },
@@ -693,6 +726,17 @@
           "time_info": "15时35分"
         },
         {
+          "title": "美国国防部长赫格塞思：（谈穆杰塔巴·哈梅内伊）他最好听听特朗普的话。至于他的地位，我现在无法评论。",
+          "url": "https://flash.jin10.com/detail/20260310202222700800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
           "title": "美国总统特朗普：美国正在打击伊朗的无人机制造基地，随着军事行动的持续，伊朗将“很快完蛋”。",
           "url": "https://flash.jin10.com/detail/20260310051406873800",
           "source": "金十数据",
@@ -759,6 +803,17 @@
           "time_info": "07时19分"
         },
         {
+          "title": "美国国防部长赫格塞思：美国处于“非常有利的地位”，为美国总统特朗普提供了最大选择空间。",
+          "url": "https://flash.jin10.com/detail/20260310202142671800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
           "title": "美国总统特朗普：俄罗斯总统普京“希望（在国际局势中）非常具有建设性”。",
           "url": "https://wallstreetcn.com/livenews/3066770",
           "source": "华尔街见闻-快讯",
@@ -823,6 +878,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时06分"
+        },
+        {
+          "title": "特朗普：有可能有条件同伊朗谈判",
+          "url": "https://www.cls.cn/detail/2308807",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
         },
         {
           "title": "黎巴嫩请求特朗普政府斡旋与以色列的直接和平谈判，以结束冲突。",
@@ -922,6 +988,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
+        },
+        {
+          "title": "特朗普称有可能有条件同伊朗谈判",
+          "url": "https://wallstreetcn.com/livenews/3067289",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
         },
         {
           "title": "美国总统特朗普：（针对伊朗）我们已经赢了。但我们还没有赢得足够。我们决心彻底战胜这个恐怖政权。",
@@ -1254,6 +1331,17 @@
           "time_info": "09时06分"
         },
         {
+          "title": "伊朗最高安全官员回应特朗普：伊朗人民不畏惧威胁",
+          "url": "https://wallstreetcn.com/livenews/3067276",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
           "title": "美国总统特朗普：油价涨幅低于我的预期。",
           "url": "https://flash.jin10.com/detail/20260310061511399800",
           "source": "金十数据",
@@ -1367,7 +1455,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "美股收盘：特朗普称战争“基本结束” 三大指数集体收涨 纳指涨超1%",
@@ -1415,6 +1503,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时34分"
+        },
+        {
+          "title": "市场对伊朗战争结束信心减弱 美股反弹势头停滞",
+          "url": "https://flash.jin10.com/detail/20260310202457509800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
         },
         {
           "title": "金十图示：2026年03月09日（周一）美股热门股票行情一览（美股收盘）",
@@ -1536,13 +1635,24 @@
           "time_info": "[05时23分 ~ 06时20分]"
         },
         {
+          "title": "特朗普释放停战对话信号，美股期指盘前回吐涨幅，美元持续下跌，现货黄金日内涨幅达1%，油价跳水",
+          "url": "https://wallstreetcn.com/articles/3767097",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
           "title": "BioNTech SE(BNTX.O)预计2026年总收入为20亿至23亿欧元，不及预期，BioNTech SE(BNTX.O)美股盘前下跌14%。",
           "url": "https://flash.jin10.com/detail/20260310184822899800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
         },
@@ -1553,7 +1663,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
         },
@@ -1575,7 +1685,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
         },
@@ -1586,7 +1696,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
         },
@@ -1600,6 +1710,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
+        },
+        {
+          "title": "亚马逊：启动11部分的美国投资级债券发行，授权银行安排八部分欧元债券发行。 计划发行250亿至300亿美元的美元债券，以及100亿欧元的欧元债券。 亚马逊美股盘前转跌，现跌0.04%。",
+          "url": "https://wallstreetcn.com/livenews/3067269",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
         }
       ]
     },
