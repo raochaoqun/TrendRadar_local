@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-12T17:34:21.626469+08:00",
-  "total_titles_processed": 1475,
+  "generated_at": "2026-03-12T18:32:00.063360+08:00",
+  "total_titles_processed": 1590,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 79,
+      "match_count": 82,
       "titles": [
         {
           "title": "美以伊战争｜特朗普：与伊朗的战争很快就会结束",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时19分 ~ 17时34分]"
+          "appearance_count": 9,
+          "time_info": "[06时19分 ~ 18时31分]"
         },
         {
           "title": "特朗普政府成“波动之源”，油价又坐一次“过山车”",
@@ -116,8 +116,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时05分 ~ 17时34分]"
+          "appearance_count": 6,
+          "time_info": "[12时05分 ~ 18时31分]"
+        },
+        {
+          "title": "特朗普称将对包括中国在内的贸易伙伴启动新的贸易调查，中方回应",
+          "url": "https://www.cls.cn/detail/2310747",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时32分 ~ 18时31分]"
         },
         {
           "title": "美官员称特朗普对伊朗反应有误判",
@@ -134,6 +146,18 @@
           "time_info": "[02时41分 ~ 07时22分]"
         },
         {
+          "title": "中方回应特朗普将对华新贸易调查",
+          "url": "https://www.toutiao.com/trending/7615192157801152518/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时40分 ~ 18时31分]"
+        },
+        {
           "title": "特朗普称对伊战争“即将结束” 但美以军方仍筹划至少两周持续打击",
           "url": "https://www.cls.cn/detail/2310196",
           "source": "财联社热门",
@@ -146,17 +170,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[07时22分 ~ 15时40分]"
-        },
-        {
-          "title": "特朗普称将对包括中国在内的贸易伙伴启动新的贸易调查，中方回应",
-          "url": "https://www.cls.cn/detail/2310747",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时32分 ~ 17时34分]"
         },
         {
           "title": "美以伊战争｜特朗普：将动用战略石油储备抑制油价",
@@ -181,18 +194,6 @@
           "time_info": "00时41分"
         },
         {
-          "title": "中方回应特朗普将对华新贸易调查",
-          "url": "https://www.toutiao.com/trending/7615192157801152518/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时40分 ~ 17时34分]"
-        },
-        {
           "title": "市场消息：美国在中东的部分盟友私下担心特朗普政府对战争的经济后果考虑不足。",
           "url": "https://flash.jin10.com/detail/20260312002740188800",
           "source": "金十数据",
@@ -213,6 +214,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时38分 ~ 05时24分]"
+        },
+        {
+          "title": "中方回应特朗普计划访华",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A1%E5%88%92%E8%AE%BF%E5%8D%8E%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
         },
         {
           "title": "特朗普：美国在伊朗没有采取可以采取的某些行动。",
@@ -545,6 +557,17 @@
           "time_info": "01时42分"
         },
         {
+          "title": "中方回应特朗普将对华新贸易调查",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E5%AF%B9%E5%8D%8E%E6%96%B0%E8%B4%B8%E6%98%93%E8%B0%83%E6%9F%A5%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
           "title": "特朗普谈西班牙：这个国家不配合美国。",
           "url": "https://flash.jin10.com/detail/20260312001740384800",
           "source": "金十数据",
@@ -686,6 +709,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时38分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-03-12）",
+          "url": "https://flash.jin10.com/detail/20260312181857700800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
         },
         {
           "title": "美国总统特朗普表示，已两次重创伊朗领导层。油价将会下跌。美国军方的进展远超预期。",
@@ -936,6 +970,18 @@
           "time_info": "[00时40分 ~ 07时22分]"
         },
         {
+          "title": "通胀降温难敌油市恐慌，美股承压、美债遭挫，美元重回99关口，白银下挫3%",
+          "url": "https://wallstreetcn.com/articles/3767236",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时22分 ~ 18时31分]"
+        },
+        {
           "title": "通胀降温难敌油市恐慌，美股开盘涨跌互现，甲骨文涨超11%，现货白银日内跌幅扩大至3%，原油涨幅收窄",
           "url": "https://wallstreetcn.com/articles/3767236",
           "source": "华尔街见闻",
@@ -946,18 +992,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时40分 ~ 06时19分]"
-        },
-        {
-          "title": "通胀降温难敌油市恐慌，美股承压、美债遭挫，美元重回99关口，白银下挫3%",
-          "url": "https://wallstreetcn.com/articles/3767236",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时22分 ~ 17时34分]"
         },
         {
           "title": "布油重回90美元上方 美股期指延续弱势表现 | 今夜看点",
@@ -1162,7 +1196,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时34分"
         }
