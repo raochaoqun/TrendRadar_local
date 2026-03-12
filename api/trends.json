@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-12T20:36:20.747984+08:00",
-  "total_titles_processed": 1775,
+  "generated_at": "2026-03-12T21:57:07.966530+08:00",
+  "total_titles_processed": 1888,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时19分 ~ 20时36分]"
+          "appearance_count": 13,
+          "time_info": "[06时19分 ~ 21时57分]"
         },
         {
           "title": "特朗普政府成“波动之源”，油价又坐一次“过山车”",
@@ -54,8 +54,22 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时05分 ~ 20时36分]"
+          "appearance_count": 10,
+          "time_info": "[12时05分 ~ 21时57分]"
+        },
+        {
+          "title": "特朗普称将对包括中国在内的贸易伙伴启动新的贸易调查，中方回应",
+          "url": "https://www.cls.cn/detail/2310747",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时32分 ~ 21时57分]"
         },
         {
           "title": "摧毁十余艘伊朗布雷舰艇，特朗普威胁：伊朗不得在霍尔木兹海峡布雷",
@@ -97,20 +111,6 @@
           "time_info": "[00时40分 ~ 07时22分]"
         },
         {
-          "title": "特朗普称将对包括中国在内的贸易伙伴启动新的贸易调查，中方回应",
-          "url": "https://www.cls.cn/detail/2310747",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时32分 ~ 20时36分]"
-        },
-        {
           "title": "伊媒：特朗普向多国盟友求援遭拒，仅1国考虑帮忙",
           "url": "https://news.ifeng.com/c/8rQZWpPErKf",
           "source": "凤凰网",
@@ -121,6 +121,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时05分 ~ 17时34分]"
+        },
+        {
+          "title": "中方回应特朗普计划访华",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A1%E5%88%92%E8%AE%BF%E5%8D%8E%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时31分 ~ 21时57分]"
         },
         {
           "title": "【早报】特朗普：对伊朗军事行动“即将结束”；七国集团：原则上支持必要时动用战略储备稳定能源市场",
@@ -144,17 +156,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[15时40分 ~ 20时36分]"
-        },
-        {
-          "title": "中方回应特朗普计划访华",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A1%E5%88%92%E8%AE%BF%E5%8D%8E%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时31分 ~ 20时36分]"
         },
         {
           "title": "美官员称特朗普对伊朗反应有误判",
@@ -385,6 +386,18 @@
           "time_info": "[09时04分 ~ 15时40分]"
         },
         {
+          "title": "中方回应特朗普计划访华",
+          "url": "https://www.toutiao.com/trending/7615267437721780267/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时36分 ~ 21时57分]"
+        },
+        {
           "title": "特朗普称对伊朗军事行动“即将结束”，伊方称转为“连环打击”、警告美或陷入长期耗损战",
           "url": "https://wallstreetcn.com/articles/3767268",
           "source": "华尔街见闻",
@@ -513,17 +526,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时19分 ~ 07时22分]"
-        },
-        {
-          "title": "中方回应特朗普计划访华",
-          "url": "https://www.toutiao.com/trending/7615267437721780267/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时36分"
         },
         {
           "title": "当被问及伊朗是否在霍尔木兹海峡布雷时，特朗普回答说：“我们不这么认为。”",
@@ -969,7 +971,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 26,
       "titles": [
         {
           "title": "“护航”乌龙消息搅动市场，原油“过山车”，美股冲高回落，新兴市场外汇大涨",
@@ -991,8 +993,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时22分 ~ 20时36分]"
+          "appearance_count": 12,
+          "time_info": "[07时22分 ~ 21时57分]"
         },
         {
           "title": "通胀降温难敌油市恐慌，美股开盘涨跌互现，甲骨文涨超11%，现货白银日内跌幅扩大至3%，原油涨幅收窄",
@@ -1093,6 +1095,39 @@
           "time_info": "[05时24分 ~ 06时19分]"
         },
         {
+          "title": "美股三大股指低开，道指跌0.99%，标普500指数跌0.79%，纳指跌0.89%。理想汽车跌3%，公司Q4营收同比下滑35%；科技股普跌，英伟达、AMD跌超1%，美光科技跌超2%；摩根士丹利下跌4.9%，创2月27日以来最大跌幅，消息称摩根士丹利限制私人信用基金的赎回；标普1500化肥指数上涨4%。",
+          "url": "https://wallstreetcn.com/livenews/3068966",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
+        {
+          "title": "美股低开低走 三大股指悉数跌超1%",
+          "url": "https://flash.jin10.com/detail/20260312214704058800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
+        {
+          "title": "金十图示：2026年03月12日（周四）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260312214154348800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
+        {
           "title": "周三（3月11日），存储芯片与硬件供应链指数涨2.35%，报108.45点，美股盘初持续上涨，北京时间22:00以来持续高位窄幅震荡。 成分股Sandisk收涨5.90%，美光科技、Rambus至多涨3.86%，拉姆研究、应用材料至多涨1.69%，西部数据、希捷科技、泰瑞达TER至多涨0.97%。 信息科技指数涨1.51%，人工智能（AI）赢家指数涨1.43%，AI软件先驱指数涨0.97%。 北美科技软件股指数ETF收涨0.11%。",
           "url": "https://wallstreetcn.com/livenews/3068336",
           "source": "华尔街见闻-快讯",
@@ -1159,6 +1194,17 @@
           "time_info": "05时24分"
         },
         {
+          "title": "美股三大股指大幅低开",
+          "url": "https://flash.jin10.com/detail/20260312213028803800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
+        {
           "title": "本田汽车美股盘前跌超8%，因重新考虑其电车战略而计提高达约157亿美元的费用。",
           "url": "https://wallstreetcn.com/livenews/3068725",
           "source": "华尔街见闻-快讯",
@@ -1203,6 +1249,17 @@
           "time_info": "07时22分"
         },
         {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3068936",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
+        {
           "title": "理想汽车第四季度营收287.8亿元人民币，同比下降35%，市场预估288.4亿元人民币。 第四季度汽车销售收入272.5亿元人民币，同比下降36%，市场预估272.7亿元人民币。 第四季度调整后每ADS收益0.25元人民币，上年同期3.79元人民币。 预计2026年第一季度营收204亿元人民币至216亿元人民币，市场预估240.1亿元人民币。 预计2026年第一季度车辆交付量为85,000至90,000辆，同比减少8.5%至3.1%。 理想汽车美股盘前下跌近3%。",
           "url": "https://wallstreetcn.com/livenews/3068756",
           "source": "华尔街见闻-快讯",
@@ -1217,7 +1274,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美元指数涨超0.4%",
@@ -1249,9 +1306,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时36分"
+        },
+        {
+          "title": "现货黄金短线下挫12美元，美元指数走高日内涨0.34%，新兴市场货币指数跌至盘中低点；油价小幅攀升。伊朗最高领袖穆杰塔巴称，霍尔木兹海峡应保持封闭。",
+          "url": "https://wallstreetcn.com/livenews/3068961",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌2.61%，暂报2633.29点，期内大部分时间持稳于2620点附近——低位窄幅震荡。 MarketVectorTM数字资产100中盘指数跌1.25%，报2831.50点，过半时间持稳于2800点一线。 MarketVector数字资产100指数跌0.88%，报14124.93点，过半时间交投于14000点下方。 目前，Solana涨0.56%，狗狗币跌1.84%，XRP持平。 比特币涨0.97%，暂报70695.99美元；以太坊涨1.69%，暂报2069.95美元。",
@@ -1277,7 +1345,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时36分"
         },
