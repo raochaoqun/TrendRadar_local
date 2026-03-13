@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-13T20:35:46.819229+08:00",
-  "total_titles_processed": 1810,
+  "generated_at": "2026-03-13T21:54:05.460985+08:00",
+  "total_titles_processed": 1935,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 49,
       "titles": [
         {
           "title": "特朗普称穆杰塔巴可能受伤但仍活着",
@@ -42,6 +42,19 @@
           "time_info": "[00时50分 ~ 05时24分]"
         },
         {
+          "title": "市场不再预计美联储今年一定降息！特朗普敦促鲍威尔立刻降息：别等到下次开会！",
+          "url": "https://wallstreetcn.com/articles/3767380",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[12时03分 ~ 21时54分]"
+        },
+        {
           "title": "不再鼓吹低油价？特朗普态度“180度大转弯”：高油价让美国大赚！",
           "url": "https://www.cls.cn/detail/2311714",
           "source": "财联社热门",
@@ -67,18 +80,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时50分 ~ 07时19分]"
-        },
-        {
-          "title": "市场不再预计美联储今年一定降息！特朗普敦促鲍威尔立刻降息：别等到下次开会！",
-          "url": "https://wallstreetcn.com/articles/3767380",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时03分 ~ 20时35分]"
         },
         {
           "title": "特朗普政府准备豁免《琼斯法案》 以应对燃料价格飙升",
@@ -116,8 +117,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时26分 ~ 20时35分]"
+          "appearance_count": 5,
+          "time_info": "[18时26分 ~ 21时54分]"
         },
         {
           "title": "美国总统特朗普：美联储主席“杰罗姆·太晚·鲍威尔”今天在哪里？他应该立刻降息，而不是等下一次会议。",
@@ -209,15 +210,51 @@
           "time_info": "17时31分"
         },
         {
+          "title": "阿联酋国务部长：伊朗冲突将以外交形式终结；美国总统特朗普将在适当时候引领我们走向那一时刻。",
+          "url": "https://flash.jin10.com/detail/20260313214603456800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
+        },
+        {
           "title": "美媒曝特朗普在七国集团会议上“吹嘘”伊朗“即将投降”",
           "url": "https://wallstreetcn.com/livenews/3069750",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时35分"
+        },
+        {
+          "title": "特朗普访华后将签署美国对台一揽子军售方案？外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32761207",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            15,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时26分 ~ 21时54分]"
+        },
+        {
+          "title": "特朗普没料到，能拦截油轮的，除了伊朗还有一个资本财团",
+          "url": "https://news.ifeng.com/c/8rSOJi1DH0g",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时24分 ~ 21时54分]"
         },
         {
           "title": "释新闻｜特朗普为何改口批准释放石油储备？对平抑油价有多大用处？",
@@ -233,19 +270,6 @@
           "time_info": "[07时19分 ~ 12时04分]"
         },
         {
-          "title": "特朗普访华后将签署美国对台一揽子军售方案？外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32761207",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时26分 ~ 20时35分]"
-        },
-        {
           "title": "中方就特朗普访华计划准备进展如何？外交部回应",
           "url": "https://m.thepaper.cn/newsDetail_forward_32753926",
           "source": "澎湃新闻",
@@ -256,17 +280,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时10分 ~ 13时42分]"
-        },
-        {
-          "title": "特朗普没料到，能拦截油轮的，除了伊朗还有一个资本财团",
-          "url": "https://news.ifeng.com/c/8rSOJi1DH0g",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时24分 ~ 20时35分]"
         },
         {
           "title": "美国财政部长贝森特：（被问及战争成本是否会迫使他告诉特朗普战争已不再负担得起）“绝对不会”。",
@@ -291,6 +304,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时24分 ~ 06时17分]"
+        },
+        {
+          "title": "欧盟外长高呼“团结对抗特朗普”，业界先哑火了",
+          "url": "https://news.ifeng.com/c/8rT05GsE7jk",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时53分 ~ 21时54分]"
         },
         {
           "title": "特朗普鼓动油轮“拿出点胆量”通过霍尔木兹海峡",
@@ -356,7 +380,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时35分"
         },
@@ -400,7 +424,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时35分"
         },
@@ -455,7 +479,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时35分"
         },
@@ -491,6 +515,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
+        },
+        {
+          "title": "美国总统特朗普：我相信伊朗领导人还活着，只是“受伤”了。",
+          "url": "https://flash.jin10.com/detail/20260313212822283800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
         },
         {
           "title": "以色列总理内塔尼亚胡：几乎每天都会与美国总统特朗普畅谈。",
@@ -540,7 +575,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 24,
       "titles": [
         {
           "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，金银下挫",
@@ -552,8 +587,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时03分 ~ 20时35分]"
+          "appearance_count": 15,
+          "time_info": "[12时03分 ~ 21时54分]"
         },
         {
           "title": "通胀降温难敌油市恐慌，美股承压、美债遭挫，美元重回99关口，白银下挫3%",
@@ -699,6 +734,17 @@
           "time_info": "[05时24分 ~ 06时17分]"
         },
         {
+          "title": "浑水创始人转空：若AI持续替代白领，美股401K体系或将崩盘",
+          "url": "https://wallstreetcn.com/articles/3767368",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时53分 ~ 21时54分]"
+        },
+        {
           "title": "纽约期金跌超2%，美股盘后失守5060美元",
           "url": "https://wallstreetcn.com/livenews/3069160",
           "source": "华尔街见闻-快讯",
@@ -723,13 +769,35 @@
           "time_info": "[05时24分 ~ 06时17分]"
         },
         {
+          "title": "美股三大股指高开，道指涨0.47%，标普500指数涨0.5%，纳指涨0.49%。明星科技股多数走高，美光科技涨超3%，英特尔涨2.7%，台积电涨超2%。纳斯达克上市次日，PayPay涨超16%。Adobe跌超7%，公司上季营收超预期创纪录，但指引平平。META下跌3.2%，创3月6日以来最大盘中跌幅，报道称Meta在出现性能担忧后推迟了新AI模型的推出。",
+          "url": "https://wallstreetcn.com/livenews/3069840",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
+        },
+        {
+          "title": "金十图示：2026年03月13日（周五）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260313214149488800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
+        },
+        {
           "title": "美股期货走高，纳指期货涨0.41%，道指期货涨0.41%，标普500指数期货涨0.40%。",
           "url": "https://wallstreetcn.com/livenews/3069738",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时35分"
         },
@@ -756,6 +824,28 @@
           "time_info": "16时30分"
         },
         {
+          "title": "摩根大通：美股散户风险偏好出现降温",
+          "url": "https://flash.jin10.com/detail/20260313213113167800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
+        },
+        {
+          "title": "美股开盘，三大股指高开，道指涨0.47%，标普500指数涨0.5%，纳指涨0.49%。Adobe(ADBE.O)大跌7%， CEO掌舵18年后宣布辞职。",
+          "url": "https://flash.jin10.com/detail/20260313213027984800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
+        },
+        {
           "title": "软银支持的日本数字钱包运营商PayPay登陆美股，开盘涨超13%。",
           "url": "https://flash.jin10.com/detail/20260313005601624800",
           "source": "金十数据",
@@ -770,7 +860,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美元指数12日上涨",
@@ -783,6 +873,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时24分 ~ 06时17分]"
+        },
+        {
+          "title": "布油破百引爆通胀担忧，全球股市普跌，美元指数重回100关口，日元创20个月新低",
+          "url": "https://wallstreetcn.com/articles/3767392",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时53分 ~ 21时54分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数持平，暂报2631.86点，期内呈现出W形反转行情。 MarketVectorTM数字资产100中盘指数涨0.89%，报2854.85点，北京时间11:48跌至2795.46点刷新日低，随后持续反弹。 MarketVector数字资产100指数持平，报14103.24点，13:27也曾刷新日低至13847.75点。 目前，Solana跌0.43%，狗狗币涨0.85%，XRP跌0.62%。 比特币跌0.25%，暂报70453美元；以太坊跌0.22%，暂报2070.20美元。",
