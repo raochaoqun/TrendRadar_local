@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-14T00:29:37.541127+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-14T01:28:08.400152+08:00",
+  "total_titles_processed": 386,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "草台班子？特朗普政府低估伊朗决心，让人目瞪口呆",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 01时28分]"
         },
         {
           "title": "市场不再预计美联储今年一定降息！特朗普敦促鲍威尔立刻降息：别等到下次开会！",
@@ -26,8 +26,19 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 01时28分]"
+        },
+        {
+          "title": "据Politico：特朗普政府正在扩大孤立古巴的举措，向其他国家提供“激励措施”，以驱逐古巴医生。",
+          "url": "https://flash.jin10.com/detail/20260314011638187800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时29分"
+          "time_info": "01时28分"
         },
         {
           "title": "以色列总统称特朗普攻击国家主权",
@@ -37,19 +48,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
-        },
-        {
-          "title": "特朗普访华后将签署美国对台一揽子军售方案？外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32761207",
-          "source": "澎湃新闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 01时28分]"
         },
         {
           "title": "特朗普没料到，能拦截油轮的，除了伊朗还有一个资本财团",
@@ -59,8 +59,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 01时28分]"
+        },
+        {
+          "title": "特朗普访华后将签署美国对台一揽子军售方案？外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32761207",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 01时28分]"
         },
         {
           "title": "欧盟外长高呼“团结对抗特朗普”，业界先哑火了",
@@ -70,8 +82,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 01时28分]"
         },
         {
           "title": "白宫官员：美国总统特朗普此前已表示，美国正与古巴进行对话，古巴领导人应达成协议，而这完全可能实现。",
@@ -105,12 +117,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时29分"
+        },
+        {
+          "title": "消息人士：特朗普政府严重低估伊朗关闭霍尔木兹海峡的意愿",
+          "url": "https://flash.jin10.com/detail/20260314004306680800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时28分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，金银下挫",
@@ -120,8 +143,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 01时28分]"
         },
         {
           "title": "美股三大指数集体高开 百度涨超2%",
@@ -131,8 +154,30 @@
             29
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 01时28分]"
+        },
+        {
+          "title": "金十图示：2026年03月13日（周五）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260314003327722800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时29分"
+          "time_info": "01时28分"
+        },
+        {
+          "title": "金十图示：2026年03月13日（周五）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260314003323131800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时28分"
         }
       ]
     },
@@ -148,8 +193,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 01时28分]"
         }
       ]
     },
@@ -162,11 +207,12 @@
           "url": "https://wallstreetcn.com/articles/3767392",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 01时28分]"
         }
       ]
     }
