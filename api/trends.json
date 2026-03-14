@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-14T19:17:24.474045+08:00",
-  "total_titles_processed": 1365,
+  "generated_at": "2026-03-14T20:29:09.005782+08:00",
+  "total_titles_processed": 1465,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,21 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[09时09分 ~ 20时29分]"
+        },
+        {
+          "title": "特朗普：美军对伊朗石油出口枢纽哈尔克岛发动“猛烈空袭”，“很快”开始护航",
+          "url": "https://wallstreetcn.com/articles/3767499",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            5,
+            4
+          ],
+          "is_new": false,
           "appearance_count": 11,
-          "time_info": "[09时09分 ~ 19时17分]"
+          "time_info": "[12时02分 ~ 20时29分]"
         },
         {
           "title": "市场不再预计美联储今年一定降息！特朗普敦促鲍威尔立刻降息：别等到下次开会！",
@@ -44,19 +57,6 @@
           "time_info": "[00时29分 ~ 04时24分]"
         },
         {
-          "title": "特朗普：美军对伊朗石油出口枢纽哈尔克岛发动“猛烈空袭”，“很快”开始护航",
-          "url": "https://wallstreetcn.com/articles/3767499",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时02分 ~ 19时17分]"
-        },
-        {
           "title": "【早报】金融监管总局约谈5家平台运营机构；特朗普称对伊朗石油出口枢纽发动空袭",
           "url": "https://www.cls.cn/detail/2312864",
           "source": "财联社热门",
@@ -66,8 +66,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时09分 ~ 19时17分]"
+          "appearance_count": 13,
+          "time_info": "[09时09分 ~ 20时29分]"
+        },
+        {
+          "title": "特朗普轰炸哈尔克岛的算盘：宁可下周油价飙到200美元，也要给中选留压价窗口",
+          "url": "https://wallstreetcn.com/articles/3767517",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时35分 ~ 20时29分]"
         },
         {
           "title": "特朗普没料到，能拦截油轮的，除了伊朗还有一个资本财团",
@@ -123,6 +136,19 @@
           "time_info": "[00时29分 ~ 15时31分]"
         },
         {
+          "title": "特朗普据悉私下称“伊朗即将投降” 伊朗最高领袖誓言继续战斗",
+          "url": "https://www.cls.cn/detail/2312740",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时02分 ~ 20时29分]"
+        },
+        {
           "title": "特朗普：美军轰炸伊朗石油出口枢纽哈尔克岛",
           "url": "https://m.thepaper.cn/newsDetail_forward_32765792",
           "source": "澎湃新闻",
@@ -137,30 +163,26 @@
           "time_info": "[12时02分 ~ 19时17分]"
         },
         {
-          "title": "特朗普轰炸哈尔克岛的算盘：宁可下周油价飙到200美元，也要给中选留压价窗口",
-          "url": "https://wallstreetcn.com/articles/3767517",
-          "source": "华尔街见闻",
+          "title": "伊朗早已预判并准备摊牌，特朗普会先眨眼",
+          "url": "https://news.ifeng.com/c/8rUHC0I1TgI",
+          "source": "凤凰网",
           "ranks": [
-            7,
-            5,
-            1
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时35分 ~ 19时17分]"
+          "appearance_count": 4,
+          "time_info": "[18时18分 ~ 20时29分]"
         },
         {
-          "title": "特朗普据悉私下称“伊朗即将投降” 伊朗最高领袖誓言继续战斗",
-          "url": "https://www.cls.cn/detail/2312740",
-          "source": "财联社热门",
+          "title": "特朗普这么一打伊朗，乌克兰几乎全是坏消息",
+          "url": "https://news.ifeng.com/c/8rTv5CAQnz3",
+          "source": "凤凰网",
           "ranks": [
-            12,
-            13,
-            10
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时02分 ~ 19时17分]"
+          "appearance_count": 8,
+          "time_info": "[14时35分 ~ 20时29分]"
         },
         {
           "title": "美国总统特朗普拒绝俄罗斯总统普京关于“将伊朗铀转移至俄罗斯”的提议。",
@@ -205,28 +227,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时18分 ~ 19时17分]"
-        },
-        {
-          "title": "伊朗早已预判并准备摊牌，特朗普会先眨眼",
-          "url": "https://news.ifeng.com/c/8rUHC0I1TgI",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时18分 ~ 19时17分]"
-        },
-        {
-          "title": "特朗普这么一打伊朗，乌克兰几乎全是坏消息",
-          "url": "https://news.ifeng.com/c/8rTv5CAQnz3",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时35分 ~ 19时17分]"
         },
         {
           "title": "美国参议员蒂利斯表示，特朗普政府若就美联储主席鲍威尔的裁决提出上诉，只会推迟确认凯文·沃什出任下一任美联储主席。",
@@ -287,6 +287,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时39分 ~ 17时23分]"
+        },
+        {
+          "title": "美防长不满CNN报道，喊话特朗普盟友赶紧买了它",
+          "url": "https://news.ifeng.com/c/8rUH3IUe3be",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时18分 ~ 20时29分]"
         },
         {
           "title": "美军何时护航油轮通过霍尔木兹海峡？特朗普最新表态：很快",
@@ -401,15 +412,15 @@
           "time_info": "[05时25分 ~ 07时20分]"
         },
         {
-          "title": "美防长不满CNN报道，喊话特朗普盟友赶紧买了它",
-          "url": "https://news.ifeng.com/c/8rUH3IUe3be",
-          "source": "凤凰网",
+          "title": "找个台阶下吧！特朗普顾问：是时候“宣布胜利并撤出”伊朗了",
+          "url": "https://wallstreetcn.com/articles/3767518",
+          "source": "华尔街见闻",
           "ranks": [
-            7
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时18分 ~ 19时17分]"
+          "appearance_count": 3,
+          "time_info": "[19时17分 ~ 20时29分]"
         },
         {
           "title": "特朗普：美军下周将“猛烈空袭”伊朗，拒绝谈论“夺岛”，不需要乌克兰的反无人机技术",
@@ -458,6 +469,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时24分 ~ 05时25分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-03-14）",
+          "url": "https://flash.jin10.com/detail/20260314184133992800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时17分 ~ 20时29分]"
         },
         {
           "title": "美国检察官：特朗普政府将对法官的美联储传票判决结果提起上诉",
@@ -539,28 +562,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时10分"
-        },
-        {
-          "title": "找个台阶下吧！特朗普顾问：是时候“宣布胜利并撤出”伊朗了",
-          "url": "https://wallstreetcn.com/articles/3767518",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时17分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-03-14）",
-          "url": "https://flash.jin10.com/detail/20260314184133992800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时17分"
         },
         {
           "title": "美国联邦法官还表示，特朗普政府非法依赖有关资助消费者金融保护局的法律备忘录。",
@@ -787,8 +788,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时09分 ~ 19时17分]"
+          "appearance_count": 13,
+          "time_info": "[09时09分 ~ 20时29分]"
         },
         {
           "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，金银下挫",
@@ -812,8 +813,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时20分 ~ 19时17分]"
+          "appearance_count": 14,
+          "time_info": "[07时20分 ~ 20时29分]"
         },
         {
           "title": "金十图示：2026年03月13日（周五）美股热门股票行情一览（美股收盘）",
