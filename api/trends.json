@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-15T22:22:37.117185+08:00",
-  "total_titles_processed": 1379,
+  "generated_at": "2026-03-15T23:20:34.841015+08:00",
+  "total_titles_processed": 1448,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 49,
+      "match_count": 50,
       "titles": [
         {
           "title": "特朗普轰炸哈尔克岛的算盘：宁可下周油价飙到200美元，也要给中选留压价窗口",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[15时01分 ~ 22时22分]"
+          "appearance_count": 14,
+          "time_info": "[15时01分 ~ 23时20分]"
         },
         {
           "title": "特朗普：美军对伊朗石油出口枢纽哈尔克岛发动“猛烈空袭”，“很快”开始护航",
@@ -55,8 +55,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[12时25分 ~ 22时22分]"
+          "appearance_count": 17,
+          "time_info": "[12时25分 ~ 23时20分]"
         },
         {
           "title": "伊朗早已预判并准备摊牌，特朗普会先眨眼",
@@ -68,6 +68,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时20分 ~ 06时16分]"
+        },
+        {
+          "title": "特朗普点名日本护航，高市早苗压力陡增",
+          "url": "https://news.ifeng.com/c/8rW2UeZFjwy",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时25分 ~ 23时20分]"
         },
         {
           "title": "美国据称向中东增派海军陆战队和军舰，特朗普声称下周“猛烈空袭”伊朗",
@@ -108,20 +120,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时48分 ~ 22时22分]"
-        },
-        {
-          "title": "特朗普点名日本护航，高市早苗压力陡增",
-          "url": "https://news.ifeng.com/c/8rW2UeZFjwy",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时25分 ~ 22时22分]"
+          "appearance_count": 12,
+          "time_info": "[15时48分 ~ 23时20分]"
         },
         {
           "title": "特朗普向国际社会求援了，并且想把多个国家拖下水",
@@ -135,6 +135,17 @@
           "time_info": "[12时25分 ~ 16时26分]"
         },
         {
+          "title": "特朗普呼吁多国派遣军舰护航，回应来了",
+          "url": "https://news.ifeng.com/c/8rW5kiqRNgu",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时20分 ~ 23时20分]"
+        },
+        {
           "title": "事关停火，美伊双方表态！特朗普：暂时不会与伊朗达成协议",
           "url": "https://www.cls.cn/detail/2313097",
           "source": "财联社热门",
@@ -144,8 +155,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[12时25分 ~ 22时22分]"
+          "appearance_count": 17,
+          "time_info": "[12时25分 ~ 23时20分]"
         },
         {
           "title": "特朗普称将联合多国派遣军舰，确保霍尔木兹海峡通航安全",
@@ -158,19 +169,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[14时01分 ~ 22时22分]"
-        },
-        {
-          "title": "特朗普呼吁多国派遣军舰护航，回应来了",
-          "url": "https://news.ifeng.com/c/8rW5kiqRNgu",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时20分 ~ 22时22分]"
+          "appearance_count": 16,
+          "time_info": "[14时01分 ~ 23时20分]"
         },
         {
           "title": "特朗普这么一打伊朗，乌克兰几乎全是坏消息",
@@ -240,6 +240,19 @@
           "time_info": "[12时25分 ~ 21时41分]"
         },
         {
+          "title": "媒体爆料“特朗普是如何决定发动伊朗战争的”，关于霍尔木兹海峡、委内瑞拉和结束战争计划",
+          "url": "https://wallstreetcn.com/articles/3767541",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时18分 ~ 23时20分]"
+        },
+        {
           "title": "特朗普宣布空袭伊朗石油出口枢纽「哈尔克岛」，其战略地位有多重要？若岛上石油设施被摧毁，会带来哪些影响？",
           "url": "https://www.zhihu.com/question/2016064576173598421",
           "source": "知乎",
@@ -263,19 +276,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时20分 ~ 07时18分]"
-        },
-        {
-          "title": "媒体爆料“特朗普是如何决定发动伊朗战争的”，关于霍尔木兹海峡、委内瑞拉和结束战争计划",
-          "url": "https://wallstreetcn.com/articles/3767541",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时18分 ~ 22时22分]"
         },
         {
           "title": "特朗普否认5架美军加油机被毁",
@@ -336,6 +336,20 @@
           "time_info": "[09时20分 ~ 17时25分]"
         },
         {
+          "title": "周末要闻汇总：企业微信已支持一键扫码接入OpenClaw；特朗普称暂时不会与伊朗达成停火协议",
+          "url": "https://www.cls.cn/detail/2313186",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时18分 ~ 23时20分]"
+        },
+        {
           "title": "美以伊战争丨特朗普：多国将与美国一同派军舰",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -390,19 +404,6 @@
           "time_info": "[09时20分 ~ 16时26分]"
         },
         {
-          "title": "周末要闻汇总：企业微信已支持一键扫码接入OpenClaw；特朗普称暂时不会与伊朗达成停火协议",
-          "url": "https://www.cls.cn/detail/2313186",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时18分 ~ 22时22分]"
-        },
-        {
           "title": "媒体：特朗普拒绝与伊朗启动停火谈判",
           "url": "https://wallstreetcn.com/livenews/3070207",
           "source": "华尔街见闻-快讯",
@@ -427,6 +428,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
+        },
+        {
+          "title": "美以伊战争丨伊议长：特朗普说击败了我们9次，搞笑",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         },
         {
           "title": "伊朗深夜发动2波打击！美方：已有13名美军阵亡！驻日美军“准航母”及海军陆战队被调往中东，特朗普：只要有需要，战争将持续",
@@ -530,6 +542,18 @@
           "time_info": "[12时25分 ~ 14时02分]"
         },
         {
+          "title": "泽连斯基：特朗普可能视我如子，但我不是最受宠的",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32772625",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时31分 ~ 23时20分]"
+        },
+        {
           "title": "特朗普呼吁多国派遣军舰在霍尔木兹海峡护航，法、日、韩、英四国回应",
           "url": "https://flash.jin10.com/detail/20260315164051188800",
           "source": "金十数据",
@@ -576,17 +600,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时26分 ~ 17时25分]"
-        },
-        {
-          "title": "泽连斯基：特朗普可能视我如子，但我不是最受宠的",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32772625",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时31分 ~ 20时32分]"
         },
         {
           "title": "特朗普：条件还不够好 目前并不准备与伊朗达成协议",
@@ -685,8 +698,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时18分 ~ 22时22分]"
+          "appearance_count": 7,
+          "time_info": "[19时18分 ~ 23时20分]"
         },
         {
           "title": "金融博客零对冲：恐慌指数VIX与整体波动性的脱节程度有多严重？VIX指数目前仅为美国“解放日”（2025年4月2日）时水平的三分之一（受美股“七巨头”资本支出预期支撑），而整体市场波动性却与2025年4月崩盘时相当。",
@@ -710,6 +723,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "“Apollo-9手环怎么样？”315曝光AI大模型“投毒”后实测：千问拒答，DeepSeek翻车",
+          "url": "https://wallstreetcn.com/livenews/3070375",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         }
       ]
     },
