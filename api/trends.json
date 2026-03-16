@@ -1,22 +1,79 @@
 {
-  "generated_at": "2026-03-16T07:20:32.165779+08:00",
-  "total_titles_processed": 540,
+  "generated_at": "2026-03-16T09:21:11.711210+08:00",
+  "total_titles_processed": 685,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 25,
       "titles": [
         {
           "title": "条件“还不够好”！特朗普称暂时不会与伊朗达成停火协议，美官员：目前重点是继续战争",
           "url": "https://wallstreetcn.com/articles/3767534",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 07时20分]"
+          "appearance_count": 11,
+          "time_info": "[00时21分 ~ 09时21分]"
+        },
+        {
+          "title": "特朗普点名日本护航，高市早苗压力陡增",
+          "url": "https://news.ifeng.com/c/8rW2UeZFjwy",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时21分 ~ 09时21分]"
+        },
+        {
+          "title": "鲍威尔“威胁”特朗普政府：如果继续调查，他将留任美联储理事直到2028年1月",
+          "url": "https://wallstreetcn.com/articles/3767540",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时21分 ~ 09时21分]"
+        },
+        {
+          "title": "媒体爆料“特朗普是如何决定发动伊朗战争的”，关于霍尔木兹海峡、委内瑞拉和结束战争计划",
+          "url": "https://wallstreetcn.com/articles/3767541",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时21分 ~ 09时21分]"
+        },
+        {
+          "title": "多国护航，特朗普就能“搞定”霍尔木兹海峡了吗？",
+          "url": "https://wallstreetcn.com/articles/3767538",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时21分 ~ 09时21分]"
+        },
+        {
+          "title": "特朗普呼吁多国派遣军舰护航，回应来了",
+          "url": "https://news.ifeng.com/c/8rW5kiqRNgu",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时21分 ~ 09时21分]"
         },
         {
           "title": "美以伊战争丨伊议长：特朗普说击败了我们9次，搞笑",
@@ -30,85 +87,18 @@
           "time_info": "[00时21分 ~ 07时20分]"
         },
         {
-          "title": "特朗普点名日本护航，高市早苗压力陡增",
-          "url": "https://news.ifeng.com/c/8rW2UeZFjwy",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 07时20分]"
-        },
-        {
-          "title": "鲍威尔“威胁”特朗普政府：如果继续调查，他将留任美联储理事直到2028年1月",
-          "url": "https://wallstreetcn.com/articles/3767540",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 07时20分]"
-        },
-        {
-          "title": "媒体爆料“特朗普是如何决定发动伊朗战争的”，关于霍尔木兹海峡、委内瑞拉和结束战争计划",
-          "url": "https://wallstreetcn.com/articles/3767541",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 07时20分]"
-        },
-        {
-          "title": "多国护航，特朗普就能“搞定”霍尔木兹海峡了吗？",
-          "url": "https://wallstreetcn.com/articles/3767538",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 07时20分]"
-        },
-        {
-          "title": "特朗普呼吁多国派遣军舰护航，回应来了",
-          "url": "https://news.ifeng.com/c/8rW5kiqRNgu",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 07时20分]"
-        },
-        {
           "title": "周末要闻汇总：企业微信已支持一键扫码接入OpenClaw；特朗普称暂时不会与伊朗达成停火协议",
           "url": "https://www.cls.cn/detail/2313186",
           "source": "财联社热门",
           "ranks": [
             7,
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 07时20分]"
-        },
-        {
-          "title": "事关停火，美伊双方表态！特朗普：暂时不会与伊朗达成协议",
-          "url": "https://www.cls.cn/detail/2313097",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 07时20分]"
+          "appearance_count": 11,
+          "time_info": "[00时21分 ~ 09时21分]"
         },
         {
           "title": "特朗普称将联合多国派遣军舰，确保霍尔木兹海峡通航安全",
@@ -119,8 +109,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 07时20分]"
+          "appearance_count": 11,
+          "time_info": "[00时21分 ~ 09时21分]"
         },
         {
           "title": "泽连斯基：特朗普可能视我如子，但我不是最受宠的",
@@ -128,7 +118,20 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            19
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时21分 ~ 09时21分]"
+        },
+        {
+          "title": "事关停火，美伊双方表态！特朗普：暂时不会与伊朗达成协议",
+          "url": "https://www.cls.cn/detail/2313097",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -154,7 +157,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
@@ -184,13 +187,46 @@
           "time_info": "[04时18分 ~ 06时18分]"
         },
         {
+          "title": "特朗普：美以对伊目标总体一致，具体目标可能不同",
+          "url": "https://flash.jin10.com/detail/20260316085624563800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
+        },
+        {
+          "title": "特朗普称将先处理伊朗问题，再推进与古巴的协议",
+          "url": "https://flash.jin10.com/detail/20260316084925081800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
+        },
+        {
+          "title": "美国总统特朗普：（谈伊朗核计划）不会有核武器。这只是开始，我们还会得到更多让步。",
+          "url": "https://flash.jin10.com/detail/20260316084339151800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
+        },
+        {
           "title": "据华尔街日报：埃克森美孚、雪佛龙、康菲石油公司首席执行官警告美国总统特朗普的官员，伊朗战争扰乱霍尔木兹海峡将加剧能源危机。",
           "url": "https://flash.jin10.com/detail/20260316061016846800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
@@ -201,26 +237,82 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
+        },
+        {
+          "title": "特朗普称美国可能很快与古巴达成协议",
+          "url": "https://wallstreetcn.com/livenews/3070463",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
+        },
+        {
+          "title": "美国总统特朗普：我们正在与古巴谈判，但我们会先处理伊朗问题。",
+          "url": "https://flash.jin10.com/detail/20260316082146876800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
+        },
+        {
+          "title": "美国总统特朗普：我认为古巴问题很快就会有进展。",
+          "url": "https://flash.jin10.com/detail/20260316082102029800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
+        },
+        {
+          "title": "美国总统特朗普：（谈古巴）我认为我们很快就会达成协议，或者采取必要行动。",
+          "url": "https://flash.jin10.com/detail/20260316081825739800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
+        },
+        {
+          "title": "美国总统特朗普：我们正在与伊朗方面对话，但我认为他们还没有做好准备。",
+          "url": "https://flash.jin10.com/detail/20260316081444267800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "市场处于“爆发临界点”！高盛爆料：本周机构对美股的抛售和做空量达到“历史级别”",
           "url": "https://wallstreetcn.com/articles/3767545",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 07时20分]"
+          "appearance_count": 11,
+          "time_info": "[00时21分 ~ 09时21分]"
         },
         {
           "title": "国际油价涨超3%，美股期货小幅下跌",
@@ -229,7 +321,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
@@ -240,9 +332,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
+        },
+        {
+          "title": "美股期货走高，标普500、纳斯达克100指数期货涨0.5%，道指期货涨0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3070457",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
         }
       ]
     },
