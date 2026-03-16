@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-16T16:03:12.661757+08:00",
-  "total_titles_processed": 1091,
+  "generated_at": "2026-03-16T17:55:22.177084+08:00",
+  "total_titles_processed": 1234,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 47,
       "titles": [
         {
           "title": "条件“还不够好”！特朗普称暂时不会与伊朗达成停火协议，美官员：目前重点是继续战争",
@@ -152,6 +152,28 @@
           "time_info": "[12时31分 ~ 16时03分]"
         },
         {
+          "title": "美以伊战争丨不协助护航特朗普就不访华？外交部回应",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时02分 ~ 17时55分]"
+        },
+        {
+          "title": "中方回应特朗普涉访华言论",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%B6%89%E8%AE%BF%E5%8D%8E%E8%A8%80%E8%AE%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时02分 ~ 17时55分]"
+        },
+        {
           "title": "美以伊战争丨美媒：特朗普考虑派兵攻占伊朗哈尔克岛",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -163,26 +185,16 @@
           "time_info": "[12时31分 ~ 12时32分]"
         },
         {
-          "title": "美以伊战争丨不协助护航特朗普就不访华？外交部回应",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "title": "特朗普点名多国参加护航霍尔木兹海峡，德法日韩：不去",
+          "url": "https://news.ifeng.com/c/8rXCGrQJNtV",
           "source": "凤凰网",
           "ranks": [
-            1
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时02分 ~ 16时03分]"
-        },
-        {
-          "title": "中方回应特朗普涉访华言论",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%B6%89%E8%AE%BF%E5%8D%8E%E8%A8%80%E8%AE%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时02分 ~ 16时03分]"
+          "appearance_count": 6,
+          "time_info": "[12时31分 ~ 17时55分]"
         },
         {
           "title": "特朗普称“可能还会再炸几次，只是为了开心”，伊朗外长回应",
@@ -220,15 +232,73 @@
           "time_info": "14时14分"
         },
         {
-          "title": "特朗普点名多国参加护航霍尔木兹海峡，德法日韩：不去",
-          "url": "https://news.ifeng.com/c/8rXCGrQJNtV",
-          "source": "凤凰网",
+          "title": "美国被曝拟宣布组建霍尔木兹海峡「护航联盟」，特朗普威胁北约盟友协助通航，如何解读美方意图？有哪些影响？",
+          "url": "https://www.zhihu.com/question/2016791283864138046",
+          "source": "知乎",
           "ranks": [
-            6
+            11,
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时31分 ~ 16时03分]"
+          "appearance_count": 6,
+          "time_info": "[12时31分 ~ 17时55分]"
+        },
+        {
+          "title": "中美就特朗普总统访华事保持着沟通",
+          "url": "https://www.toutiao.com/trending/7616995731195052086/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
+        },
+        {
+          "title": "特朗普会投入地面部队吗？",
+          "url": "https://news.ifeng.com/c/8rXXAfLW18s",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
+        },
+        {
+          "title": "外交部：中美双方就特朗普总统访华事宜保持着沟通",
+          "url": "https://www.cls.cn/detail/2314062",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
+        },
+        {
+          "title": "外交部回应特朗普将推迟访华言论，「双方就特朗普总统访华事宜保持着沟通」，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2016900692145637068",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
+        },
+        {
+          "title": "特朗普威胁将取消访华 中方回应",
+          "url": "https://www.douyin.com/hot/2432550",
+          "source": "抖音",
+          "ranks": [
+            9,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时02分 ~ 17时55分]"
         },
         {
           "title": "美石油巨头警告特朗普政府：能源危机恐加剧",
@@ -247,23 +317,12 @@
           "source": "今日头条",
           "ranks": [
             29,
-            5
+            5,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时14分 ~ 16时03分]"
-        },
-        {
-          "title": "美国被曝拟宣布组建霍尔木兹海峡「护航联盟」，特朗普威胁北约盟友协助通航，如何解读美方意图？有哪些影响？",
-          "url": "https://www.zhihu.com/question/2016791283864138046",
-          "source": "知乎",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时31分 ~ 16时03分]"
+          "appearance_count": 4,
+          "time_info": "[14时14分 ~ 17时55分]"
         },
         {
           "title": "据华尔街日报：特朗普政府计划最快于本周宣布，多个国家已同意组成联盟，为通过霍尔木兹海峡的船只提供护航。不过各方仍在讨论这些行动应在伊朗敌对行动结束之前还是之后启动。",
@@ -291,17 +350,6 @@
           "time_info": "[04时18分 ~ 06时18分]"
         },
         {
-          "title": "特朗普威胁将取消访华 中方回应",
-          "url": "https://www.douyin.com/hot/2432550",
-          "source": "抖音",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时02分 ~ 16时03分]"
-        },
-        {
           "title": "中方：中美就特朗普访华保持着沟通",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%EF%BC%9A%E4%B8%AD%E7%BE%8E%E5%B0%B1%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E4%BF%9D%E6%8C%81%E7%9D%80%E6%B2%9F%E9%80%9A",
           "source": "百度热搜",
@@ -309,8 +357,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时02分 ~ 16时03分]"
+          "appearance_count": 3,
+          "time_info": "[16时02分 ~ 17时55分]"
         },
         {
           "title": "特朗普：美以对伊目标总体一致，具体目标可能不同",
@@ -341,7 +389,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
         },
@@ -363,9 +411,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
+        },
+        {
+          "title": "中方回应特朗普呼吁多国派军舰护航",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E5%91%BC%E5%90%81%E5%A4%9A%E5%9B%BD%E6%B4%BE%E5%86%9B%E8%88%B0%E6%8A%A4%E8%88%AA%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
         },
         {
           "title": "美国总统特朗普：（谈伊朗核计划）不会有核武器。这只是开始，我们还会得到更多让步。",
@@ -377,6 +436,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
+        },
+        {
+          "title": "释新闻｜特朗普呼吁组建“护航联盟”打通霍尔木兹海峡，为何反应平平？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32775654",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
         },
         {
           "title": "据华尔街日报：埃克森美孚、雪佛龙、康菲石油公司首席执行官警告美国总统特朗普的官员，伊朗战争扰乱霍尔木兹海峡将加剧能源危机。",
@@ -429,7 +499,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
         },
@@ -481,7 +551,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "市场处于“爆发临界点”！高盛爆料：本周机构对美股的抛售和做空量达到“历史级别”",
@@ -508,6 +578,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时02分 ~ 16时03分]"
+        },
+        {
+          "title": "特朗普承诺“护航”，美股期货走高，WTI原油涨2.2%，现货黄金跌破5000美元",
+          "url": "https://wallstreetcn.com/articles/3767567",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
         },
         {
           "title": "国际油价高开后转跌，WTI日内跌超1%，韩股一度涨超1%，美股期货走高",
