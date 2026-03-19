@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-19T13:52:53.569421+08:00",
-  "total_titles_processed": 1195,
+  "generated_at": "2026-03-19T14:45:59.550807+08:00",
+  "total_titles_processed": 1301,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
         {
           "title": "特朗普改口：美国对伊朗动武，不需要盟友帮忙",
@@ -63,8 +63,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时02分 ~ 13时52分]"
+          "appearance_count": 16,
+          "time_info": "[00时02分 ~ 14时45分]"
         },
         {
           "title": "马克龙称拒绝参与霍尔木兹海峡护航，特朗普：他快下台了",
@@ -99,19 +99,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时02分 ~ 13时52分]"
+          "appearance_count": 16,
+          "time_info": "[00时02分 ~ 14时45分]"
         },
         {
           "title": "伊朗接连袭击沙特卡塔尔油气设施 特朗普据悉反对继续袭击伊能源设施",
           "url": "https://www.cls.cn/detail/2317562",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时13分 ~ 13时52分]"
+          "appearance_count": 4,
+          "time_info": "[12时13分 ~ 14时45分]"
         },
         {
           "title": "美参议院未通过限制特朗普对伊动武法案，民主党扬言继续施压",
@@ -121,8 +122,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时13分 ~ 13时52分]"
+          "appearance_count": 4,
+          "time_info": "[12时13分 ~ 14时45分]"
         },
         {
           "title": "美以伊战争丨特朗普谈以打击伊朗天然气田：毫不知情",
@@ -229,6 +230,17 @@
           "time_info": "12时14分"
         },
         {
+          "title": "油价分裂！阿曼冲到150，WTI还在100下挣扎，真怕了特朗普？",
+          "url": "https://flash.jin10.com/detail/20260319141414344800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        },
+        {
           "title": "知情人士：特朗普仍在权衡地面出兵伊朗风险",
           "url": "https://flash.jin10.com/detail/20260319004133751800",
           "source": "金十数据",
@@ -304,6 +316,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
+        },
+        {
+          "title": "特朗普盟友警告：美国经济实力不足以应对伊朗战争！",
+          "url": "https://flash.jin10.com/detail/20260319140651826800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
         },
         {
           "title": "高市早苗抵达华盛顿将与特朗普会面",
@@ -478,7 +501,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
         },
@@ -583,11 +606,12 @@
           "source": "贴吧",
           "ranks": [
             16,
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时02分 ~ 13时52分]"
+          "appearance_count": 16,
+          "time_info": "[00时02分 ~ 14时45分]"
         }
       ]
     },
