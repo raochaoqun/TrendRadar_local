@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-19T12:14:03.458529+08:00",
-  "total_titles_processed": 1073,
+  "generated_at": "2026-03-19T13:52:53.569421+08:00",
+  "total_titles_processed": 1195,
   "failed_sources": [],
   "trends": [
     {
@@ -63,8 +63,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时02分 ~ 12时14分]"
+          "appearance_count": 15,
+          "time_info": "[00时02分 ~ 13时52分]"
         },
         {
           "title": "马克龙称拒绝参与霍尔木兹海峡护航，特朗普：他快下台了",
@@ -99,19 +99,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时02分 ~ 12时14分]"
-        },
-        {
-          "title": "美以伊战争丨特朗普谈以打击伊朗天然气田：毫不知情",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时13分 ~ 12时14分]"
+          "appearance_count": 15,
+          "time_info": "[00时02分 ~ 13时52分]"
         },
         {
           "title": "伊朗接连袭击沙特卡塔尔油气设施 特朗普据悉反对继续袭击伊能源设施",
@@ -121,8 +110,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时13分 ~ 12时14分]"
+          "appearance_count": 3,
+          "time_info": "[12时13分 ~ 13时52分]"
         },
         {
           "title": "美参议院未通过限制特朗普对伊动武法案，民主党扬言继续施压",
@@ -130,6 +119,17 @@
           "source": "凤凰网",
           "ranks": [
             5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时13分 ~ 13时52分]"
+        },
+        {
+          "title": "美以伊战争丨特朗普谈以打击伊朗天然气田：毫不知情",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -174,11 +174,12 @@
           "source": "澎湃新闻",
           "ranks": [
             13,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时15分 ~ 12时14分]"
+          "appearance_count": 5,
+          "time_info": "[09时15分 ~ 13时52分]"
         },
         {
           "title": "美国官员：特朗普暂不想再袭伊朗能源设施",
@@ -223,7 +224,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
         },
@@ -311,7 +312,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
         },
@@ -330,7 +331,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "美股收盘：七巨头齐挫三大指数跌超1% 闪迪、美光逆市收新高",
@@ -341,8 +342,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时29分 ~ 12时14分]"
+          "appearance_count": 6,
+          "time_info": "[07时29分 ~ 13时52分]"
         },
         {
           "title": "美伊冲突加剧！美股期货盘前集体跳水，布油大涨5%，现货黄金跌破4850，白银跌超4%，金属全面下跌",
@@ -471,6 +472,17 @@
           "time_info": "04时27分"
         },
         {
+          "title": "技术分析师警告：美股濒临变盘！一旦跌破临界线，将再跌10%",
+          "url": "https://flash.jin10.com/detail/20260319125418834800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时52分"
+        },
+        {
           "title": "金十图示：2026年03月18日（周三）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260319003126189800",
           "source": "金十数据",
@@ -574,8 +586,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时02分 ~ 12时14分]"
+          "appearance_count": 15,
+          "time_info": "[00时02分 ~ 13时52分]"
         }
       ]
     },
