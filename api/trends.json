@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-20T22:37:35.992676+08:00",
-  "total_titles_processed": 1986,
+  "generated_at": "2026-03-20T23:35:15.753377+08:00",
+  "total_titles_processed": 2077,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 61,
+      "match_count": 69,
       "titles": [
         {
           "title": "特朗普盟友警告：美国经济受不了对伊动武所致高油价",
@@ -53,8 +53,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[05时26分 ~ 22时37分]"
+          "appearance_count": 18,
+          "time_info": "[05时26分 ~ 23时35分]"
         },
         {
           "title": "“能源战”升级！以军轰炸伊朗最大气田、油价暴涨背后：以色列完全“控制”了特朗普？",
@@ -153,6 +153,17 @@
           "time_info": "[13时44分 ~ 19时24分]"
         },
         {
+          "title": "向特朗普提问的日本记者遭网暴",
+          "url": "https://www.toutiao.com/trending/7619256399495233563/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时34分 ~ 23时35分]"
+        },
+        {
           "title": "美以伊战争丨是否会派地面部队？特朗普最新表态",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -184,6 +195,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
+        },
+        {
+          "title": "特朗普点名日本参加霍尔木兹护航，日本去不去都是错误选择？",
+          "url": "https://news.ifeng.com/c/8reXnxHbSXD",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时36分 ~ 23时35分]"
         },
         {
           "title": "据知情人士透露，美国总统特朗普支持Pirro就美联储主席鲍威尔传票（被法官驳回一事）提起上诉。（彭博）",
@@ -247,17 +269,6 @@
           "time_info": "[00时46分 ~ 01时48分]"
         },
         {
-          "title": "特朗普点名日本参加霍尔木兹护航，日本去不去都是错误选择？",
-          "url": "https://news.ifeng.com/c/8reXnxHbSXD",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时36分 ~ 22时37分]"
-        },
-        {
           "title": "特朗普会晤高市早苗，把美国袭击伊朗比作偷袭珍珠港",
           "url": "https://wallstreetcn.com/livenews/3073556",
           "source": "华尔街见闻-快讯",
@@ -282,6 +293,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时31分 ~ 18时29分]"
+        },
+        {
+          "title": "特朗普据称考虑占领或封锁哈尔克岛 以迫使伊朗重开霍尔木兹海峡",
+          "url": "https://www.cls.cn/detail/2320056",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时34分 ~ 23时35分]"
         },
         {
           "title": "日本首相高市早苗：特朗普和我讨论了日本在霍尔木兹海的援助法律限制。",
@@ -344,6 +366,17 @@
           "time_info": "[21时54分 ~ 22时37分]"
         },
         {
+          "title": "高市早苗抵达白宫，特朗普张开双臂欢迎，两人热情拥抱",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32799516",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时34分 ~ 23时35分]"
+        },
+        {
           "title": "特朗普见高市早苗提偷袭珍珠港",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%A7%81%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%8F%90%E5%81%B7%E8%A2%AD%E7%8F%8D%E7%8F%A0%E6%B8%AF%23&t=31&band_rank=6&Refer=top",
           "source": "微博",
@@ -394,7 +427,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时37分"
         },
@@ -405,7 +438,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时37分"
         },
@@ -441,6 +474,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时42分"
+        },
+        {
+          "title": "美国总统特朗普：相比俄罗斯总统普京，乌克兰总统泽连斯基更难打交道。",
+          "url": "https://wallstreetcn.com/livenews/3074231",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
         },
         {
           "title": "特朗普当高市面将对伊行动比作珍珠港",
@@ -542,6 +586,17 @@
           "time_info": "21时54分"
         },
         {
+          "title": "美国总统特朗普祝贺美国联邦通信委员会（FCC）主席在应对“假新闻”方面的工作。",
+          "url": "https://flash.jin10.com/detail/20260320230219947800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
+        },
+        {
           "title": "美国多州联合起诉特朗普政府撤销气候危害认定",
           "url": "https://wallstreetcn.com/livenews/3074070",
           "source": "华尔街见闻-快讯",
@@ -564,6 +619,17 @@
           "time_info": "00时46分"
         },
         {
+          "title": "美国总统特朗普：伊朗想要统治中东。",
+          "url": "https://flash.jin10.com/detail/20260320230139721800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
+        },
+        {
           "title": "美国总统特朗普：日本和欧洲通过霍尔木兹海峡获取石油。",
           "url": "https://flash.jin10.com/detail/20260320000949699800",
           "source": "金十数据",
@@ -573,6 +639,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时46分"
+        },
+        {
+          "title": "美国总统特朗普：我们想和伊朗谈判，但没有谈判对象。如今再也没人想当伊朗的领导人了。",
+          "url": "https://flash.jin10.com/detail/20260320230122061800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
         },
         {
           "title": "美国总统特朗普：将与日本首相高市早苗讨论贸易等问题。 相信日本将在伊朗问题上挺身而出。 （在支持美国和以色列发动伊朗战争问题上）日本与北约不同。 （美国）在伊朗的“冒险”很快就会结束。 伊朗领导层已经完了。 我们随时都可以拿下（伊朗石油出口的）哈尔克岛。",
@@ -652,6 +729,17 @@
           "time_info": "20时36分"
         },
         {
+          "title": "美国总统特朗普：美国国防部长赫格塞思目前在战情室。",
+          "url": "https://flash.jin10.com/detail/20260320225758465800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-03-20）",
           "url": "https://flash.jin10.com/detail/20260320175809578800",
           "source": "金十数据",
@@ -680,7 +768,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时37分"
         },
@@ -722,8 +810,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时11分 ~ 22时37分]"
+          "appearance_count": 15,
+          "time_info": "[09时11分 ~ 23时35分]"
         },
         {
           "title": "美股收盘：三大指数连跌两天 光通信逆市走强 闪迪续刷新高",
@@ -762,6 +850,19 @@
           "time_info": "07时21分"
         },
         {
+          "title": "美股期货跌幅扩大，报道：特朗普考虑占领或封锁伊朗哈尔克岛",
+          "url": "https://wallstreetcn.com/articles/3768006",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时36分 ~ 23时35分]"
+        },
+        {
           "title": "能源业ETF收涨约1.6%，领跑美股行业ETF",
           "url": "https://wallstreetcn.com/livenews/3073561",
           "source": "华尔街见闻-快讯",
@@ -787,27 +888,28 @@
           "time_info": "[04时28分 ~ 05时26分]"
         },
         {
-          "title": "美股期货跌幅扩大，报道：特朗普考虑占领或封锁伊朗哈尔克岛",
-          "url": "https://wallstreetcn.com/articles/3768006",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时36分 ~ 22时37分]"
-        },
-        {
           "title": "油价高位震荡 美股或连跌四周 逼近回调区间 | 今夜看点",
           "url": "https://www.cls.cn/detail/2319906",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时54分 ~ 22时37分]"
+          "appearance_count": 4,
+          "time_info": "[21时54分 ~ 23时35分]"
+        },
+        {
+          "title": "中东局势再度升温，美股集体低开，10年期美债收益率创年初新高，原油上涨，黄金日内转跌",
+          "url": "https://wallstreetcn.com/articles/3767994",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时37分 ~ 23时35分]"
         },
         {
           "title": "周四（3月19日），降息赢家指数跌0.12%，报86.81点，绝大部分时间低位震荡，北京时间03:00前后迅猛拉升，使得日内整体跌幅快速收窄。 2月10日美股收盘以来，已经累计下跌18.77%。 “特朗普关税输家”指数涨0.65%，“特朗普金融指数”涨0.10%。 散户抱团概念股指数/迷因股（meme stock）指数跌0.07%。",
@@ -866,17 +968,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
-        },
-        {
-          "title": "中东局势再度升温，美股集体低开，10年期美债收益率创年初新高，原油上涨，黄金日内转跌",
-          "url": "https://wallstreetcn.com/articles/3767994",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时37分"
         },
         {
           "title": "超微电脑美股盘前跌超20%。",
@@ -1049,7 +1140,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时37分"
         },
