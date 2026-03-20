@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-20T14:42:18.870271+08:00",
-  "total_titles_processed": 1175,
+  "generated_at": "2026-03-20T15:45:23.490759+08:00",
+  "total_titles_processed": 1278,
   "failed_sources": [],
   "trends": [
     {
@@ -55,6 +55,20 @@
           "time_info": "[00时46分 ~ 12时06分]"
         },
         {
+          "title": "响应特朗普呼声，以色列总理称将暂停空袭伊朗能源设施，卡塔尔称伊袭破坏17%LNG产能",
+          "url": "https://wallstreetcn.com/articles/3767948",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[05时26分 ~ 15时45分]"
+        },
+        {
           "title": "被特朗普抱怨不积极，默茨最新表态",
           "url": "https://news.ifeng.com/c/8rd2LaEzlmg",
           "source": "凤凰网",
@@ -63,8 +77,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时46分 ~ 14时42分]"
+          "appearance_count": 16,
+          "time_info": "[00时46分 ~ 15时45分]"
         },
         {
           "title": "特朗普见高市早苗提偷袭珍珠港",
@@ -78,20 +92,6 @@
           "time_info": "[02时42分 ~ 09时11分]"
         },
         {
-          "title": "响应特朗普呼声，以色列总理称将暂停空袭伊朗能源设施，卡塔尔称伊袭破坏17%LNG产能",
-          "url": "https://wallstreetcn.com/articles/3767948",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[05时26分 ~ 14时42分]"
-        },
-        {
           "title": "美以伊战争丨特朗普最佳王牌下周抵达中东，能做什么",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -99,8 +99,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时44分 ~ 14时42分]"
+          "appearance_count": 3,
+          "time_info": "[13时44分 ~ 15时45分]"
+        },
+        {
+          "title": "特朗普会晤高市早苗 把美国袭击伊朗比作偷袭珍珠港",
+          "url": "https://www.cls.cn/detail/2318930",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时11分 ~ 15时45分]"
         },
         {
           "title": "美以伊战争丨是否会派地面部队？特朗普最新表态",
@@ -125,18 +138,6 @@
           "time_info": "00时46分"
         },
         {
-          "title": "特朗普会晤高市早苗 把美国袭击伊朗比作偷袭珍珠港",
-          "url": "https://www.cls.cn/detail/2318930",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时11分 ~ 14时42分]"
-        },
-        {
           "title": "全世界都被特朗普逗笑了，除了高市早苗",
           "url": "https://news.ifeng.com/c/8rdmWWFqwvD",
           "source": "凤凰网",
@@ -144,8 +145,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时05分 ~ 14时42分]"
+          "appearance_count": 5,
+          "time_info": "[12时05分 ~ 15时45分]"
         },
         {
           "title": "据知情人士透露，美国总统特朗普支持Pirro就美联储主席鲍威尔传票（被法官驳回一事）提起上诉。（彭博）",
@@ -217,8 +218,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时44分 ~ 14时42分]"
+          "appearance_count": 3,
+          "time_info": "[13时44分 ~ 15时45分]"
         },
         {
           "title": "日本首相高市早苗：特朗普和我讨论了日本在霍尔木兹海的援助法律限制。",
@@ -330,7 +331,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时42分"
         },
@@ -514,8 +515,19 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时21分 ~ 15时45分]"
+        },
+        {
+          "title": "油价动荡主导市场，美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
+          "url": "https://wallstreetcn.com/articles/3767876",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[07时21分 ~ 14时42分]"
+          "time_info": "[09时11分 ~ 15时45分]"
         },
         {
           "title": "油价继续飙升 欧美股市承压 黄金白银重挫 | 今夜看点",
@@ -529,17 +541,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时46分 ~ 09时11分]"
-        },
-        {
-          "title": "油价动荡主导市场，美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
-          "url": "https://wallstreetcn.com/articles/3767876",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时11分 ~ 14时42分]"
         },
         {
           "title": "霍尔木兹海峡现曙光，油价跳水！美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
