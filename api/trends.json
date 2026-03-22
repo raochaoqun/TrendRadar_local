@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-22T15:33:24.080595+08:00",
-  "total_titles_processed": 919,
+  "generated_at": "2026-03-22T16:23:32.569514+08:00",
+  "total_titles_processed": 980,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时18分 ~ 15时33分]"
+          "appearance_count": 17,
+          "time_info": "[00时18分 ~ 16时23分]"
         },
         {
           "title": "美国或向中东增派数千士兵，特朗普先称不想停火、后称考虑对伊军事行动逐步降级，伊朗威胁毁灭性打击美以“邪恶官员”",
@@ -41,6 +41,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时18分 ~ 07时16分]"
+        },
+        {
+          "title": "语气再变！特朗普限伊朗48小时开放霍尔木兹海峡，威胁摧毁其发电厂，伊朗回应：或反击三类设施",
+          "url": "https://wallstreetcn.com/articles/3768068",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时10分 ~ 16时23分]"
         },
         {
           "title": "江学勤教授预警：特朗普或启动全美征兵",
@@ -75,19 +86,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时18分 ~ 15时33分]"
-        },
-        {
-          "title": "语气再变！特朗普限伊朗48小时开放霍尔木兹海峡，威胁摧毁其发电厂，伊朗回应：或反击三类设施",
-          "url": "https://wallstreetcn.com/articles/3768068",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时10分 ~ 15时33分]"
+          "appearance_count": 17,
+          "time_info": "[00时18分 ~ 16时23分]"
         },
         {
           "title": "美以伊战争丨伊朗：若地面入侵，将给特朗普“惊喜”",
@@ -128,6 +128,22 @@
           "time_info": "[02时23分 ~ 07时16分]"
         },
         {
+          "title": "特朗普限伊朗48小时开放霍尔木兹海峡，威胁摧毁其发电厂",
+          "url": "https://wallstreetcn.com/livenews/3074479",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            9,
+            15,
+            18,
+            21,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时15分 ~ 16时23分]"
+        },
+        {
           "title": "美媒：特朗普团队正在为可能的伊朗和平谈判制定策略",
           "url": "https://flash.jin10.com/detail/20260322024307424800",
           "source": "金十数据",
@@ -142,21 +158,6 @@
           "time_info": "[03时17分 ~ 07时16分]"
         },
         {
-          "title": "特朗普限伊朗48小时开放霍尔木兹海峡，威胁摧毁其发电厂",
-          "url": "https://wallstreetcn.com/livenews/3074479",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            9,
-            15,
-            18,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时15分 ~ 15时33分]"
-        },
-        {
           "title": "特朗普要求伊朗48小时内开放霍尔木兹海峡，威胁摧毁发电厂",
           "url": "https://m.thepaper.cn/newsDetail_forward_32809575",
           "source": "澎湃新闻",
@@ -167,6 +168,40 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时10分 ~ 15时33分]"
+        },
+        {
+          "title": "伊朗回应特朗普袭击电厂威胁：若遭袭将打击美及其盟友关键设施",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32809836",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时46分 ~ 16时23分]"
+        },
+        {
+          "title": "美国前FBI局长米勒去世，曾负责特朗普“通俄门”调查",
+          "url": "https://news.ifeng.com/c/8rhPSWAl42N",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时39分 ~ 16时23分]"
+        },
+        {
+          "title": "在高市面前提珍珠港，特朗普二儿子夸父亲答得好",
+          "url": "https://news.ifeng.com/c/8rhITNvbPgx",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时39分 ~ 16时23分]"
         },
         {
           "title": "伊朗回应特朗普袭击电厂威胁",
@@ -193,29 +228,6 @@
           "time_info": "[09时15分 ~ 12时11分]"
         },
         {
-          "title": "伊朗回应特朗普袭击电厂威胁：若遭袭将打击美及其盟友关键设施",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32809836",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时46分 ~ 15时33分]"
-        },
-        {
-          "title": "美国前FBI局长米勒去世，曾负责特朗普“通俄门”调查",
-          "url": "https://news.ifeng.com/c/8rhPSWAl42N",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时39分 ~ 15时33分]"
-        },
-        {
           "title": "美国总统特朗普：如果激进左翼民主党人不立即签署协议，让我们的国家，特别是我们的机场，再次获得自由和安全，我将把移民执法局（ICE）特工调往机场，他们将执行前所未有的安保措施，包括立即逮捕所有非法入境的移民，重点打击来自索马里的非法移民。",
           "url": "https://flash.jin10.com/detail/20260321233624665800",
           "source": "金十数据",
@@ -226,17 +238,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时18分 ~ 01时18分]"
-        },
-        {
-          "title": "在高市面前提珍珠港，特朗普二儿子夸父亲答得好",
-          "url": "https://news.ifeng.com/c/8rhITNvbPgx",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时39分 ~ 15时33分]"
         },
         {
           "title": "特朗普威胁伊朗48小时内开放霍尔木兹",
@@ -332,8 +333,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时18分 ~ 15时33分]"
+          "appearance_count": 17,
+          "time_info": "[00时18分 ~ 16时23分]"
         },
         {
           "title": "特朗普称考虑逐步减少对伊朗的军事行动，美股ETF盘后转涨",
