@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-23T12:19:18.317730+08:00",
-  "total_titles_processed": 836,
+  "generated_at": "2026-03-23T14:05:29.671214+08:00",
+  "total_titles_processed": 976,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 34,
       "titles": [
         {
           "title": "语气再变！特朗普限伊朗48小时开放霍尔木兹海峡，威胁摧毁其发电厂，伊朗回应：或反击三类设施",
@@ -51,8 +51,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时19分 ~ 12时19分]"
+          "appearance_count": 14,
+          "time_info": "[00时19分 ~ 14时05分]"
         },
         {
           "title": "下周重磅日程：特朗普对伊发出48小时通牒、博鳌论坛、美团拼多多小米财报",
@@ -124,8 +124,20 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时19分 ~ 07时19分]"
+          "appearance_count": 11,
+          "time_info": "[00时19分 ~ 14时05分]"
+        },
+        {
+          "title": "本周重磅日程：特朗普对伊发出48小时通牒、博鳌论坛、美团拼多多小米财报",
+          "url": "https://wallstreetcn.com/articles/3768072",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时16分 ~ 14时05分]"
         },
         {
           "title": "美以伊战争丨特朗普威胁将伊朗抹去，伊总统回应",
@@ -139,27 +151,16 @@
           "time_info": "[03时19分 ~ 05时18分]"
         },
         {
-          "title": "本周重磅日程：特朗普对伊发出48小时通牒、博鳌论坛、美团拼多多小米财报",
-          "url": "https://wallstreetcn.com/articles/3768072",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时16分 ~ 12时19分]"
-        },
-        {
           "title": "特朗普最后通牒还剩24小时，贝森特称“先升级再缓和”，亚洲股市重挫、黄金再跌3%",
           "url": "https://wallstreetcn.com/articles/3768110",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时18分 ~ 12时19分]"
+          "appearance_count": 3,
+          "time_info": "[12时18分 ~ 14时05分]"
         },
         {
           "title": "德国总理默茨与美国总统特朗普通话，讨论中东及乌克兰局势",
@@ -212,6 +213,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时19分 ~ 03时19分]"
+        },
+        {
+          "title": "凤凰女记者：德黑兰被炸如同地震，特朗普的威胁致民众恐慌",
+          "url": "https://news.ifeng.com/c/8rj85g0QAfQ",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时05分"
         },
         {
           "title": "伊朗提出4项措施回应特朗普威胁",
@@ -282,19 +294,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时16分 ~ 12时19分]"
+          "appearance_count": 4,
+          "time_info": "[09时16分 ~ 14时05分]"
         },
         {
           "title": "美议员要求特朗普政府官员国会作证",
           "url": "https://news.ifeng.com/c/8riyKTIjsUK",
           "source": "凤凰网",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时18分 ~ 12时19分]"
+          "appearance_count": 3,
+          "time_info": "[12时18分 ~ 14时05分]"
         },
         {
           "title": "美媒：特朗普团队已开始谋划与伊朗“和谈”事宜",
@@ -308,13 +321,24 @@
           "time_info": "[00时19分 ~ 01时19分]"
         },
         {
+          "title": "靠“夺取哈尔克岛”，特朗普能让“霍尔木兹海峡”重开吗？",
+          "url": "https://wallstreetcn.com/articles/3768111",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时05分"
+        },
+        {
           "title": "美国总统特朗普：以实力促和平，说得还算委婉了！！！",
           "url": "https://flash.jin10.com/detail/20260323115125942800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时19分"
         },
@@ -328,6 +352,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
+        },
+        {
+          "title": "特朗普借电视短剧嘲讽英国首相",
+          "url": "https://www.cls.cn/detail/2320775",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时05分"
         },
         {
           "title": "特朗普借电视短剧嘲讽英国首相",
@@ -350,6 +385,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
+        },
+        {
+          "title": "特朗普重开霍尔木兹海峡的最后期限：两周！",
+          "url": "https://flash.jin10.com/detail/20260323132833482800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时05分"
         },
         {
           "title": "特朗普2000亿购债计划再发力！“两房” 大规模抄底MBS",
@@ -413,11 +459,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             5,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时16分 ~ 12时19分]"
+          "appearance_count": 4,
+          "time_info": "[09时16分 ~ 14时05分]"
         }
       ]
     }
