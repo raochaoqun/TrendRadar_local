@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-23T19:38:05.194336+08:00",
-  "total_titles_processed": 1522,
+  "generated_at": "2026-03-23T20:42:17.929509+08:00",
+  "total_titles_processed": 1652,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 53,
+      "match_count": 66,
       "titles": [
         {
           "title": "语气再变！特朗普限伊朗48小时开放霍尔木兹海峡，威胁摧毁其发电厂，伊朗回应：或反击三类设施",
@@ -82,6 +82,18 @@
           "time_info": "[00时19分 ~ 07时19分]"
         },
         {
+          "title": "特朗普下最后通牒后双方僵持 中东民用基础设施面临“生死局”",
+          "url": "https://www.cls.cn/detail/2321109",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时56分 ~ 20时42分]"
+        },
+        {
           "title": "美媒：特朗普团队已密谋与伊朗“和谈”，细节曝光",
           "url": "https://news.ifeng.com/c/8rhkJWR8tiE",
           "source": "凤凰网",
@@ -91,18 +103,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时19分 ~ 07时19分]"
-        },
-        {
-          "title": "特朗普下最后通牒后双方僵持 中东民用基础设施面临“生死局”",
-          "url": "https://www.cls.cn/detail/2321109",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时56分 ~ 19时38分]"
         },
         {
           "title": "伊朗议长回应特朗普开放霍尔木兹海峡“最后通牒”",
@@ -167,6 +167,20 @@
           "time_info": "[00时19分 ~ 14时05分]"
         },
         {
+          "title": "靠“夺取哈尔克岛”，特朗普能让“霍尔木兹海峡”重开吗？",
+          "url": "https://wallstreetcn.com/articles/3768111",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时05分 ~ 20时42分]"
+        },
+        {
           "title": "特朗普最后通牒倒计时！全球股债遭遇“黑色星期一”，黄金跌破4100、白银逼近60",
           "url": "https://wallstreetcn.com/articles/3768110",
           "source": "华尔街见闻",
@@ -176,6 +190,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时56分 ~ 18时44分]"
+        },
+        {
+          "title": "特朗普对伊朗48小时最后通牒将至，专家：双方恐互袭电力设施",
+          "url": "https://news.ifeng.com/c/8rjRZBJrthr",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时44分 ~ 20时42分]"
         },
         {
           "title": "凤凰女记者：德黑兰被炸如同地震，特朗普的威胁致民众恐慌",
@@ -213,30 +238,6 @@
           "time_info": "[12时18分 ~ 14时05分]"
         },
         {
-          "title": "特朗普对伊朗48小时最后通牒将至，专家：双方恐互袭电力设施",
-          "url": "https://news.ifeng.com/c/8rjRZBJrthr",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时44分 ~ 19时38分]"
-        },
-        {
-          "title": "靠“夺取哈尔克岛”，特朗普能让“霍尔木兹海峡”重开吗？",
-          "url": "https://wallstreetcn.com/articles/3768111",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时05分 ~ 19时38分]"
-        },
-        {
           "title": "美以伊战争丨特朗普：与伊朗进行了富有成效的对话",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -246,6 +247,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时37分 ~ 19时38分]"
+        },
+        {
+          "title": "特朗普骂北约“纸老虎”，吕特不敢回击还说“理解”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32813357",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时56分 ~ 20时42分]"
         },
         {
           "title": "美议员要求特朗普政府官员国会作证",
@@ -259,6 +273,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时18分 ~ 17时54分]"
+        },
+        {
+          "title": "美以伊战争丨特朗普称与伊朗对话了，后者否认",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
         },
         {
           "title": "逼宫戏码适得其反？特朗普施压下，鲍威尔或成“影子美联储主席”",
@@ -300,17 +325,39 @@
           "time_info": "[00时19分 ~ 05时18分]"
         },
         {
-          "title": "特朗普骂北约“纸老虎”，吕特不敢回击还说“理解”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32813357",
-          "source": "澎湃新闻",
+          "title": "中方回应特朗普向伊朗发出最后通牒",
+          "url": "https://www.toutiao.com/trending/7620351961246924809/",
+          "source": "今日头条",
           "ranks": [
-            15,
-            17,
-            14
+            23,
+            12,
+            15
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[15时56分 ~ 19时38分]"
+          "time_info": "[16时45分 ~ 20时42分]"
+        },
+        {
+          "title": "称伊对话“富有成效”，特朗普“推迟5天”打击伊朗发电站，伊朗断然否认",
+          "url": "https://wallstreetcn.com/articles/3768172",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
+        },
+        {
+          "title": "特朗普：美伊过去两天已进行对话",
+          "url": "https://www.cls.cn/detail/2321845",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
         },
         {
           "title": "48小时最后通牒：特朗普威胁“炸电厂”，伊朗回敬“完全封锁海峡”",
@@ -337,16 +384,15 @@
           "time_info": "[00时19分 ~ 03时19分]"
         },
         {
-          "title": "中方回应特朗普向伊朗发出最后通牒",
-          "url": "https://www.toutiao.com/trending/7620351961246924809/",
-          "source": "今日头条",
+          "title": "特朗普：伊朗正在发生的事情可以被描述为“政权更迭”",
+          "url": "https://flash.jin10.com/detail/20260323201843835800",
+          "source": "金十数据",
           "ranks": [
-            23,
-            12
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时45分 ~ 19时38分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
         },
         {
           "title": "伊朗提出4项措施回应特朗普威胁",
@@ -409,6 +455,18 @@
           "time_info": "[05时18分 ~ 06时16分]"
         },
         {
+          "title": "特朗普威胁摧毁伊朗发电设施，外交部回应",
+          "url": "https://www.cls.cn/detail/2321403",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时37分 ~ 20时42分]"
+        },
+        {
           "title": "特朗普称推迟5天打击伊朗发电站",
           "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%8E%A8%E8%BF%9F5%E5%A4%A9%E6%89%93%E5%87%BB%E4%BC%8A%E6%9C%97%E5%8F%91%E7%94%B5%E7%AB%99&t=31&band_rank=6&Refer=top",
           "source": "微博",
@@ -431,17 +489,6 @@
           "time_info": "[19时37分 ~ 19时38分]"
         },
         {
-          "title": "特朗普威胁摧毁伊朗发电设施，外交部回应",
-          "url": "https://www.cls.cn/detail/2321403",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时37分 ~ 19时38分]"
-        },
-        {
           "title": "美媒：特朗普团队已开始谋划与伊朗“和谈”事宜",
           "url": "https://wallstreetcn.com/livenews/3074555",
           "source": "华尔街见闻-快讯",
@@ -451,6 +498,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时19分 ~ 01时19分]"
+        },
+        {
+          "title": "伊朗否认与美国沟通，此前特朗普称已与伊朗对话，将推迟五天打击伊朗发电站，如何看待此事？战争要结束了吗？",
+          "url": "https://www.zhihu.com/question/2019499450662348649",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
+        },
+        {
+          "title": "伊朗称特朗普推迟袭击表态为心理战 并为他的军事计划争取时间",
+          "url": "https://wallstreetcn.com/livenews/3075188",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
+        },
+        {
+          "title": "特朗普再次左右市场，黄金亚欧盘多空双杀！瀑布行情跌完了吗？金十研究员Steven正在直播，立即观看>><font class=\"important-text\"></font>",
+          "url": "https://flash.jin10.com/detail/20260323201419562800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
         },
         {
           "title": "美国总统特朗普：以实力促和平，说得还算委婉了！！！",
@@ -470,9 +550,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
+        },
+        {
+          "title": "特朗普称美伊进行了富有成效的对话",
+          "url": "https://www.toutiao.com/trending/7619517736586821695/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
         },
         {
           "title": "特朗普逐步降级言论会否引发市场反弹？分析师警告：别轻易当真",
@@ -492,7 +583,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
         },
@@ -508,15 +599,37 @@
           "time_info": "14时05分"
         },
         {
+          "title": "伊媒称特朗普因伊朗警告弃袭发电厂",
+          "url": "https://wallstreetcn.com/livenews/3075180",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
+        },
+        {
           "title": "特朗普：美伊对话取得良好进展 推迟五天对伊军事打击",
           "url": "https://flash.jin10.com/detail/20260323191100265800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
+        },
+        {
+          "title": "伊朗外交部：特朗普在为军事计划争取时间",
+          "url": "https://flash.jin10.com/detail/20260323200545022800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
         },
         {
           "title": "因特朗普发表暂停对伊朗打击的言论，欧洲天然气价格下跌8.9%。",
@@ -525,7 +638,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
         },
@@ -536,7 +649,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
         },
@@ -558,7 +671,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
         },
@@ -569,7 +682,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
         },
@@ -583,6 +696,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
+        },
+        {
+          "title": "特朗普称美伊已对话",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E4%BC%8A%E5%B7%B2%E5%AF%B9%E8%AF%9D%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
         },
         {
           "title": "伊朗提出4项措施回应特朗普威胁",
@@ -618,6 +742,17 @@
           "time_info": "15时56分"
         },
         {
+          "title": "伊朗媒体“打脸”特朗普：称未与特朗普有过任何直接或间接接触",
+          "url": "https://flash.jin10.com/detail/20260323195709760800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
+        },
+        {
           "title": "特朗普2000亿购债计划再发力！“两房” 大规模抄底MBS",
           "url": "https://flash.jin10.com/detail/20260323084352735800",
           "source": "金十数据",
@@ -627,12 +762,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：一名伊朗高级安全官员表示，特朗普的相关言论为心理战。",
+          "url": "https://flash.jin10.com/detail/20260323195509733800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 15,
       "titles": [
         {
           "title": "全球市场V型反转，美股期货盘前急速拉升，原油大跌，金属齐涨",
@@ -646,6 +792,29 @@
           "time_info": "[19时37分 ~ 19时38分]"
         },
         {
+          "title": "美伊“撕扯”全球市场，美股期货盘前涨幅回落，原油跌幅收窄，金属齐涨",
+          "url": "https://wallstreetcn.com/articles/3768110",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
+        },
+        {
+          "title": "欧美股市拉升，德国DAX指数涨超4%，道指期货一度涨近3%",
+          "url": "https://wallstreetcn.com/livenews/3075157",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时38分 ~ 20时42分]"
+        },
+        {
           "title": "国际油价回吐涨幅，布油、WTI原油期货转跌。 美股期货收复失地，标普500指数期货转为基本持平。",
           "url": "https://wallstreetcn.com/livenews/3074649",
           "source": "华尔街见闻-快讯",
@@ -655,17 +824,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
-        },
-        {
-          "title": "欧美股市拉升，德国DAX指数涨超4%，道指期货一度涨近3%",
-          "url": "https://wallstreetcn.com/livenews/3075157",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时38分"
         },
         {
           "title": "美股三大期货跌幅收窄，道指期货跌0.33%，标普500指数期货跌0.46%，纳指期货跌0.52%。此前三大股指期货均跌1%。",
@@ -696,9 +854,42 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
+        },
+        {
+          "title": "美股三大股指期货突然拉升",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E8%82%A1%E6%8C%87%E6%9C%9F%E8%B4%A7%E7%AA%81%E7%84%B6%E6%8B%89%E5%8D%87%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
+        },
+        {
+          "title": "【欧美股市涨幅收窄，德国DAX指数涨幅收窄至1.6%，道指期货涨幅收窄至1.5%】欧股涨幅收窄，德国DAX指数涨幅收窄至1.6%，此前涨超4%；欧洲斯托克50指数涨幅收窄至1.8%，此前涨3.5%；法国CAC 40指数涨幅收窄至1.25%，此前涨近3%。美股期货涨幅收窄，道指期货涨幅收窄至1.5%，此前一度涨近3%；标普500指数涨幅收窄至1.4%，此前一度涨近3%；纳斯达克100指数涨幅收窄至1.4%。",
+          "url": "https://wallstreetcn.com/livenews/3075174",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
+        },
+        {
+          "title": "美股期指金银快速反弹",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%9C%9F%E6%8C%87%E9%87%91%E9%93%B6%E5%BF%AB%E9%80%9F%E5%8F%8D%E5%BC%B9",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
         },
         {
           "title": "美股股指期货周一走低，纳指期货跌0.68%。",
@@ -721,6 +912,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时45分"
+        },
+        {
+          "title": "摩根士丹利：市场已经充分计入地缘风险，美股即将重拾涨势！",
+          "url": "https://flash.jin10.com/detail/20260323195808747800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
         },
         {
           "title": "美股盘前黄金股下跌，泛美白银跌7.5%，哈莫尼黄金、AngloGold Ashant跌超5%。",
@@ -763,6 +965,18 @@
           "time_info": "[17时54分 ~ 18时44分]"
         },
         {
+          "title": "美元指数持续走低，较日内高位走低约100点，最新报99.50。",
+          "url": "https://wallstreetcn.com/livenews/3075155",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时38分 ~ 20时42分]"
+        },
+        {
           "title": "美元指数DXY再次突破100关口，日内涨0.50%。",
           "url": "https://flash.jin10.com/detail/20260323174101479800",
           "source": "金十数据",
@@ -772,17 +986,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时54分"
-        },
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
         {
-          "title": "美元指数持续走低，较日内高位走低约100点，最新报99.50。",
-          "url": "https://wallstreetcn.com/livenews/3075155",
+          "title": "OpenAI聘请前Meta广告高管Davedugan负责广告销售。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3075178",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时38分"
+          "time_info": "20时42分"
+        },
+        {
+          "title": "据华尔街日报：OpenAI已聘请前Meta Platforms(META.O)广告高管Davedugan负责广告销售。",
+          "url": "https://flash.jin10.com/detail/20260323200409593800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
         }
       ]
     },
@@ -803,8 +1034,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时16分 ~ 19时38分]"
+          "appearance_count": 11,
+          "time_info": "[09时16分 ~ 20时42分]"
         }
       ]
     }
