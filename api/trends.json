@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T17:28:23.393611+08:00",
-  "total_titles_processed": 1260,
+  "generated_at": "2026-03-28T18:23:12.567505+08:00",
+  "total_titles_processed": 1318,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,18 @@
           "time_info": "[04时27分 ~ 09时14分]"
         },
         {
+          "title": "特朗普发出威胁：下一个是古巴",
+          "url": "https://news.ifeng.com/c/8rrDwUJUTQk",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时11分 ~ 18时23分]"
+        },
+        {
           "title": "特朗普揭晓所谓伊朗大礼",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%AD%E6%99%93%E6%89%80%E8%B0%93%E4%BC%8A%E6%9C%97%E5%A4%A7%E7%A4%BC%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -31,16 +43,19 @@
           "time_info": "[02时43分 ~ 07时23分]"
         },
         {
-          "title": "特朗普发出威胁：下一个是古巴",
-          "url": "https://news.ifeng.com/c/8rrDwUJUTQk",
-          "source": "凤凰网",
+          "title": "特朗普发出威胁：“下一个是古巴”",
+          "url": "https://www.cls.cn/detail/2327781",
+          "source": "财联社热门",
           "ranks": [
+            13,
+            7,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时11分 ~ 17时28分]"
+          "appearance_count": 8,
+          "time_info": "[12时11分 ~ 18时23分]"
         },
         {
           "title": "“末日博士”鲁比尼：特朗普更有可能升级伊朗局势而非选择退让",
@@ -54,8 +69,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[02时43分 ~ 17时28分]"
+          "appearance_count": 19,
+          "time_info": "[02时43分 ~ 18时23分]"
         },
         {
           "title": "美以伊战争丨特朗普与莫迪讨论中东局势，马斯克参与",
@@ -94,19 +109,15 @@
           "time_info": "[05时26分 ~ 13时50分]"
         },
         {
-          "title": "特朗普发出威胁：“下一个是古巴”",
-          "url": "https://www.cls.cn/detail/2327781",
-          "source": "财联社热门",
+          "title": "特朗普吹嘘：中国又下单大豆了，老乡快买拖拉机",
+          "url": "https://news.ifeng.com/c/8rr9Q5dkmnZ",
+          "source": "凤凰网",
           "ranks": [
-            13,
-            7,
-            5,
-            4,
-            3
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时11分 ~ 17时28分]"
+          "appearance_count": 8,
+          "time_info": "[12时11分 ~ 18时23分]"
         },
         {
           "title": "特朗普推迟十天打击伊朗能源设施，最后期限延至4月6日，称美伊谈判“非常顺利”",
@@ -120,15 +131,15 @@
           "time_info": "[00时42分 ~ 04时28分]"
         },
         {
-          "title": "特朗普吹嘘：中国又下单大豆了，老乡快买拖拉机",
-          "url": "https://news.ifeng.com/c/8rr9Q5dkmnZ",
+          "title": "想跑跑不了，特朗普失控",
+          "url": "https://news.ifeng.com/c/8rrd4miP6TY",
           "source": "凤凰网",
           "ranks": [
-            6
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时11分 ~ 17时28分]"
+          "appearance_count": 3,
+          "time_info": "[17时28分 ~ 18时23分]"
         },
         {
           "title": "特朗普发出威胁：“下一个是古巴”",
@@ -145,6 +156,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时11分 ~ 17时28分]"
+        },
+        {
+          "title": "特朗普总在周末出手，华尔街已经不敢持仓过周末了",
+          "url": "https://wallstreetcn.com/articles/3768631",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时46分 ~ 18时23分]"
         },
         {
           "title": "特朗普又批北约，威胁缩减对北约的“保护”开支",
@@ -240,17 +263,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时22分 ~ 12时11分]"
-        },
-        {
-          "title": "想跑跑不了，特朗普失控",
-          "url": "https://news.ifeng.com/c/8rrd4miP6TY",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
         },
         {
           "title": "特朗普认定国土安全部“停摆”构成紧急状态",
@@ -359,18 +371,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时23分 ~ 09时14分]"
-        },
-        {
-          "title": "特朗普总在周末出手，华尔街已经不敢持仓过周末了",
-          "url": "https://wallstreetcn.com/articles/3768631",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时46分 ~ 17时28分]"
         },
         {
           "title": "美国总统特朗普：仍然希望与伊朗达成协议。",
@@ -743,23 +743,23 @@
       "match_count": 20,
       "titles": [
         {
+          "title": "局势升级担忧助推原油大涨，美股重挫、纳指再跌2%，VIX突破30，黄金涨近3%",
+          "url": "https://wallstreetcn.com/articles/3768537",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时13分 ~ 18时23分]"
+        },
+        {
           "title": "收盘后11分钟发帖！美股遭遇伊朗战争以来“最惨一天”，特朗普“立刻”延长10天“谈判时间”",
           "url": "https://wallstreetcn.com/articles/3768527",
           "source": "华尔街见闻",
           "ranks": [
             1,
             2
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时42分 ~ 07时23分]"
-        },
-        {
-          "title": "谈判僵局推动油价重新走强，再通胀预期重挫全球债市，芯片股拖累美股，美元冲高回落",
-          "url": "https://wallstreetcn.com/articles/3768430",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
           ],
           "is_new": false,
           "appearance_count": 12,
@@ -774,19 +774,34 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时23分 ~ 17时28分]"
+          "appearance_count": 11,
+          "time_info": "[07时23分 ~ 18时23分]"
         },
         {
-          "title": "局势升级担忧助推原油大涨，美股重挫、纳指再跌2%，VIX突破30，黄金涨近3%",
-          "url": "https://wallstreetcn.com/articles/3768537",
+          "title": "谈判僵局推动油价重新走强，再通胀预期重挫全球债市，芯片股拖累美股，美元冲高回落",
+          "url": "https://wallstreetcn.com/articles/3768430",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时42分 ~ 07时23分]"
+        },
+        {
+          "title": "周五的变化：原油继续大涨、美股再度大跌，但美债“不跟了”，市场开始“定价衰退”了吗？",
+          "url": "https://wallstreetcn.com/articles/3768635",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5,
+            4,
+            3
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[09时13分 ~ 17时28分]"
+          "time_info": "[12时11分 ~ 18时23分]"
         },
         {
           "title": "市场谨慎情绪升温 美股期指延续跌势 原油黄金上涨 | 今夜看点",
@@ -815,19 +830,17 @@
           "time_info": "[01时42分 ~ 09时14分]"
         },
         {
-          "title": "周五的变化：原油继续大涨、美股再度大跌，但美债“不跟了”，市场开始“定价衰退”了吗？",
-          "url": "https://wallstreetcn.com/articles/3768635",
+          "title": "特朗普“口头缓和”失效，原油“现货冲击”逼近，美股真的慌了！",
+          "url": "https://wallstreetcn.com/articles/3768633",
           "source": "华尔街见闻",
           "ranks": [
+            9,
             8,
-            6,
-            5,
-            4,
-            3
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时11分 ~ 17时28分]"
+          "appearance_count": 7,
+          "time_info": "[13时50分 ~ 18时23分]"
         },
         {
           "title": "美伊局势走向不明，美股指下跌，半导体股、网络安全股普跌，布油涨超2%，美30年期国债收益率创去年9月来新高",
@@ -864,17 +877,15 @@
           "time_info": "[09时13分 ~ 12时11分]"
         },
         {
-          "title": "特朗普“口头缓和”失效，原油“现货冲击”逼近，美股真的慌了！",
-          "url": "https://wallstreetcn.com/articles/3768633",
+          "title": "美银Hartnett：美股还没“跌透”，特朗普或将被迫推出\"政策急救包\"",
+          "url": "https://wallstreetcn.com/articles/3768593",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            8,
-            7
+            10
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[13时50分 ~ 17时28分]"
+          "time_info": "[15时39分 ~ 18时23分]"
         },
         {
           "title": "金十图示：2026年03月27日（周五）美股热门股票行情一览（美股收盘）",
@@ -913,17 +924,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时28分 ~ 06时22分]"
-        },
-        {
-          "title": "美银Hartnett：美股还没“跌透”，特朗普或将被迫推出\"政策急救包\"",
-          "url": "https://wallstreetcn.com/articles/3768593",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时39分 ~ 17时28分]"
         },
         {
           "title": "美股收盘：三大股指低开低走 明星科技股多数下跌",
@@ -1014,11 +1014,12 @@
             19,
             12,
             14,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时42分 ~ 17时28分]"
+          "appearance_count": 22,
+          "time_info": "[00时42分 ~ 18时23分]"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
@@ -1036,8 +1037,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时42分 ~ 17时28分]"
+          "appearance_count": 22,
+          "time_info": "[00时42分 ~ 18时23分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
@@ -1054,8 +1055,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时42分 ~ 17时28分]"
+          "appearance_count": 22,
+          "time_info": "[00时42分 ~ 18时23分]"
         },
         {
           "title": "苹果(AAPL.O)：聘请前谷歌高管莉莲·林孔担任人工智能产品营销副总裁。",
@@ -1075,9 +1076,9 @@
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时28分 ~ 18时23分]"
         },
         {
           "title": "据英国金融时报：谷歌接近达成协议，为租予Anthropic的数十亿美元数据中心提供资金支持。",
