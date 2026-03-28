@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T22:24:29.427149+08:00",
-  "total_titles_processed": 1575,
+  "generated_at": "2026-03-28T23:22:49.574625+08:00",
+  "total_titles_processed": 1656,
   "failed_sources": [],
   "trends": [
     {
@@ -32,8 +32,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时11分 ~ 22时24分]"
+          "appearance_count": 14,
+          "time_info": "[12时11分 ~ 23时22分]"
         },
         {
           "title": "特朗普发出威胁：下一个是古巴",
@@ -56,8 +56,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时11分 ~ 22时24分]"
+          "appearance_count": 14,
+          "time_info": "[12时11分 ~ 23时22分]"
+        },
+        {
+          "title": "想跑跑不了，特朗普失控",
+          "url": "https://news.ifeng.com/c/8rrd4miP6TY",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时28分 ~ 23时22分]"
         },
         {
           "title": "特朗普揭晓所谓伊朗大礼",
@@ -72,18 +84,6 @@
           "time_info": "[02时43分 ~ 07时23分]"
         },
         {
-          "title": "想跑跑不了，特朗普失控",
-          "url": "https://news.ifeng.com/c/8rrd4miP6TY",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时28分 ~ 22时24分]"
-        },
-        {
           "title": "特朗普总在周末出手，华尔街已经不敢持仓过周末了",
           "url": "https://wallstreetcn.com/articles/3768631",
           "source": "华尔街见闻",
@@ -94,8 +94,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时46分 ~ 22时24分]"
+          "appearance_count": 12,
+          "time_info": "[14时46分 ~ 23时22分]"
         },
         {
           "title": "“末日博士”鲁比尼：特朗普更有可能升级伊朗局势而非选择退让",
@@ -109,8 +109,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[02时43分 ~ 22时24分]"
+          "appearance_count": 25,
+          "time_info": "[02时43分 ~ 23时22分]"
         },
         {
           "title": "美以伊战争丨特朗普与莫迪讨论中东局势，马斯克参与",
@@ -219,17 +219,6 @@
           "time_info": "03时36分"
         },
         {
-          "title": "泽连斯基：我希望特朗普不会忘记乌克兰冲突。",
-          "url": "https://wallstreetcn.com/livenews/3078609",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时24分"
-        },
-        {
           "title": "美国总统特朗普：古巴是下一个。",
           "url": "https://wallstreetcn.com/livenews/3078506",
           "source": "华尔街见闻-快讯",
@@ -291,6 +280,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时36分"
+        },
+        {
+          "title": "特朗普谈中国：对中国的成就必须非常尊重",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32849114",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15,
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时32分 ~ 23时22分]"
         },
         {
           "title": "美国中东问题特使威特科夫：认为本周将与伊朗举行会谈，特朗普希望达成和平协议。",
@@ -366,6 +369,18 @@
           "time_info": "[13时50分 ~ 14时46分]"
         },
         {
+          "title": "泽连斯基：我希望特朗普不会忘记乌克兰冲突。",
+          "url": "https://wallstreetcn.com/livenews/3078609",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时24分 ~ 23时22分]"
+        },
+        {
           "title": "纳指跌幅扩大至2%，标普跌1.4%，道指跌674点、跌幅1.5%，半导体指数跌1.8%，生物科技指数跌2.3%。 伊朗外长阿拉格奇称，以色列在美方协调下对伊朗钢铁厂、电力和核设施发动的袭击与特朗普延长外交期限的声明相悖。伊朗将让以色列为其罪行付出沉重代价。",
           "url": "https://wallstreetcn.com/livenews/3078430",
           "source": "华尔街见闻-快讯",
@@ -388,19 +403,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时23分 ~ 09时14分]"
-        },
-        {
-          "title": "特朗普谈中国：对中国的成就必须非常尊重",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32849114",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时32分 ~ 22时24分]"
         },
         {
           "title": "美国总统特朗普：仍然希望与伊朗达成协议。",
@@ -804,8 +806,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时13分 ~ 22时24分]"
+          "appearance_count": 16,
+          "time_info": "[09时13分 ~ 23时22分]"
         },
         {
           "title": "收盘后11分钟发帖！美股遭遇伊朗战争以来“最惨一天”，特朗普“立刻”延长10天“谈判时间”",
@@ -829,8 +831,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时23分 ~ 22时24分]"
+          "appearance_count": 17,
+          "time_info": "[07时23分 ~ 23时22分]"
         },
         {
           "title": "谈判僵局推动油价重新走强，再通胀预期重挫全球债市，芯片股拖累美股，美元冲高回落",
@@ -857,8 +859,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时11分 ~ 22时24分]"
+          "appearance_count": 14,
+          "time_info": "[12时11分 ~ 23时22分]"
         },
         {
           "title": "特朗普“口头缓和”失效，原油“现货冲击”逼近，美股真的慌了！",
@@ -872,8 +874,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时50分 ~ 22时24分]"
+          "appearance_count": 13,
+          "time_info": "[13时50分 ~ 23时22分]"
         },
         {
           "title": "市场谨慎情绪升温 美股期指延续跌势 原油黄金上涨 | 今夜看点",
@@ -1090,8 +1092,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时42分 ~ 22时24分]"
+          "appearance_count": 28,
+          "time_info": "[00时42分 ~ 23时22分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
@@ -1110,8 +1112,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时42分 ~ 22时24分]"
+          "appearance_count": 28,
+          "time_info": "[00时42分 ~ 23时22分]"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
@@ -1128,11 +1130,12 @@
             20,
             24,
             27,
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时42分 ~ 22时24分]"
+          "appearance_count": 26,
+          "time_info": "[00时42分 ~ 23时22分]"
         },
         {
           "title": "苹果(AAPL.O)：聘请前谷歌高管莉莲·林孔担任人工智能产品营销副总裁。",
