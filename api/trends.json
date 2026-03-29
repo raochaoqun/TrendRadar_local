@@ -1,13 +1,11 @@
 {
-  "generated_at": "2026-03-29T16:31:47.008995+08:00",
-  "total_titles_processed": 1036,
-  "failed_sources": [
-    "jin10"
-  ],
+  "generated_at": "2026-03-29T17:28:36.618531+08:00",
+  "total_titles_processed": 1101,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "特朗普发出威胁：“下一个是古巴”",
@@ -17,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时22分 ~ 16时31分]"
+          "appearance_count": 17,
+          "time_info": "[00时22分 ~ 17时28分]"
         },
         {
           "title": "特朗普谈中国：对中国的成就必须非常尊重",
@@ -47,6 +45,17 @@
           "time_info": "[00时22分 ~ 14时07分]"
         },
         {
+          "title": "伦敦超十万人游行，高喊“反对极右翼、反对特朗普”",
+          "url": "https://news.ifeng.com/c/8rsRuzH8VRV",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[06时19分 ~ 17时28分]"
+        },
+        {
           "title": "特朗普总在周末出手，华尔街已经不敢持仓过周末了",
           "url": "https://wallstreetcn.com/articles/3768631",
           "source": "华尔街见闻",
@@ -61,15 +70,15 @@
           "time_info": "[00时22分 ~ 09时23分]"
         },
         {
-          "title": "伦敦超十万人游行，高喊“反对极右翼、反对特朗普”",
-          "url": "https://news.ifeng.com/c/8rsRuzH8VRV",
-          "source": "凤凰网",
+          "title": "全美超900万人举行抗议反对特朗普",
+          "url": "https://www.toutiao.com/trending/7621824327100940294/",
+          "source": "今日头条",
           "ranks": [
-            7
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时19分 ~ 16时31分]"
+          "appearance_count": 5,
+          "time_info": "[14时07分 ~ 17时28分]"
         },
         {
           "title": "“末日博士”鲁比尼：特朗普更有可能升级伊朗局势而非选择退让",
@@ -82,17 +91,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时22分 ~ 07时22分]"
-        },
-        {
-          "title": "全美超900万人举行抗议反对特朗普",
-          "url": "https://www.toutiao.com/trending/7621824327100940294/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时07分 ~ 16时31分]"
         },
         {
           "title": "特朗普：战争总会有意外，“有些本应打赢的战争却输了”，北约这次不帮美国，美国以后也不会帮北约！",
@@ -182,11 +180,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32856388",
           "source": "澎湃新闻",
           "ranks": [
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时30分 ~ 16时31分]"
+          "appearance_count": 3,
+          "time_info": "[16时30分 ~ 17时28分]"
         },
         {
           "title": "美国爆发反特朗普政府集会",
@@ -198,6 +197,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时29分"
+        },
+        {
+          "title": "据伊朗国家媒体：伊朗议会议长卡利巴夫表示，特朗普一直未能获得欧洲国家的合作。",
+          "url": "https://flash.jin10.com/detail/20260329165022283800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
         }
       ]
     },
@@ -261,8 +271,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时07分 ~ 16时31分]"
+          "appearance_count": 5,
+          "time_info": "[14时07分 ~ 17时28分]"
         },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
@@ -272,11 +282,12 @@
             8,
             3,
             15,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时29分 ~ 16时31分]"
+          "appearance_count": 6,
+          "time_info": "[12时29分 ~ 17时28分]"
         },
         {
           "title": "谷歌干崩内存股价的 TurboQuant 论文被 RaBitQ 作者指出存在严重错误，怎么理解？",
@@ -286,8 +297,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时07分 ~ 16时31分]"
+          "appearance_count": 5,
+          "time_info": "[14时07分 ~ 17时28分]"
         },
         {
           "title": "RaBitQ 作者独家发文指出 Google的 ICLR 2026 TurboQuant 论文存在严重错误",
@@ -339,8 +350,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时22分 ~ 16时31分]"
+          "appearance_count": 17,
+          "time_info": "[00时22分 ~ 17时28分]"
         },
         {
           "title": "局势升级担忧助推原油大涨，美股重挫、纳指再跌2%，VIX突破30，黄金涨近3%",
@@ -363,8 +374,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时07分 ~ 16时31分]"
+          "appearance_count": 5,
+          "time_info": "[14时07分 ~ 17时28分]"
         }
       ]
     },
