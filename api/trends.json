@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-03T05:28:39.744608+08:00",
-  "total_titles_processed": 567,
+  "generated_at": "2026-04-03T06:24:00.923552+08:00",
+  "total_titles_processed": 588,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "特朗普自行宣称：对伊朗战事取得“压倒性胜利”，未来两到三周将开展极其猛烈的打击",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时45分 ~ 05时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时45分 ~ 06时24分]"
         },
         {
           "title": "全球市场瞩目！9点“全美讲话”，特朗普会讲什么？",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时45分 ~ 05时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时45分 ~ 06时24分]"
         },
         {
           "title": "特朗普讲话“没有明确降温信号”，市场“很失望”",
@@ -37,8 +37,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时45分 ~ 05时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时45分 ~ 06时24分]"
         },
         {
           "title": "外交部谈特朗普涉伊朗言论",
@@ -48,8 +48,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时45分 ~ 05时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时45分 ~ 06时24分]"
         },
         {
           "title": "伊朗强硬回应特朗普",
@@ -58,11 +58,40 @@
           "ranks": [
             13,
             15,
-            12
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时45分 ~ 06时24分]"
+        },
+        {
+          "title": "特朗普讲话后金银直线跳水",
+          "url": "https://www.douyin.com/hot/2452230",
+          "source": "抖音",
+          "ranks": [
+            16,
+            22,
+            27
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[00时45分 ~ 05时28分]"
+          "time_info": "[01时42分 ~ 06时24分]"
+        },
+        {
+          "title": "特朗普发表讲话谈伊朗战事",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E8%A1%A8%E8%AE%B2%E8%AF%9D%E8%B0%88%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%8B%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30,
+            25,
+            29,
+            24,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时42分 ~ 06时24分]"
         },
         {
           "title": "外交部谈特朗普涉伊朗言论：再次敦促当事方立即停止军事行动",
@@ -76,41 +105,15 @@
           "time_info": "00时45分"
         },
         {
-          "title": "特朗普讲话后金银直线跳水",
-          "url": "https://www.douyin.com/hot/2452230",
-          "source": "抖音",
-          "ranks": [
-            16,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时42分 ~ 04时26分]"
-        },
-        {
-          "title": "特朗普发表讲话谈伊朗战事",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E8%A1%A8%E8%AE%B2%E8%AF%9D%E8%B0%88%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%8B%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30,
-            25,
-            29,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时42分 ~ 05时28分]"
-        },
-        {
-          "title": "据CBS报道，礼来制药减肥药Foundayo将上架美国总统特朗普的TrumpRX。 4月1日，美国食品药品管理局（FDA）批准了这款口服减肥药。",
-          "url": "https://wallstreetcn.com/livenews/3081802",
+          "title": "特朗普放炸桥视频施压，伊朗外长说不会投降",
+          "url": "https://wallstreetcn.com/livenews/3081814",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时28分"
+          "time_info": "06时24分"
         },
         {
           "title": "特朗普认为伊朗战争结束后 抵押贷款利率将会下降",
@@ -148,6 +151,31 @@
           "time_info": "[00时45分 ~ 01时42分]"
         },
         {
+          "title": "据CBS报道，礼来制药减肥药Foundayo将上架美国总统特朗普的TrumpRX。 4月1日，美国食品药品管理局（FDA）批准了这款口服减肥药。",
+          "url": "https://wallstreetcn.com/livenews/3081802",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时28分 ~ 06时24分]"
+        },
+        {
+          "title": "伊朗外长嘲讽特朗普：石器时代可没有油气",
+          "url": "https://flash.jin10.com/detail/20260403035841206800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            26,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时26分 ~ 06时24分]"
+        },
+        {
           "title": "美国总统特朗普宣称，司法部长Bondi被免职。（福克斯新闻）",
           "url": "https://wallstreetcn.com/livenews/3081729",
           "source": "华尔街见闻-快讯",
@@ -161,16 +189,16 @@
           "time_info": "[01时42分 ~ 03时43分]"
         },
         {
-          "title": "伊朗外长嘲讽特朗普：石器时代可没有油气",
-          "url": "https://flash.jin10.com/detail/20260403035841206800",
-          "source": "金十数据",
+          "title": "美华盛顿规划机构批准特朗普白宫宴会厅项目",
+          "url": "https://wallstreetcn.com/livenews/3081794",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7,
-            26
+            12,
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时26分 ~ 05时28分]"
+          "time_info": "[05时28分 ~ 06时24分]"
         },
         {
           "title": "忍了数月，特朗普解职美司法部长邦迪",
@@ -205,17 +233,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时42分"
-        },
-        {
-          "title": "美华盛顿规划机构批准特朗普白宫宴会厅项目",
-          "url": "https://wallstreetcn.com/livenews/3081794",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时28分"
         },
         {
           "title": "据CNN：美国总统特朗普免去帕姆·邦迪美国司法部长职务。",
@@ -299,8 +316,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时45分 ~ 05时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时45分 ~ 06时24分]"
         },
         {
           "title": "停火预期点燃FOMO情绪，美股指两连涨、存储股大涨，黄金四连涨，油价震荡于百元",
@@ -311,8 +328,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时45分 ~ 05时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时45分 ~ 06时24分]"
         },
         {
           "title": "什么信号？华尔街频频传来“避开美股”警告声……",
@@ -324,8 +341,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时45分 ~ 05时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时45分 ~ 06时24分]"
         },
         {
           "title": "美股三大指数低开 特斯拉跌逾4%",
@@ -336,11 +353,12 @@
             27,
             22,
             24,
-            18
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时45分 ~ 05时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时45分 ~ 06时24分]"
         },
         {
           "title": "金十图示：2026年04月02日（周四）美股热门股票行情一览（美股盘中）",
@@ -370,11 +388,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时26分 ~ 05时28分]"
+          "appearance_count": 3,
+          "time_info": "[04时26分 ~ 06时24分]"
         },
         {
           "title": "特朗普即将发表讲话，美股首度“两连涨”，黄金已“四连涨”，华尔街FOMO了",
@@ -404,44 +423,48 @@
           "url": "https://wallstreetcn.com/livenews/3081793",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            13,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时28分 ~ 06时24分]"
         },
         {
           "title": "金十图示：2026年04月02日（周四）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260403040716683800",
           "source": "金十数据",
           "ranks": [
-            16
+            16,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时28分 ~ 06时24分]"
         },
         {
           "title": "金十图示：2026年04月02日（周四）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260403040531633800",
           "source": "金十数据",
           "ranks": [
-            18
+            18,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时28分 ~ 06时24分]"
         },
         {
           "title": "周四（4月2日），美股行业ETF多数收涨，网络股指数ETF收涨1.33%，科技行业ETF涨0.82%，能源业ETF涨0.47%，半导体ETF涨0.09%，可选消费ETF跌1.50%。",
           "url": "https://wallstreetcn.com/livenews/3081784",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            20,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时28分 ~ 06时24分]"
         }
       ]
     },
@@ -457,8 +480,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时45分 ~ 05时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时45分 ~ 06时24分]"
         },
         {
           "title": "从泄露源码扒出Claude隐藏彩蛋",
@@ -469,11 +492,12 @@
             18,
             15,
             11,
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时45分 ~ 05时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时45分 ~ 06时24分]"
         },
         {
           "title": "Claude Opus是否会淘汰程序员",
@@ -483,11 +507,12 @@
             19,
             14,
             20,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时45分 ~ 05时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时45分 ~ 06时24分]"
         },
         {
           "title": "UP主复现Claude Code代码漏洞",
@@ -498,11 +523,12 @@
             20,
             16,
             15,
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时45分 ~ 05时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时45分 ~ 06时24分]"
         },
         {
           "title": "Claude Code源码分析与复刻实现",
@@ -514,11 +540,12 @@
             19,
             20,
             16,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时45分 ~ 05时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时45分 ~ 06时24分]"
         }
       ]
     },
@@ -625,11 +652,12 @@
           "url": "https://flash.jin10.com/detail/20260403043416469800",
           "source": "金十数据",
           "ranks": [
-            10
+            10,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时28分 ~ 06时24分]"
         }
       ]
     },
