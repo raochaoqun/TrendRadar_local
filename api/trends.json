@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-10T16:17:12.142593+08:00",
-  "total_titles_processed": 1365,
+  "generated_at": "2026-04-10T18:02:25.779861+08:00",
+  "total_titles_processed": 1516,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 60,
+      "match_count": 64,
       "titles": [
         {
           "title": "脆弱的停火：以色列依旧“搅屎棍”，特朗普还是“来回变”",
@@ -57,6 +57,19 @@
           "time_info": "[00时13分 ~ 06时08分]"
         },
         {
+          "title": "以总理指示尽快启动与黎巴嫩直接谈判，特朗普要求以减少袭黎，伊朗称为再发生冲突做好准备",
+          "url": "https://wallstreetcn.com/articles/3769619",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时23分 ~ 18时02分]"
+        },
+        {
           "title": "特朗普称美媒披露的 10 项停战条款是假新闻，是为了诋毁事件相关人员，如何解读？双方讨论的框架到底是什么？",
           "url": "https://www.zhihu.com/question/2025532903371580547",
           "source": "知乎",
@@ -97,19 +110,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时13分 ~ 09时24分]"
-        },
-        {
-          "title": "以总理指示尽快启动与黎巴嫩直接谈判，特朗普要求以减少袭黎，伊朗称为再发生冲突做好准备",
-          "url": "https://wallstreetcn.com/articles/3769619",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时23分 ~ 16时17分]"
         },
         {
           "title": "白宫称特朗普考虑“退群”：北约背弃美国人民，没能通过考验",
@@ -345,6 +345,17 @@
           "time_info": "[02时50分 ~ 03时58分]"
         },
         {
+          "title": "特朗普真要从欧洲撤走美军？白宫称“在商讨”",
+          "url": "https://news.ifeng.com/c/8sDAVEwvCNz",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时01分 ~ 18时02分]"
+        },
+        {
           "title": "特朗普夫人梅拉尼娅：把我与爱泼斯坦扯上关系的谎言今天就必须停止。",
           "url": "https://flash.jin10.com/detail/20260410023231639800",
           "source": "金十数据",
@@ -355,6 +366,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时50分 ~ 03时58分]"
+        },
+        {
+          "title": "格陵兰岛总理回应特朗普：我们不是一块冰",
+          "url": "https://news.ifeng.com/c/8sClfHB09mn",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时01分 ~ 18时02分]"
         },
         {
           "title": "美国总统特朗普对达成伊朗和平协议“持乐观态度”。 如果伊朗不达成协议，后果将很痛苦。（NBC）",
@@ -389,6 +411,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时08分 ~ 06时32分]"
+        },
+        {
+          "title": "特朗普对鲤鱼宣战",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E9%B2%A4%E9%B1%BC%E5%AE%A3%E6%88%98%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时01分 ~ 18时02分]"
         },
         {
           "title": "英国首相府：斯塔默与美国总统特朗普讨论了制定切实可行方案以尽快恢复航运的必要性，并同意不久后再次通话。",
@@ -587,6 +620,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时32分"
+        },
+        {
+          "title": "特朗普要撤军？白宫称“在商讨”",
+          "url": "https://wallstreetcn.com/livenews/3085748",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
         },
         {
           "title": "美媒称特朗普要求内塔尼亚胡减少对黎巴嫩的打击",
@@ -850,7 +894,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
         },
@@ -1107,8 +1151,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时38分 ~ 16时17分]"
+          "appearance_count": 7,
+          "time_info": "[12时38分 ~ 18时02分]"
         }
       ]
     }
