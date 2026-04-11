@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T17:32:33.349851+08:00",
-  "total_titles_processed": 1180,
+  "generated_at": "2026-04-11T18:25:01.604040+08:00",
+  "total_titles_processed": 1244,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时12分 ~ 17时32分]"
+          "appearance_count": 11,
+          "time_info": "[12时12分 ~ 18时25分]"
         },
         {
           "title": "美伊谈判倒计时！特朗普：若谈不拢将加大打击 霍尔木兹将很快重开",
@@ -28,8 +28,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时18分 ~ 17时32分]"
+          "appearance_count": 12,
+          "time_info": "[09时18分 ~ 18时25分]"
         },
         {
           "title": "特朗普：谈判结果24小时内明朗",
@@ -56,19 +56,6 @@
           "time_info": "[00时40分 ~ 12时12分]"
         },
         {
-          "title": "无视特朗普力挺！“大空头”伯里放话：Palantir股价腰斩都不够",
-          "url": "https://www.cls.cn/detail/2341106",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时18分 ~ 17时32分]"
-        },
-        {
           "title": "美媒：特朗普施压，以黎将于华盛顿开展首轮对话",
           "url": "https://news.ifeng.com/c/8sDJxBFO6Wy",
           "source": "凤凰网",
@@ -80,6 +67,20 @@
           "time_info": "[00时40分 ~ 09时18分]"
         },
         {
+          "title": "无视特朗普力挺！“大空头”伯里放话：Palantir股价腰斩都不够",
+          "url": "https://www.cls.cn/detail/2341106",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[09时18分 ~ 18时25分]"
+        },
+        {
           "title": "特朗普称若未达成协议 将加大对伊朗军事打击 | 环球市场",
           "url": "https://www.cls.cn/detail/2341138",
           "source": "财联社热门",
@@ -87,11 +88,12 @@
             6,
             8,
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时18分 ~ 17时32分]"
+          "appearance_count": 12,
+          "time_info": "[09时18分 ~ 18时25分]"
         },
         {
           "title": "泰前总理佩通坦：骗子模仿特朗普让我捐款，我差点信了",
@@ -472,11 +474,12 @@
           "ranks": [
             13,
             10,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时54分 ~ 17时32分]"
+          "appearance_count": 10,
+          "time_info": "[13时54分 ~ 18时25分]"
         },
         {
           "title": "OpenAI 创始人奥尔特曼住所遭燃烧瓶袭击，具体是怎么回事？",
@@ -485,9 +488,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时32分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时32分 ~ 18时25分]"
         },
         {
           "title": "OpenAI的ChatGPT被指控加重了跟踪者的妄想。",
@@ -611,8 +614,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时27分 ~ 17时32分]"
+          "appearance_count": 13,
+          "time_info": "[07时27分 ~ 18时25分]"
         },
         {
           "title": "金十图示：2026年04月10日（周五）美股热门股票行情一览（美股收盘）",
@@ -639,6 +642,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时25分 ~ 09时18分]"
+        },
+        {
+          "title": "美股巨震",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E5%B7%A8%E9%9C%87%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12,
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时43分 ~ 18时25分]"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 Coreweave涨超10%",
@@ -678,27 +694,15 @@
           "time_info": "[00时40分 ~ 01时41分]"
         },
         {
-          "title": "美股巨震",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E5%B7%A8%E9%9C%87%23&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时43分 ~ 17时32分]"
-        },
-        {
           "title": "李大霄解读美股单周表现",
           "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%A7%A3%E8%AF%BB%E7%BE%8E%E8%82%A1%E5%8D%95%E5%91%A8%E8%A1%A8%E7%8E%B0",
           "source": "bilibili 热搜",
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时32分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时32分 ~ 18时25分]"
         },
         {
           "title": "周五（4月10日），美股行业ETF多数收跌，生物科技指数ETF跌1.62%，医疗业ETF、区域银行ETF至少跌1.3%，能源业ETF跌0.68%，科技行业ETF则收涨0.39%，半导体ETF涨1.53%——继续创收盘历史新高。",
