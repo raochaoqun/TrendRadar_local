@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-12T15:58:41.353808+08:00",
-  "total_titles_processed": 991,
+  "generated_at": "2026-04-12T16:42:27.014067+08:00",
+  "total_titles_processed": 1045,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时26分 ~ 15时58分]"
+          "appearance_count": 16,
+          "time_info": "[00时26分 ~ 16时42分]"
         },
         {
           "title": "谈判前夜美伊“剑拔弩张”：伊朗提“新条件”，特朗普威胁“加大打击”",
@@ -69,6 +69,18 @@
           "time_info": "[00时26分 ~ 09时27分]"
         },
         {
+          "title": "伊美14小时谈判“无果”但12日继续，伊朗拒绝美方“共管霍尔木兹海峡”，特朗普称“不在意是否达成协议”",
+          "url": "https://wallstreetcn.com/articles/3769751",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时42分 ~ 16时42分]"
+        },
+        {
           "title": "特朗普称若未达成协议 将加大对伊朗军事打击 | 环球市场",
           "url": "https://www.cls.cn/detail/2341138",
           "source": "财联社热门",
@@ -78,18 +90,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时26分 ~ 05时24分]"
-        },
-        {
-          "title": "伊美14小时谈判“无果”但12日继续，伊朗拒绝美方“共管霍尔木兹海峡”，特朗普称“不在意是否达成协议”",
-          "url": "https://wallstreetcn.com/articles/3769751",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时42分 ~ 15时58分]"
         },
         {
           "title": "伊朗战争丨特朗普：若谈判不顺，美国准备好“重启”",
@@ -131,6 +131,30 @@
           "time_info": "[05时24分 ~ 09时27分]"
         },
         {
+          "title": "特朗普、佩泽希齐扬、内塔尼亚胡，同日表态",
+          "url": "https://news.ifeng.com/c/8sG0csY9qWa",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时42分 ~ 16时42分]"
+        },
+        {
+          "title": "特朗普威胁通过控制霍尔木兹海峡打击伊朗经济",
+          "url": "https://wallstreetcn.com/livenews/3086335",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            10,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时19分 ~ 16时42分]"
+        },
+        {
           "title": "特朗普：并不在意美伊会谈能否达成协议",
           "url": "https://wallstreetcn.com/livenews/3086291",
           "source": "华尔街见闻-快讯",
@@ -142,18 +166,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时22分 ~ 09时27分]"
-        },
-        {
-          "title": "特朗普威胁通过控制霍尔木兹海峡打击伊朗经济",
-          "url": "https://wallstreetcn.com/livenews/3086335",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时19分 ~ 15时58分]"
         },
         {
           "title": "美国总统特朗普：（霍尔木兹海峡）水里可能有几枚水雷。",
@@ -168,17 +180,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时24分 ~ 09时27分]"
-        },
-        {
-          "title": "特朗普、佩泽希齐扬、内塔尼亚胡，同日表态",
-          "url": "https://news.ifeng.com/c/8sG0csY9qWa",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时42分 ~ 15时58分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：正如特朗普所说，必须清除伊朗的浓缩铀，要么通过协议，要么通过其它方式。",
@@ -349,7 +350,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
@@ -361,8 +362,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时26分 ~ 15时58分]"
+          "appearance_count": 16,
+          "time_info": "[00时26分 ~ 16时42分]"
         },
         {
           "title": "从华尔街到硅谷，Anthropic 抢走了OpenAI“所有的风头”",
@@ -377,12 +378,23 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时26分 ~ 09时27分]"
+        },
+        {
+          "title": "OpenAI CEO住所遭袭",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%20CEO%E4%BD%8F%E6%89%80%E9%81%AD%E8%A2%AD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美股收盘：芯片股走强纳指八连升 道指标普回落仍周涨超3%",
@@ -412,8 +424,19 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时26分 ~ 15时58分]"
+          "appearance_count": 16,
+          "time_info": "[00时26分 ~ 16时42分]"
+        },
+        {
+          "title": "环球下周看点：中东两周停火暂稳市场 美股财报季检验盈利韧性",
+          "url": "https://www.cls.cn/detail/2341358",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
         }
       ]
     },
