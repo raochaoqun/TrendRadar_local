@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-14T05:47:29.315987+08:00",
-  "total_titles_processed": 591,
+  "generated_at": "2026-04-14T06:36:32.715938+08:00",
+  "total_titles_processed": 634,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 43,
       "titles": [
         {
           "title": "贝森特告知特朗普：如果战争持续8-12周，美国面临油价上涨风险，亚欧将受影响最大",
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时07分 ~ 05时47分]"
+          "appearance_count": 7,
+          "time_info": "[00时07分 ~ 06时36分]"
         },
         {
           "title": "伊朗战争丨特朗普威胁击沉靠近封锁线的伊朗船只",
@@ -40,8 +40,22 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时07分 ~ 06时36分]"
+        },
+        {
+          "title": "特朗普警告伊朗攻击艇勿靠近封锁线",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AD%A6%E5%91%8A%E4%BC%8A%E6%9C%97%E6%94%BB%E5%87%BB%E8%89%87%E5%8B%BF%E9%9D%A0%E8%BF%91%E5%B0%81%E9%94%81%E7%BA%BF%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7,
+            8,
+            5,
+            4
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[00时07分 ~ 05时47分]"
+          "time_info": "[01时51分 ~ 06时36分]"
         },
         {
           "title": "特朗普“封锁霍尔木兹”，高盛：股市迎来“最终决战”",
@@ -51,8 +65,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时07分 ~ 05时47分]"
+          "appearance_count": 7,
+          "time_info": "[00时07分 ~ 06时36分]"
         },
         {
           "title": "美媒鼓噪：特朗普让美国利益遭四连击，中俄获利",
@@ -62,21 +76,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时07分 ~ 05时47分]"
-        },
-        {
-          "title": "特朗普警告伊朗攻击艇勿靠近封锁线",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AD%A6%E5%91%8A%E4%BC%8A%E6%9C%97%E6%94%BB%E5%87%BB%E8%89%87%E5%8B%BF%E9%9D%A0%E8%BF%91%E5%B0%81%E9%94%81%E7%BA%BF%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时51分 ~ 05时47分]"
+          "appearance_count": 7,
+          "time_info": "[00时07分 ~ 06时36分]"
         },
         {
           "title": "特朗普宣布：今晚10点就封锁！霍尔木兹海峡再次完全中断，两艘船紧急掉头",
@@ -87,8 +88,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时07分 ~ 05时47分]"
+          "appearance_count": 7,
+          "time_info": "[00时07分 ~ 06时36分]"
         },
         {
           "title": "一个颠覆性观点：制造能源危机，特朗普蓄谋已久！",
@@ -99,8 +100,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时07分 ~ 05时47分]"
+          "appearance_count": 7,
+          "time_info": "[00时07分 ~ 06时36分]"
         },
         {
           "title": "布林肯阴阳特朗普：他选择退让或是因为厌倦了“胜利”",
@@ -110,8 +111,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时07分 ~ 05时47分]"
+          "appearance_count": 7,
+          "time_info": "[00时07分 ~ 06时36分]"
         },
         {
           "title": "特朗普“封锁令”倒计时！霍尔木兹航运再陷中断 150美元油价警报拉响",
@@ -124,8 +125,44 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时07分 ~ 05时47分]"
+          "appearance_count": 7,
+          "time_info": "[00时07分 ~ 06时36分]"
+        },
+        {
+          "title": "中方回应特朗普重申将封锁伊朗港口",
+          "url": "https://www.toutiao.com/trending/7628108023306718761/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时07分 ~ 06时36分]"
+        },
+        {
+          "title": "美伊谈判刚不欢而散，特朗普就下令海军封锁霍尔木兹海峡，有何意图？要效仿委内瑞拉模式吗？会带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2026779173369246174",
+          "source": "知乎",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时07分 ~ 06时36分]"
+        },
+        {
+          "title": "特朗普：伊朗致电美方说希望达成协议",
+          "url": "https://news.ifeng.com/c/8sIkl2LlAOK",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时47分 ~ 06时36分]"
         },
         {
           "title": "意大利总理梅洛尼：特朗普关于教皇的言论不可接受。",
@@ -143,79 +180,48 @@
           "url": "https://wallstreetcn.com/livenews/3087172",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时47分"
-        },
-        {
-          "title": "中方回应特朗普重申将封锁伊朗港口",
-          "url": "https://www.toutiao.com/trending/7628108023306718761/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            11,
-            12
+            1,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时07分 ~ 05时47分]"
-        },
-        {
-          "title": "美伊谈判刚不欢而散，特朗普就下令海军封锁霍尔木兹海峡，有何意图？要效仿委内瑞拉模式吗？会带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2026779173369246174",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时07分 ~ 05时47分]"
-        },
-        {
-          "title": "特朗普：伊朗致电美方说希望达成协议",
-          "url": "https://news.ifeng.com/c/8sIkl2LlAOK",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时47分"
+          "appearance_count": 2,
+          "time_info": "[05时47分 ~ 06时36分]"
         },
         {
           "title": "4月13日，欧盟围绕将钢铁进口压缩将近一半达成初步共识。 由于美国总统特朗普实施50%的进口关税、且欧洲进口增长，欧盟辖区内钢铁制造业运作率只有产能的65%。 最新措施有望让产能利用率达到80%。",
           "url": "https://wallstreetcn.com/livenews/3087171",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时47分 ~ 06时36分]"
         },
         {
           "title": "美联邦法官驳回特朗普对《华尔街日报》的诽谤诉讼",
           "url": "https://flash.jin10.com/detail/20260414052030287800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时47分 ~ 06时36分]"
         },
         {
           "title": "舒默列举特朗普五大“史诗级失败”",
           "url": "https://flash.jin10.com/detail/20260414052009214800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时47分 ~ 06时36分]"
         },
         {
           "title": "特朗普重申将封锁进出伊朗港口船只 中方回应",
@@ -247,11 +253,12 @@
           "source": "微博",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时09分 ~ 05时47分]"
+          "appearance_count": 3,
+          "time_info": "[04时09分 ~ 06时36分]"
         },
         {
           "title": "特朗普：伊朗致电美方说希望达成协议",
@@ -264,6 +271,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时52分 ~ 03时01分]"
+        },
+        {
+          "title": "美国白宫：特朗普提名共和党前众议员Michelle Steel出任驻韩国大使。",
+          "url": "https://flash.jin10.com/detail/20260414050141708800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时47分 ~ 06时36分]"
         },
         {
           "title": "最新公开文件显示，Anthropic PBC聘请了游说企业Ballard Partners，后者与美国总统特朗普存在关联。",
@@ -358,15 +377,26 @@
           "time_info": "01时52分"
         },
         {
-          "title": "美国白宫：特朗普提名共和党前众议员Michelle Steel出任驻韩国大使。",
-          "url": "https://flash.jin10.com/detail/20260414050141708800",
+          "title": "据美国哥伦比亚广播公司（CBS）：特朗普表示，教皇利奥应该远离政治。",
+          "url": "https://flash.jin10.com/detail/20260414060651219800",
           "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时36分"
+        },
+        {
+          "title": "美英再现分歧！斯塔默：不支持特朗普封锁霍尔木兹海峡",
+          "url": "https://www.cls.cn/detail/2342601",
+          "source": "财联社热门",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时47分"
+          "time_info": "06时36分"
         },
         {
           "title": "特朗普抨击纽约时报是假新闻。",
@@ -375,7 +405,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时47分"
         },
@@ -430,7 +460,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时47分"
         },
@@ -482,7 +512,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "美国“封锁”逼近，美股指低开，石油股上涨，布油破百，黄金回调，铝价四年新高",
@@ -535,11 +565,23 @@
           "url": "https://wallstreetcn.com/livenews/3087156",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            15,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时47分 ~ 06时36分]"
+        },
+        {
+          "title": "WTI原油周二开盘持稳，美股股指期货微涨，现货黄金小幅高开。",
+          "url": "https://flash.jin10.com/detail/20260414060118981800",
+          "source": "金十数据",
+          "ranks": [
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时47分"
+          "time_info": "06时36分"
         },
         {
           "title": "周一（4月13日），美股行业ETF普遍收涨，网络股指数ETF收涨2.38%，科技行业ETF涨2.10%，全球科技股指数ETF涨1.90%，金融业ETF涨1.71%，半导体ETF涨1.48%，银行业ETF涨0.83%，区域银行ETF涨0.65%，日常消费品ETF、公用事业ETF至多跌1.21%。",
@@ -548,7 +590,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时47分"
         },
@@ -559,7 +601,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时47分"
         }
@@ -567,7 +609,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1.31%，暂报2504.25点，北京时间22:59涨至2524.74点。 MarketVectorTM数字资产100中盘指数涨0.46%，报2746.06点，23:01也曾涨至2773.61点。 MarketVector数字资产100指数涨1.85%，报14415.93点，逼近22:59达到达的14439.05点。 目前，Solana涨1.62%，狗狗币涨1.04%，XRP涨0.65%。 比特币涨1.66%，暂报72334美元；以太坊涨1.14%，暂报2227.30美元。",
@@ -582,13 +624,24 @@
           "time_info": "[01时52分 ~ 03时01分]"
         },
         {
+          "title": "美元指数13日下跌",
+          "url": "https://flash.jin10.com/detail/20260414054917692800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时36分"
+        },
+        {
           "title": "纳斯达克网络安全ETF收涨4.03%，报63.19美元。 ETFMG网络安全ETF收涨4.37%，报74.28美元。 北美科技软件股指数ETF涨5.40%，报78.70美元。",
           "url": "https://wallstreetcn.com/livenews/3087155",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时47分"
         },
@@ -644,7 +697,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时47分"
         }
