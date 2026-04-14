@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-14T18:07:56.632839+08:00",
-  "total_titles_processed": 1472,
+  "generated_at": "2026-04-14T19:52:51.431463+08:00",
+  "total_titles_processed": 1612,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 64,
+      "match_count": 65,
       "titles": [
         {
           "title": "贝森特告知特朗普：如果战争持续8-12周，美国面临油价上涨风险，亚欧将受影响最大",
@@ -56,6 +56,18 @@
           "time_info": "[00时07分 ~ 09时27分]"
         },
         {
+          "title": "美对伊港口“封锁令”生效，特朗普称伊朗致电美方说希望达成协议，威胁消灭伊快速攻击舰",
+          "url": "https://wallstreetcn.com/articles/3769872",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时27分 ~ 19时52分]"
+        },
+        {
           "title": "特朗普呼吁中国购买美国和委内瑞拉石油，中方回应",
           "url": "https://www.cls.cn/detail/2342732",
           "source": "财联社热门",
@@ -103,18 +115,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时07分 ~ 04时09分]"
-        },
-        {
-          "title": "美对伊港口“封锁令”生效，特朗普称伊朗致电美方说希望达成协议，威胁消灭伊快速攻击舰",
-          "url": "https://wallstreetcn.com/articles/3769872",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时27分 ~ 18时07分]"
         },
         {
           "title": "特朗普警告伊朗攻击艇勿靠近封锁线",
@@ -201,7 +201,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时07分"
         },
@@ -239,6 +239,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
+        },
+        {
+          "title": "曝伊朗称暂停铀浓缩5年 特朗普拒绝",
+          "url": "https://www.toutiao.com/trending/7628414997059784242/",
+          "source": "今日头条",
+          "ranks": [
+            11,
+            16,
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时38分 ~ 19时52分]"
         },
         {
           "title": "特朗普发了一张图，让西方大吃一惊",
@@ -326,17 +340,17 @@
           "time_info": "[00时07分 ~ 03时01分]"
         },
         {
-          "title": "曝伊朗称暂停铀浓缩5年 特朗普拒绝",
-          "url": "https://www.toutiao.com/trending/7628414997059784242/",
-          "source": "今日头条",
+          "title": "孙宇晨指控「特朗普家族」旗下加密货币公司 WLF 单方面冻结其资产，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2027301230691596085",
+          "source": "知乎",
           "ranks": [
-            11,
-            16,
-            13
+            14,
+            8,
+            11
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[12时38分 ~ 18时07分]"
+          "time_info": "[14时26分 ~ 19时52分]"
         },
         {
           "title": "特朗普威胁若中国向伊朗供武就加征关税，外交部：关税战没有赢家",
@@ -349,19 +363,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时07分 ~ 01时52分]"
-        },
-        {
-          "title": "孙宇晨指控「特朗普家族」旗下加密货币公司 WLF 单方面冻结其资产，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2027301230691596085",
-          "source": "知乎",
-          "ranks": [
-            14,
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时26分 ~ 18时07分]"
         },
         {
           "title": "美英再现分歧！斯塔默：不支持特朗普封锁霍尔木兹海峡",
@@ -387,6 +388,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时26分 ~ 18时07分]"
+        },
+        {
+          "title": "特朗普赐两杯“毒酒”，万斯干了",
+          "url": "https://news.ifeng.com/c/8sJrQz1Ewfw",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时07分 ~ 19时52分]"
         },
         {
           "title": "连封锁霍尔木兹这招都用上了，特朗普在伊朗问题上已无牌可打？",
@@ -493,17 +505,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
-        },
-        {
-          "title": "特朗普赐两杯“毒酒”，万斯干了",
-          "url": "https://news.ifeng.com/c/8sJrQz1Ewfw",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时07分"
         },
         {
           "title": "特朗普再次威胁古巴",
@@ -625,6 +626,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时52分"
+        },
+        {
+          "title": "法国总统马克龙：我昨日分别同伊朗总统佩泽希齐扬和美国总统特朗普进行了通话。",
+          "url": "https://flash.jin10.com/detail/20260414192650273800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
         },
         {
           "title": "伊朗媒体：特朗普声称“34艘船只通过霍尔木兹海峡”说法不实",
@@ -762,7 +774,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "美国“封锁”逼近，美股指低开，石油股上涨，布油破百，黄金回调，铝价四年新高",
@@ -836,6 +848,17 @@
           "time_info": "[05时47分 ~ 06时36分]"
         },
         {
+          "title": "伊朗谈判现曙光，美股期指拉升，亚太股市集体大涨，油价下挫，金银反弹",
+          "url": "https://wallstreetcn.com/articles/3769897",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
+        },
+        {
           "title": "WTI原油周二开盘持稳，美股股指期货微涨，现货黄金小幅高开。",
           "url": "https://flash.jin10.com/detail/20260414060118981800",
           "source": "金十数据",
@@ -853,7 +876,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时07分"
         },
