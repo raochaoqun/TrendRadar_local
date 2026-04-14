@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-15T06:37:54.116223+08:00",
-  "total_titles_processed": 656,
+  "generated_at": "2026-04-15T07:35:55.405112+08:00",
+  "total_titles_processed": 718,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "特朗普赐两杯“毒酒”，万斯干了",
@@ -18,6 +18,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时02分 ~ 06时37分]"
+        },
+        {
+          "title": "曝伊朗称暂停铀浓缩5年 特朗普拒绝",
+          "url": "https://www.toutiao.com/trending/7628414997059784242/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 07时35分]"
         },
         {
           "title": "美对伊港口“封锁令”生效，特朗普称伊朗致电美方说希望达成协议，威胁消灭伊快速攻击舰",
@@ -42,6 +54,18 @@
           "time_info": "[01时58分 ~ 03时08分]"
         },
         {
+          "title": "特朗普说伊朗没牌了遭北约盟友打脸",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E4%BC%8A%E6%9C%97%E6%B2%A1%E7%89%8C%E4%BA%86%E9%81%AD%E5%8C%97%E7%BA%A6%E7%9B%9F%E5%8F%8B%E6%89%93%E8%84%B8%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时58分 ~ 07时35分]"
+        },
+        {
           "title": "孙宇晨指控「特朗普家族」旗下加密货币公司 WLF 单方面冻结其资产，对此你怎么看？",
           "url": "https://www.zhihu.com/question/2027301230691596085",
           "source": "知乎",
@@ -57,38 +81,16 @@
           "time_info": "[00时02分 ~ 06时37分]"
         },
         {
-          "title": "曝伊朗称暂停铀浓缩5年 特朗普拒绝",
-          "url": "https://www.toutiao.com/trending/7628414997059784242/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 06时37分]"
-        },
-        {
-          "title": "特朗普说伊朗没牌了遭北约盟友打脸",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E4%BC%8A%E6%9C%97%E6%B2%A1%E7%89%8C%E4%BA%86%E9%81%AD%E5%8C%97%E7%BA%A6%E7%9B%9F%E5%8F%8B%E6%89%93%E8%84%B8%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时58分 ~ 06时37分]"
-        },
-        {
           "title": "特朗普暗示美伊“未来两天”或重启伊斯兰堡会谈",
           "url": "https://news.ifeng.com/c/8sKPIktXF3q",
           "source": "凤凰网",
           "ranks": [
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时42分 ~ 06时37分]"
+          "appearance_count": 5,
+          "time_info": "[04时42分 ~ 07时35分]"
         },
         {
           "title": "美国参议院多数党领袖约翰·图恩（John Thune）：（总统特朗普派兵）封锁霍尔木兹海峡是必要的，太聪明了。",
@@ -116,6 +118,17 @@
           "time_info": "[00时02分 ~ 03时08分]"
         },
         {
+          "title": "美国副总统万斯：特朗普对伊朗表示，如果你们承诺不拥有核武器，我们将让伊朗实现经济繁荣。",
+          "url": "https://flash.jin10.com/detail/20260415063058322800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时35分"
+        },
+        {
           "title": "特朗普态度摇摆：先排除、后改口仍倾向巴基斯坦作为美伊谈判地",
           "url": "https://flash.jin10.com/detail/20260414233754525800",
           "source": "金十数据",
@@ -125,6 +138,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "【早报】特朗普：与伊朗会谈可能未来两天内举行；国际油价重挫",
+          "url": "https://www.cls.cn/detail/2344222",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时35分"
         },
         {
           "title": "美国总统特朗普：正全力推动本周在众议院通过《外国情报监视法》第702条（FISA 702）的“干净延期”。",
@@ -234,6 +258,18 @@
           "time_info": "[04时43分 ~ 05时42分]"
         },
         {
+          "title": "美股收盘：纳指10连阳 光通信、燃料电池、半导体牛股齐创新高",
+          "url": "https://www.cls.cn/detail/2344205",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时37分 ~ 07时35分]"
+        },
+        {
           "title": "周二（4月14日），美股行业ETF多数收涨，全球航空业ETF涨4.42%，可选消费ETF涨2.21%，半导体ETF涨1.95%，能源业ETF跌2.07%。",
           "url": "https://wallstreetcn.com/livenews/3087957",
           "source": "华尔街见闻-快讯",
@@ -254,17 +290,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时43分"
-        },
-        {
-          "title": "美股收盘：纳指10连阳 光通信、燃料电池、半导体牛股齐创新高",
-          "url": "https://www.cls.cn/detail/2344205",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时37分"
         },
         {
           "title": "金十图示：2026年04月14日（周二）热门中概股行情一览（美股收盘）",
@@ -395,11 +420,12 @@
           "url": "https://flash.jin10.com/detail/20260415061241772800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时37分 ~ 07时35分]"
         },
         {
           "title": "Anthropic因Claude Code性能下降引发用户强烈不满",
@@ -505,8 +531,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 06时37分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 07时35分]"
         }
       ]
     }
