@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-17T18:06:01.303626+08:00",
-  "total_titles_processed": 1403,
+  "generated_at": "2026-04-17T19:43:07.285728+08:00",
+  "total_titles_processed": 1536,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 58,
+      "match_count": 59,
       "titles": [
         {
           "title": "特朗普：美伊下次会晤或在本周末举行",
@@ -18,6 +18,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[02时59分 ~ 14时34分]"
+        },
+        {
+          "title": "特朗普：美伊下次会谈可能本周末举行，不排除必要时延长停火，伊朗同意不拥有核武",
+          "url": "https://wallstreetcn.com/articles/3770182",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时27分 ~ 19时43分]"
         },
         {
           "title": "中东迎“曙光”？特朗普：美伊下次会晤或在本周末，以黎同意停火10天！",
@@ -47,18 +59,6 @@
           "time_info": "[01时03分 ~ 16时22分]"
         },
         {
-          "title": "特朗普：美伊下次会谈可能本周末举行，不排除必要时延长停火，伊朗同意不拥有核武",
-          "url": "https://wallstreetcn.com/articles/3770182",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时27分 ~ 18时06分]"
-        },
-        {
           "title": "特朗普：美国“很有可能”在4月下旬英国国王访美前与伊朗达成协议",
           "url": "https://wallstreetcn.com/articles/3770081",
           "source": "华尔街见闻",
@@ -69,6 +69,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时03分 ~ 06时31分]"
+        },
+        {
+          "title": "特朗普喊话意大利：你不帮我，我也不会帮你",
+          "url": "https://news.ifeng.com/c/8sOVPzGvey0",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时42分 ~ 19时43分]"
         },
         {
           "title": "特朗普就访华明确表态，中方回应",
@@ -106,17 +117,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时03分 ~ 02时59分]"
-        },
-        {
-          "title": "特朗普喊话意大利：你不帮我，我也不会帮你",
-          "url": "https://news.ifeng.com/c/8sOVPzGvey0",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时42分 ~ 18时06分]"
         },
         {
           "title": "伊朗战争丨特朗普：伊朗已同意不拥有核武器",
@@ -174,6 +174,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时21分 ~ 18时06分]"
+        },
+        {
+          "title": "心心念念的大房子不让造，特朗普暴怒开喷",
+          "url": "https://news.ifeng.com/c/8sOn1dFNorh",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时05分 ~ 19时43分]"
         },
         {
           "title": "美国总统特朗普在社交媒体上批评法官“出于政治动机”试图阻止白宫大型宴会厅项目建设，称其行为削弱国家安全。",
@@ -236,15 +247,15 @@
           "time_info": "[03时59分 ~ 04时45分]"
         },
         {
-          "title": "心心念念的大房子不让造，特朗普暴怒开喷",
-          "url": "https://news.ifeng.com/c/8sOn1dFNorh",
+          "title": "伊朗战争丨美媒：急于结束伊朗战争，特朗普准备让步",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
           "ranks": [
-            7
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时05分 ~ 18时06分]"
+          "time_info": "[19时42分 ~ 19时43分]"
         },
         {
           "title": "美国总统特朗普：提名Erica Schwartz担任疾控中心主任。",
@@ -674,7 +685,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "中东紧张局势持续，美股勉强新高，纳指十二连涨，中概股指跑赢大盘，原油两连涨",
@@ -684,8 +695,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时27分 ~ 18时06分]"
+          "appearance_count": 10,
+          "time_info": "[09时27分 ~ 19时43分]"
         },
         {
           "title": "美股收盘：纳指12连涨 锂矿、CPU、光通信牛股带头冲高",
@@ -747,8 +758,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时42分 ~ 18时06分]"
+          "appearance_count": 9,
+          "time_info": "[12时42分 ~ 19时43分]"
         },
         {
           "title": "中东紧张局势持续，美股勉强新高，原油两连涨，美债下挫，美元终结连跌趋势",
@@ -762,6 +773,18 @@
           "time_info": "[06时31分 ~ 07时33分]"
         },
         {
+          "title": "一图看懂 | A股七姐妹vs美股七姐妹，今年谁更能涨？",
+          "url": "https://www.cls.cn/detail/2347485",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时05分 ~ 19时43分]"
+        },
+        {
           "title": "风头盖过英伟达！美股CPU双雄股价齐创新高 AI属性渐获市场认可",
           "url": "https://www.cls.cn/detail/2346971",
           "source": "财联社热门",
@@ -769,8 +792,19 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时33分 ~ 18时06分]"
+          "appearance_count": 6,
+          "time_info": "[14时33分 ~ 19时43分]"
+        },
+        {
+          "title": "高盛：若无货币政策支持美股涨势或难持续",
+          "url": "https://flash.jin10.com/detail/20260417192344297800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
         },
         {
           "title": "周四（4月16日），美股行业ETF涨跌各异，能源业ETF、科技行业ETF、全球科技股指数ETF、网络股指数ETF至多涨1.47%，银行业ETF收跌0.38%，医疗业ETF跌0.79%，生物科技指数ETF跌1.06%，全球航空业ETF跌1.44%。",
@@ -797,17 +831,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时45分 ~ 06时31分]"
-        },
-        {
-          "title": "一图看懂 | A股七姐妹vs美股七姐妹，今年谁更能涨？",
-          "url": "https://www.cls.cn/detail/2347485",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时05分 ~ 18时06分]"
         },
         {
           "title": "金十图示：2026年04月16日（周四）美股热门股票行情一览（美股收盘）",
@@ -867,6 +890,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
+        },
+        {
+          "title": "狂欢or陷阱：美股创新高有何异常？ 丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20260417192003659800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
         },
         {
           "title": "动物精神强势回归，散户无视伊朗冲突涌入美股",
