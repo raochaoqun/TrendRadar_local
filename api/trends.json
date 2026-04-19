@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-19T07:26:32.901014+08:00",
-  "total_titles_processed": 478,
+  "generated_at": "2026-04-19T09:31:43.081082+08:00",
+  "total_titles_processed": 609,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
         {
           "title": "特朗普强称“伊朗让步了”，伊朗“他撒谎”，投资者：“他在与市场谈判，完全无视伊朗”",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时27分 ~ 07时26分]"
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 09时31分]"
         },
         {
           "title": "特朗普称若伊不达成停火或发动打击",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时27分 ~ 07时26分]"
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 09时31分]"
         },
         {
           "title": "特朗普：伊朗不会拥有核武器",
@@ -58,22 +58,24 @@
           "url": "https://news.ifeng.com/c/8sQQLEAQZYu",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时27分 ~ 07时26分]"
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 09时31分]"
         },
         {
           "title": "特朗普：美国已禁止以色列这样做，适可而止",
           "url": "https://www.cls.cn/detail/2348149",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时27分 ~ 07时26分]"
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 09时31分]"
         },
         {
           "title": "特朗普：以色列，适可而止",
@@ -114,11 +116,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             16,
-            22
+            22,
+            27
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时28分 ~ 07时26分]"
+          "appearance_count": 9,
+          "time_info": "[00时28分 ~ 09时31分]"
         },
         {
           "title": "特朗普签署行政令以促进迷幻药物研究。（彭博）",
@@ -126,11 +129,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             17,
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时28分 ~ 07时26分]"
+          "appearance_count": 9,
+          "time_info": "[00时28分 ~ 09时31分]"
         },
         {
           "title": "特朗普谈伊朗：我们之间的对话进展顺利。 将在今天结束前获得一些信息。 政权更迭是“强制性的”，我们正在与伊朗对话。 （谈与伊朗的谈判）我们采取强硬立场。 伊朗想再次封锁霍尔木兹海峡，不能让他们以此勒索美国。",
@@ -138,11 +142,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             18,
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时28分 ~ 07时26分]"
+          "appearance_count": 9,
+          "time_info": "[00时28分 ~ 09时31分]"
         },
         {
           "title": "特朗普确认伊朗开放霍尔木兹，称海峡局势结束、美封锁将持续至达成协议，料协议“一两天内”达成",
@@ -154,6 +159,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时27分 ~ 00时28分]"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队宣布封锁海峡：特朗普言论不可信",
+          "url": "https://news.ifeng.com/c/8sR74oZ1935",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
         },
         {
           "title": "美媒：特朗普召开白宫战情室会议，商讨霍尔木兹海峡危机及美伊谈判",
@@ -217,6 +233,28 @@
           "time_info": "[03时34分 ~ 05时25分]"
         },
         {
+          "title": "专家：伊朗短暂重开海峡后再次关闭，特朗普乐观谈判前景遭质疑",
+          "url": "https://flash.jin10.com/detail/20260419055846431800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "特朗普称美国政府找到了许多关于 UFO「非常有趣」的文件，第一批文件将很快发布，可能有哪些内容？",
+          "url": "https://www.zhihu.com/question/2028860085451978679",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
           "title": "美国总统特朗普：今天结束前会有一些信息。",
           "url": "https://flash.jin10.com/detail/20260418214748360800",
           "source": "金十数据",
@@ -253,7 +291,7 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "梁文锋被曝史上首次融资！DeepSeek V4彻底摆脱英伟达",
@@ -261,11 +299,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时27分 ~ 07时26分]"
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 09时31分]"
         },
         {
           "title": "DeepSeek百亿融资背后的两张王牌",
@@ -278,6 +317,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时27分 ~ 03时34分]"
+        },
+        {
+          "title": "多名核心人员流失，AGI梦想不敌商业化现实？DeepSeek开启首次外部融资",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33002057",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
         }
       ]
     },
@@ -310,11 +360,12 @@
           "url": "https://www.cls.cn/detail/2348129",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时27分 ~ 07时26分]"
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 09时31分]"
         }
       ]
     },
@@ -335,8 +386,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 06时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时27分 ~ 09时31分]"
         }
       ]
     }
