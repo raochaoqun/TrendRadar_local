@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-19T17:39:04.782191+08:00",
-  "total_titles_processed": 993,
+  "generated_at": "2026-04-19T18:31:57.079791+08:00",
+  "total_titles_processed": 1040,
   "failed_sources": [],
   "trends": [
     {
@@ -18,18 +18,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时27分 ~ 09时31分]"
-        },
-        {
-          "title": "特朗普称若伊不达成停火或发动打击",
-          "url": "https://www.cls.cn/detail/2348194",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时27分 ~ 17时39分]"
         },
         {
           "title": "特朗普：伊朗不会拥有核武器",
@@ -55,6 +43,19 @@
           "time_info": "[00时27分 ~ 07时26分]"
         },
         {
+          "title": "特朗普称若伊不达成停火或发动打击",
+          "url": "https://www.cls.cn/detail/2348194",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时27分 ~ 18时31分]"
+        },
+        {
           "title": "前白宫律师爆料：特朗普表现出典型的痴呆症状",
           "url": "https://news.ifeng.com/c/8sQQLEAQZYu",
           "source": "凤凰网",
@@ -76,8 +77,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时44分 ~ 17时39分]"
+          "appearance_count": 7,
+          "time_info": "[12时44分 ~ 18时31分]"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队宣布封锁海峡：特朗普言论不可信",
+          "url": "https://news.ifeng.com/c/8sR74oZ1935",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时31分 ~ 18时31分]"
         },
         {
           "title": "特朗普：美国已禁止以色列这样做，适可而止",
@@ -90,8 +103,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时27分 ~ 17时39分]"
+          "appearance_count": 17,
+          "time_info": "[00时27分 ~ 18时31分]"
         },
         {
           "title": "特朗普：以色列，适可而止",
@@ -103,18 +116,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时27分 ~ 07时26分]"
-        },
-        {
-          "title": "伊朗伊斯兰革命卫队宣布封锁海峡：特朗普言论不可信",
-          "url": "https://news.ifeng.com/c/8sR74oZ1935",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时31分 ~ 17时39分]"
         },
         {
           "title": "特朗普证实伊朗宣布开放霍尔木兹海峡",
@@ -137,6 +138,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时27分 ~ 07时26分]"
+        },
+        {
+          "title": "伊朗战争丨哈里斯：特朗普意图“转移焦点”",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时02分 ~ 18时31分]"
         },
         {
           "title": "特朗普：美伊正对话 “今天结束前会有消息”",
@@ -178,15 +190,26 @@
           "time_info": "[00时28分 ~ 09时31分]"
         },
         {
-          "title": "伊朗战争丨哈里斯：特朗普意图“转移焦点”",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "title": "特朗普召开白宫战情室会议，美官员：战争可能几天内重新爆发",
+          "url": "https://news.ifeng.com/c/8sRhTpk8W0g",
           "source": "凤凰网",
           "ranks": [
-            1
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时02分 ~ 17时39分]"
+          "appearance_count": 7,
+          "time_info": "[12时44分 ~ 18时31分]"
+        },
+        {
+          "title": "记者还没问完，就被特朗普打断：你出去",
+          "url": "https://v.ifeng.com/c/8sRkCC6DpKL",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时44分 ~ 18时31分]"
         },
         {
           "title": "特朗普确认伊朗开放霍尔木兹，称海峡局势结束、美封锁将持续至达成协议，料协议“一两天内”达成",
@@ -200,28 +223,6 @@
           "time_info": "[00时27分 ~ 00时28分]"
         },
         {
-          "title": "特朗普召开白宫战情室会议，美官员：战争可能几天内重新爆发",
-          "url": "https://news.ifeng.com/c/8sRhTpk8W0g",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时44分 ~ 17时39分]"
-        },
-        {
-          "title": "记者还没问完，就被特朗普打断：你出去",
-          "url": "https://v.ifeng.com/c/8sRkCC6DpKL",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时44分 ~ 17时39分]"
-        },
-        {
           "title": "美媒说特朗普召开会议讨论与伊朗谈判的问题",
           "url": "https://wallstreetcn.com/livenews/3090538",
           "source": "华尔街见闻-快讯",
@@ -229,11 +230,12 @@
             4,
             7,
             9,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时45分 ~ 17时39分]"
+          "appearance_count": 5,
+          "time_info": "[12时45分 ~ 18时31分]"
         },
         {
           "title": "美媒：特朗普召开白宫战情室会议，商讨霍尔木兹海峡危机及美伊谈判",
@@ -250,6 +252,45 @@
           "time_info": "[02时34分 ~ 05时25分]"
         },
         {
+          "title": "伊朗称将控制霍尔木兹海峡直至战争结束，特朗普表示其无法要挟美国",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33004034",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时25分 ~ 18时31分]"
+        },
+        {
+          "title": "白俄罗斯总统卢卡申科：一旦“大协议”准备就绪，与美国总统特朗普的会晤是可能的。",
+          "url": "https://flash.jin10.com/detail/20260419152943357800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时02分 ~ 18时31分]"
+        },
+        {
+          "title": "伊朗总统佩泽希齐扬：美国总统特朗普没有任何理由剥夺伊朗的核权利。",
+          "url": "https://flash.jin10.com/detail/20260419152838627800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            21,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时02分 ~ 18时31分]"
+        },
+        {
           "title": "市场消息：美国总统特朗普与巴基斯坦陆军参谋长穆尼尔讨论了霍尔木兹海峡局势以及与伊朗的协议的细节。",
           "url": "https://flash.jin10.com/detail/20260419134226547800",
           "source": "金十数据",
@@ -260,43 +301,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时25分 ~ 16时02分]"
-        },
-        {
-          "title": "白俄罗斯总统卢卡申科：一旦“大协议”准备就绪，与美国总统特朗普的会晤是可能的。",
-          "url": "https://flash.jin10.com/detail/20260419152943357800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时02分 ~ 17时39分]"
-        },
-        {
-          "title": "伊朗总统佩泽希齐扬：美国总统特朗普没有任何理由剥夺伊朗的核权利。",
-          "url": "https://flash.jin10.com/detail/20260419152838627800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时02分 ~ 17时39分]"
-        },
-        {
-          "title": "伊朗称将控制霍尔木兹海峡直至战争结束，特朗普表示其无法要挟美国",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33004034",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时25分 ~ 17时39分]"
         },
         {
           "title": "特朗普对伊博格碱（Ibogaine）研究发表评论：政府正在投入资金用于对伊博格碱的研究。",
@@ -398,11 +402,12 @@
           "url": "https://flash.jin10.com/detail/20260419161437232800",
           "source": "金十数据",
           "ranks": [
-            10
+            10,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时39分 ~ 18时31分]"
         },
         {
           "title": "专家：伊朗短暂重开海峡后再次关闭，特朗普乐观谈判前景遭质疑",
@@ -509,8 +514,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时44分 ~ 17时39分]"
+          "appearance_count": 7,
+          "time_info": "[12时44分 ~ 18时31分]"
         },
         {
           "title": "DeepSeek被曝融资20亿",
@@ -522,8 +527,22 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时44分 ~ 17时39分]"
+          "appearance_count": 7,
+          "time_info": "[12时44分 ~ 18时31分]"
+        },
+        {
+          "title": "多名核心人员流失，AGI梦想不敌商业化现实？DeepSeek开启首次外部融资",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33002057",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            12,
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时31分 ~ 18时31分]"
         },
         {
           "title": "DeepSeek被曝启动融资",
@@ -539,20 +558,6 @@
           "time_info": "[12时44分 ~ 17时39分]"
         },
         {
-          "title": "多名核心人员流失，AGI梦想不敌商业化现实？DeepSeek开启首次外部融资",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33002057",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            12,
-            11,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时31分 ~ 17时39分]"
-        },
-        {
           "title": "DeepSeek被曝融资20亿",
           "url": "https://www.baidu.com/s?wd=DeepSeek%E8%A2%AB%E6%9B%9D%E8%9E%8D%E8%B5%8420%E4%BA%BF",
           "source": "百度热搜",
@@ -565,6 +570,19 @@
           "time_info": "[12时44分 ~ 16时02分]"
         },
         {
+          "title": "DeepSeek被曝融资20亿",
+          "url": "https://www.toutiao.com/trending/7630341053001829938/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            24,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时02分 ~ 18时31分]"
+        },
+        {
           "title": "DeepSeek百亿融资背后的两张王牌",
           "url": "https://www.toutiao.com/trending/7630034603113188906/",
           "source": "今日头条",
@@ -575,18 +593,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时27分 ~ 03时34分]"
-        },
-        {
-          "title": "DeepSeek被曝融资20亿",
-          "url": "https://www.toutiao.com/trending/7630341053001829938/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时02分 ~ 17时39分]"
         }
       ]
     },
@@ -617,8 +623,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时25分 ~ 17时39分]"
+          "appearance_count": 5,
+          "time_info": "[14时25分 ~ 18时31分]"
         },
         {
           "title": "美银Hartnett：本轮美股反弹正演变为\"多头陷阱\"",
@@ -628,8 +634,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时38分 ~ 17时39分]"
+          "appearance_count": 3,
+          "time_info": "[17时38分 ~ 18时31分]"
         }
       ]
     },
