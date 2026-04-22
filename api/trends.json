@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-23T00:03:41.782923+08:00",
-  "total_titles_processed": 305,
+  "generated_at": "2026-04-23T01:53:13.301754+08:00",
+  "total_titles_processed": 403,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 15,
       "titles": [
         {
           "title": "最后时刻反转！伊朗拒绝谈判，特朗普宣布延长停火，维持海上封锁等待伊朗提交方案",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时03分"
+          "appearance_count": 3,
+          "time_info": "[00时03分 ~ 01时53分]"
         },
         {
           "title": "伊朗战争丨伊朗否认举行美伊新谈判：特朗普又说谎了",
@@ -26,8 +26,63 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时03分 ~ 01时53分]"
+        },
+        {
+          "title": "“特朗普总是临阵脱逃”：TACO背后的股市反常繁荣和内幕交易争议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33019660",
+          "source": "澎湃新闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时03分 ~ 01时53分]"
+        },
+        {
+          "title": "特朗普延长与伊朗停火，外交部回应",
+          "url": "https://news.ifeng.com/c/8sX5InWbAM4",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时03分 ~ 01时53分]"
+        },
+        {
+          "title": "据称特朗普将再给伊朗3至5天停火时间",
+          "url": "https://www.cls.cn/detail/2352682",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时03分 ~ 01时53分]"
+        },
+        {
+          "title": "美媒：特朗普再给伊朗3至5天停火时间",
+          "url": "https://news.ifeng.com/c/8sXS8jC94HP",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时03分 ~ 01时53分]"
+        },
+        {
+          "title": "美国总统特朗普：参议院共和党领袖图恩和参议员格雷厄姆已迈出关键第一步，推动通过另一项“和解法案”，该法案旨在为我们的伟大边境巡逻队和移民及海关执法局人员提供资金。",
+          "url": "https://flash.jin10.com/detail/20260423014423775800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时03分"
+          "time_info": "01时53分"
         },
         {
           "title": "沃什听证会强调美联储独立性，称绝不会成为特朗普的“提线木偶”，从未被要求作出降息承诺",
@@ -41,48 +96,15 @@
           "time_info": "00时03分"
         },
         {
-          "title": "“特朗普总是临阵脱逃”：TACO背后的股市反常繁荣和内幕交易争议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33019660",
-          "source": "澎湃新闻",
+          "title": "美国总统特朗普：共和党必须团结一致，推动和解法案的通过。",
+          "url": "https://flash.jin10.com/detail/20260423014314020800",
+          "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时03分"
-        },
-        {
-          "title": "特朗普延长与伊朗停火，外交部回应",
-          "url": "https://news.ifeng.com/c/8sX5InWbAM4",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时03分"
-        },
-        {
-          "title": "据称特朗普将再给伊朗3至5天停火时间",
-          "url": "https://www.cls.cn/detail/2352682",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时03分"
-        },
-        {
-          "title": "美媒：特朗普再给伊朗3至5天停火时间",
-          "url": "https://news.ifeng.com/c/8sXS8jC94HP",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时03分"
+          "time_info": "01时53分"
         },
         {
           "title": "伊朗否认举行美伊新谈判，指特朗普“又说谎了”",
@@ -100,11 +122,12 @@
           "url": "https://wallstreetcn.com/articles/3770527",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时03分"
+          "appearance_count": 3,
+          "time_info": "[00时03分 ~ 01时53分]"
         },
         {
           "title": "释新闻｜特朗普TACO实录：嘴硬说要打伊朗，身体又按了暂停键",
@@ -114,8 +137,41 @@
             16
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时03分 ~ 01时53分]"
+        },
+        {
+          "title": "特朗普政府股权收购热潮总额逼近210亿美元",
+          "url": "https://wallstreetcn.com/livenews/3092775",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时03分"
+          "time_info": "01时53分"
+        },
+        {
+          "title": "美国总统特朗普：昨晚在弗吉尼亚州发生了一场被操纵的选举！一整天共和党人都处于领先，势头令人难以置信，直到最后关头，果不其然，出现了大规模的“邮寄选票投递”！",
+          "url": "https://flash.jin10.com/detail/20260423013625710800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时53分"
+        },
+        {
+          "title": "据耶路撒冷邮报：以色列官员已接到美方官员通报，特朗普政府已将停火谈判的最后期限延长至周日。",
+          "url": "https://flash.jin10.com/detail/20260423011502024800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时53分"
         }
       ]
     },
@@ -128,22 +184,24 @@
           "url": "https://wallstreetcn.com/articles/3770463",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时03分"
+          "appearance_count": 3,
+          "time_info": "[00时03分 ~ 01时53分]"
         },
         {
           "title": "地缘缓和叠加强劲财报，美股指高开，费城半导体指数连续第16天上涨，布油重回100美元、黄金涨幅回落",
           "url": "https://wallstreetcn.com/articles/3770587",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时03分"
+          "appearance_count": 3,
+          "time_info": "[00时03分 ~ 01时53分]"
         },
         {
           "title": "特朗普延长对伊朗停火 美股三大期指小幅上涨 | 今夜看点",
@@ -153,8 +211,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时03分"
+          "appearance_count": 3,
+          "time_info": "[00时03分 ~ 01时53分]"
         },
         {
           "title": "美银客户在标普500指数创新高之际卖出美股",
@@ -171,8 +229,19 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "谷歌设立7.5亿美元基金，助力咨询公司应用AI",
+          "url": "https://wallstreetcn.com/livenews/3092753",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时53分"
+        },
         {
           "title": "谷歌公司：Drive Now现在普遍可以使用Gemini和AI概览。",
           "url": "https://wallstreetcn.com/livenews/3092705",
@@ -188,8 +257,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "OpenAI在ChatGPT引入Workspace Agents。",
+          "url": "https://wallstreetcn.com/livenews/3092779",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时53分"
+        },
         {
           "title": "OpenAI发布隐私过滤器模型以编辑个人数据",
           "url": "https://wallstreetcn.com/livenews/3092726",
@@ -200,6 +280,40 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何评价 Deepseek 于 2026 年 4 月 22 日上线的新模型 api？",
+          "url": "https://www.zhihu.com/question/2030308965683291022",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时52分 ~ 01时53分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Claude",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "微软：与Anthropic和行业合作伙伴们密切合作。 我们正在测试Anthropic旗下Claude AI模型Mythos的概览。 利用CTI-Realm评估Mythos。 将在安全开发生命周期内应用Mythos。",
+          "url": "https://wallstreetcn.com/livenews/3092771",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时53分"
         }
       ]
     }
