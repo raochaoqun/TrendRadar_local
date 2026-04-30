@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-30T13:26:45.138305+08:00",
-  "total_titles_processed": 1018,
+  "generated_at": "2026-04-30T16:04:32.675341+08:00",
+  "total_titles_processed": 1170,
   "failed_sources": [],
   "trends": [
     {
@@ -32,6 +32,18 @@
           "time_info": "[01时17分 ~ 09时58分]"
         },
         {
+          "title": "普京与特朗普通话，谈及伊朗和乌克兰问题",
+          "url": "https://news.ifeng.com/c/8sjOWWpBUaQ",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时46分 ~ 16时04分]"
+        },
+        {
           "title": "伊朗用“羞辱战术”拿捏特朗普？德国总理锐评释放5个信号",
           "url": "https://news.ifeng.com/c/8sijEznYe70",
           "source": "凤凰网",
@@ -41,18 +53,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时17分 ~ 06时46分]"
-        },
-        {
-          "title": "普京与特朗普通话，谈及伊朗和乌克兰问题",
-          "url": "https://news.ifeng.com/c/8sjOWWpBUaQ",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时46分 ~ 13时26分]"
         },
         {
           "title": "特朗普：乌克兰在军事上已被击败",
@@ -105,6 +105,17 @@
           "time_info": "[07时51分 ~ 09时58分]"
         },
         {
+          "title": "特朗普，居然这都能搞错？",
+          "url": "https://news.ifeng.com/c/8sjpVZ3M3KQ",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时26分 ~ 16时04分]"
+        },
+        {
           "title": "英国查尔斯国王当面嘲讽特朗普，要不是英国，美国现在说的是法语，这是个什么梗？特朗普台下尬笑可能在想啥？",
           "url": "https://www.zhihu.com/question/2032828585195434245",
           "source": "知乎",
@@ -117,15 +128,51 @@
           "time_info": "[01时17分 ~ 07时51分]"
         },
         {
-          "title": "特朗普，居然这都能搞错？",
-          "url": "https://news.ifeng.com/c/8sjpVZ3M3KQ",
+          "title": "特朗普放话：伊朗不求饶，海峡不解封",
+          "url": "https://news.ifeng.com/c/8sjt504KI9b",
           "source": "凤凰网",
           "ranks": [
-            1
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时26分 ~ 16时04分]"
+        },
+        {
+          "title": "特朗普将听取打击伊朗新方案 打击目标很有可能包括伊朗的基础设施",
+          "url": "https://www.cls.cn/detail/2360629",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时26分 ~ 16时04分]"
+        },
+        {
+          "title": "鲍威尔宣布留任美联储理事，特朗普嘲讽：他找不到工作",
+          "url": "https://news.ifeng.com/c/8sk3JJHRdyH",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时26分 ~ 16时04分]"
+        },
+        {
+          "title": "不再当好好先生！特朗普发AI持枪图威胁伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33079055",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            15,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时46分 ~ 16时04分]"
         },
         {
           "title": "特朗普：乌克兰在军事上已被击败",
@@ -137,17 +184,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时51分"
-        },
-        {
-          "title": "特朗普放话：伊朗不求饶，海峡不解封",
-          "url": "https://news.ifeng.com/c/8sjt504KI9b",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时26分"
         },
         {
           "title": "特朗普称乌克兰在军事上已败？或将伊朗混淆",
@@ -185,28 +221,6 @@
           "time_info": "[09时57分 ~ 13时26分]"
         },
         {
-          "title": "特朗普将听取打击伊朗新方案 打击目标很有可能包括伊朗的基础设施",
-          "url": "https://www.cls.cn/detail/2360629",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时26分"
-        },
-        {
-          "title": "鲍威尔宣布留任美联储理事，特朗普嘲讽：他找不到工作",
-          "url": "https://news.ifeng.com/c/8sk3JJHRdyH",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时26分"
-        },
-        {
           "title": "特朗普“为无限期封锁伊朗”做准备，但对达成临时协议持开放态度",
           "url": "https://wallstreetcn.com/articles/3771197",
           "source": "华尔街见闻",
@@ -219,17 +233,16 @@
           "time_info": "[01时17分 ~ 07时51分]"
         },
         {
-          "title": "不再当好好先生！特朗普发AI持枪图威胁伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33079055",
-          "source": "澎湃新闻",
+          "title": "停火岌岌可危？特朗普被曝将听取打击伊朗新方案 目标或包括基础设施",
+          "url": "https://www.cls.cn/detail/2360703",
+          "source": "财联社热门",
           "ranks": [
-            14,
-            15,
-            11
+            8,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时46分 ~ 13时26分]"
+          "appearance_count": 2,
+          "time_info": "[13时26分 ~ 16时04分]"
         },
         {
           "title": "特朗普称赞英特尔(INTC.O)股价上涨。",
@@ -254,6 +267,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时52分 ~ 06时46分]"
+        },
+        {
+          "title": "普京与特朗普通话一个半小时，涉及众多议题",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33080621",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时57分 ~ 16时04分]"
         },
         {
           "title": "特朗普支持率降至任内新低",
@@ -288,18 +314,6 @@
           "ranks": [
             11,
             6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时57分 ~ 13时26分]"
-        },
-        {
-          "title": "普京与特朗普通话一个半小时，涉及众多议题",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33080621",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            9
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -372,7 +386,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
         },
@@ -397,17 +411,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时51分"
-        },
-        {
-          "title": "停火岌岌可危？特朗普被曝将听取打击伊朗新方案 目标或包括基础设施",
-          "url": "https://www.cls.cn/detail/2360703",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时26分"
         },
         {
           "title": "普京致电特朗普请缨“帮”谈伊朗，特朗普：你先结束乌克兰冲突",
@@ -449,7 +452,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
         },
@@ -526,7 +529,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
         },
@@ -570,7 +573,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
         },
@@ -658,7 +661,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
         },
@@ -725,6 +728,18 @@
           "time_info": "[05时01分 ~ 05时52分]"
         },
         {
+          "title": "“科技四巨头”罕见同日财报：谷歌大涨Meta重挫，谷歌、微软和亚马逊云增长迅猛，谷歌和Meta上调资本开支",
+          "url": "https://wallstreetcn.com/articles/3771319",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时26分 ~ 16时04分]"
+        },
+        {
           "title": "谷歌母公司Alphabet：“不急于”在Gemini投放广告，但也还么有什么好说的。",
           "url": "https://wallstreetcn.com/livenews/3096962",
           "source": "华尔街见闻-快讯",
@@ -742,11 +757,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时57分 ~ 13时26分]"
+          "appearance_count": 4,
+          "time_info": "[09时57分 ~ 16时04分]"
         },
         {
           "title": "谷歌母公司Alphabet一季度营收1099亿美元，分析师预期1071亿美元。 一季度Rev ex-TAC（剔除流量获取成本的收入）为946.7亿美元，分析师预期915.7亿美元。 一季度谷歌搜索与其他营收604亿美元，分析师预期590.8亿美元。 一季度谷歌服务营收896.4亿美元，分析师预期881.1亿美元。 一季度谷歌云营收200.3亿美元，分析师预期184.1亿美元。 一季度谷歌广告营收772.5亿美元，分析师预期762.1亿美元。 一季度YouTube广告营收98.8亿美元，分析师预期99.7亿美元。 一季度Alphabet Gemini Enterprise月活用户数（MAU）季环比增长40%。 一季度（Alphabet）运营利润397亿美元，分析师预期361.9亿美元。 一季度（Alphabet）资本开支356.7亿美元，分析师预期363.9亿美元。 谷歌A（GOOGL）美股盘后涨超1.3%。",
@@ -761,24 +777,13 @@
           "time_info": "[05时01分 ~ 05时52分]"
         },
         {
-          "title": "“科技四巨头”罕见同日财报：谷歌大涨Meta重挫，谷歌、微软和亚马逊云增长迅猛，谷歌和Meta上调资本开支",
-          "url": "https://wallstreetcn.com/articles/3771319",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时26分"
-        },
-        {
           "title": "谷歌入驻广州天河CBD，预计今年三季度正式投入运营",
           "url": "https://wallstreetcn.com/livenews/3097212",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
         },
@@ -863,8 +868,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时46分 ~ 13时26分]"
+          "appearance_count": 6,
+          "time_info": "[06时46分 ~ 16时04分]"
         },
         {
           "title": "市场静待联储决策及巨头财报，美股低开，存储芯片股大涨，布油日内涨5%，金银下跌",
@@ -893,6 +898,18 @@
           "time_info": "[06时46分 ~ 09时58分]"
         },
         {
+          "title": "美股科技“四巨头”同日放榜 “AI烧钱”大战愈演愈烈",
+          "url": "https://www.cls.cn/detail/2360653",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时26分 ~ 16时04分]"
+        },
+        {
           "title": "周三（4月29日），美股降息赢家指数跌2.58%，报90.89点，小幅跳空低开之后持续走低，北京时间23:00以来低位持稳于日低附近。 “特朗普关税输家”指数跌1.02%。 “特朗普金融指数”跌1.94%，报161.28点，走势与降息指数类似。",
           "url": "https://wallstreetcn.com/livenews/3096974",
           "source": "华尔街见闻-快讯",
@@ -903,17 +920,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时46分 ~ 07时51分]"
-        },
-        {
-          "title": "美股科技“四巨头”同日放榜 “AI烧钱”大战愈演愈烈",
-          "url": "https://www.cls.cn/detail/2360653",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时26分"
         },
         {
           "title": "扎克伯格旗下Meta Platforms Inc.一季度营收563.1亿美元，分析师预期555.1亿美元。 一季度APPs Family营收559.1亿美元，分析师预期550亿美元。 一季度Reality Labs营收4.02亿美元，分析师预期5.08亿美元。 预计全年资本开支1250亿-1450亿美元。 预计二季度营收580亿-610亿美元，分析师预期595.6亿美元。 Meta美股盘后跌5.32%。",
@@ -1007,7 +1013,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
@@ -1069,13 +1075,24 @@
           "time_info": "[06时46分 ~ 07时51分]"
         },
         {
+          "title": "更多银行参与软银的400亿美元银团贷款 助其投资OpenAI",
+          "url": "https://wallstreetcn.com/livenews/3097306",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时04分"
+        },
+        {
           "title": "OpenAI CEO Altman：将在接下来的几天内，开始向关键网络防御者推出GPT-5.5-Cyber，这是一款前沿的网络安全模型。",
           "url": "https://wallstreetcn.com/livenews/3097192",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
         }
@@ -1112,8 +1129,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时17分 ~ 13时26分]"
+          "appearance_count": 11,
+          "time_info": "[01时17分 ~ 16时04分]"
         },
         {
           "title": "DeepSeek新版本发布为何悄无声息",
