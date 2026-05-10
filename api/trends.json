@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-10T18:55:43.534567+08:00",
-  "total_titles_processed": 1061,
+  "generated_at": "2026-05-10T19:42:32.330260+08:00",
+  "total_titles_processed": 1117,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "特朗普：可能恢复“自由计划”行动，伊朗：正制定霍尔木兹海峡相关法律草案",
@@ -55,17 +55,6 @@
           "time_info": "[00时41分 ~ 07时37分]"
         },
         {
-          "title": "俄罗斯总统助理乌沙科夫：美国总统特使威特科夫和特朗普女婿库什纳将“很快”抵达莫斯科，俄罗斯将继续与他们对话。",
-          "url": "https://flash.jin10.com/detail/20260510182305585800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时55分"
-        },
-        {
           "title": "特朗普还有一场硬仗",
           "url": "https://news.ifeng.com/c/8szUPi5xnTB",
           "source": "凤凰网",
@@ -74,8 +63,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时37分 ~ 18时55分]"
+          "appearance_count": 7,
+          "time_info": "[07时37分 ~ 19时42分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-10）",
+          "url": "https://flash.jin10.com/detail/20260510184554353800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
         },
         {
           "title": "美国总统特朗普接受法国LCJ频道采访时表示：伊朗确实希望达成协议。",
@@ -89,6 +89,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时41分 ~ 03时51分]"
+        },
+        {
+          "title": "俄罗斯总统助理乌沙科夫：美国总统特使威特科夫和特朗普女婿库什纳将“很快”抵达莫斯科，俄罗斯将继续与他们对话。",
+          "url": "https://flash.jin10.com/detail/20260510182305585800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时55分 ~ 19时42分]"
         },
         {
           "title": "俄罗斯总统普京：我们当即同意了特朗普关于延长停火并交换囚犯的提议。",
@@ -201,8 +213,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 18时55分]"
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 19时42分]"
         },
         {
           "title": "deepseek 首轮融资估值近 450 亿美元，将对 AI 领域产生哪些影响？",
@@ -246,11 +258,12 @@
           "url": "https://www.zhihu.com/question/2035400318624733173",
           "source": "知乎",
           "ranks": [
-            18
+            18,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时55分 ~ 19时42分]"
         }
       ]
     },
@@ -365,8 +378,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时31分 ~ 18时55分]"
+          "appearance_count": 5,
+          "time_info": "[13时31分 ~ 19时42分]"
         },
         {
           "title": "沙特阿美股价在早盘交易中上涨1.1%。",
