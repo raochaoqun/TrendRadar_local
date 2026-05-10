@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T13:31:57.731757+08:00",
-  "total_titles_processed": 781,
+  "generated_at": "2026-05-10T15:56:57.320758+08:00",
+  "total_titles_processed": 891,
   "failed_sources": [],
   "trends": [
     {
@@ -21,6 +21,22 @@
           "time_info": "[00时41分 ~ 09时55分]"
         },
         {
+          "title": "意媒：特朗普“仍在考虑”调整驻意美军",
+          "url": "https://wallstreetcn.com/livenews/3101087",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            5,
+            6,
+            10,
+            17,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[04时35分 ~ 15时56分]"
+        },
+        {
           "title": "俄方同意特朗普提出的停火方案",
           "url": "https://www.toutiao.com/trending/7637290812788162601/",
           "source": "今日头条",
@@ -38,21 +54,6 @@
           "time_info": "[00时41分 ~ 07时37分]"
         },
         {
-          "title": "意媒：特朗普“仍在考虑”调整驻意美军",
-          "url": "https://wallstreetcn.com/livenews/3101087",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            5,
-            6,
-            10,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时35分 ~ 13时31分]"
-        },
-        {
           "title": "美国总统特朗普接受法国LCJ频道采访时表示：伊朗确实希望达成协议。",
           "url": "https://flash.jin10.com/detail/20260510011547572800",
           "source": "金十数据",
@@ -64,6 +65,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时41分 ~ 03时51分]"
+        },
+        {
+          "title": "特朗普还有一场硬仗",
+          "url": "https://news.ifeng.com/c/8szUPi5xnTB",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时37分 ~ 15时56分]"
         },
         {
           "title": "俄罗斯总统普京：我们当即同意了特朗普关于延长停火并交换囚犯的提议。",
@@ -90,18 +103,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时44分 ~ 04时35分]"
-        },
-        {
-          "title": "特朗普还有一场硬仗",
-          "url": "https://news.ifeng.com/c/8szUPi5xnTB",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时37分 ~ 13时31分]"
         },
         {
           "title": "英特尔大涨！与苹果达成初步芯片制造协议，特朗普政府居中撮合",
@@ -168,7 +169,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
         }
@@ -201,8 +202,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时41分 ~ 13时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时41分 ~ 15时56分]"
         },
         {
           "title": "为什么 ChatGPT 跟中文用户对话时，「我会稳稳地接住你」常会莫名其妙冒出来？你还发现 AI 的哪些怪癖？",
@@ -258,8 +259,20 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时41分 ~ 13时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时41分 ~ 15时56分]"
+        },
+        {
+          "title": "deepseek 首轮融资估值近 450 亿美元，将对 AI 领域产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2035400318624733173",
+          "source": "知乎",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时31分 ~ 15时56分]"
         },
         {
           "title": "Deepseek和阿里谈崩了？市场人士回应",
@@ -273,32 +286,22 @@
           "time_info": "09时55分"
         },
         {
-          "title": "deepseek 首轮融资估值近 450 亿美元，将对 AI 领域产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2035400318624733173",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时31分"
-        },
-        {
           "title": "DeepSeek被曝融资500亿",
           "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E8%A2%AB%E6%9B%9D%E8%9E%8D%E8%B5%84500%E4%BA%BF%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
           "ranks": [
-            30
+            30,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时31分 ~ 15时56分]"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "非农缓解“滞胀”担忧，美股新高，英特尔和存储芯片股暴涨，Rocket Lab绩后涨34%",
@@ -329,11 +332,23 @@
           "url": "https://wallstreetcn.com/articles/3771916",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时31分 ~ 15时56分]"
+        },
+        {
+          "title": "沙特阿美股价在早盘交易中上涨1.1%。",
+          "url": "https://flash.jin10.com/detail/20260510150124748800",
+          "source": "金十数据",
+          "ranks": [
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时31分"
+          "time_info": "15时56分"
         }
       ]
     }
