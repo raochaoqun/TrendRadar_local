@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-13T04:26:01.974446+08:00",
-  "total_titles_processed": 490,
+  "generated_at": "2026-05-13T06:03:49.086314+08:00",
+  "total_titles_processed": 567,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 33,
+      "match_count": 39,
       "titles": [
         {
           "title": "特朗普访华",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时15分 ~ 04时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 06时03分]"
         },
         {
           "title": "马斯克库克随特朗普访华",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时15分 ~ 04时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 06时03分]"
         },
         {
           "title": "一图看懂｜特朗普时隔9年再访华，回顾中美元首历次会晤",
@@ -40,8 +40,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时15分 ~ 04时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 06时03分]"
         },
         {
           "title": "特朗普访华有哪些重要议题",
@@ -51,8 +51,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时15分 ~ 04时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 06时03分]"
         },
         {
           "title": "中美关系的潜力、张力、角力｜谁在“只有特朗普”的对华政策决策圈中发挥作用",
@@ -63,8 +63,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时15分 ~ 04时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 06时03分]"
         },
         {
           "title": "美国总统特朗普：与俄罗斯总统普京没有达成共识，俄罗斯不应获得顿巴斯地区。",
@@ -111,6 +111,17 @@
           "time_info": "02时31分"
         },
         {
+          "title": "克里姆林宫发言人佩斯科夫：特朗普访问俄罗斯一事目前不在议程之中。",
+          "url": "https://flash.jin10.com/detail/20260513051805781800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
+        },
+        {
           "title": "美国总统特朗普：食品药品管理局（FDA）局长Makary正在离开。",
           "url": "https://wallstreetcn.com/livenews/3102453",
           "source": "华尔街见闻-快讯",
@@ -141,8 +152,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时15分 ~ 04时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 06时03分]"
         },
         {
           "title": "特朗普对古巴无能狂怒：几个月了，为啥他们还没政权崩溃",
@@ -152,8 +163,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时15分 ~ 04时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 06时03分]"
         },
         {
           "title": "特朗普访华期间是否会讨论台湾和香港有关问题？外交部回应",
@@ -164,8 +175,19 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时15分 ~ 04时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 06时03分]"
+        },
+        {
+          "title": "报道称马斯克、库克、贝莱德、美光CEO等将随特朗普访华，黄仁勋缺席",
+          "url": "https://wallstreetcn.com/articles/3772030",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时25分 ~ 06时03分]"
         },
         {
           "title": "僵局难解：伊朗称美坚持“不合理要求”，特朗普称伊方回应愚蠢、停火协议“岌岌可危”",
@@ -177,17 +199,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时15分 ~ 02时31分]"
-        },
-        {
-          "title": "报道称马斯克、库克、贝莱德、美光CEO等将随特朗普访华，黄仁勋缺席",
-          "url": "https://wallstreetcn.com/articles/3772030",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时25分 ~ 04时26分]"
         },
         {
           "title": "美国总统特朗普：你们将会看到石油喷涌而出。",
@@ -251,7 +262,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
         },
@@ -289,6 +300,17 @@
           "time_info": "02时31分"
         },
         {
+          "title": "美国上诉法院暂缓对特朗普10%全球关税的不利裁决",
+          "url": "https://flash.jin10.com/detail/20260513045304475800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
+        },
+        {
           "title": "美国总统特朗普：当下是美国的黄金时代。",
           "url": "https://flash.jin10.com/detail/20260513015655163800",
           "source": "金十数据",
@@ -309,6 +331,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
+        },
+        {
+          "title": "据阿联酋新闻社：阿联酋总统与美国总统特朗普通话讨论战略合作，并审议了中东局势发展。",
+          "url": "https://flash.jin10.com/detail/20260513044811209800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
         },
         {
           "title": "美国总统特朗普：伊朗不能获得核武器。",
@@ -344,6 +377,17 @@
           "time_info": "02时31分"
         },
         {
+          "title": "美国加州州长纽森：特朗普刚刚自己说了，他不关心美国人民。",
+          "url": "https://flash.jin10.com/detail/20260513044742042800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
+        },
+        {
           "title": "美国总统特朗普：我们已经消灭了伊朗军队。",
           "url": "https://flash.jin10.com/detail/20260513015525710800",
           "source": "金十数据",
@@ -353,6 +397,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
+        },
+        {
+          "title": "美国总统特朗普批评媒体有关伊朗“形势良好”的报道。",
+          "url": "https://wallstreetcn.com/livenews/3102507",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
         },
         {
           "title": "美国总统特朗普：对伊朗的制裁非常有效，之前德黑兰通过霍尔木兹海峡获得了大量资金。",
@@ -375,13 +430,36 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
+        },
+        {
+          "title": "白宫经济顾问哈塞特：（在美国CPI通胀报告发布当天宣称）这是一场暂时性的能源冲击。 美国总统特朗普相信，很快就能开放霍尔木兹海峡。 我们正尽可能迅速地释放战略石油储备（SPR）。 特朗普认为，我们应该推进汽油税的现代化。（福克斯商业新闻）",
+          "url": "https://wallstreetcn.com/livenews/3102501",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "美伊局势僵持，美股原油齐涨，标普纳指再新高，光通信股集体大涨，白银暴涨7%",
+          "url": "https://wallstreetcn.com/articles/3771942",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 06时03分]"
+        },
         {
           "title": "美国通胀超预期，美股低开，科技股普跌，英伟达股价续创新高，美伊僵局致布油涨3%",
           "url": "https://wallstreetcn.com/articles/3772040",
@@ -395,16 +473,15 @@
           "time_info": "[00时15分 ~ 04时26分]"
         },
         {
-          "title": "美伊局势僵持，美股原油齐涨，标普纳指再新高，光通信股集体大涨，白银暴涨7%",
-          "url": "https://wallstreetcn.com/articles/3771942",
+          "title": "“大空头”：美股或将崩盘，科技股飙升重现2000年泡沫",
+          "url": "https://wallstreetcn.com/articles/3772023",
           "source": "华尔街见闻",
           "ranks": [
-            4,
-            5
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时15分 ~ 04时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 06时03分]"
         },
         {
           "title": "金十图示：2026年05月12日（周二）美股热门股票行情一览（美股收盘）",
@@ -413,7 +490,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
         },
@@ -424,20 +501,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
-        },
-        {
-          "title": "“大空头”：美股或将崩盘，科技股飙升重现2000年泡沫",
-          "url": "https://wallstreetcn.com/articles/3772023",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时15分 ~ 04时26分]"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 芯片股显著回调",
@@ -446,7 +512,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
         },
@@ -462,6 +528,28 @@
           "time_info": "00时15分"
         },
         {
+          "title": "美股七巨头收盘播报｜周二（5月12日），美国科技股七巨头（Magnificent 7）指数跌0.18%，报223.38点，整体呈现出V形走势，北京时间00:58刷新日低至220.98点。 “超大”市值科技股指数跌1.20%，报448.68点，00:59也刷新日低至440.83点。",
+          "url": "https://wallstreetcn.com/livenews/3102512",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
+        },
+        {
+          "title": "美股大类资产类ETF多数收跌，新兴市场ETF跌3%，布油基金涨3.4%",
+          "url": "https://wallstreetcn.com/livenews/3102508",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
+        },
+        {
           "title": "美股三大股指持续走低，标普500指数跌超1%，纳指跌1.7%，道指跌0.55%。",
           "url": "https://flash.jin10.com/detail/20260512232626843800",
           "source": "金十数据",
@@ -473,6 +561,17 @@
           "time_info": "00时15分"
         },
         {
+          "title": "美股半导体股指创逾一年最大盘中跌幅",
+          "url": "https://flash.jin10.com/detail/20260513043933227800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
+        },
+        {
           "title": "纳斯达克100指数跌幅扩大至1.3%，成分股高通跌超9.4%，闪迪跌8.7%，英特尔跌7.6%，美光科技、西部数据、希捷科技、迈威尔科技、应用材料至多跌6%，Strategy跌4.7%，阿斯麦ADR跌3.9%，沃尔玛涨1.5%，奈飞涨3.1%，ALNY涨3.7%表现第二，Insmed涨7.4%。 纳指跌1.1%，标普跌超0.7%，道指跌超0.6%，美股费城半导体指数一度下跌4.3%，银行指数跌1.3%，罗素2000指数跌1.1%。",
           "url": "https://wallstreetcn.com/livenews/3102385",
           "source": "华尔街见闻-快讯",
@@ -482,6 +581,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
+        },
+        {
+          "title": "周二（5月12日），美股行业ETF涨跌各异，半导体ETF收跌2.61%，全球科技股指数ETF跌2.17%，科技行业ETF跌1.51%，能源业ETF涨0.70%，医疗业ETF涨1.96%。",
+          "url": "https://wallstreetcn.com/livenews/3102498",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美元指数在美国CPI通胀数据发布日涨0.3%",
+          "url": "https://wallstreetcn.com/livenews/3102476",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
+          "title": "美元指数12日上涨",
+          "url": "https://flash.jin10.com/detail/20260513044234165800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
         }
       ]
     },
@@ -496,24 +634,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美元指数在美国CPI通胀数据发布日涨0.3%",
-          "url": "https://wallstreetcn.com/livenews/3102476",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
         }
@@ -530,7 +651,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
         }
