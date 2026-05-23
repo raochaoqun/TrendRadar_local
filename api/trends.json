@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-23T19:54:48.366655+08:00",
-  "total_titles_processed": 1231,
+  "generated_at": "2026-05-23T20:59:30.331680+08:00",
+  "total_titles_processed": 1298,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 44,
+      "match_count": 45,
       "titles": [
         {
           "title": "特朗普声称要与赖清德通话，美媒分析后果",
@@ -25,11 +25,12 @@
           "ranks": [
             5,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时58分 ~ 19时54分]"
+          "appearance_count": 6,
+          "time_info": "[13时58分 ~ 20时59分]"
         },
         {
           "title": "俄方称，普京与特朗普有可能 11 月在中国见面，美俄关系是否有望迎来转机？中国在这其中会扮演怎样的角色？",
@@ -53,8 +54,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时21分 ~ 19时54分]"
+          "appearance_count": 3,
+          "time_info": "[18时21分 ~ 20时59分]"
         },
         {
           "title": "特朗普：告诉沃什放手去做，预计他是位伟大的美联储主席，希望他完全独立",
@@ -65,8 +66,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时58分 ~ 19时54分]"
+          "appearance_count": 7,
+          "time_info": "[07时58分 ~ 20时59分]"
+        },
+        {
+          "title": "美伊冲突升温！特朗普不参加儿子婚礼“坐镇白宫”，伊朗警告若再遭袭将开启战斗3.0，计划“以火力”封锁曼德海峡",
+          "url": "https://wallstreetcn.com/articles/3772968",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时15分 ~ 20时59分]"
         },
         {
           "title": "特朗普将强制要求申请绿卡的外国人回国申请",
@@ -157,18 +170,6 @@
           "time_info": "00时15分"
         },
         {
-          "title": "美伊冲突升温！特朗普不参加儿子婚礼“坐镇白宫”，伊朗警告若再遭袭将开启战斗3.0，计划“以火力”封锁曼德海峡",
-          "url": "https://wallstreetcn.com/articles/3772968",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时15分 ~ 19时54分]"
-        },
-        {
           "title": "美官员称特朗普政府开始制定对古巴军事行动方案，美国为何盯上古巴？目前古巴局势如何？",
           "url": "https://www.zhihu.com/question/2041148892323000444",
           "source": "知乎",
@@ -207,6 +208,18 @@
           "time_info": "[10时38分 ~ 13时59分]"
         },
         {
+          "title": "“回家找妈妈吧！”演讲时遭打断，特朗普嘲讽抗议者",
+          "url": "https://v.ifeng.com/c/8tMPX6NaRot",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时15分 ~ 20时59分]"
+        },
+        {
           "title": "美国驻丹麦大使：特朗普已排除对格陵兰岛使用武力",
           "url": "https://m.thepaper.cn/newsDetail_forward_33206550",
           "source": "澎湃新闻",
@@ -229,16 +242,16 @@
           "time_info": "[13时58分 ~ 16时15分]"
         },
         {
-          "title": "“回家找妈妈吧！”演讲时遭打断，特朗普嘲讽抗议者",
-          "url": "https://v.ifeng.com/c/8tMPX6NaRot",
-          "source": "凤凰网",
+          "title": "特朗普周末“坐镇白宫”：若谈判破裂或对伊朗发动“决定性打击”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33218086",
+          "source": "澎湃新闻",
           "ranks": [
-            9,
-            8
+            15,
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时15分 ~ 19时54分]"
+          "time_info": "[18时21分 ~ 20时59分]"
         },
         {
           "title": "美国总统特朗普：伊朗永远不会拥有核武器，他们知道这一点。",
@@ -278,6 +291,18 @@
           "time_info": "[04时28分 ~ 05时58分]"
         },
         {
+          "title": "卡塔尔埃米尔宫：卡塔尔埃米尔与美国总统特朗普通话。",
+          "url": "https://flash.jin10.com/detail/20260523191635208800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时54分 ~ 20时59分]"
+        },
+        {
           "title": "“新美联储通讯社”：特朗普选沃什本为降息，但市场已开始押注加息",
           "url": "https://wallstreetcn.com/articles/3772936",
           "source": "华尔街见闻",
@@ -290,16 +315,28 @@
           "time_info": "[18时21分 ~ 19时54分]"
         },
         {
-          "title": "特朗普周末“坐镇白宫”：若谈判破裂或对伊朗发动“决定性打击”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33218086",
-          "source": "澎湃新闻",
+          "title": "美国驻印度大使塞尔吉奥·戈尔：美国国务卿鲁比奥代表特朗普总统邀请印度总理莫迪在不久的将来访问白宫。",
+          "url": "https://flash.jin10.com/detail/20260523184255800800",
+          "source": "金十数据",
           "ranks": [
-            15,
-            9
+            14,
+            26
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时21分 ~ 19时54分]"
+          "time_info": "[19时54分 ~ 20时59分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-23）",
+          "url": "https://flash.jin10.com/detail/20260523184146091800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时54分 ~ 20时59分]"
         },
         {
           "title": "特朗普向沃什施压",
@@ -348,17 +385,6 @@
           "time_info": "00时15分"
         },
         {
-          "title": "卡塔尔埃米尔宫：卡塔尔埃米尔与美国总统特朗普通话。",
-          "url": "https://flash.jin10.com/detail/20260523191635208800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时54分"
-        },
-        {
           "title": "美国总统特朗普：没有人比沃什更适合领导美联储。",
           "url": "https://flash.jin10.com/detail/20260522235325088800",
           "source": "金十数据",
@@ -390,6 +416,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时29分"
+        },
+        {
+          "title": "据半岛电视台：卡塔尔埃米尔与特朗普讨论巴基斯坦主导的调解努力。",
+          "url": "https://flash.jin10.com/detail/20260523195813054800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
         },
         {
           "title": "美国总统特朗普：预计沃什将成为一位伟大的美联储主席。",
@@ -434,28 +471,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
-        },
-        {
-          "title": "美国驻印度大使塞尔吉奥·戈尔：美国国务卿鲁比奥代表特朗普总统邀请印度总理莫迪在不久的将来访问白宫。",
-          "url": "https://flash.jin10.com/detail/20260523184255800800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时54分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-23）",
-          "url": "https://flash.jin10.com/detail/20260523184146091800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时54分"
         },
         {
           "title": "特朗普：将缺席儿子的婚礼",
@@ -516,7 +531,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "科技股力撑美股走强，道指新高，标普连涨八周，沃勒鹰派措辞打压美债，原油宽幅震荡",
@@ -528,8 +543,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时58分 ~ 19时54分]"
+          "appearance_count": 8,
+          "time_info": "[07时58分 ~ 20时59分]"
         },
         {
           "title": "美股收盘：标普连涨八周道指刷新高 芯片股&量子概念持续走强",
@@ -538,11 +553,12 @@
           "ranks": [
             7,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时58分 ~ 19时54分]"
+          "appearance_count": 8,
+          "time_info": "[07时58分 ~ 20时59分]"
         },
         {
           "title": "金十图示：2026年05月22日（周五）美股热门股票行情一览（美股盘中）",
@@ -576,6 +592,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
+        },
+        {
+          "title": "“华尔街最准分析师”警告：巨型IPO恐令美股重蹈百年泡沫史覆辙",
+          "url": "https://www.cls.cn/detail/2379735",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时21分 ~ 20时59分]"
         },
         {
           "title": "美股七巨头收盘播报｜英伟达收跌1.9%，业绩报告发布当周回撤超4.4%",
@@ -635,27 +664,16 @@
           "time_info": "[04时28分 ~ 07时58分]"
         },
         {
-          "title": "“华尔街最准分析师”警告：巨型IPO恐令美股重蹈百年泡沫史覆辙",
-          "url": "https://www.cls.cn/detail/2379735",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时21分 ~ 19时54分]"
-        },
-        {
           "title": "华尔街最新观点称，美股下跌就能抑制商品通胀，并阶段结束美债高收益率现状，对此你怎么看？",
           "url": "https://www.zhihu.com/question/2041150006099501503",
           "source": "知乎",
           "ranks": [
-            13
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时21分 ~ 19时54分]"
+          "appearance_count": 3,
+          "time_info": "[18时21分 ~ 20时59分]"
         },
         {
           "title": "美股行业ETF几乎全线收涨，半导体ETF涨约1.5%",
@@ -681,6 +699,17 @@
           "time_info": "10时38分"
         },
         {
+          "title": "下周一港股、美股休市",
+          "url": "https://www.toutiao.com/trending/7642672726146056242/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
           "title": "美股早盘小幅上涨，标普500指数势创2023年以来最长周连涨",
           "url": "https://wallstreetcn.com/livenews/3108140",
           "source": "华尔街见闻-快讯",
@@ -695,7 +724,7 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "如何看待 DeepSeek V4 Pro 模型价格于 5 月 31 日结束 2.5 折优惠，调整为原定价的 1/4？",
@@ -720,8 +749,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时38分 ~ 19时54分]"
+          "appearance_count": 7,
+          "time_info": "[10时38分 ~ 20时59分]"
         },
         {
           "title": "曝 DeepSeek 推进 700 亿元融资，梁文锋称坚持开源 AI 模型，此举意味着什么？",
@@ -733,8 +762,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时15分 ~ 19时54分]"
+          "appearance_count": 4,
+          "time_info": "[16时15分 ~ 20时59分]"
+        },
+        {
+          "title": "DeepSeek宣布：永久降价",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%AE%A3%E5%B8%83%EF%BC%9A%E6%B0%B8%E4%B9%85%E9%99%8D%E4%BB%B7",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
         },
         {
           "title": "DeepSeek-V4-Pro API价格永久下调至原价25%",
@@ -747,6 +787,49 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时15分 ~ 18时21分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "OpenAI称攻克80年数学难题",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E7%A7%B0%E6%94%BB%E5%85%8B80%E5%B9%B4%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            4,
+            5,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时38分 ~ 19时54分]"
+        },
+        {
+          "title": "SpaceX、OpenAI、Anthropic“超级IPO”扎堆，美银：这是超级泡沫的重演",
+          "url": "https://wallstreetcn.com/articles/3772963",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
+          "title": "一周热榜精选：沃什履新之际加息呼声渐高！SpaceX和OpenAI即将IPO",
+          "url": "https://flash.jin10.com/detail/20260523091339971800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时38分"
         }
       ]
     },
@@ -771,38 +854,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时38分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "OpenAI称攻克80年数学难题",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E7%A7%B0%E6%94%BB%E5%85%8B80%E5%B9%B4%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            4,
-            5,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时38分 ~ 19时54分]"
-        },
-        {
-          "title": "一周热榜精选：沃什履新之际加息呼声渐高！SpaceX和OpenAI即将IPO",
-          "url": "https://flash.jin10.com/detail/20260523091339971800",
-          "source": "金十数据",
-          "ranks": [
-            14
           ],
           "is_new": false,
           "appearance_count": 1,
