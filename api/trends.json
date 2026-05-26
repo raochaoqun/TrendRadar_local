@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-26T07:56:44.227563+08:00",
-  "total_titles_processed": 567,
+  "generated_at": "2026-05-26T10:09:49.526363+08:00",
+  "total_titles_processed": 725,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "不小心把特朗普归类为“白痴”，鲁比奥紧急救场",
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时58分 ~ 04时19分]"
+        },
+        {
+          "title": "特朗普要求先签“亚伯拉罕协议”，沙特回应",
+          "url": "https://news.ifeng.com/c/8tQf0euzx96",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
         },
         {
           "title": "特朗普要求先签“亚伯拉罕协议” 沙特方面回应",
@@ -77,6 +88,18 @@
           "time_info": "[06时02分 ~ 07时56分]"
         },
         {
+          "title": "特朗普称与伊朗谈判进展顺利、不会签让伊获核武的协议，美官员对近期解决争端乐观",
+          "url": "https://wallstreetcn.com/articles/3773076",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时56分 ~ 10时09分]"
+        },
+        {
           "title": "美国总统特朗普：伊朗不会拥有核武器。",
           "url": "https://flash.jin10.com/detail/20260526011223011800",
           "source": "金十数据",
@@ -119,9 +142,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
+        },
+        {
+          "title": "美伊局势追踪：特朗普再称谈判“进展顺利” 双方据悉就资产解冻达成谅解",
+          "url": "https://www.cls.cn/detail/2381211",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
         },
         {
           "title": "报道称，图尔西·加巴德辞职后，副总统万斯在美国总统特朗普的政府内部愈发孤立，其在伊朗问题上的非干涉主义主张与特朗普发生冲突，而国务卿卢比奥的影响力正在上升。（每日邮报）",
@@ -133,17 +167,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
-        },
-        {
-          "title": "特朗普称与伊朗谈判进展顺利、不会签让伊获核武的协议，美官员对近期解决争端乐观",
-          "url": "https://wallstreetcn.com/articles/3773076",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时56分"
         },
         {
           "title": "美司法部：白宫附近枪击案是针对特朗普的暗杀图谋",
@@ -163,7 +186,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
         },
@@ -174,7 +197,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
         },
@@ -185,7 +208,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
         },
@@ -213,7 +236,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
         },
@@ -294,6 +317,23 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何看待 DeepSeek 连续多次降价？",
+          "url": "https://www.zhihu.com/question/2033335202307647295",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
@@ -304,7 +344,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
         }
