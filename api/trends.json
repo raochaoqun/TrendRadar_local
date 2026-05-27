@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-27T10:16:23.620363+08:00",
-  "total_titles_processed": 725,
+  "generated_at": "2026-05-27T14:54:57.137856+08:00",
+  "total_titles_processed": 934,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "释新闻｜美伊谈判冲刺阶段，特朗普为何突然提起《亚伯拉罕协议》？",
@@ -15,11 +15,23 @@
             18,
             17,
             16,
-            11
+            11,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时20分 ~ 10时16分]"
+          "appearance_count": 7,
+          "time_info": "[01时20分 ~ 14时54分]"
+        },
+        {
+          "title": "特朗普体检后称“结果非常完美”，下个月将迎来80岁生日",
+          "url": "https://news.ifeng.com/c/8tSnrdWGnY5",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时54分"
         },
         {
           "title": "美国总统特朗普宣称：准备在白宫举办内阁会议，推迟前往戴维营的行程。",
@@ -66,6 +78,18 @@
           "time_info": "03时56分"
         },
         {
+          "title": "特朗普提了一个非分要求",
+          "url": "https://news.ifeng.com/c/8tSb04uTeLk",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时16分 ~ 14时54分]"
+        },
+        {
           "title": "美国总统特朗普：确保商品期货交易委员会对预测市场专属管辖权得到维护至关重要。",
           "url": "https://flash.jin10.com/detail/20260527052251487800",
           "source": "金十数据",
@@ -88,17 +112,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时56分 ~ 05时28分]"
-        },
-        {
-          "title": "特朗普提了一个非分要求",
-          "url": "https://news.ifeng.com/c/8tSb04uTeLk",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时16分"
         },
         {
           "title": "特朗普称与伊朗谈判进展顺利、不会签让伊获核武的协议，美官员对近期解决争端乐观",
@@ -162,7 +175,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时16分"
         },
@@ -275,6 +288,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
+        },
+        {
+          "title": "民调雪崩！特朗普陷入信任危机，民众只求尽快止损撤军",
+          "url": "https://flash.jin10.com/detail/20260527141108286800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时54分"
         }
       ]
     },
@@ -294,6 +318,17 @@
           "time_info": "[01时20分 ~ 05时28分]"
         },
         {
+          "title": "【早报】暴涨超19%，美股存储芯片巨头市值首破万亿；兆易创新、沪电股份等热门股发布重要公告",
+          "url": "https://www.cls.cn/detail/2382303",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时16分 ~ 14时54分]"
+        },
+        {
           "title": "美伊谈判前景提振市场 美股三大期指集体上涨 美光盘前大涨超8% | 今夜看点",
           "url": "https://www.cls.cn/detail/2382097",
           "source": "财联社热门",
@@ -307,15 +342,17 @@
           "time_info": "[01时20分 ~ 10时16分]"
         },
         {
-          "title": "【早报】暴涨超19%，美股存储芯片巨头市值首破万亿；兆易创新、沪电股份等热门股发布重要公告",
-          "url": "https://www.cls.cn/detail/2382303",
+          "title": "美股收盘：标普纳指再创新高 美光科技暴涨19%",
+          "url": "https://www.cls.cn/detail/2382288",
           "source": "财联社热门",
           "ranks": [
-            1
+            7,
+            3,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时16分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时01分 ~ 14时54分]"
         },
         {
           "title": "金十图示：2026年05月26日（周二）美股热门股票行情一览（美股盘中）",
@@ -338,18 +375,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
-        },
-        {
-          "title": "美股收盘：标普纳指再创新高 美光科技暴涨19%",
-          "url": "https://www.cls.cn/detail/2382288",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时01分 ~ 10时16分]"
         },
         {
           "title": "金十图示：2026年05月26日（周二）热门中概股行情一览（美股盘中）",
