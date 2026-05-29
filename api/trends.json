@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-05-29T17:34:50.107278+08:00",
-  "total_titles_processed": 1019,
+  "generated_at": "2026-05-29T20:41:13.344424+08:00",
+  "total_titles_processed": 1195,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 14,
       "titles": [
+        {
+          "title": "美伊停火传言搅动市场，美股三大指数收创新高，黄金深V反转，原油震荡走平",
+          "url": "https://wallstreetcn.com/articles/3773313",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时02分 ~ 20时41分]"
+        },
         {
           "title": "美伊谈判信号相互矛盾，美股高位震荡，原油收跌超5%，黄金一度跌超2%",
           "url": "https://wallstreetcn.com/articles/3773196",
@@ -28,17 +40,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时56分 ~ 04时05分]"
-        },
-        {
-          "title": "美伊停火传言搅动市场，美股三大指数收创新高，黄金深V反转，原油震荡走平",
-          "url": "https://wallstreetcn.com/articles/3773313",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时02分 ~ 17时34分]"
         },
         {
           "title": "【早报】美股AI应用软件板块大爆发；中国首款4nm智驾芯片发布",
@@ -172,18 +173,6 @@
       "match_count": 12,
       "titles": [
         {
-          "title": "特朗普称对谈判进程“不满意”、“不在意中选”，对“浓缩铀、制裁、霍尔木兹海峡”等划出红线，伊朗回应“不会退缩”",
-          "url": "https://wallstreetcn.com/articles/3773275",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时56分 ~ 08时02分]"
-        },
-        {
           "title": "美媒称美伊达成60天谅解备忘录延长停火、需特朗普最终批准，拟规定霍尔木兹“无限制”通航",
           "url": "https://wallstreetcn.com/articles/3773378",
           "source": "华尔街见闻",
@@ -194,8 +183,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时56分 ~ 17时34分]"
+          "appearance_count": 9,
+          "time_info": "[01时56分 ~ 20时41分]"
+        },
+        {
+          "title": "特朗普称对谈判进程“不满意”、“不在意中选”，对“浓缩铀、制裁、霍尔木兹海峡”等划出红线，伊朗回应“不会退缩”",
+          "url": "https://wallstreetcn.com/articles/3773275",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时56分 ~ 08时02分]"
         },
         {
           "title": "特朗普的两张稀土王牌，先打上“内战”了",
@@ -220,6 +221,17 @@
           "time_info": "[01时56分 ~ 08时02分]"
         },
         {
+          "title": "黄仁勋披露访华细节：特朗普让我在华盛顿登机，可我在西海岸",
+          "url": "https://news.ifeng.com/c/8tW3etoYczE",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时34分 ~ 20时41分]"
+        },
+        {
           "title": "黄仁勋披露随特朗普访华细节：他让我在华盛顿登机，可我在西海岸",
           "url": "https://news.ifeng.com/c/8tW3etoYczE",
           "source": "凤凰网",
@@ -229,17 +241,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时05分"
-        },
-        {
-          "title": "黄仁勋披露访华细节：特朗普让我在华盛顿登机，可我在西海岸",
-          "url": "https://news.ifeng.com/c/8tW3etoYczE",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时34分"
         },
         {
           "title": "美财长称特朗普不会接受“糟糕的伊朗协议”",
@@ -318,11 +319,12 @@
           "url": "https://www.zhihu.com/question/2043515093007303790",
           "source": "知乎",
           "ranks": [
-            2
+            2,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时34分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时34分 ~ 20时41分]"
         },
         {
           "title": "claude opus 4.8 发布了，相较于 opus4.7，有什么提升的地方？",
@@ -379,11 +381,12 @@
           "url": "https://wallstreetcn.com/articles/3773389",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时34分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时34分 ~ 20时41分]"
         },
         {
           "title": "OpenAI将通过亚洲云服务商Datasection进行最新模型部署",
@@ -521,9 +524,9 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时34分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时34分 ~ 20时41分]"
         }
       ]
     }
