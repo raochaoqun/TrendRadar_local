@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-31T05:51:41.439232+08:00",
-  "total_titles_processed": 464,
+  "generated_at": "2026-05-31T06:47:43.571604+08:00",
+  "total_titles_processed": 476,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时03分 ~ 05时51分]"
+          "appearance_count": 6,
+          "time_info": "[00时03分 ~ 06时47分]"
         },
         {
           "title": "美国法官裁定将特朗普名字从肯尼迪中心移除",
@@ -39,8 +39,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时03分 ~ 05时51分]"
+          "appearance_count": 6,
+          "time_info": "[00时03分 ~ 06时47分]"
         },
         {
           "title": "一图看懂｜“不听话就炸掉”，特朗普威胁/攻击过哪些国家？",
@@ -52,8 +52,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时03分 ~ 05时51分]"
+          "appearance_count": 6,
+          "time_info": "[00时03分 ~ 06时47分]"
         },
         {
           "title": "特朗普就结束伊朗战事提出条件，伊朗必须同意永远不拥有核武器，霍尔木兹海峡必须立即开放，伊方会接受吗？",
@@ -63,11 +63,12 @@
             9,
             12,
             13,
-            20
+            20,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时03分 ~ 05时51分]"
+          "appearance_count": 5,
+          "time_info": "[00时03分 ~ 06时47分]"
         },
         {
           "title": "白宫公布特朗普年度体检报告：增重超6公斤，腿部肿胀已经减轻",
@@ -142,19 +143,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时03分 ~ 05时51分]"
+          "appearance_count": 6,
+          "time_info": "[00时03分 ~ 06时47分]"
         },
         {
           "title": "美股收盘：三大股指续创新高 戴尔领衔科技股狂欢",
           "url": "https://www.cls.cn/detail/2385964",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时03分 ~ 05时51分]"
+          "appearance_count": 6,
+          "time_info": "[00时03分 ~ 06时47分]"
         }
       ]
     },
@@ -172,8 +174,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时57分 ~ 05时51分]"
+          "appearance_count": 5,
+          "time_info": "[01时57分 ~ 06时47分]"
         }
       ]
     },
@@ -209,8 +211,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时03分 ~ 05时51分]"
+          "appearance_count": 6,
+          "time_info": "[00时03分 ~ 06时47分]"
         }
       ]
     }
