@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-31T04:44:24.974108+08:00",
-  "total_titles_processed": 441,
+  "generated_at": "2026-05-31T05:51:41.439232+08:00",
+  "total_titles_processed": 464,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时03分 ~ 04时44分]"
+          "appearance_count": 5,
+          "time_info": "[00时03分 ~ 05时51分]"
         },
         {
           "title": "美国法官裁定将特朗普名字从肯尼迪中心移除",
@@ -39,8 +39,35 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时03分 ~ 05时51分]"
+        },
+        {
+          "title": "一图看懂｜“不听话就炸掉”，特朗普威胁/攻击过哪些国家？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33265548",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时03分 ~ 05时51分]"
+        },
+        {
+          "title": "特朗普就结束伊朗战事提出条件，伊朗必须同意永远不拥有核武器，霍尔木兹海峡必须立即开放，伊方会接受吗？",
+          "url": "https://www.zhihu.com/question/2043956365022814533",
+          "source": "知乎",
+          "ranks": [
+            9,
+            12,
+            13,
+            20
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时03分 ~ 04时44分]"
+          "time_info": "[00时03分 ~ 05时51分]"
         },
         {
           "title": "白宫公布特朗普年度体检报告：增重超6公斤，腿部肿胀已经减轻",
@@ -53,32 +80,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时03分 ~ 04时44分]"
-        },
-        {
-          "title": "一图看懂｜“不听话就炸掉”，特朗普威胁/攻击过哪些国家？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33265548",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时03分 ~ 04时44分]"
-        },
-        {
-          "title": "特朗普就结束伊朗战事提出条件，伊朗必须同意永远不拥有核武器，霍尔木兹海峡必须立即开放，伊方会接受吗？",
-          "url": "https://www.zhihu.com/question/2043956365022814533",
-          "source": "知乎",
-          "ranks": [
-            9,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时03分 ~ 03时02分]"
         },
         {
           "title": "被“除名” 遭停工 特朗普最新回应：震惊 史上最不公对待",
@@ -122,7 +123,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时44分"
         }
@@ -141,8 +142,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时03分 ~ 04时44分]"
+          "appearance_count": 5,
+          "time_info": "[00时03分 ~ 05时51分]"
         },
         {
           "title": "美股收盘：三大股指续创新高 戴尔领衔科技股狂欢",
@@ -152,8 +153,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时03分 ~ 04时44分]"
+          "appearance_count": 5,
+          "time_info": "[00时03分 ~ 05时51分]"
         }
       ]
     },
@@ -167,11 +168,12 @@
           "source": "知乎",
           "ranks": [
             16,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时57分 ~ 04时44分]"
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 05时51分]"
         }
       ]
     },
@@ -207,8 +209,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时03分 ~ 04时44分]"
+          "appearance_count": 5,
+          "time_info": "[00时03分 ~ 05时51分]"
         }
       ]
     }
