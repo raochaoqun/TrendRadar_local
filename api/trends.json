@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-02T18:02:43.950730+08:00",
-  "total_titles_processed": 951,
+  "generated_at": "2026-06-02T22:42:43.748758+08:00",
+  "total_titles_processed": 1160,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 34,
       "titles": [
         {
           "title": "特朗普：以黎将立即停火",
@@ -66,6 +66,17 @@
           "time_info": "[13时23分 ~ 18时02分]"
         },
         {
+          "title": "特朗普再发5张照片回味中国",
+          "url": "https://news.ifeng.com/c/8td32CwSj89",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时42分"
+        },
+        {
           "title": "特朗普威胁“炸掉阿曼”粗暴又荒诞：美国的强权即是“规则”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33279999",
           "source": "澎湃新闻",
@@ -90,6 +101,18 @@
           "time_info": "06时31分"
         },
         {
+          "title": "特朗普操纵“美伊叙事”：先说“不在乎谈判成不成”，后发帖“预计一周内达成协议”，称“以黎停火”，但以色列要继续行动",
+          "url": "https://wallstreetcn.com/articles/3773609",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时23分 ~ 22时42分]"
+        },
+        {
           "title": "美国参议院多数党领袖图恩：白宫尚未就总统特朗普的基金发布任何官方声明。",
           "url": "https://flash.jin10.com/detail/20260602032044587800",
           "source": "金十数据",
@@ -107,7 +130,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -123,16 +146,15 @@
           "time_info": "06时31分"
         },
         {
-          "title": "特朗普操纵“美伊叙事”：先说“不在乎谈判成不成”，后发帖“预计一周内达成协议”，称“以黎停火”，但以色列要继续行动",
-          "url": "https://wallstreetcn.com/articles/3773609",
-          "source": "华尔街见闻",
+          "title": "美国参议院共和党领袖图恩：（被问及普尔特被特朗普任命为美国国家情报局代理局长）我们不需要一个被武器化的国家情报总监。",
+          "url": "https://flash.jin10.com/detail/20260602222607431800",
+          "source": "金十数据",
           "ranks": [
-            6,
             5
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时23分 ~ 18时02分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时42分"
         },
         {
           "title": "美伊又打起来了，特朗普：伊朗“确实想要”达成协议",
@@ -203,6 +225,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
+        },
+        {
+          "title": "美伊谈判反复背后，特朗普痛骂内塔尼亚胡：你他妈疯了，要不是我你早进监狱了！",
+          "url": "https://wallstreetcn.com/articles/3773679",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时42分"
         },
         {
           "title": "美国法官叫停特朗普政府关闭气候研究中心的计划。",
@@ -362,7 +395,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "【早报】全线大涨，美股芯片股批量创新高；特朗普：美伊或于“一周内”达成协议",
@@ -422,6 +455,17 @@
           "time_info": "08时06分"
         },
         {
+          "title": "美股期指下跌 慧与科技盘前大涨超28% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2388757",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时42分"
+        },
+        {
           "title": "英伟达发布PC芯片 AI狂欢席卷全球市场 美股期指上涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2387523",
           "source": "财联社热门",
@@ -441,7 +485,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -457,13 +501,24 @@
           "time_info": "08时06分"
         },
         {
+          "title": "美伊前景不明，美股低开，Marvell大涨25%，布油持稳95美元，比特币跌破6.9万美元",
+          "url": "https://wallstreetcn.com/articles/3773650",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时42分"
+        },
+        {
           "title": "这一幕像极了互联网泡沫破裂前夕！美股陷入极端“窄牛” 华尔街拉响警报",
           "url": "https://www.cls.cn/detail/2388081",
           "source": "财联社热门",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -554,6 +609,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
+        },
+        {
+          "title": "美股盘初，北美科技软件股指数ETF跌2.18%。 个股中，HubSpot跌7.77%，RingCentral跌5.71%，Zscaler跌4.91%，Cloudflare跌2.52%，Palantir跌2.47%，Crowdstrike跌1.55%，Datadog跌1.53%，Palo Alto Networks跌0.77%，ServiceNow跌3.49%。",
+          "url": "https://wallstreetcn.com/livenews/3113117",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时42分"
         }
       ]
     },
@@ -602,7 +668,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -679,7 +745,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -690,7 +756,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         }
@@ -709,8 +775,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时23分 ~ 18时02分]"
+          "appearance_count": 3,
+          "time_info": "[13时23分 ~ 22时42分]"
         },
         {
           "title": "周一（6月1日），美股超大规模云服务商（Hyperscalers）跌0.02%，报105.79点，尾盘刷新盘中历史最高位至106.56点。 成分股亚马逊跌3.47%，谷歌A跌1.04%，微软涨2.28%，Meta跌5.07%，甲骨文涨9.91%。",
@@ -787,25 +853,8 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "DeepSeek降价",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%E9%99%8D%E4%BB%B7&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时02分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "周一（6月1日）纽约尾盘，ICE美元指数上涨0.25%，报99.186点，日内交投区间为98.919-99.385点，北京时间21:03之前维持微幅上涨状态、持稳于99关口附近，之后短线加速上涨，22:03刷新日高。 彭博美元指数涨0.25%，报1201.78点，日内交投区间为1199.26-1203.83点。 美元兑日元涨0.26%，报159.68日元，日内交投区间为159.24-159.76日元。",
@@ -817,6 +866,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
+        },
+        {
+          "title": "美国10年期国债收益率转涨，刷新日高、逼近4.46%，美国职位空缺数据发布前交投于4.4450%附近。 两年期美债收益率刷新日高，在就业数据发布时逼近4.05%，目前重新回落至4.04%下方。 美元指数跌幅收窄至0.05%，重返99.150上方，数据发布前交投于99.100附近；彭博美元指数一度回升至1201.50上方。",
+          "url": "https://wallstreetcn.com/livenews/3113133",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek降价",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E9%99%8D%E4%BB%B7&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时02分 ~ 22时42分]"
         }
       ]
     }
