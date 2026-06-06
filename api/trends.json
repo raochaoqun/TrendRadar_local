@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-06T19:17:10.176589+08:00",
-  "total_titles_processed": 1170,
+  "generated_at": "2026-06-06T21:07:40.923831+08:00",
+  "total_titles_processed": 1278,
   "failed_sources": [],
   "trends": [
     {
@@ -23,11 +23,12 @@
           "url": "https://news.ifeng.com/c/8tjmsxXSCQI",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时53分 ~ 19时17分]"
+          "appearance_count": 5,
+          "time_info": "[17时53分 ~ 21时07分]"
         },
         {
           "title": "怎么看待美国公务员被强制安装白宫 App，可一键夸特朗普?",
@@ -168,6 +169,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时58分 ~ 08时04分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-06-06）",
+          "url": "https://flash.jin10.com/detail/20260606181845712800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时17分 ~ 21时07分]"
         },
         {
           "title": "美国总统特朗普：埃隆之前犯了个错，但现在他又是我的朋友了。",
@@ -318,17 +331,6 @@
           "time_info": "03时32分"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-06-06）",
-          "url": "https://flash.jin10.com/detail/20260606181845712800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时17分"
-        },
-        {
           "title": "美媒：特朗普特使前往田纳西州密会核专家 以待在伊朗核谈判中发挥作用",
           "url": "https://flash.jin10.com/detail/20260606030001354800",
           "source": "金十数据",
@@ -390,7 +392,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
         },
@@ -520,8 +522,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时58分 ~ 19时17分]"
+          "appearance_count": 9,
+          "time_info": "[06时58分 ~ 21时07分]"
         },
         {
           "title": "美股收盘：强劲非农引发加息担忧 AI热潮降温纳指重挫逾4%",
@@ -532,8 +534,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时58分 ~ 19时17分]"
+          "appearance_count": 9,
+          "time_info": "[06时58分 ~ 21时07分]"
         },
         {
           "title": "反“金发姑娘”！今晚非农：好消息和坏消息，对美股而言都是坏消息",
@@ -553,11 +555,12 @@
           "url": "https://www.zhihu.com/question/2046360260902909588",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时46分 ~ 19时17分]"
+          "appearance_count": 7,
+          "time_info": "[12时46分 ~ 21时07分]"
         },
         {
           "title": "CoreWeave美股盘后跌3.6%。 该公司股东Jane Street Singapore登记减持高达920万股，可能还将时不时地出售所持股份。",
@@ -582,6 +585,18 @@
           "time_info": "08时04分"
         },
         {
+          "title": "开户就送“美股七姐妹”，部分港资券商抢开户，最后的窗口期真能安全吗？",
+          "url": "https://www.cls.cn/detail/2392638",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时16分 ~ 21时07分]"
+        },
+        {
           "title": "美股一夜蒸发超万亿美元市值",
           "url": "https://www.toutiao.com/trending/7648103085272731199/",
           "source": "今日头条",
@@ -598,22 +613,12 @@
           "url": "https://www.toutiao.com/trending/7648181420996693523/",
           "source": "今日头条",
           "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时16分 ~ 19时17分]"
-        },
-        {
-          "title": "开户就送“美股七姐妹”，部分港资券商抢开户，最后的窗口期真能安全吗？",
-          "url": "https://www.cls.cn/detail/2392638",
-          "source": "财联社热门",
-          "ranks": [
+            7,
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时16分 ~ 19时17分]"
+          "appearance_count": 3,
+          "time_info": "[19时16分 ~ 21时07分]"
         },
         {
           "title": "美股黄金大跌 AI泡沫要破了吗",
@@ -925,11 +930,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时46分 ~ 19时17分]"
+          "appearance_count": 7,
+          "time_info": "[12时46分 ~ 21时07分]"
         },
         {
           "title": "美元指数在非农日涨超0.6%，使得本周涨幅扩大至超过1.1%",
@@ -994,8 +1000,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时46分 ~ 19时17分]"
+          "appearance_count": 7,
+          "time_info": "[12时46分 ~ 21时07分]"
         }
       ]
     }
