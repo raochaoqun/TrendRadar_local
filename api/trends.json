@@ -1,83 +1,11 @@
 {
-  "generated_at": "2026-06-07T02:05:02.437401+08:00",
-  "total_titles_processed": 350,
+  "generated_at": "2026-06-07T04:04:40.700478+08:00",
+  "total_titles_processed": 396,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "非农大超预期，美股债“双杀”，纳指重挫超4%，芯片指数暴跌10%，贵金属、加密货币遭“血洗”",
-          "url": "https://wallstreetcn.com/articles/3773946",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 02时05分]"
-        },
-        {
-          "title": "美股收盘：强劲非农引发加息担忧 AI热潮降温纳指重挫逾4%",
-          "url": "https://www.cls.cn/detail/2392497",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 02时05分]"
-        },
-        {
-          "title": "开户就送“美股七姐妹”，部分港资券商抢开户，最后的窗口期真能安全吗？",
-          "url": "https://www.cls.cn/detail/2392638",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 02时05分]"
-        },
-        {
-          "title": "美股暴跌是AI第一次冲击人类经济吗",
-          "url": "https://www.toutiao.com/trending/7648276875000679942/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 02时05分]"
-        },
-        {
-          "title": "特朗普称美股应随“绝佳”就业报告上涨，哈塞特表示定价年内加息是错误的",
-          "url": "https://wallstreetcn.com/articles/3773991",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 02时05分]"
-        },
-        {
-          "title": "如何应对美股泡沫爆破",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E5%BA%94%E5%AF%B9%E7%BE%8E%E8%82%A1%E6%B3%A1%E6%B2%AB%E7%88%86%E7%A0%B4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时04分 ~ 02时05分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "特朗普",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "特朗普“官宣”：我和马斯克又成朋友了",
@@ -87,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 02时05分]"
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 04时04分]"
         },
         {
           "title": "特朗普戴上金牌后开玩笑称“不想还了”：我喜欢金子，要留着",
@@ -98,8 +26,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 02时05分]"
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 04时04分]"
+        },
+        {
+          "title": "对伊战争百日 特朗普仍未赢得美国民众支持",
+          "url": "https://flash.jin10.com/detail/20260607031222169800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时04分"
         },
         {
           "title": "特朗普首席人工智能顾问克里希南将于月底离职",
@@ -136,6 +75,91 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时59分 ~ 02时05分]"
+        },
+        {
+          "title": "伊朗高官：谈判主动权在特朗普手里",
+          "url": "https://www.toutiao.com/trending/7648086385831804969/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "非农大超预期，美股债“双杀”，纳指重挫超4%，芯片指数暴跌10%，贵金属、加密货币遭“血洗”",
+          "url": "https://wallstreetcn.com/articles/3773946",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 04时04分]"
+        },
+        {
+          "title": "美股收盘：强劲非农引发加息担忧 AI热潮降温纳指重挫逾4%",
+          "url": "https://www.cls.cn/detail/2392497",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 04时04分]"
+        },
+        {
+          "title": "开户就送“美股七姐妹”，部分港资券商抢开户，最后的窗口期真能安全吗？",
+          "url": "https://www.cls.cn/detail/2392638",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 04时04分]"
+        },
+        {
+          "title": "美股暴跌是AI第一次冲击人类经济吗",
+          "url": "https://www.toutiao.com/trending/7648276875000679942/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 04时04分]"
+        },
+        {
+          "title": "特朗普称美股应随“绝佳”就业报告上涨，哈塞特表示定价年内加息是错误的",
+          "url": "https://wallstreetcn.com/articles/3773991",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 04时04分]"
+        },
+        {
+          "title": "如何应对美股泡沫爆破",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E5%BA%94%E5%AF%B9%E7%BE%8E%E8%82%A1%E6%B3%A1%E6%B2%AB%E7%88%86%E7%A0%B4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时04分 ~ 04时04分]"
         }
       ]
     },
@@ -152,8 +176,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 02时05分]"
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 04时04分]"
         }
       ]
     },
@@ -169,8 +193,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 02时05分]"
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 04时04分]"
         }
       ]
     }
