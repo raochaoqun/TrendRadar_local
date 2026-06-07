@@ -1,33 +1,58 @@
 {
-  "generated_at": "2026-06-08T05:01:35.798313+08:00",
-  "total_titles_processed": 470,
+  "generated_at": "2026-06-08T06:06:23.394143+08:00",
+  "total_titles_processed": 512,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 31,
       "titles": [
+        {
+          "title": "据阿拉伯卫星电视台：内塔尼亚胡与特朗普的通话持续了20分钟。",
+          "url": "https://flash.jin10.com/detail/20260608054713959800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时06分"
+        },
         {
           "title": "据半岛电视台：特朗普和内塔尼亚胡正在进行电话交谈。",
           "url": "https://flash.jin10.com/detail/20260608045243340800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 06时06分]"
         },
         {
           "title": "特朗普：已知晓以伊最新局势，美军处于戒备状态",
           "url": "https://wallstreetcn.com/livenews/3115629",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 06时06分]"
+        },
+        {
+          "title": "特朗普告诉以色列不要反击",
+          "url": "https://wallstreetcn.com/livenews/3115621",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 06时06分]"
         },
         {
           "title": "特朗普称解冻伊朗资产或解除制裁不是协议先决条件",
@@ -42,15 +67,61 @@
           "time_info": "[01时05分 ~ 03时06分]"
         },
         {
+          "title": "美国总统特朗普：将打电话给以色列总理内塔尼亚胡，要求他不要回击（伊朗）。 伊朗对以色列的打击没有伤害到任何人，希望以色列不要打击报复。 如果内塔尼亚胡回击，将重演过去47年、或者过去3000年的历史。 以色列和伊朗“这两个国家都很有趣”。 我们非常接近与伊朗达成一份协议，我可不想因为当前发生的事而失控。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3115619",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 06时06分]"
+        },
+        {
+          "title": "特朗普建议伊朗发射了导弹就够了",
+          "url": "https://wallstreetcn.com/livenews/3115617",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 06时06分]"
+        },
+        {
           "title": "美国总统特朗普：一切进展顺利。",
           "url": "https://flash.jin10.com/detail/20260608043710675800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
+        },
+        {
+          "title": "据沙特媒体哈达斯：特朗普与内塔尼亚胡通话结束。",
+          "url": "https://flash.jin10.com/detail/20260608051817435800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时06分"
+        },
+        {
+          "title": "美国总统特朗普与以色列总理内塔尼亚胡通电话。（以色列媒体）",
+          "url": "https://wallstreetcn.com/livenews/3115636",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时06分"
         },
         {
           "title": "【特朗普对伊朗喊话：行了，回来谈判吧】美国总统特朗普7日接受美媒采访时称, 伊朗当天稍早时向以色列实施导弹打击“无助于谈判”。他催促伊朗重返谈判桌。特朗普对美国福克斯新闻频道说：“我对伊朗的建议是：你们已经发射了导弹，就行了。回到谈判桌前，达成协议吧。”（新华社）",
@@ -59,7 +130,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -70,7 +141,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -103,18 +174,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时01分"
-        },
-        {
-          "title": "特朗普告诉以色列不要反击",
-          "url": "https://wallstreetcn.com/livenews/3115621",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -125,7 +185,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -147,18 +207,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时01分"
-        },
-        {
-          "title": "美国总统特朗普：将打电话给以色列总理内塔尼亚胡，要求他不要回击（伊朗）。 伊朗对以色列的打击没有伤害到任何人，希望以色列不要打击报复。 如果内塔尼亚胡回击，将重演过去47年、或者过去3000年的历史。 以色列和伊朗“这两个国家都很有趣”。 我们非常接近与伊朗达成一份协议，我可不想因为当前发生的事而失控。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3115619",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -180,18 +229,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时01分"
-        },
-        {
-          "title": "特朗普建议伊朗发射了导弹就够了",
-          "url": "https://wallstreetcn.com/livenews/3115617",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -213,7 +251,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -240,6 +278,17 @@
           "time_info": "03时06分"
         },
         {
+          "title": "特朗普对伊朗喊话：行了，回来谈判吧",
+          "url": "https://wallstreetcn.com/livenews/3115623",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时06分"
+        },
+        {
           "title": "学者：特朗普外交抑制了两极化阵营化",
           "url": "https://www.toutiao.com/trending/7647971110792757299/",
           "source": "今日头条",
@@ -257,7 +306,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -268,7 +317,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -290,7 +339,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -319,8 +368,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时05分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时05分 ~ 06时06分]"
         },
         {
           "title": "短期美股科技股调整，风险如何应对？十大券商策略来了",
@@ -331,8 +380,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时05分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时05分 ~ 06时06分]"
         },
         {
           "title": "美股黑色星期五调整的本质是什么？如何影响A股？",
@@ -344,8 +393,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时05分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时05分 ~ 06时06分]"
         },
         {
           "title": "如何看待美股黑色星期五？如何影响A股？",
@@ -355,8 +404,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时05分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时05分 ~ 06时06分]"
         },
         {
           "title": "国泰海通：美股或迎来至少一两个月的波动期",
@@ -376,7 +425,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -387,7 +436,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         }
@@ -407,8 +456,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时05分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时05分 ~ 06时06分]"
         },
         {
           "title": "\"聊天已死\"！ChatGPT最大改版来了，OpenAI要造\"超级应用\"",
@@ -418,8 +467,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时05分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时05分 ~ 06时06分]"
         }
       ]
     },
@@ -436,8 +485,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时05分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时05分 ~ 06时06分]"
         }
       ]
     },
@@ -452,7 +501,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         }
