@@ -1,12 +1,27 @@
 {
-  "generated_at": "2026-06-11T13:21:24.826538+08:00",
-  "total_titles_processed": 817,
+  "generated_at": "2026-06-11T18:05:14.174810+08:00",
+  "total_titles_processed": 1031,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
       "match_count": 42,
       "titles": [
+        {
+          "title": "特朗普威胁打击伊朗电厂、桥梁，油价应声攀升，俄外交部：袭击民用设施“绝对不可接受”",
+          "url": "https://wallstreetcn.com/articles/3774340",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时51分 ~ 18时05分]"
+        },
         {
           "title": "美贸易法院：特朗普，快退钱！",
           "url": "https://news.ifeng.com/c/8tqRZQUDFAS",
@@ -19,27 +34,13 @@
           "time_info": "[01时51分 ~ 08时09分]"
         },
         {
-          "title": "特朗普威胁打击伊朗电厂、桥梁，油价应声攀升，俄外交部：袭击民用设施“绝对不可接受”",
-          "url": "https://wallstreetcn.com/articles/3774340",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时51分 ~ 13时21分]"
-        },
-        {
           "title": "特朗普公开了一个秘密，全世界都有点懵",
           "url": "https://news.ifeng.com/c/8tos3hBXZVW",
           "source": "凤凰网",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时21分"
         },
@@ -72,7 +73,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时21分"
         },
@@ -83,7 +84,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时21分"
         },
@@ -94,7 +95,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时21分"
         },
@@ -482,6 +483,18 @@
       "match_count": 11,
       "titles": [
         {
+          "title": "伊朗局势骤然升级，原油大涨，科技股抛售拖累美股，盘后甲骨文跳水9%，黄金暴跌",
+          "url": "https://wallstreetcn.com/articles/3774300",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时08分 ~ 18时05分]"
+        },
+        {
           "title": "美股收盘：避险情绪升温芯片板块再现抛售潮 道指纳指跌近2%",
           "url": "https://www.cls.cn/detail/2396570",
           "source": "财联社热门",
@@ -494,18 +507,6 @@
           "time_info": "[06时47分 ~ 13时21分]"
         },
         {
-          "title": "伊朗局势骤然升级，原油大涨，科技股抛售拖累美股，盘后甲骨文跳水9%，黄金暴跌",
-          "url": "https://wallstreetcn.com/articles/3774300",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时08分 ~ 13时21分]"
-        },
-        {
           "title": "甲骨文(ORCL.N)美股盘后跌超5%。",
           "url": "https://flash.jin10.com/detail/20260611040637443800",
           "source": "金十数据",
@@ -515,6 +516,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时11分"
+        },
+        {
+          "title": "美银：美股净抛售创纪录，科技板块外流达2008年以来最高",
+          "url": "https://wallstreetcn.com/articles/3774357",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时21分 ~ 18时05分]"
         },
         {
           "title": "美国通胀创三年新高，美股低开，科技股普跌，光通信股反弹，油价攀升",
@@ -538,17 +550,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时11分"
-        },
-        {
-          "title": "美银：美股净抛售创纪录，科技板块外流达2008年以来最高",
-          "url": "https://wallstreetcn.com/articles/3774357",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时21分"
         },
         {
           "title": "金十图示：2026年06月10日（周三）美股热门股票行情一览（美股盘中）",
@@ -638,11 +639,12 @@
           "url": "https://www.cls.cn/detail/2396831",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时21分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时21分 ~ 18时05分]"
         },
         {
           "title": "OpenAI与甲骨文构建合作伙伴关系。 双方将围绕面向OCI（甲骨文云基础设施建设）客户的Codex进行合作。",
