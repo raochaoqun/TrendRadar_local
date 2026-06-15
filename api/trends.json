@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-15T08:02:10.445855+08:00",
-  "total_titles_processed": 622,
+  "generated_at": "2026-06-15T14:14:40.125053+08:00",
+  "total_titles_processed": 845,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 54,
       "titles": [
         {
           "title": "美伊协议何时签署？特朗普说14日，伊朗否认，“霍尔木兹海峡是否“免费”重开”也各执一词",
@@ -87,6 +87,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时08分 ~ 06时08分]"
+        },
+        {
+          "title": "美伊协议“达成”！特朗普称“霍尔木兹海峡周五免费开放”，抨击内塔尼亚胡“失去理智”，伊朗称“所获成果远大于承诺”",
+          "url": "https://wallstreetcn.com/articles/3774634",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时14分"
         },
         {
           "title": "俄总统助理：特朗普告知俄方美伊谈判取得可接受结果",
@@ -247,6 +258,28 @@
           "time_info": "[08时01分 ~ 08时02分]"
         },
         {
+          "title": "80大寿，特朗普被气炸了",
+          "url": "https://news.ifeng.com/c/8tyA1p0naKZ",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时14分"
+        },
+        {
+          "title": "普京与特朗普通话",
+          "url": "https://news.ifeng.com/c/8txdaXj6SxP",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时14分"
+        },
+        {
           "title": "美国总统特朗普对福克斯新闻表示：与伊朗的协议将先以远程方式签署，随后可能在一周后于欧洲举行面对面签字仪式。",
           "url": "https://flash.jin10.com/detail/20260615002828559800",
           "source": "金十数据",
@@ -267,6 +300,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
+        },
+        {
+          "title": "美伊和谈迎突破性进展！特朗普称协议已完成 签署仪式拟周五举行",
+          "url": "https://www.cls.cn/detail/2399494",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时14分"
         },
         {
           "title": "俄罗斯总统助理乌沙科夫：特朗普向普京表示伊朗协议即将达成，普京对冲突行将结束表示满意。",
@@ -297,7 +341,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         },
@@ -357,6 +401,17 @@
           "time_info": "01时08分"
         },
         {
+          "title": "特朗普：美伊协议“完成”，霍尔木兹海峡开放",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33379774",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时14分"
+        },
+        {
           "title": "俄总统助理：特朗普告知俄方美伊谈判取得可接受结果",
           "url": "https://flash.jin10.com/detail/20260615002139607800",
           "source": "金十数据",
@@ -396,9 +451,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
+        },
+        {
+          "title": "特朗普就欧洲数字税一事威胁对法国征收100%的葡萄酒关税。（纽约邮报）",
+          "url": "https://wallstreetcn.com/livenews/3119465",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时14分"
         },
         {
           "title": "据以色列第12频道：美国总统特朗普称，我与内塔尼亚胡通话时告诉他：“你到底在干什么？？？”",
@@ -440,7 +506,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         },
@@ -451,7 +517,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         },
@@ -465,6 +531,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时08分"
+        },
+        {
+          "title": "特朗普批评以色列“干扰”美伊签署协议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33379411",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时14分"
         },
         {
           "title": "普京与特朗普通话 讨论伊朗局势和乌克兰危机",
@@ -495,7 +572,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         },
@@ -509,6 +586,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时08分"
+        },
+        {
+          "title": "以色列国家安全部长格维尔：我们热爱美国，也感谢特朗普总统。然而，以色列不是那种可以被外国势力随意摆布的国家。",
+          "url": "https://flash.jin10.com/detail/20260615135405676800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时14分"
         },
         {
           "title": "据以色列第13频道：以方评估认为，特朗普旨在阻止伊朗发动打击的努力将取得成功。",
@@ -528,7 +616,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         }
@@ -543,11 +631,12 @@
           "url": "https://wallstreetcn.com/articles/3774610",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时08分 ~ 08时02分]"
+          "appearance_count": 8,
+          "time_info": "[01时08分 ~ 14时14分]"
         }
       ]
     },
@@ -577,11 +666,12 @@
           "url": "https://www.cls.cn/detail/2399448",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时01分 ~ 08时02分]"
+          "appearance_count": 3,
+          "time_info": "[08时01分 ~ 14时14分]"
         }
       ]
     },
