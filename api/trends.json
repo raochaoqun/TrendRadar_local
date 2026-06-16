@@ -1,8 +1,146 @@
 {
-  "generated_at": "2026-06-17T01:54:22.212815+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2026-06-17T04:37:13.022459+08:00",
+  "total_titles_processed": 408,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "美股",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "美伊达成协议，半导体股领涨美股，道指新高，油价重挫5%，黄金三连涨",
+          "url": "https://wallstreetcn.com/articles/3774633",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时54分 ~ 04时37分]"
+        },
+        {
+          "title": "美股指涨跌互现，SpaceX大涨17%，总市值逼近3万亿美元，存储概念股走高",
+          "url": "https://wallstreetcn.com/articles/3774774",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时54分 ~ 04时37分]"
+        },
+        {
+          "title": "美股大类资产类ETF涨跌各异，农产品基金收涨超1%，布油基金跌约4.7%",
+          "url": "https://wallstreetcn.com/livenews/3120490",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时37分"
+        },
+        {
+          "title": "半导体ETF收跌4.8%，领跌美股行业ETF，标普金融板块收涨将近1.5%",
+          "url": "https://wallstreetcn.com/livenews/3120489",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时37分"
+        },
+        {
+          "title": "金十图示：2026年06月16日（周二）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260617040526431800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时37分"
+        },
+        {
+          "title": "金十图示：2026年06月16日（周二）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260617040524359800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时37分"
+        },
+        {
+          "title": "美股期指横盘整理 SpaceX盘前再度大涨 市值逼近亚马逊 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2401513",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时54分 ~ 04时37分]"
+        },
+        {
+          "title": "如何评价经济诺奖得主称马斯克是庞氏骗局， SpaceX 上市让普通投资者被迫买单，会对美股带来什么影响？",
+          "url": "https://www.zhihu.com/question/2049776018660103123",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时54分 ~ 04时37分]"
+        },
+        {
+          "title": "美股收盘：三大股指涨跌不一，SpaceX高位回落收涨近5%",
+          "url": "https://flash.jin10.com/detail/20260617040157823800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时37分"
+        },
+        {
+          "title": "金十图示：2026年06月16日（周二）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260617010927772800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时54分"
+        },
+        {
+          "title": "金十图示：2026年06月16日（周二）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260617010835967800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时54分"
+        },
+        {
+          "title": "高盛交易员：中东局势缓和推动美股投资者关注AI以外板块",
+          "url": "https://wallstreetcn.com/livenews/3120418",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时54分"
+        }
+      ]
+    },
     {
       "keyword_group": "特朗普",
       "match_count": 9,
@@ -15,19 +153,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时54分"
-        },
-        {
-          "title": "特朗普和马克龙为何为一瓶红酒较劲",
-          "url": "https://www.toutiao.com/trending/7651982793936735807/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时54分"
+          "appearance_count": 3,
+          "time_info": "[01时54分 ~ 04时37分]"
         },
         {
           "title": "特朗普称美伊协议已签署",
@@ -41,6 +168,30 @@
           "time_info": "01时54分"
         },
         {
+          "title": "特朗普和马克龙为何为一瓶红酒较劲",
+          "url": "https://www.toutiao.com/trending/7651982793936735807/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时54分 ~ 04时37分]"
+        },
+        {
+          "title": "特朗普大发雷霆后，内塔尼亚胡回应：以军不撤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33388365",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时54分 ~ 04时37分]"
+        },
+        {
           "title": "泽连斯基向特朗普提议：这样普京更难拒绝",
           "url": "https://news.ifeng.com/c/8tzn14Ioj6Y",
           "source": "凤凰网",
@@ -48,19 +199,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时54分"
-        },
-        {
-          "title": "特朗普大发雷霆后，内塔尼亚胡回应：以军不撤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33388365",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时54分"
+          "appearance_count": 3,
+          "time_info": "[01时54分 ~ 04时37分]"
         },
         {
           "title": "美国加州州长Newsom：（对于总统特朗普挑起的司法调查）我们（夫妻俩）没啥好隐藏的。",
@@ -109,89 +249,6 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "美伊达成协议，半导体股领涨美股，道指新高，油价重挫5%，黄金三连涨",
-          "url": "https://wallstreetcn.com/articles/3774633",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时54分"
-        },
-        {
-          "title": "美股指涨跌互现，SpaceX大涨17%，总市值逼近3万亿美元，存储概念股走高",
-          "url": "https://wallstreetcn.com/articles/3774774",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时54分"
-        },
-        {
-          "title": "美股期指横盘整理 SpaceX盘前再度大涨 市值逼近亚马逊 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2401513",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时54分"
-        },
-        {
-          "title": "如何评价经济诺奖得主称马斯克是庞氏骗局， SpaceX 上市让普通投资者被迫买单，会对美股带来什么影响？",
-          "url": "https://www.zhihu.com/question/2049776018660103123",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时54分"
-        },
-        {
-          "title": "金十图示：2026年06月16日（周二）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260617010927772800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时54分"
-        },
-        {
-          "title": "金十图示：2026年06月16日（周二）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260617010835967800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时54分"
-        },
-        {
-          "title": "高盛交易员：中东局势缓和推动美股投资者关注AI以外板块",
-          "url": "https://wallstreetcn.com/livenews/3120418",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时54分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek",
       "match_count": 3,
       "titles": [
@@ -200,22 +257,24 @@
           "url": "https://www.toutiao.com/trending/7651979830128283145/",
           "source": "今日头条",
           "ranks": [
-            1
+            1,
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时54分"
+          "appearance_count": 3,
+          "time_info": "[01时54分 ~ 04时37分]"
         },
         {
           "title": "曝DeepSeek首轮融资梁文锋出资200亿",
           "url": "https://www.toutiao.com/trending/7651579346738855979/",
           "source": "今日头条",
           "ranks": [
-            5
+            5,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时54分"
+          "appearance_count": 3,
+          "time_info": "[01时54分 ~ 04时37分]"
         },
         {
           "title": "DeepSeek首轮融资梁文锋出资200亿",
@@ -232,8 +291,19 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "美元指数16日下跌",
+          "url": "https://flash.jin10.com/detail/20260617040255849800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时37分"
+        },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌3.34%，暂报2380.03点，整体持续走低。 MarketVectorTM数字资产100中盘指数跌3.40%，报2730.06点，出现一波V形走势之后转跌、在北京时间22:33刷新期内最低位至2712.52点。 MarketVector数字资产100指数跌2.53%，报13051.20点，22:33也刷新期内最低位至12983.30点。 目前，Solana跌2.87%，狗狗币跌2.86%，XRP跌4.97%。 比特币跌1.42%，暂报65665.81美元；以太坊跌2.52%，暂报1777.06美元。",
           "url": "https://wallstreetcn.com/livenews/3120444",
@@ -244,6 +314,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
+        },
+        {
+          "title": "周二（6月16日）纽约尾盘，ICE美元指数跌0.09%，报99.543点，日内交投区间为99.791-99.461点。 彭博美元指数跌0.12%，报1204.72点，日内交投区间为1207.31-1204.02点。",
+          "url": "https://wallstreetcn.com/livenews/3120470",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时37分"
         }
       ]
     }
