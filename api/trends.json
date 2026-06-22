@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-22T07:01:15.880304+08:00",
-  "total_titles_processed": 504,
+  "generated_at": "2026-06-22T08:12:37.004375+08:00",
+  "total_titles_processed": 601,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 38,
       "titles": [
         {
           "title": "万斯：特朗普致力于区域全面停火，希望改善与伊朗人的关系",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时18分 ~ 07时01分]"
+          "appearance_count": 7,
+          "time_info": "[01时18分 ~ 08时12分]"
         },
         {
           "title": "事关霍尔木兹！特朗普最新发声 美伊技术层面谈判今日举行",
@@ -27,8 +27,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时18分 ~ 07时01分]"
+          "appearance_count": 7,
+          "time_info": "[01时18分 ~ 08时12分]"
         },
         {
           "title": "叙利亚总统al-Sharaa：美国总统特朗普有关叙利亚与黎巴嫩（政府）的论调被误解了。 叙利亚可能会支持黎巴嫩政府机构。（SANA）",
@@ -42,17 +42,6 @@
           "time_info": "03时14分"
         },
         {
-          "title": "特朗普再轰《纽约时报》：虚假报道伊朗 简直是叛国！",
-          "url": "https://flash.jin10.com/detail/20260622063046911800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时01分"
-        },
-        {
           "title": "抗议特朗普威胁言论 伊朗代表团离开谈判地点",
           "url": "https://flash.jin10.com/detail/20260622004746632800",
           "source": "金十数据",
@@ -62,17 +51,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
-        },
-        {
-          "title": "特朗普谈判期间再次发出威胁 国际油价周一开盘上涨",
-          "url": "https://flash.jin10.com/detail/20260622061920162800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时01分"
         },
         {
           "title": "特朗普：斯塔默将辞去英国首相职务",
@@ -99,6 +77,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时19分 ~ 05时04分]"
+        },
+        {
+          "title": "特朗普再轰《纽约时报》：虚假报道伊朗 简直是叛国！",
+          "url": "https://flash.jin10.com/detail/20260622063046911800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时01分 ~ 08时12分]"
         },
         {
           "title": "美国总统特朗普：以色列无法“干掉”（黎巴嫩）真主党，这让我感到失望。",
@@ -136,6 +126,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时14分 ~ 05时04分]"
+        },
+        {
+          "title": "特朗普谈判期间再次发出威胁 国际油价周一开盘上涨",
+          "url": "https://flash.jin10.com/detail/20260622061920162800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时01分 ~ 08时12分]"
         },
         {
           "title": "特朗普的新专机，首次亮相",
@@ -308,6 +310,17 @@
           "time_info": "[01时19分 ~ 03时14分]"
         },
         {
+          "title": "特朗普发文威胁伊朗 美伊谈判暂停",
+          "url": "https://www.toutiao.com/trending/7653992819803033138/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时12分"
+        },
+        {
           "title": "伊朗代表团因抗议特朗普言论而离开谈判会场",
           "url": "https://flash.jin10.com/detail/20260622003140203800",
           "source": "金十数据",
@@ -330,6 +343,17 @@
           "time_info": "03时14分"
         },
         {
+          "title": "美国总统特朗普将于周一下午（北京时间次日凌晨）3:30签署行政命令。",
+          "url": "https://flash.jin10.com/detail/20260622072155605800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时12分"
+        },
+        {
           "title": "美国总统特朗普：在为北约花费数万亿美元之后，意大利及其总理连考虑介入伊朗及其核威胁的念头都不曾有。数十年来，我们保卫他们，但一旦受到考验，他们却不在我们和世界其他国家最需要的时候挺身而出。令人失望！",
           "url": "https://flash.jin10.com/detail/20260622034301639800",
           "source": "金十数据",
@@ -347,7 +371,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         },
@@ -369,7 +393,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         },
@@ -380,9 +404,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
+        },
+        {
+          "title": "特朗普最新威胁激怒德黑兰，美伊瑞士会谈在混乱中启动",
+          "url": "https://flash.jin10.com/detail/20260622070159969800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时12分"
         },
         {
           "title": "美国总统特朗普：霍尔木兹海峡是开放的，石油正在“喷涌”。",
@@ -391,7 +426,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         },
@@ -441,7 +476,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         }
