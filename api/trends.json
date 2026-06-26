@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-26T14:43:41.139356+08:00",
-  "total_titles_processed": 968,
+  "generated_at": "2026-06-26T18:14:05.095906+08:00",
+  "total_titles_processed": 1164,
   "failed_sources": [],
   "trends": [
     {
@@ -216,7 +216,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "美股收盘：科技巨头回落拖累纳指收跌 芯片股暴拉难挽大盘颓势",
@@ -253,6 +253,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时15分 ~ 07时08分]"
+        },
+        {
+          "title": "苹果涨价引爆芯片股崩盘，美股盘前半导体股普跌，韩股收跌5.8%，黄金持稳于4000美元附近",
+          "url": "https://wallstreetcn.com/articles/3775571",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时13分 ~ 18时14分]"
         },
         {
           "title": "Rocket Lab美股盘后涨幅扩大至5%，该公司赢得一份NASA合同。",
@@ -371,7 +382,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "特朗普政府首次介入AI模型发布：要求OpenAI限制首批开放范围",
@@ -380,7 +391,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时43分"
         },
@@ -407,6 +418,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时21分 ~ 07时08分]"
+        },
+        {
+          "title": "被SpaceX大跌吓退了？OpenAI据传考虑推迟IPO计划 力争万亿美元估值",
+          "url": "https://www.cls.cn/detail/2409706",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时13分 ~ 18时14分]"
         },
         {
           "title": "根据销售AI账单审计工具的公司Vaudit的数据，由于计费错误，一些客户支付给Anthropic和OpenAI产品的费用可能高于实际应支付的金额。（The Information）",
@@ -579,6 +601,17 @@
           "time_info": "[10时13分 ~ 14时43分]"
         },
         {
+          "title": "所有部门规模至少扩大一倍！DeepSeek发布“英雄帖”：人类正处于AGI前夜",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33454877",
+          "source": "澎湃新闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时43分 ~ 18时14分]"
+        },
+        {
           "title": "DeepSeek大规模招聘",
           "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%8B%9B%E8%81%98%23&t=31&band_rank=8&Refer=top",
           "source": "微博",
@@ -589,17 +622,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时13分 ~ 14时43分]"
-        },
-        {
-          "title": "所有部门规模至少扩大一倍！DeepSeek发布“英雄帖”：人类正处于AGI前夜",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33454877",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时43分"
         },
         {
           "title": "DeepSeek大规模招聘：至少扩大一倍",
