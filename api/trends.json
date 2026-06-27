@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-28T04:50:48.401496+08:00",
-  "total_titles_processed": 413,
+  "generated_at": "2026-06-28T05:54:34.342352+08:00",
+  "total_titles_processed": 433,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "欧盟回应特朗普关税威胁：坚决捍卫自身权利",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 04时50分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 05时54分]"
         },
         {
           "title": "“特朗普在伊朗碰了钉子，所以默许乌克兰袭击莫斯科”",
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 04时50分]"
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 05时54分]"
         },
         {
           "title": "美军再次对伊朗实施打击 特朗普指责伊朗违反停火协议",
@@ -37,41 +37,30 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 04时50分]"
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 05时54分]"
         },
         {
-          "title": "机构：特朗普施压美联储降息导致通胀高于2%的情景不太可能发生",
-          "url": "https://flash.jin10.com/detail/20260628041744920800",
+          "title": "黎巴嫩总统府表示，特朗普向黎巴嫩总统奥恩确认，美国将支持黎巴嫩经济和合法安全力量。",
+          "url": "https://flash.jin10.com/detail/20260628050053611800",
           "source": "金十数据",
           "ranks": [
-            3
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时50分"
+          "time_info": "05时54分"
         },
         {
-          "title": "特朗普提名兰斯·施罗耶出任美移民与海关执法局局长",
-          "url": "https://flash.jin10.com/detail/20260628035930738800",
+          "title": "黎巴嫩总统府表示，黎巴嫩总统奥恩在与美国总统特朗普的电话中表示，黎巴嫩将承担与以色列实施框架协议的责任。黎巴嫩总统奥恩已请求美国协助防止协议被违反，并施压以色列撤出南部地区。",
+          "url": "https://flash.jin10.com/detail/20260628045321794800",
           "source": "金十数据",
           "ranks": [
-            4
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时50分"
-        },
-        {
-          "title": "据MSNow白宫记者：美国总统特朗普已经从弗吉尼亚高尔夫俱乐部返回白宫。",
-          "url": "https://flash.jin10.com/detail/20260628035130525800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时50分"
+          "time_info": "05时54分"
         },
         {
           "title": "特朗普孙女发逛白宫vlog美国网友破防",
@@ -80,11 +69,60 @@
           "ranks": [
             23,
             13,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时56分 ~ 04时50分]"
+          "appearance_count": 5,
+          "time_info": "[01时56分 ~ 05时54分]"
+        },
+        {
+          "title": "机构：特朗普施压美联储降息导致通胀高于2%的情景不太可能发生",
+          "url": "https://flash.jin10.com/detail/20260628041744920800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时50分 ~ 05时54分]"
+        },
+        {
+          "title": "特朗普提名兰斯·施罗耶出任美移民与海关执法局局长",
+          "url": "https://flash.jin10.com/detail/20260628035930738800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时50分 ~ 05时54分]"
+        },
+        {
+          "title": "据MSNow白宫记者：美国总统特朗普已经从弗吉尼亚高尔夫俱乐部返回白宫。",
+          "url": "https://flash.jin10.com/detail/20260628035130525800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时50分 ~ 05时54分]"
+        },
+        {
+          "title": "特朗普提名兰斯·施罗耶担任美国移民与海关执法局（ICE）的下一任局长职务。",
+          "url": "https://flash.jin10.com/detail/20260628033654937800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时50分 ~ 05时54分]"
         },
         {
           "title": "特朗普公布“爱国者护照”新版效果图",
@@ -99,26 +137,16 @@
           "time_info": "[00时57分 ~ 01时56分]"
         },
         {
-          "title": "特朗普提名兰斯·施罗耶担任美国移民与海关执法局（ICE）的下一任局长职务。",
-          "url": "https://flash.jin10.com/detail/20260628033654937800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时50分"
-        },
-        {
           "title": "美媒：特朗普和内塔尼亚胡的交流比以前少了很多",
           "url": "https://flash.jin10.com/detail/20260628025551765800",
           "source": "金十数据",
           "ranks": [
-            13
+            13,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时50分 ~ 05时54分]"
         }
       ]
     },
@@ -134,8 +162,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 04时50分]"
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 05时54分]"
         },
         {
           "title": "【早报】美军再次对伊朗发动打击；美股半导体指数重挫5.29%；油价走低、黄金收涨；法国4-1击败挪威小组第一出线",
@@ -145,8 +173,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 04时50分]"
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 05时54分]"
         },
         {
           "title": "美股连跌的“核心逻辑”:“最大权重”Mag 7陨落",
@@ -156,8 +184,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 04时50分]"
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 05时54分]"
         },
         {
           "title": "美股收盘：三大指数小幅收跌 存储概念股全线重挫",
@@ -168,8 +196,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 04时50分]"
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 05时54分]"
         }
       ]
     },
@@ -186,8 +214,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 04时50分]"
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 05时54分]"
         },
         {
           "title": "刚刚，DeepSeek V4更新DSpark，推理速度提升80%",
@@ -197,8 +225,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 04时50分]"
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 05时54分]"
         },
         {
           "title": "如何评价 DeepSeek 与智谱均声明将在下半年大规模使用华为昇腾 950 超节点？",
@@ -227,8 +255,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 04时50分]"
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 05时54分]"
         },
         {
           "title": "“OpenAI推迟上市”之下：甲骨文、Nebius带头硬件股下跌，ServiceNow和Workday领衔软件股全线大涨",
@@ -238,8 +266,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 04时50分]"
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 05时54分]"
         }
       ]
     }
