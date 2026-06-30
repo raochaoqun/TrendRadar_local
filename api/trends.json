@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-30T18:25:03.287262+08:00",
-  "total_titles_processed": 1208,
+  "generated_at": "2026-06-30T21:04:08.203015+08:00",
+  "total_titles_processed": 1370,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 37,
       "titles": [
         {
           "title": "特朗普坚称美伊周二会谈 科技板块起势反弹 | 今夜看点",
@@ -31,6 +31,30 @@
           "time_info": "[00时38分 ~ 06时04分]"
         },
         {
+          "title": "“我不在乎中期选举”：特朗普惹恼共和党议员",
+          "url": "https://news.ifeng.com/c/8uNrdCXnoF5",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时03分 ~ 21时04分]"
+        },
+        {
+          "title": "美最高法院裁定库克暂时留任，特朗普称将确保其不影响重大货币政策决定",
+          "url": "https://wallstreetcn.com/articles/3775773",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时14分 ~ 21时04分]"
+        },
+        {
           "title": "特朗普宣布美伊将会谈，伊朗却公开否认！双方连会不会见面都没谈拢",
           "url": "https://flash.jin10.com/detail/20260630073601084800",
           "source": "金十数据",
@@ -53,16 +77,15 @@
           "time_info": "07时54分"
         },
         {
-          "title": "美最高法院裁定库克暂时留任，特朗普称将确保其不影响重大货币政策决定",
-          "url": "https://wallstreetcn.com/articles/3775773",
-          "source": "华尔街见闻",
+          "title": "遭特朗普讽刺后，英首相最热人选拒绝美国邀请",
+          "url": "https://news.ifeng.com/c/8uNYuN5imVw",
+          "source": "凤凰网",
           "ranks": [
-            10,
-            9
+            10
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[10时14分 ~ 18时25分]"
+          "time_info": "[18时24分 ~ 21时04分]"
         },
         {
           "title": "特朗普性侵案上诉失败，被裁决赔偿女作家500万美元",
@@ -86,17 +109,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时49分 ~ 06时04分]"
-        },
-        {
-          "title": "遭特朗普讽刺后，英首相最热人选拒绝美国邀请",
-          "url": "https://news.ifeng.com/c/8uNYuN5imVw",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时24分 ~ 18时25分]"
         },
         {
           "title": "据华尔街日报：美国国税局调整规则，免除多数“特朗普账户”持有人因小额投入而产生的赠与税申报义务。",
@@ -405,7 +417,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         }
@@ -413,7 +425,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "美股三大指数高开低走，纳指转跌，美光跌3.5%，油价回到70上方",
@@ -573,6 +585,17 @@
           "time_info": "[04时49分 ~ 06时04分]"
         },
         {
+          "title": "美股太阳能股盘前上涨，Enphase Energy涨12%，SolarEdge Technologies涨11%，Sunrun涨3.5%，Fluence Energy涨6.3%。",
+          "url": "https://wallstreetcn.com/livenews/3126785",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
           "title": "美股费城半导体指数涨幅扩大至3.2%。",
           "url": "https://wallstreetcn.com/livenews/3126274",
           "source": "华尔街见闻-快讯",
@@ -641,11 +664,12 @@
           "url": "https://www.zhihu.com/question/2055040930516824522",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时24分 ~ 18时25分]"
+          "appearance_count": 4,
+          "time_info": "[18时24分 ~ 21时04分]"
         },
         {
           "title": "DeepSeek V4定档7月中旬，峰谷API定价同步落地",
@@ -695,11 +719,12 @@
           "url": "https://wallstreetcn.com/articles/3775727",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时53分 ~ 18时25分]"
+          "appearance_count": 8,
+          "time_info": "[07时53分 ~ 21时04分]"
         },
         {
           "title": "谷歌母公司支持旨在助推太空产业的金融科技公司",
