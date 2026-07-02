@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-02T10:11:07.904259+08:00",
-  "total_titles_processed": 760,
+  "generated_at": "2026-07-02T14:31:57.434413+08:00",
+  "total_titles_processed": 966,
   "failed_sources": [],
   "trends": [
     {
@@ -42,22 +42,22 @@
           "time_info": "[05时17分 ~ 07时03分]"
         },
         {
-          "title": "特朗普又来：绝不让中国接管巴拿马运河",
-          "url": "https://news.ifeng.com/c/8uQHApVzfAw",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 10时11分]"
-        },
-        {
           "title": "美议员：不许苹果找中企买，坏了特朗普大事",
           "url": "https://news.ifeng.com/c/8uQPHHBXrUC",
           "source": "凤凰网",
           "ranks": [
             11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时10分 ~ 14时31分]"
+        },
+        {
+          "title": "特朗普又来：绝不让中国接管巴拿马运河",
+          "url": "https://news.ifeng.com/c/8uQHApVzfAw",
+          "source": "凤凰网",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -278,7 +278,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "AI热情驱动美股收涨，道指续收新高，标普纳指创史上最佳季度之一，美债跌",
@@ -308,11 +308,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时02分 ~ 10时11分]"
+          "appearance_count": 5,
+          "time_info": "[07时02分 ~ 14时31分]"
         },
         {
           "title": "美股",
@@ -370,9 +371,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
+        },
+        {
+          "title": "Meta 拟对外出售剩余 AI 算力，引发美股芯片及光通信重挫，对此你怎么看，会是 AI 退潮信号么？",
+          "url": "https://www.zhihu.com/question/2055934590297150773",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时31分"
         },
         {
           "title": "美股大类资产类ETF涨跌各异，黄金ETF涨0.6%，纳指ETF跌超1.5%，布油基金跌超3.1%",
@@ -454,8 +466,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 10时11分]"
+          "appearance_count": 3,
+          "time_info": "[10时10分 ~ 14时31分]"
         },
         {
           "title": "消息人士：软银就以OpenAI股权为抵押的贷款谈判重启，并作出更多让步",
@@ -490,11 +502,12 @@
           "url": "https://www.cls.cn/detail/2414683",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 10时11分]"
+          "appearance_count": 3,
+          "time_info": "[10时10分 ~ 14时31分]"
         },
         {
           "title": "继美国司法部官司之后，Yelp在针对谷歌公司的反垄断诉讼中获胜。 联邦法院认定，谷歌网络搜索构成垄断。（彭博法律Blaw）",
@@ -554,6 +567,23 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时06分 ~ 07时03分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Claude",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Claude Fable 5解禁",
+          "url": "https://search.bilibili.com/all?keyword=Claude%20Fable%205%E8%A7%A3%E7%A6%81",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时31分"
         }
       ]
     }
