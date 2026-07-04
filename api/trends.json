@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-04T14:10:38.017700+08:00",
-  "total_titles_processed": 864,
+  "generated_at": "2026-07-04T17:14:05.096056+08:00",
+  "total_titles_processed": 1010,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "从保守派宠儿到MAGA公敌，她为什么敢“背叛”特朗普？",
@@ -43,6 +43,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时12分 ~ 07时57分]"
+        },
+        {
+          "title": "特朗普还不死心：我平息了8场战争，却依然没拿到诺贝尔奖",
+          "url": "https://v.ifeng.com/c/8uU91uEdDMo",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时13分 ~ 17时14分]"
         },
         {
           "title": "据AXIOS网站：美国总统特朗普今天与以色列总理内塔尼亚胡通了电话。以色列总理办公室表示，双方同意近期在美国举行会晤。",
@@ -101,7 +112,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时10分"
         },
@@ -123,7 +134,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时10分"
         },
@@ -145,7 +156,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时10分"
         },
@@ -248,7 +259,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "“大空头”Burry：周三在1051.87狙空美光！美股半导体面临30%回调",
@@ -271,9 +282,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时10分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时10分 ~ 17时14分]"
         },
         {
           "title": "Anthropic自研AI芯片计划引发美股半导体大跌！闪迪大跌14%，费城半导体指数两日重挫12%",
@@ -286,6 +297,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时12分 ~ 04时17分]"
+        },
+        {
+          "title": "美股遭遇近四个月最大单周资金流出，美银Hartnett：\"卖出信号\"仍在闪烁",
+          "url": "https://wallstreetcn.com/articles/3776162",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时13分 ~ 17时14分]"
         }
       ]
     },
@@ -298,11 +320,12 @@
           "url": "https://wallstreetcn.com/articles/3776170",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时10分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时10分 ~ 17时14分]"
         }
       ]
     },
@@ -317,7 +340,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时10分"
         }
