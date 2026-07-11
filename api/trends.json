@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T04:44:41.207225+08:00",
-  "total_titles_processed": 392,
+  "generated_at": "2026-07-12T05:40:08.714785+08:00",
+  "total_titles_processed": 399,
   "failed_sources": [],
   "trends": [
     {
@@ -8,22 +8,23 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "美股处于“极度脆弱”的时候，财报季开启了",
+          "url": "https://wallstreetcn.com/articles/3776694",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时43分 ~ 05时40分]"
+        },
+        {
           "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
           "url": "https://wallstreetcn.com/articles/3776680",
           "source": "华尔街见闻",
           "ranks": [
             1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 04时44分]"
-        },
-        {
-          "title": "美股处于“极度脆弱”的时候，财报季开启了",
-          "url": "https://wallstreetcn.com/articles/3776694",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -38,8 +39,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 04时44分]"
+          "appearance_count": 8,
+          "time_info": "[00时43分 ~ 05时40分]"
         },
         {
           "title": "SK海力士创纪录赴美上市 美股期指涨跌不一 芯片股盘前普遍下跌 | 今夜看点",
@@ -50,8 +51,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 04时44分]"
+          "appearance_count": 8,
+          "time_info": "[00时43分 ~ 05时40分]"
         },
         {
           "title": "美股涨势背后存在隐忧 数据显示市场内部广度正在收窄",
@@ -60,15 +61,15 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时44分 ~ 05时40分]"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "特朗普：1000枚导弹已瞄准伊朗",
@@ -79,8 +80,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 04时44分]"
+          "appearance_count": 8,
+          "time_info": "[00时43分 ~ 05时40分]"
         },
         {
           "title": "特朗普给了泽连斯基一个重要承诺，舆论泼冷水",
@@ -90,8 +91,22 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 04时44分]"
+          "appearance_count": 8,
+          "time_info": "[00时43分 ~ 05时40分]"
+        },
+        {
+          "title": "特朗普在北约峰会说了什么",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E5%8C%97%E7%BA%A6%E5%B3%B0%E4%BC%9A%E8%AF%B4%E4%BA%86%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27,
+            24,
+            19,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时43分 ~ 05时40分]"
         },
         {
           "title": "美国总统特朗普：我刚在沃尔特·里德医院完成了一次完美的体检。我每六个月做一次体检，此外，我还要求了另一项认知测试，我是唯一一位这样做的总统，三次测试我都通过了——每个问题都答对了。",
@@ -105,22 +120,19 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 04时44分]"
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 05时40分]"
         },
         {
-          "title": "特朗普在北约峰会说了什么",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E5%8C%97%E7%BA%A6%E5%B3%B0%E4%BC%9A%E8%AF%B4%E4%BA%86%E4%BB%80%E4%B9%88",
-          "source": "bilibili 热搜",
+          "title": "伊朗最高领袖称将报复美以，特朗普：1000枚导弹已瞄准伊朗",
+          "url": "https://wallstreetcn.com/articles/3776705",
+          "source": "华尔街见闻",
           "ranks": [
-            27,
-            24,
-            19,
-            23
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 04时44分]"
+          "appearance_count": 2,
+          "time_info": "[05时39分 ~ 05时40分]"
         }
       ]
     },
@@ -135,11 +147,12 @@
           "ranks": [
             13,
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时44分 ~ 04时44分]"
+          "appearance_count": 6,
+          "time_info": "[02时44分 ~ 05时40分]"
         }
       ]
     },
@@ -154,9 +167,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时44分 ~ 05时40分]"
         }
       ]
     }
