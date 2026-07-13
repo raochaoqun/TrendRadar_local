@@ -1,404 +1,127 @@
 {
-  "generated_at": "2026-07-13T22:06:05.712372+08:00",
-  "total_titles_processed": 1397,
+  "generated_at": "2026-07-14T01:06:18.630322+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 18,
-      "titles": [
-        {
-          "title": "特朗普立下数千枚导弹“报复遗嘱”，万斯可以不听吗？",
-          "url": "https://news.ifeng.com/c/8uheASr3DB8",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时45分 ~ 07时43分]"
-        },
-        {
-          "title": "特朗普：伊朗违背承诺，刚谈完不到一小时就袭击商船",
-          "url": "https://news.ifeng.com/c/8uidsBIJWO9",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时48分 ~ 22时06分]"
-        },
-        {
-          "title": "委内瑞拉代总统成傀儡？采访要特朗普批，发文要鲁比奥审",
-          "url": "https://news.ifeng.com/c/8uhQRko1ti1",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时45分 ~ 07时43分]"
-        },
-        {
-          "title": "特朗普谈伊朗：霍尔木兹海峡已开放。",
-          "url": "https://wallstreetcn.com/livenews/3132432",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时45分 ~ 06时38分]"
-        },
-        {
-          "title": "特朗普命令全美降半旗悼念格雷厄姆",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%91%BD%E4%BB%A4%E5%85%A8%E7%BE%8E%E9%99%8D%E5%8D%8A%E6%97%97%E6%82%BC%E5%BF%B5%E6%A0%BC%E9%9B%B7%E5%8E%84%E5%A7%86",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时47分"
-        },
-        {
-          "title": "特朗普放话拟接管霍尔木兹海峡，索要巨额补偿，伊朗强硬回呛！",
-          "url": "https://flash.jin10.com/detail/20260713215044887800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时06分"
-        },
-        {
-          "title": "特朗普在对伊战争上“没有什么可以向美国选民兜售的”",
-          "url": "https://flash.jin10.com/detail/20260713021538403800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            9,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时50分 ~ 05时40分]"
-        },
-        {
-          "title": "特朗普以为中国还得买，等来却是“谢谢，我们不需要了”",
-          "url": "https://news.ifeng.com/c/8uj34x8QE0R",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时47分 ~ 22时06分]"
-        },
-        {
-          "title": "特朗普称美军“猛烈打击”伊朗 霍尔木兹海峡“仍然开放”",
-          "url": "https://flash.jin10.com/detail/20260712224922649800",
-          "source": "金十数据",
-          "ranks": [
-            18,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时45分 ~ 01时51分]"
-        },
-        {
-          "title": "特朗普称美军“猛烈打击”伊朗 霍尔木兹海峡“仍然开放”",
-          "url": "https://wallstreetcn.com/livenews/3132448",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时38分 ~ 07时43分]"
-        },
-        {
-          "title": "曝特朗普登上伊朗复仇名单",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9B%9D%E7%89%B9%E6%9C%97%E6%99%AE%E7%99%BB%E4%B8%8A%E4%BC%8A%E6%9C%97%E5%A4%8D%E4%BB%87%E5%90%8D%E5%8D%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时47分"
-        },
-        {
-          "title": "一场国运级“豪赌”！伊朗拿霍尔木兹海峡跟特朗普死磕",
-          "url": "https://flash.jin10.com/detail/20260713163618119800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时47分"
-        },
-        {
-          "title": "谁接替格雷厄姆 特朗普称有“属意人选”",
-          "url": "https://wallstreetcn.com/livenews/3132705",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时47分"
-        },
-        {
-          "title": "特朗普命令全国降半旗",
-          "url": "https://www.douyin.com/hot/2569217",
-          "source": "抖音",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时26分"
-        },
-        {
-          "title": "特朗普命令全国降半旗",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%91%BD%E4%BB%A4%E5%85%A8%E5%9B%BD%E9%99%8D%E5%8D%8A%E6%97%97%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时26分"
-        },
-        {
-          "title": "特朗普：我们会给格雷厄姆办一场特别的葬礼。",
-          "url": "https://wallstreetcn.com/livenews/3132916",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时06分"
-        },
-        {
-          "title": "特朗普称要接管霍尔木兹海峡",
-          "url": "https://wallstreetcn.com/livenews/3132914",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时06分"
-        },
-        {
-          "title": "特朗普：若冗长辩论规则不终结，9月可能出现政府停摆。 我们正在接管霍尔穆兹海峡。 伊朗一无所有。 伊朗什么都没得到。 伊朗从我这里什么都没得到。 昨晚对伊朗进行了重击。 我们将可能负责管理霍尔木兹海峡。 如果由美国负责霍尔木兹海峡，美国将获得补偿。 我们将成为海峡的守护者。 我们会因为守卫它而获得报酬。",
-          "url": "https://wallstreetcn.com/livenews/3132913",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时06分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 5,
       "titles": [
         {
-          "title": "AI恐慌叠加中东局势升温，美股指涨跌互现，存储芯片股普跌，SK海力士跌8%，原油上涨，黄金下跌",
+          "title": "AI恐慌叠加中东局势升温，美股指盘中齐跌，SK海力士跌7%，油价涨超4%，黄金跌超2%，",
           "url": "https://wallstreetcn.com/articles/3776754",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时05分 ~ 22时06分]"
+          "appearance_count": 1,
+          "time_info": "01时06分"
         },
         {
-          "title": "AI恐慌蔓延，美股盘前存储芯片股普跌，SK海力士暴跌15.4%创历史最大跌幅，原油上涨，黄金下跌",
-          "url": "https://wallstreetcn.com/articles/3776754",
-          "source": "华尔街见闻",
+          "title": "金十图示：2026年07月13日（周一）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260714004739536800",
+          "source": "金十数据",
           "ranks": [
-            6,
-            3
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时47分 ~ 19时51分]"
+          "appearance_count": 1,
+          "time_info": "01时06分"
         },
         {
           "title": "美股Q2财报季前瞻：非科技股盈利韧性凸显 科技股“答卷”超预期才能过关",
           "url": "https://www.cls.cn/detail/2424724",
           "source": "财联社热门",
           "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时51分 ~ 22时06分]"
-        },
-        {
-          "title": "布伦特原油期货周一亚市早盘高开3%，美股期货小幅走低，纳斯达克100指数期货跌0.2%。此前美伊冲突升级。",
-          "url": "https://wallstreetcn.com/livenews/3132438",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时38分 ~ 07时43分]"
-        },
-        {
-          "title": "中东局势升级叠加AI交易降温 美股期指走弱 芯片股集体承压 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2424933",
-          "source": "财联社热门",
-          "ranks": [
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时05分 ~ 22时06分]"
+          "appearance_count": 1,
+          "time_info": "01时06分"
         },
         {
-          "title": "美股开盘：SK海力士ADR跌9%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%BC%80%E7%9B%98%EF%BC%9ASK%E6%B5%B7%E5%8A%9B%E5%A3%ABADR%E8%B7%8C9%25",
+          "title": "美股半导体大跌！闪迪跌超10%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%A4%A7%E8%B7%8C%EF%BC%81%E9%97%AA%E8%BF%AA%E8%B7%8C%E8%B6%8510%25",
           "source": "百度热搜",
           "ranks": [
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时05分 ~ 22时06分]"
-        },
-        {
-          "title": "美股盘初，主要行业ETF涨跌不一，能源业ETF涨超2%，日常消费品ETF涨近1%，半导体ETF跌2.5%。",
-          "url": "https://wallstreetcn.com/livenews/3132944",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时06分"
+          "time_info": "01时06分"
         },
         {
-          "title": "美股盘初：纳指跌0.7%，存储芯片股普跌，SK海力士跌约8%",
-          "url": "https://wallstreetcn.com/livenews/3132940",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时06分"
-        },
-        {
-          "title": "美股三大股指期货周一低开，其中纳指期货跌0.3%。",
-          "url": "https://flash.jin10.com/detail/20260713060020016800",
+          "title": "金十图示：2026年07月13日（周一）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260714003035875800",
           "source": "金十数据",
           "ranks": [
-            11
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时38分"
-        },
-        {
-          "title": "美股盘前，存储芯片股普跌，SK海力士跌近10%",
-          "url": "https://wallstreetcn.com/livenews/3132708",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时47分"
-        },
-        {
-          "title": "金十图示：2026年07月13日（周一）美股热门股票行情一览",
-          "url": "https://flash.jin10.com/detail/20260713214251101800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时06分"
-        },
-        {
-          "title": "周一美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3132925",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时06分"
+          "time_info": "01时06分"
         }
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "keyword_group": "特朗普",
+      "match_count": 5,
       "titles": [
         {
-          "title": "苹果起诉OpenAI引骂战，马斯克炮轰Altman欺诈，Altman反讽其吹嘘“太空数据中心”",
-          "url": "https://wallstreetcn.com/articles/3776720",
+          "title": "德国两年期国债收益率涨超7个基点，投资者关注特朗普对霍尔木兹海峡的最新态度",
+          "url": "https://wallstreetcn.com/livenews/3133007",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时06分"
+        },
+        {
+          "title": "特朗普宣称接管霍尔木兹海峡，伊朗警告战火将蔓延全区",
+          "url": "https://wallstreetcn.com/articles/3776814",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            10,
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时45分 ~ 13时26分]"
+          "appearance_count": 1,
+          "time_info": "01时06分"
         },
         {
-          "title": "印度本土为何跑不出一家OpenAI",
-          "url": "https://www.toutiao.com/trending/7661777860511665706/",
-          "source": "今日头条",
+          "title": "特朗普以为中国还得买，等来却是“谢谢，我们不需要了”",
+          "url": "https://news.ifeng.com/c/8uj34x8QE0R",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时06分"
+        },
+        {
+          "title": "特朗普：恢复对伊朗封锁，将收取海峡货运两成费用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33578684",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时06分"
+        },
+        {
+          "title": "黎巴嫩总统府：总统奥恩与总理萨拉姆还讨论了奥恩即将访问美国及与美国总统特朗普会晤等事宜。",
+          "url": "https://flash.jin10.com/detail/20260714002557597800",
+          "source": "金十数据",
           "ranks": [
             26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时48分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Claude",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "Claude：将把Claude Fable 5在所有付费套餐中的开放使用期限延长至7月19日，同时继续将Claude Code 的每周使用额度提高50%，这一政策也将持续至7月19日。",
-          "url": "https://flash.jin10.com/detail/20260713010355573800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            10,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时51分 ~ 04时02分]"
+          "time_info": "01时06分"
         }
       ]
     }
