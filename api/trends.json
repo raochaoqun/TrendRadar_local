@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-18T06:39:34.931974+08:00",
-  "total_titles_processed": 554,
+  "generated_at": "2026-07-18T07:43:05.556819+08:00",
+  "total_titles_processed": 598,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://news.ifeng.com/c/8upog6XKRmu",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时59分 ~ 06时39分]"
+          "appearance_count": 10,
+          "time_info": "[00时59分 ~ 07时43分]"
         },
         {
           "title": "生死博弈！“特朗普美元”来了",
@@ -70,11 +71,12 @@
           "ranks": [
             1,
             7,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时51分 ~ 06时39分]"
+          "appearance_count": 4,
+          "time_info": "[04时51分 ~ 07时43分]"
         },
         {
           "title": "美国总统特朗普再次赞赏6月通胀数据。",
@@ -88,6 +90,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时59分 ~ 05时42分]"
+        },
+        {
+          "title": "消息人士：特朗普媒体向金融机构推销“Truth API”，三年期优惠价每月6万美元。",
+          "url": "https://flash.jin10.com/detail/20260718045100973800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时42分 ~ 07时43分]"
         },
         {
           "title": "特朗普：6月通胀传来“好消息”，美国迎来“黄金时代”",
@@ -124,18 +139,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时00分 ~ 02时05分]"
-        },
-        {
-          "title": "消息人士：特朗普媒体向金融机构推销“Truth API”，三年期优惠价每月6万美元。",
-          "url": "https://flash.jin10.com/detail/20260718045100973800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时42分 ~ 06时39分]"
         },
         {
           "title": "美国参议院民主党成员Warren发函总统特朗普的司法部，要求众多反垄断监管部门审查福克斯与Roku的并购交易。",
@@ -256,6 +259,18 @@
           "time_info": "[00时59分 ~ 05时42分]"
         },
         {
+          "title": "美股收盘：三大指数集体收跌 费城半导体指数进入熊市 存储板块冲高回落",
+          "url": "https://www.cls.cn/detail/2430055",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时39分 ~ 07时43分]"
+        },
+        {
           "title": "金十图示：2026年07月17日（周五）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260718003258061800",
           "source": "金十数据",
@@ -267,28 +282,18 @@
           "time_info": "01时00分"
         },
         {
-          "title": "美股收盘：三大指数集体收跌 费城半导体指数进入熊市 存储板块冲高回落",
-          "url": "https://www.cls.cn/detail/2430055",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时39分"
-        },
-        {
           "title": "美股存储芯片指数本周跌超17%，较收盘历史最高位已回撤超31%",
           "url": "https://wallstreetcn.com/livenews/3135907",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
             12,
-            17
+            17,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时51分 ~ 06时39分]"
+          "appearance_count": 4,
+          "time_info": "[04时51分 ~ 07时43分]"
         },
         {
           "title": "周五（7月17日），美股行业ETF普遍收跌，全球航空业ETF跌2.53%，半导体ETF跌2.18%，可选消费ETF跌1.62%，区域银行ETF回撤1.58%，全球科技股指数ETF、网络股指数ETF、科技行业ETF至多跌1.31%，能源业ETF涨1.16%。",
@@ -297,11 +302,12 @@
           "ranks": [
             7,
             13,
-            18
+            18,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时51分 ~ 06时39分]"
+          "appearance_count": 4,
+          "time_info": "[04时51分 ~ 07时43分]"
         },
         {
           "title": "金十图示：2026年07月17日（周五）美股热门股票行情一览（美股收盘）",
@@ -310,11 +316,12 @@
           "ranks": [
             13,
             19,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时51分 ~ 06时39分]"
+          "appearance_count": 4,
+          "time_info": "[04时51分 ~ 07时43分]"
         },
         {
           "title": "金十图示：2026年07月17日（周五）热门中概股行情一览（美股收盘）",
@@ -323,11 +330,12 @@
           "ranks": [
             14,
             20,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时51分 ~ 06时39分]"
+          "appearance_count": 4,
+          "time_info": "[04时51分 ~ 07时43分]"
         },
         {
           "title": "美股收盘：三大股指低收，芯片股涨跌不一",
@@ -404,11 +412,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时42分 ~ 06时39分]"
+          "appearance_count": 3,
+          "time_info": "[05时42分 ~ 07时43分]"
         },
         {
           "title": "美元指数本周累跌约0.2%",
@@ -421,6 +430,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时51分 ~ 05时42分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Kimi K3再掀“DeepSeek时刻”？高盛警告：\"算力扩张时代\"或已走到尽头",
+          "url": "https://wallstreetcn.com/articles/3777230",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时42分 ~ 07时43分]"
         }
       ]
     },
