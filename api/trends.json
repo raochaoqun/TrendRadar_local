@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-07-17T15:10:54.246987+08:00",
-  "total_titles_processed": 1142,
+  "generated_at": "2026-07-17T17:47:12.754804+08:00",
+  "total_titles_processed": 1314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 22,
       "titles": [
+        {
+          "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
+          "url": "https://wallstreetcn.com/articles/3777075",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时49分 ~ 17时47分]"
+        },
         {
           "title": "半导体抛售潮重创全球股市，美股盘初涨跌互现，存储股普跌，台积电跌3%，现货黄金跌2%",
           "url": "https://wallstreetcn.com/articles/3777075",
@@ -28,17 +39,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时03分 ~ 05时59分]"
-        },
-        {
-          "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
-          "url": "https://wallstreetcn.com/articles/3777075",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时49分 ~ 15时10分]"
         },
         {
           "title": "【早报】美股存储股再遭重挫；美军连续空袭伊朗；油价、金价双双下跌；多只芯片股发布重要公告",
@@ -261,7 +261,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "担心特朗普全国演讲乱说话，共和党人：我们被吓得“屁滚尿流”",
@@ -284,8 +284,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时44分 ~ 15时10分]"
+          "appearance_count": 6,
+          "time_info": "[09时44分 ~ 17时47分]"
         },
         {
           "title": "美国首例！特朗普恼火：可怕的决定，要输给中国了",
@@ -299,6 +299,17 @@
           "time_info": "[07时49分 ~ 09时45分]"
         },
         {
+          "title": "中方驳斥特朗普“中国干预美国大选”论调",
+          "url": "https://news.ifeng.com/c/8upog6XKRmu",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时46分 ~ 17时47分]"
+        },
+        {
           "title": "美国总统特朗普：不转播我演讲的电视网应被吊销执照。",
           "url": "https://flash.jin10.com/detail/20260717094121843800",
           "source": "金十数据",
@@ -310,13 +321,27 @@
           "time_info": "09时45分"
         },
         {
+          "title": "特朗普：我们47年前就应该攻击伊朗，那样会容易得多",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33598128",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            16,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时44分 ~ 17时47分]"
+        },
+        {
           "title": "特朗普说别人都在笑话美国",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E5%88%AB%E4%BA%BA%E9%83%BD%E5%9C%A8%E7%AC%91%E8%AF%9D%E7%BE%8E%E5%9B%BD",
           "source": "bilibili 热搜",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时10分"
         },
@@ -333,19 +358,6 @@
           "time_info": "[02时56分 ~ 03时56分]"
         },
         {
-          "title": "特朗普：我们47年前就应该攻击伊朗，那样会容易得多",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33598128",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            16,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时44分 ~ 15时10分]"
-        },
-        {
           "title": "伊朗称特朗普关于美国囚犯获释的说法不实",
           "url": "https://wallstreetcn.com/livenews/3135237",
           "source": "华尔街见闻-快讯",
@@ -356,6 +368,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时56分 ~ 04时46分]"
+        },
+        {
+          "title": "白宫再曝内幕交易丑闻！特朗普御用提词员利用演讲信息牟利遭调查",
+          "url": "https://www.cls.cn/detail/2429184",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时46分 ~ 17时47分]"
         },
         {
           "title": "美国总统特朗普：国会必须通过选民身份识别法案。",
@@ -717,11 +740,12 @@
           "url": "https://wallstreetcn.com/articles/3777152",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时54分 ~ 15时10分]"
+          "appearance_count": 4,
+          "time_info": "[12时54分 ~ 17时47分]"
         },
         {
           "title": "OpenAI董事长称对其他公司的商业机密“没有兴趣”",
