@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-21T06:02:27.795447+08:00",
-  "total_titles_processed": 499,
+  "generated_at": "2026-07-21T07:47:22.426913+08:00",
+  "total_titles_processed": 606,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 28,
       "titles": [
         {
           "title": "特朗普：伊朗每杀死一名美军，必将付出数倍代价",
@@ -15,8 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时24分 ~ 06时02分]"
+          "appearance_count": 5,
+          "time_info": "[03时24分 ~ 07时47分]"
+        },
+        {
+          "title": "如何看特朗普不愿离开颁奖台",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8D%E6%84%BF%E7%A6%BB%E5%BC%80%E9%A2%81%E5%A5%96%E5%8F%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时22分 ~ 07时47分]"
         },
         {
           "title": "美国总统特朗普：以色列总理内塔尼亚胡在美国期间不会以任何形式遭到逮捕。",
@@ -28,6 +40,51 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
+        },
+        {
+          "title": "消息人士：各方正展开外交努力，试图劝告特朗普政府不要切断与联合国难民署的联系。",
+          "url": "https://flash.jin10.com/detail/20260721073150077800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时47分"
+        },
+        {
+          "title": "西班牙夺冠庆祝合影，特朗普迟迟不肯离场",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33618793",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时22分 ~ 07时47分]"
+        },
+        {
+          "title": "特朗普喊话国际足联主席，「美国必须再次举办世界杯，且要在我任期间实现」，这可能性有多大？背后有何考量？",
+          "url": "https://www.zhihu.com/question/2062557149230903440",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时22分 ~ 07时47分]"
+        },
+        {
+          "title": "特朗普放狠话：伊朗杀一名美军将付出“很多倍代价”！美军连续第10天轰炸",
+          "url": "https://flash.jin10.com/detail/20260721073043061800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时47分"
         },
         {
           "title": "美国总统特朗普：每当伊朗杀死一名美国士兵，都将为此付出数倍的代价。",
@@ -47,43 +104,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
-        },
-        {
-          "title": "如何看特朗普不愿离开颁奖台",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8D%E6%84%BF%E7%A6%BB%E5%BC%80%E9%A2%81%E5%A5%96%E5%8F%B0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时22分 ~ 06时02分]"
-        },
-        {
-          "title": "西班牙夺冠庆祝合影，特朗普迟迟不肯离场",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33618793",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时22分 ~ 06时02分]"
-        },
-        {
-          "title": "特朗普喊话国际足联主席，「美国必须再次举办世界杯，且要在我任期间实现」，这可能性有多大？背后有何考量？",
-          "url": "https://www.zhihu.com/question/2062557149230903440",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时22分 ~ 06时02分]"
         },
         {
           "title": "特朗普政府出新招：到美国建厂铝关税打对折",
@@ -156,6 +179,17 @@
           "time_info": "01时22分"
         },
         {
+          "title": "特朗普又挥关税“大棒”！这一次目标是加拿大，50%税率震动北美",
+          "url": "https://flash.jin10.com/detail/20260721063915324800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时47分"
+        },
+        {
           "title": "特朗普下令审查国防供应链 保障关键环节战时保障",
           "url": "https://flash.jin10.com/detail/20260721040321137800",
           "source": "金十数据",
@@ -176,6 +210,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
+        },
+        {
+          "title": "美国总统特朗普声称：与英国首相伯纳姆关系非常不错。 我们讨论了北海石油和贸易问题。 将在不久的将来与伯纳姆会见。",
+          "url": "https://wallstreetcn.com/livenews/3137114",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时47分"
         },
         {
           "title": "特朗普签署行政令，要求全面梳理供应链以保障国家安全",
@@ -233,6 +278,39 @@
           "time_info": "05时01分"
         },
         {
+          "title": "美国总统特朗普：与其讨论了北海石油、贸易、军事同盟以及霍尔木兹海峡扫雷事宜。",
+          "url": "https://flash.jin10.com/detail/20260721062036986800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时47分"
+        },
+        {
+          "title": "美国总统特朗普：将在不久的将来就共同关心的话题与英国新任首相举行会晤。",
+          "url": "https://flash.jin10.com/detail/20260721062031972800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时47分"
+        },
+        {
+          "title": "美国总统特朗普：与英国新任首相进行了非常好的交谈。",
+          "url": "https://flash.jin10.com/detail/20260721061943905800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时47分"
+        },
+        {
           "title": "美国总统特朗普：要求众议院共和党本周投票支持预算解决方案。",
           "url": "https://wallstreetcn.com/livenews/3137012",
           "source": "华尔街见闻-快讯",
@@ -247,7 +325,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "芯片股抛售暂歇，美股高开，存储芯片股普涨，SK海力士涨4%，油价转跌",
@@ -262,7 +340,30 @@
           "time_info": "[01时22分 ~ 05时01分]"
         },
         {
+          "title": "美股芯片板块盘前反弹 中东局势扑朔迷离 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2431734",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时22分 ~ 07时47分]"
+        },
+        {
           "title": "中东局势与财报季双重压力下，美股高开走低，芯片股抛售暂歇，中概收涨，油价过山车",
+          "url": "https://wallstreetcn.com/articles/3777383",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "中东局势与财报季双重压力下，美股三连跌，芯片股抛售暂歇，中概收涨，油价过山车",
           "url": "https://wallstreetcn.com/articles/3777383",
           "source": "华尔街见闻",
           "ranks": [
@@ -270,18 +371,18 @@
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时02分"
+          "time_info": "07时47分"
         },
         {
-          "title": "美股芯片板块盘前反弹 中东局势扑朔迷离 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2431734",
+          "title": "【早报】美股光通信、存储板块全线走强，中概股多数上涨；油价上行、黄金微跌；三环集团、三花智控、东山精密等计划回购股份",
+          "url": "https://www.cls.cn/detail/2431956",
           "source": "财联社热门",
           "ranks": [
-            6
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时22分 ~ 06时02分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时47分"
         },
         {
           "title": "美股存储芯片反弹",
@@ -331,6 +432,17 @@
           "time_info": "[05时01分 ~ 06时02分]"
         },
         {
+          "title": "美股收盘：高开低走三大指数齐收跌 光通信、存储概念整体反弹",
+          "url": "https://www.cls.cn/detail/2431934",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时47分"
+        },
+        {
           "title": "金十图示：2026年07月20日（周一）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260721040540843800",
           "source": "金十数据",
@@ -377,11 +489,24 @@
             15,
             13,
             8,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时22分 ~ 06时02分]"
+          "appearance_count": 6,
+          "time_info": "[01时22分 ~ 07时47分]"
+        },
+        {
+          "title": "如何看待追光总裁称《三国第一部：争洛阳》以曹操为主角，是参考了 DeepSeek 的建议?",
+          "url": "https://www.zhihu.com/question/2061868472049652679",
+          "source": "知乎",
+          "ranks": [
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时02分 ~ 07时47分]"
         },
         {
           "title": "如何看待最近网传的 DeepSeek v4 正式版灰测？",
@@ -393,17 +518,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
-        },
-        {
-          "title": "如何看待追光总裁称《三国第一部：争洛阳》以曹操为主角，是参考了 DeepSeek 的建议?",
-          "url": "https://www.zhihu.com/question/2061868472049652679",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时02分"
         }
       ]
     },
