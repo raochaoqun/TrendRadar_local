@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-23T02:02:16.556767+08:00",
-  "total_titles_processed": 389,
+  "generated_at": "2026-07-23T04:06:59.116452+08:00",
+  "total_titles_processed": 461,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 02时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 04时06分]"
         },
         {
           "title": "云支出目标狂飙至7500亿美元！OpenAI豪掷超300亿美元建数据中心，推出Presence平台进军企业软件市场",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 02时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 04时06分]"
         },
         {
           "title": "OpenAI：将向国家实验室和大学中约2000名“创世使命”研究人员提供400万美元的Codex访问权限。",
@@ -40,6 +40,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
+        },
+        {
+          "title": "OpenAI 模型「失控」入侵全球最大 AI 开源社区，敲响了哪些 AI 安全警钟？",
+          "url": "https://www.zhihu.com/question/2063264614834336987",
+          "source": "知乎",
+          "ranks": [
+            15,
+            11,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 04时06分]"
         },
         {
           "title": "OpenAI：将为参与研究的人员提供高达1000万美元的API使用额度，花费其250万美元经费。",
@@ -60,20 +73,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 02时02分]"
-        },
-        {
-          "title": "OpenAI 模型「失控」入侵全球最大 AI 开源社区，敲响了哪些 AI 安全警钟？",
-          "url": "https://www.zhihu.com/question/2063264614834336987",
-          "source": "知乎",
-          "ranks": [
-            15,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 02时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 04时06分]"
         },
         {
           "title": "OpenAI遭遇史上首次评测失控事故",
@@ -83,8 +84,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 02时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 04时06分]"
         },
         {
           "title": "OpenAI：将承诺提供300万美元的API支持，用于两项大规模科学活动，以针对重大科学挑战测试前沿模型。",
@@ -101,7 +102,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "特朗普承认美方干预中国事务，并称“今时不同往日”",
@@ -111,8 +112,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 02时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 04时06分]"
+        },
+        {
+          "title": "美国总统特朗普：美国不需要霍尔木兹海峡。委内瑞拉正与美国合作生产石油。",
+          "url": "https://flash.jin10.com/detail/20260723034521965800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时06分"
         },
         {
           "title": "特朗普：伊朗想会谈但美国“没兴趣”，“很快”重击镐山核设施，警告胡塞武装勿封红海",
@@ -122,8 +134,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 02时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 04时06分]"
         },
         {
           "title": "国际油价持续拉升！特朗普盯上的伊朗“镐山”有什么奥秘？",
@@ -133,19 +145,31 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 02时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 04时06分]"
         },
         {
           "title": "新闻蒸馏器｜特朗普关税或将“换壳”：覆盖60国，税率10%至12.5%",
           "url": "https://m.thepaper.cn/newsDetail_forward_33634011",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时01分 ~ 02时02分]"
+          "appearance_count": 3,
+          "time_info": "[02时01分 ~ 04时06分]"
+        },
+        {
+          "title": "特朗普政府探索联邦水域核电项目",
+          "url": "https://flash.jin10.com/detail/20260723032253567800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时06分"
         },
         {
           "title": "特朗普政府暂停向美国两州拨付10亿美元医疗补助资金",
@@ -162,7 +186,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "AI交易热情回落，美股盘初走低，存储芯片、光通信股普跌，SK海力士跌5%，布油涨近3%",
@@ -172,8 +196,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 02时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 04时06分]"
         },
         {
           "title": "科技股力撑美股指反弹，芯片指数大涨，美光市值重回万亿，日元跌破163，金银猛涨",
@@ -183,8 +207,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 02时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 04时06分]"
         },
         {
           "title": "剧烈反弹！美股“科技动量股”创史上最大单日涨幅，但暴跌结束了吗？",
@@ -194,8 +218,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 02时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 04时06分]"
         },
         {
           "title": "美股三大股指走势分化，纳指转涨，此前一度跌超0.8%，道指涨0.3%；标普500指数跌1.52%。",
@@ -207,6 +231,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
+        },
+        {
+          "title": "国际黄金、石油、铜、美股、美元再现同步上涨，日元兑美元跌破 163，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2063182962879993810",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时06分"
         }
       ]
     },
@@ -222,19 +257,20 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 02时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 04时06分]"
         },
         {
           "title": "如何看待 7 月 22 日 DeepSeek 客户端联网搜索近 4 小时不可用？",
           "url": "https://www.zhihu.com/question/2063241470010822764",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时01分 ~ 02时02分]"
+          "appearance_count": 3,
+          "time_info": "[02时01分 ~ 04时06分]"
         }
       ]
     },
@@ -250,8 +286,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 02时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 04时06分]"
         },
         {
           "title": "Reddit股价大跌，媒体报道称其可能限制谷歌访问权限",
@@ -269,8 +305,19 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "周三（7月22日）纽约尾盘，ICE美元指数跌0.04%，报101.130点，日内交投区间为101.198-101.020点。 彭博美元指数跌0.01%，报1219.62点，日内交投区间为1220.20-1218.35点。",
+          "url": "https://wallstreetcn.com/livenews/3138377",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时06分"
+        },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.55%，暂报2174.29点。 MarketVectorTM数字资产100中盘指数跌0.72%，报2491.90点，亚太午盘持续扩大跌幅。 MarketVector数字资产100指数跌0.31%，报13130点。 目前，Solana涨0.95%，狗狗币跌0.22%，XRP持平。 比特币跌0.32%，暂报66188.99美元；以太坊涨1.31%，暂报1947.90美元。",
           "url": "https://wallstreetcn.com/livenews/3138337",
@@ -278,7 +325,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
         }
