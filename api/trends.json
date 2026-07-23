@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-24T01:09:53.471933+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-07-24T02:58:40.207198+08:00",
+  "total_titles_processed": 394,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "特朗普：我们与伊朗只是小规模冲突",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时09分"
+          "appearance_count": 2,
+          "time_info": "[01时09分 ~ 02时58分]"
         },
         {
           "title": "特朗普放话美国不需要霍尔木兹、伊朗袭一船就炸一桥或电厂，伊警告报复美利益设施、“谁都别想卖油”",
@@ -26,8 +26,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时09分"
+          "appearance_count": 2,
+          "time_info": "[01时09分 ~ 02时58分]"
+        },
+        {
+          "title": "委内瑞拉石油多着呢！特朗普：我们才不需要霍尔木兹海峡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33643805",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时09分 ~ 02时58分]"
         },
         {
           "title": "在致立法者的信中，特朗普政府敦促国会在交通法案中加入永久夏令时，并优先考虑汽车交通需求而非自行车道建设。",
@@ -41,22 +52,22 @@
           "time_info": "01时09分"
         },
         {
+          "title": "伊拉克与科威特边境口岸遭伊朗打击，特朗普：若再袭沙特船只，美国将施以“重大军事惩罚”",
+          "url": "https://wallstreetcn.com/articles/3777791",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
+        },
+        {
           "title": "美国参议院阻止了限制特朗普对伊战争权力的决议。",
           "url": "https://flash.jin10.com/detail/20260724003337969800",
           "source": "金十数据",
           "ranks": [
             11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时09分"
-        },
-        {
-          "title": "委内瑞拉石油多着呢！特朗普：我们才不需要霍尔木兹海峡",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33643805",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -131,8 +142,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时09分"
+          "appearance_count": 2,
+          "time_info": "[01时09分 ~ 02时58分]"
         },
         {
           "title": "谷歌电话会：警告现金流压力将持续，但\"需求仍超过投资增速\"，Gemini 4已启动训练",
@@ -142,8 +153,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时09分"
+          "appearance_count": 2,
+          "time_info": "[01时09分 ~ 02时58分]"
         },
         {
           "title": "AI每赚1块钱，谷歌花出去2块",
@@ -153,8 +164,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时09分"
+          "appearance_count": 2,
+          "time_info": "[01时09分 ~ 02时58分]"
+        },
+        {
+          "title": "如何看待谷歌母公司 Alphabet 自由现金流数十年来首次转负？",
+          "url": "https://www.zhihu.com/question/2063569251428819442",
+          "source": "知乎",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时09分 ~ 02时58分]"
         },
         {
           "title": "谷歌云CEO：随着云业务表现远超预期，客户支出激增50%",
@@ -166,17 +189,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时09分"
-        },
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
         {
-          "title": "如何看待谷歌母公司 Alphabet 自由现金流数十年来首次转负？",
-          "url": "https://www.zhihu.com/question/2063569251428819442",
-          "source": "知乎",
+          "title": "微软(MSFT.O)正在用自研图像生成模型替代OpenAI的图像模型，应用于PowerPoint和Bing。",
+          "url": "https://flash.jin10.com/detail/20260724003316532800",
+          "source": "金十数据",
           "ranks": [
-            11
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时09分"
+        },
+        {
+          "title": "OpenAI：预计将大规模部署AMD的Helios。",
+          "url": "https://wallstreetcn.com/livenews/3139011",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
+        },
+        {
+          "title": "OpenAI：在ChatGPT向美国用户推出健康功能。 用户可以安全地连接自己的健康信息。 用户可以获取苹果设备商的健康信息。 健康功能还支持医疗记录（病历）。",
+          "url": "https://wallstreetcn.com/livenews/3139010",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
         }
       ]
     },
@@ -192,8 +243,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时09分"
+          "appearance_count": 2,
+          "time_info": "[01时09分 ~ 02时58分]"
         },
         {
           "title": "美股",
@@ -203,8 +254,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时09分"
+          "appearance_count": 2,
+          "time_info": "[01时09分 ~ 02时58分]"
         },
         {
           "title": "摩根大通：接下来几周是美股命运关键",
@@ -229,23 +280,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时09分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "微软(MSFT.O)正在用自研图像生成模型替代OpenAI的图像模型，应用于PowerPoint和Bing。",
-          "url": "https://flash.jin10.com/detail/20260724003316532800",
-          "source": "金十数据",
-          "ranks": [
-            12
           ],
           "is_new": false,
           "appearance_count": 1,
