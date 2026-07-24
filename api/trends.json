@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-24T09:45:18.156173+08:00",
-  "total_titles_processed": 788,
+  "generated_at": "2026-07-24T13:02:18.207405+08:00",
+  "total_titles_processed": 980,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "特朗普：我们与伊朗只是小规模冲突",
@@ -30,8 +30,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时58分 ~ 09时45分]"
+          "appearance_count": 7,
+          "time_info": "[02时58分 ~ 13时02分]"
         },
         {
           "title": "委内瑞拉石油多着呢！特朗普：我们才不需要霍尔木兹海峡",
@@ -40,11 +40,12 @@
           "ranks": [
             17,
             18,
-            16
+            16,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时09分 ~ 09时45分]"
+          "appearance_count": 8,
+          "time_info": "[01时09分 ~ 13时02分]"
         },
         {
           "title": "特朗普称“接近”决定发动“大规模攻击”，伊朗被曝为军事升级做准备、尤其地面入侵",
@@ -53,9 +54,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时45分 ~ 13时02分]"
         },
         {
           "title": "美国司法部在总统特朗普飞机调查中撤销针对纽约时报的传唤。",
@@ -136,6 +137,17 @@
           "time_info": "04时11分"
         },
         {
+          "title": "美国会要让特朗普“踩刹车”，众院通过议案要求停止对伊朗军事行动",
+          "url": "https://wallstreetcn.com/articles/3777809",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
           "title": "在致立法者的信中，特朗普政府敦促国会在交通法案中加入永久夏令时，并优先考虑汽车交通需求而非自行车道建设。",
           "url": "https://flash.jin10.com/detail/20260724003541392800",
           "source": "金十数据",
@@ -153,7 +165,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时45分"
         },
@@ -178,6 +190,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时09分"
+        },
+        {
+          "title": "特朗普称将用被冻结的伊朗资金赔偿船只及货物损失 | 环球市场",
+          "url": "https://www.cls.cn/detail/2435732",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         },
         {
           "title": "美国总统特朗普：伊朗想要做些什么，但他们还没有准备好。",
@@ -219,7 +242,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时45分"
         },
@@ -282,7 +305,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
@@ -304,8 +327,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时48分 ~ 09时45分]"
+          "appearance_count": 4,
+          "time_info": "[06时48分 ~ 13时02分]"
+        },
+        {
+          "title": "美股收盘：七巨头齐跌特斯拉重挫14% 纳指降2%布油站上100美元",
+          "url": "https://www.cls.cn/detail/2435694",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时48分 ~ 13时02分]"
         },
         {
           "title": "美股",
@@ -320,26 +356,13 @@
           "time_info": "[01时09分 ~ 07时52分]"
         },
         {
-          "title": "美股收盘：七巨头齐跌特斯拉重挫14% 纳指降2%布油站上100美元",
-          "url": "https://www.cls.cn/detail/2435694",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时48分 ~ 09时45分]"
-        },
-        {
           "title": "美股科技七巨头市值蒸发近8千亿美元",
           "url": "https://www.toutiao.com/trending/7665870757104193078/",
           "source": "今日头条",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时45分"
         },
@@ -352,8 +375,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时52分 ~ 09时45分]"
+          "appearance_count": 3,
+          "time_info": "[07时52分 ~ 13时02分]"
+        },
+        {
+          "title": "“关税战”来最惨的1天！美股“科技龙头”Mag 7单日市值蒸发近8000亿美元",
+          "url": "https://wallstreetcn.com/articles/3777828",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         },
         {
           "title": "美股七巨头齐跌 特斯拉重挫14%",
@@ -451,7 +485,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "谷歌Q2自由现金流首次转负，上调全年资本开支至最高2050亿美元，云业务爆发82%增长｜财报见闻",
@@ -537,12 +571,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时09分"
+        },
+        {
+          "title": "谷歌最新AI报告颠覆认知：AI没有取代白领，正在成为人类“协作者”",
+          "url": "https://flash.jin10.com/detail/20260724121536506800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "OpenAI总裁布罗克曼表示，目标始终是为用户需要完成的一切任务提供最便宜模型。",
@@ -598,6 +643,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
+        },
+        {
+          "title": "新晋菲尔兹奖得主宣布加入OpenAI",
+          "url": "https://www.toutiao.com/trending/7665911607725149738/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         }
       ]
     },
@@ -612,7 +668,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时45分"
         },
@@ -634,7 +690,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时45分"
         }
