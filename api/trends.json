@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-07-29T10:41:52.652287+08:00",
-  "total_titles_processed": 745,
+  "generated_at": "2026-07-29T13:43:04.694904+08:00",
+  "total_titles_processed": 937,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
+        {
+          "title": "特朗普被发现在格雷厄姆葬礼打瞌睡",
+          "url": "https://www.toutiao.com/trending/7667418781938679858/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时42分 ~ 13时43分]"
+        },
         {
           "title": "以色列发言人：在美国总统特朗普与以色列总理内塔尼亚胡的会晤中未讨论土耳其和F-35问题。",
           "url": "https://flash.jin10.com/detail/20260729011422656800",
@@ -87,6 +98,29 @@
           "time_info": "[01时18分 ~ 03时06分]"
         },
         {
+          "title": "内塔尼亚胡访美，向特朗普提出对伊“终极条件”",
+          "url": "https://news.ifeng.com/c/8v99XqcoCB0",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时41分 ~ 13时43分]"
+        },
+        {
+          "title": "特朗普在追悼仪式上分发薄荷糖",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E8%BF%BD%E6%82%BC%E4%BB%AA%E5%BC%8F%E4%B8%8A%E5%88%86%E5%8F%91%E8%96%84%E8%8D%B7%E7%B3%96",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时42分 ~ 13时43分]"
+        },
+        {
           "title": "特朗普政府将终止联邦医疗保险药品计划补贴。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3141182",
           "source": "华尔街见闻-快讯",
@@ -99,15 +133,15 @@
           "time_info": "[05时37分 ~ 06时01分]"
         },
         {
-          "title": "内塔尼亚胡访美，向特朗普提出对伊“终极条件”",
-          "url": "https://news.ifeng.com/c/8v99XqcoCB0",
-          "source": "凤凰网",
+          "title": "特朗普被发现在格雷厄姆葬礼打瞌睡",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%A2%AB%E5%8F%91%E7%8E%B0%E5%9C%A8%E6%A0%BC%E9%9B%B7%E5%8E%84%E5%A7%86%E8%91%AC%E7%A4%BC%E6%89%93%E7%9E%8C%E7%9D%A1%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
           "ranks": [
-            6
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时42分 ~ 13时43分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：我们的目标与特朗普一致，就是不让伊朗获得核武器。",
@@ -138,7 +172,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时41分"
         },
@@ -149,7 +183,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时41分"
         },
@@ -201,8 +235,21 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
+        {
+          "title": "康宁美股盘前暴跌15%！Q2营收利润双超预期，但Q3收入指引不够“惊喜”| 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778135",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时18分 ~ 13时43分]"
+        },
         {
           "title": "美股期指走势分化 芯片股继续下挫 道指期货涨近1% | 今夜看点",
           "url": "https://www.cls.cn/detail/2439316",
@@ -217,17 +264,41 @@
           "time_info": "[01时18分 ~ 10时41分]"
         },
         {
-          "title": "康宁美股盘前暴跌15%！Q2营收利润双超预期，但Q3收入指引不够“惊喜”| 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3778135",
+          "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
+          "url": "https://wallstreetcn.com/articles/3778080",
           "source": "华尔街见闻",
           "ranks": [
-            7,
-            6,
-            5
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时18分 ~ 10时41分]"
+          "appearance_count": 3,
+          "time_info": "[10时41分 ~ 13时43分]"
+        },
+        {
+          "title": "美股半导体崩盘,闪迪跌破新低",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356568&amp;topic_name=%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%B4%A9%E7%9B%98%2C%E9%97%AA%E8%BF%AA%E8%B7%8C%E7%A0%B4%E6%96%B0%E4%BD%8E",
+          "source": "贴吧",
+          "ranks": [
+            11,
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时18分 ~ 13时43分]"
+        },
+        {
+          "title": "美股收盘：AI概念延续“血色一夜” 另一场狂欢由此开启",
+          "url": "https://www.cls.cn/detail/2439531",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时01分 ~ 13时43分]"
         },
         {
           "title": "长鑫上市后，美股「半导体 - 芯片板块」普跌，SK 海力士破发，早盘韩股熔断，日经大跌，对此你怎么看？",
@@ -255,41 +326,6 @@
           "time_info": "[01时18分 ~ 03时06分]"
         },
         {
-          "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
-          "url": "https://wallstreetcn.com/articles/3778080",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时41分"
-        },
-        {
-          "title": "美股半导体崩盘,闪迪跌破新低",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356568&amp;topic_name=%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%B4%A9%E7%9B%98%2C%E9%97%AA%E8%BF%AA%E8%B7%8C%E7%A0%B4%E6%96%B0%E4%BD%8E",
-          "source": "贴吧",
-          "ranks": [
-            11,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时18分 ~ 10时41分]"
-        },
-        {
-          "title": "美股收盘：AI概念延续“血色一夜” 另一场狂欢由此开启",
-          "url": "https://www.cls.cn/detail/2439531",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时01分 ~ 10时41分]"
-        },
-        {
           "title": "美股AI硬件板块暴跌 美光科技跌逾12%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1AI%E7%A1%AC%E4%BB%B6%E6%9D%BF%E5%9D%97%E6%9A%B4%E8%B7%8C+%E7%BE%8E%E5%85%89%E7%A7%91%E6%8A%80%E8%B7%8C%E9%80%BE12%25",
           "source": "百度热搜",
@@ -302,6 +338,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时06分 ~ 07时01分]"
+        },
+        {
+          "title": "美股芯片存储大跌",
+          "url": "https://www.douyin.com/hot/2588858",
+          "source": "抖音",
+          "ranks": [
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时41分 ~ 13时43分]"
         },
         {
           "title": "周二（7月28日），美股行业ETF多数收涨，全球航空业ETF涨2.87%，医疗业ETF涨2.38%，网络股指数ETF涨1.59%，能源业ETF跌1.35%，科技行业ETF跌1.84%，全球科技股指数ETF跌2.08%，半导体ETF跌3.45%。 标普500指数的11个板块中，保健板块涨2.33%，原材料、电信板块至少涨1.64%，信息技术/科技板块跌1.17%，能源板块跌1.4%。",
@@ -328,17 +376,6 @@
           "time_info": "[05时37分 ~ 06时01分]"
         },
         {
-          "title": "美股芯片存储大跌",
-          "url": "https://www.douyin.com/hot/2588858",
-          "source": "抖音",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时41分"
-        },
-        {
           "title": "美股三大股指期货短线小幅下挫，道指期货跌0.13%，标普500指数期货跌0.08%，纳指期货跌0.02%。",
           "url": "https://flash.jin10.com/detail/20260729062508619800",
           "source": "金十数据",
@@ -348,6 +385,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
+        },
+        {
+          "title": "美股股指期货持续走低，纳斯达克100指数期货跌超1%，标普500指数期货跌0.35%，道琼斯指数期货跌0.24%。",
+          "url": "https://wallstreetcn.com/livenews/3141455",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
         },
         {
           "title": "受希捷科技(STX.O)财报提振，美股存储芯片概念股盘后走高，西部数据(WDC.O)涨6.5%，SK海力士(SKHY.O)涨2.5%，美光科技(MU.O)涨0.8%，闪迪(SNDK.O)涨1%，希捷科技(STX.O)一度涨9%。",
@@ -441,7 +489,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时41分"
         },
@@ -537,11 +585,12 @@
           "source": "贴吧",
           "ranks": [
             20,
-            23
+            23,
+            29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时18分 ~ 10时41分]"
+          "appearance_count": 8,
+          "time_info": "[01时18分 ~ 13时43分]"
         }
       ]
     }
