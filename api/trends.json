@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-30T05:48:37.865501+08:00",
-  "total_titles_processed": 458,
+  "generated_at": "2026-07-30T06:49:45.427458+08:00",
+  "total_titles_processed": 523,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 33,
+      "match_count": 35,
       "titles": [
         {
           "title": "特朗普称美国将强力打击伊朗 中东局势升级推动国际油价大幅飙升",
@@ -16,8 +16,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时56分 ~ 05时48分]"
+          "appearance_count": 4,
+          "time_info": "[02时56分 ~ 06时49分]"
+        },
+        {
+          "title": "特朗普：伊朗请求不要发动打击，但美国将给他们一个教训",
+          "url": "https://news.ifeng.com/c/8vAUYfWwMg3",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时48分 ~ 06时49分]"
         },
         {
           "title": "布油大涨7%！特朗普警告：将对伊朗“大力打击”",
@@ -53,17 +64,6 @@
           "time_info": "04时08分"
         },
         {
-          "title": "特朗普：伊朗请求不要发动打击，但美国将给他们一个教训",
-          "url": "https://news.ifeng.com/c/8vAUYfWwMg3",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时48分"
-        },
-        {
           "title": "美国总统特朗普称赞了爱国者导弹系统。",
           "url": "https://flash.jin10.com/detail/20260730033855601800",
           "source": "金十数据",
@@ -92,9 +92,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时48分"
+        },
+        {
+          "title": "布油盘中涨超8%！特朗普一再警告“狠狠打击”伊朗，寻求对伊加征关税",
+          "url": "https://wallstreetcn.com/articles/3778237",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时49分"
         },
         {
           "title": "美国总统特朗普：我希望泽连斯基结束战争。",
@@ -141,17 +152,6 @@
           "time_info": "04时08分"
         },
         {
-          "title": "特朗普再次威胁袭击伊朗，并寻求对伊加征关税",
-          "url": "https://wallstreetcn.com/livenews/3141924",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时48分"
-        },
-        {
           "title": "明查｜特朗普的替身出现了？先把视频暂停一下",
           "url": "https://m.thepaper.cn/newsDetail_forward_33674010",
           "source": "澎湃新闻",
@@ -159,8 +159,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时56分 ~ 05时48分]"
+          "appearance_count": 4,
+          "time_info": "[02时56分 ~ 06时49分]"
         },
         {
           "title": "卢拉讽刺特朗普：每个巴西公民都能享有总统同等医疗待遇",
@@ -170,8 +170,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时56分 ~ 05时48分]"
+          "appearance_count": 4,
+          "time_info": "[02时56分 ~ 06时49分]"
+        },
+        {
+          "title": "特朗普再次威胁袭击伊朗，并寻求对伊加征关税",
+          "url": "https://wallstreetcn.com/livenews/3141924",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时48分 ~ 06时49分]"
         },
         {
           "title": "特朗普被发现在格雷厄姆葬礼打瞌睡，白宫：他在缅怀",
@@ -181,8 +193,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时56分 ~ 05时48分]"
+          "appearance_count": 4,
+          "time_info": "[02时56分 ~ 06时49分]"
         },
         {
           "title": "又吃糖又犯困，特朗普在美政客葬礼现场小动作惹争议，白宫：他在缅怀",
@@ -193,8 +205,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时56分 ~ 05时48分]"
+          "appearance_count": 4,
+          "time_info": "[02时56分 ~ 06时49分]"
         },
         {
           "title": "伊朗武装部队警告特朗普",
@@ -204,8 +216,31 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时56分 ~ 05时48分]"
+          "appearance_count": 4,
+          "time_info": "[02时56分 ~ 06时49分]"
+        },
+        {
+          "title": "特朗普被发现在格雷厄姆葬礼打瞌睡",
+          "url": "https://www.toutiao.com/trending/7667418781938679858/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时48分 ~ 06时49分]"
+        },
+        {
+          "title": "美国总统特朗普：有没有人知道美国最高法院在出生公民权和关税问题上的负面裁决给我们的国家带来了多少金钱和声望的损失？答案是，数万亿、数万亿的美元！",
+          "url": "https://flash.jin10.com/detail/20260730061435735800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时49分"
         },
         {
           "title": "美国总统特朗普：（关于人工智能）正在关注监管问题。",
@@ -291,7 +326,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时48分"
         },
@@ -360,23 +395,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时08分"
-        },
-        {
-          "title": "特朗普被发现在格雷厄姆葬礼打瞌睡",
-          "url": "https://www.toutiao.com/trending/7667418781938679858/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时48分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "FOMC和巨头财报在即，特朗普称将对伊朗进行打击，美股指跌幅扩大，道指跌超1.5%，布油涨超6%",
@@ -397,8 +421,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时56分 ~ 05时48分]"
+          "appearance_count": 4,
+          "time_info": "[02时56分 ~ 06时49分]"
         },
         {
           "title": "美联储决议前市场情绪谨慎 美股期指走弱 油价飙升近6% | 今夜看点",
@@ -408,8 +432,31 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时56分 ~ 05时48分]"
+          "appearance_count": 4,
+          "time_info": "[02时56分 ~ 06时49分]"
+        },
+        {
+          "title": "Meta美股盘后跌幅扩大至10%。",
+          "url": "https://wallstreetcn.com/livenews/3141919",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时48分 ~ 06时49分]"
+        },
+        {
+          "title": "美股收盘：特朗普最后时刻砸盘 纳斯达克100指数坠入回调区间",
+          "url": "https://www.cls.cn/detail/2440737",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时49分"
         },
         {
           "title": "Meta Platforms(META.O)美股盘后跌幅扩大至10%。",
@@ -418,20 +465,31 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时48分"
         },
         {
-          "title": "Meta美股盘后跌幅扩大至10%。",
-          "url": "https://wallstreetcn.com/livenews/3141919",
-          "source": "华尔街见闻-快讯",
+          "title": "微软(MSFT.O)公布一系列财务指引，美股盘后涨幅扩大至8%。",
+          "url": "https://flash.jin10.com/detail/20260730060759487800",
+          "source": "金十数据",
           "ranks": [
-            9
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时48分"
+          "time_info": "06时49分"
+        },
+        {
+          "title": "微软预计2026年（根据会计调整的）资本开支为1750亿美元，之前预计1900亿美元。 微软美股盘后涨幅扩大至8%。",
+          "url": "https://wallstreetcn.com/livenews/3141937",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时49分"
         },
         {
           "title": "市场反应：美国10年期国债收益率短线从4.635%附近跳水至4.61%下方，整体转跌；两年期美债收益率从4.32%附近跳水至接近4.24%，整体转跌。 现货黄金从4040美元附近拉升至4081美元上方，涨幅超过1.2%。 标普跌0.2%，道指跌1.1%，纳指转涨。 新兴市场外汇指数刷新日高，拉美股市、巴西股指跌幅收窄。",
@@ -451,7 +509,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时48分"
         },
@@ -462,7 +520,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时48分"
         },
@@ -473,9 +531,37 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "Analog Devices Inc.（ADI）：漏洞与OpenAI无关。",
+          "url": "https://wallstreetcn.com/livenews/3141939",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时49分"
+        },
+        {
+          "title": "微软(MSFT.O)首席财务官：第四季度合同积压在不包括OpenAI的情况下增加了25%。",
+          "url": "https://flash.jin10.com/detail/20260730055730100800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时49分"
         }
       ]
     },
