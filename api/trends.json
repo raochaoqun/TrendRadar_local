@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-30T12:48:14.381224+08:00",
-  "total_titles_processed": 928,
+  "generated_at": "2026-07-30T15:27:45.857557+08:00",
+  "total_titles_processed": 1099,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 45,
       "titles": [
         {
           "title": "特朗普称美国将强力打击伊朗 中东局势升级推动国际油价大幅飙升",
@@ -31,8 +31,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时49分 ~ 12时48分]"
+          "appearance_count": 7,
+          "time_info": "[06时49分 ~ 15时27分]"
         },
         {
           "title": "又吃糖又犯困，特朗普在美政客葬礼现场小动作惹争议，白宫：他在缅怀",
@@ -43,11 +43,12 @@
             19,
             18,
             14,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时56分 ~ 12时48分]"
+          "appearance_count": 10,
+          "time_info": "[02时56分 ~ 15时27分]"
         },
         {
           "title": "伊朗武装部队警告特朗普",
@@ -205,6 +206,18 @@
           "time_info": "09时23分"
         },
         {
+          "title": "以色列煽风，乌克兰点火，特朗普不为所动",
+          "url": "https://news.ifeng.com/c/8v9V5d2YFtT",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时22分 ~ 15时27分]"
+        },
+        {
           "title": "卢拉讽刺特朗普：每个巴西公民都能享有总统同等医疗待遇",
           "url": "https://v.ifeng.com/c/8v9pAhXFNg6",
           "source": "凤凰网",
@@ -225,18 +238,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时56分 ~ 07时53分]"
-        },
-        {
-          "title": "以色列煽风，乌克兰点火，特朗普不为所动",
-          "url": "https://news.ifeng.com/c/8v9V5d2YFtT",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时22分 ~ 12时48分]"
         },
         {
           "title": "特朗普再次威胁袭击伊朗，并寻求对伊加征关税",
@@ -363,6 +364,17 @@
           "time_info": "04时08分"
         },
         {
+          "title": "中国向伊朗提供武器？特朗普搅混水：要是真的，很失望",
+          "url": "https://news.ifeng.com/c/8vAy9S9JapS",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
+        },
+        {
           "title": "美国总统特朗普：我没有听说美国代理司法部长布兰奇有问题。",
           "url": "https://flash.jin10.com/detail/20260730033541535800",
           "source": "金十数据",
@@ -385,6 +397,17 @@
           "time_info": "04时08分"
         },
         {
+          "title": "降息希望落空！特朗普再次力挺沃什 矛头直指美联储理事会",
+          "url": "https://www.cls.cn/detail/2440817",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
+        },
+        {
           "title": "美国总统特朗普：美国代理司法部长布兰奇表现出色。",
           "url": "https://flash.jin10.com/detail/20260730033530930800",
           "source": "金十数据",
@@ -405,6 +428,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时48分"
+        },
+        {
+          "title": "以媒：内塔尼亚胡向特朗普阐述对伊“三种情景”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33683951",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
         },
         {
           "title": "美国总统特朗普：美联储主席沃什有一个理事会，而且这是一个政治性的理事会。沃什希望看到更低的利率。",
@@ -487,7 +521,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "美股收盘：特朗普最后时刻砸盘 纳斯达克100指数坠入回调区间",
@@ -496,11 +530,12 @@
           "ranks": [
             7,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时49分 ~ 12时48分]"
+          "appearance_count": 7,
+          "time_info": "[06时49分 ~ 15时27分]"
         },
         {
           "title": "FOMC和巨头财报在即，特朗普称将对伊朗进行打击，美股指跌幅扩大，道指跌超1.5%，布油涨超6%",
@@ -595,6 +630,17 @@
           "time_info": "05时48分"
         },
         {
+          "title": "7月30日投资避雷针：美股三大指数集体下跌 光通信、存储板块继续大跌",
+          "url": "https://www.cls.cn/detail/2440809",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
+        },
+        {
           "title": "微软(MSFT.O)公布一系列财务指引，美股盘后涨幅扩大至8%。",
           "url": "https://flash.jin10.com/detail/20260730060759487800",
           "source": "金十数据",
@@ -686,19 +732,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时22分 ~ 12时48分]"
+          "appearance_count": 5,
+          "time_info": "[09时22分 ~ 15时27分]"
         },
         {
           "title": "OpenAI 、 Anthropic 等上千员工联名请愿美政府控制 AI 发展速度，反映了什么？有何影响？",
           "url": "https://www.zhihu.com/question/2065729146383071132",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时47分 ~ 12时48分]"
+          "appearance_count": 3,
+          "time_info": "[12时47分 ~ 15时27分]"
         },
         {
           "title": "OpenAI首席财务官：公司7月份的年化收入已经超过了整个第二季度的总和。",
