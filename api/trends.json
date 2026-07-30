@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-30T15:27:45.857557+08:00",
-  "total_titles_processed": 1099,
+  "generated_at": "2026-07-30T20:23:34.987122+08:00",
+  "total_titles_processed": 1330,
   "failed_sources": [],
   "trends": [
     {
@@ -31,8 +31,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时49分 ~ 15时27分]"
+          "appearance_count": 8,
+          "time_info": "[06时49分 ~ 20时23分]"
         },
         {
           "title": "又吃糖又犯困，特朗普在美政客葬礼现场小动作惹争议，白宫：他在缅怀",
@@ -72,6 +72,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时48分 ~ 07时53分]"
+        },
+        {
+          "title": "以色列煽风，乌克兰点火，特朗普不为所动",
+          "url": "https://news.ifeng.com/c/8v9V5d2YFtT",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时22分 ~ 20时23分]"
         },
         {
           "title": "布油大涨7%！特朗普警告：将对伊朗“大力打击”",
@@ -206,18 +219,6 @@
           "time_info": "09时23分"
         },
         {
-          "title": "以色列煽风，乌克兰点火，特朗普不为所动",
-          "url": "https://news.ifeng.com/c/8v9V5d2YFtT",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时22分 ~ 15时27分]"
-        },
-        {
           "title": "卢拉讽刺特朗普：每个巴西公民都能享有总统同等医疗待遇",
           "url": "https://v.ifeng.com/c/8v9pAhXFNg6",
           "source": "凤凰网",
@@ -273,6 +274,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时47分 ~ 12时48分]"
+        },
+        {
+          "title": "以媒：内塔尼亚胡向特朗普阐述对伊“三种情景”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33683951",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时27分 ~ 20时23分]"
         },
         {
           "title": "特朗普被发现在格雷厄姆葬礼打瞌睡",
@@ -370,7 +383,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
         },
@@ -403,7 +416,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
         },
@@ -428,17 +441,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时48分"
-        },
-        {
-          "title": "以媒：内塔尼亚胡向特朗普阐述对伊“三种情景”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33683951",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时27分"
         },
         {
           "title": "美国总统特朗普：美联储主席沃什有一个理事会，而且这是一个政治性的理事会。沃什希望看到更低的利率。",
@@ -521,7 +523,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "美股收盘：特朗普最后时刻砸盘 纳斯达克100指数坠入回调区间",
@@ -560,6 +562,28 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时56分 ~ 09时23分]"
+        },
+        {
+          "title": "美股存储板块盘前走强，美光科技(MU.O)涨3.6%，SK海力士(SKHY.O)涨3.3%，闪迪(SNDK.O)涨6%。",
+          "url": "https://flash.jin10.com/detail/20260730195238521800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
+          "title": "美股三大股指期货集体走高，纳指期货日内涨约1.5%，明星科技股盘前普涨，SK海力士盘前涨近4%，美光科技盘前涨超4%，SpaceX盘前涨超3%，英伟达盘前涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3142448",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
         },
         {
           "title": "美股大跌 美光科技跌超10%",
@@ -636,7 +660,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
         },
@@ -650,6 +674,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时49分"
+        },
+        {
+          "title": "美股存储板块盘前走强，美光科技、SK海力士涨超3%，闪迪涨6%。",
+          "url": "https://wallstreetcn.com/livenews/3142442",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
         },
         {
           "title": "微软预计2026年（根据会计调整的）资本开支为1750亿美元，之前预计1900亿美元。 微软美股盘后涨幅扩大至8%。",
@@ -721,7 +756,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "为什么 ChatGPT 已经发布 4 年了，社会总生产力纹丝不动？",
@@ -732,8 +767,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时22分 ~ 15时27分]"
+          "appearance_count": 6,
+          "time_info": "[09时22分 ~ 20时23分]"
+        },
+        {
+          "title": "OpenAI首席财务官“放暖风”：7月年化收入超过第二季！",
+          "url": "https://www.cls.cn/detail/2441076",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
         },
         {
           "title": "OpenAI 、 Anthropic 等上千员工联名请愿美政府控制 AI 发展速度，反映了什么？有何影响？",
