@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02T00:08:31.814858+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-08-02T00:48:16.233267+08:00",
+  "total_titles_processed": 342,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时08分"
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 00时48分]"
         },
         {
           "title": "美官员称特朗普已下令对伊朗发动新袭击：可能本周末启动",
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时08分"
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 00时48分]"
         },
         {
           "title": "新一轮袭击箭在弦上？美官员称特朗普已下令 伊朗厉声警告",
@@ -37,8 +37,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时08分"
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 00时48分]"
         },
         {
           "title": "特朗普：伊朗确实挺硬气",
@@ -48,8 +48,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时08分"
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 00时48分]"
+        },
+        {
+          "title": "特朗普说伊朗确实挺硬气",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E4%BC%8A%E6%9C%97%E7%A1%AE%E5%AE%9E%E6%8C%BA%E7%A1%AC%E6%B0%94%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 00时48分]"
         },
         {
           "title": "特朗普敦促参议员批准Blanche担任美国司法部长。（彭博）",
@@ -59,30 +71,20 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时08分"
+          "appearance_count": 2,
+          "time_info": "[00时08分 ~ 00时48分]"
         },
         {
           "title": "特朗普威胁参议员通过其司法部长人选",
           "url": "https://flash.jin10.com/detail/20260801195052778800",
           "source": "金十数据",
           "ranks": [
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时08分"
-        },
-        {
-          "title": "特朗普说伊朗确实挺硬气",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E4%BC%8A%E6%9C%97%E7%A1%AE%E5%AE%9E%E6%8C%BA%E7%A1%AC%E6%B0%94%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时08分"
+          "appearance_count": 2,
+          "time_info": "[00时08分 ~ 00时48分]"
         }
       ]
     },
@@ -98,8 +100,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时08分"
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 00时48分]"
         },
         {
           "title": "马斯克关注DeepSeek账号",
@@ -126,8 +128,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时08分"
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 00时48分]"
         },
         {
           "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
@@ -137,8 +139,25 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时08分"
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 00时48分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "神了,OpenAI攻克十年数学难题",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356711&amp;topic_name=%E7%A5%9E%E4%BA%86%2COpenAI%E6%94%BB%E5%85%8B%E5%8D%81%E5%B9%B4%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时47分 ~ 00时48分]"
         }
       ]
     }
