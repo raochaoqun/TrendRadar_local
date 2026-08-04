@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-04T16:19:08.736098+08:00",
-  "total_titles_processed": 1133,
+  "generated_at": "2026-08-04T19:15:42.235873+08:00",
+  "total_titles_processed": 1317,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 48,
       "titles": [
         {
           "title": "再度反转！特朗普宣布不打了，重启谈判，伊朗：没有计划",
@@ -18,8 +18,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时42分 ~ 16时19分]"
+          "appearance_count": 13,
+          "time_info": "[01时42分 ~ 19时15分]"
         },
         {
           "title": "特朗普威胁对伊朗采取斩首行动",
@@ -101,6 +101,17 @@
           "time_info": "10时38分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-04）",
+          "url": "https://flash.jin10.com/detail/20260804184529673800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
+        },
+        {
           "title": "美参议院少数党领袖：特朗普发动对伊战争是为了让石油巨头盟友获利",
           "url": "https://flash.jin10.com/detail/20260804010243522800",
           "source": "金十数据",
@@ -135,6 +146,18 @@
           "time_info": "[01时43分 ~ 03时18分]"
         },
         {
+          "title": "释新闻｜特朗普再次叫停袭击背后：伊朗“有选择地扩大冲突”如何捆住美国手脚",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33710926",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时39分 ~ 19时15分]"
+        },
+        {
           "title": "美国总统特朗普声称一项“协议即将达成”之后，伊朗外交部发言人周一置评道，德黑兰暂无与华盛顿举行直接谈判的计划。",
           "url": "https://wallstreetcn.com/livenews/3144296",
           "source": "华尔街见闻-快讯",
@@ -145,6 +168,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时43分 ~ 03时18分]"
+        },
+        {
+          "title": "美媒：因凡蒂诺向特朗普求助",
+          "url": "https://www.douyin.com/hot/2596620",
+          "source": "抖音",
+          "ranks": [
+            10,
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时39分 ~ 19时15分]"
         },
         {
           "title": "美石油巨头大发“战争财” 特朗普炮轰：赚得太多了，我不喜欢！",
@@ -158,30 +194,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时38分 ~ 16时19分]"
-        },
-        {
-          "title": "释新闻｜特朗普再次叫停袭击背后：伊朗“有选择地扩大冲突”如何捆住美国手脚",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33710926",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时39分 ~ 16时19分]"
-        },
-        {
-          "title": "美媒：因凡蒂诺向特朗普求助",
-          "url": "https://www.douyin.com/hot/2596620",
-          "source": "抖音",
-          "ranks": [
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时39分 ~ 16时19分]"
         },
         {
           "title": "特朗普抨击大型石油公司“赚得太多” 国际油价大幅回落 | 环球市场",
@@ -239,6 +251,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
+        },
+        {
+          "title": "有史以来最大规模铜流入！7月20万吨铜运抵美国，市场等待特朗普铜关税裁决",
+          "url": "https://wallstreetcn.com/articles/3778597",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
         },
         {
           "title": "美国纽约州、其他23个州及哥伦比亚特区起诉特朗普政府，反对允许获取TANF私人信息的相关改革措施。",
@@ -530,8 +553,20 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 25,
+      "match_count": 29,
       "titles": [
+        {
+          "title": "美股8月开门红，道指新高，亚马逊市值首破三万亿，阿里涨超4%，原油重挫",
+          "url": "https://wallstreetcn.com/articles/3778526",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时01分 ~ 19时15分]"
+        },
         {
           "title": "中东紧张局势降温 美股期指上涨、油价重挫 存储股盘前下跌 | 今夜看点",
           "url": "https://www.cls.cn/detail/2444462",
@@ -544,18 +579,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时42分 ~ 10时38分]"
-        },
-        {
-          "title": "美股8月开门红，道指新高，亚马逊市值首破三万亿，阿里涨超4%，原油重挫",
-          "url": "https://wallstreetcn.com/articles/3778526",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时01分 ~ 16时19分]"
         },
         {
           "title": "美伊谈判乐观情绪升温，美股指高开，亚马逊涨近5%，市值突破3万亿美元，WTI油价跌7%",
@@ -600,7 +623,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
         },
@@ -614,6 +637,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
+        },
+        {
+          "title": "辉瑞第二季度营收150.3亿美元，预估144.1亿美元。 第二季度调整后每股收益0.77美元。 第二季度ELIQUIS收入 24.3亿美元，预估20.9亿美元。 第二季度PREVNAR特许费收入 13.4亿美元。 辉瑞预计全年营收605亿美元至625亿美元，市场预估617.6亿美元。 辉瑞美股盘前跌近1%。",
+          "url": "https://wallstreetcn.com/livenews/3144692",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
         },
         {
           "title": "美股三大指数集体收涨 纳指涨逾2%",
@@ -795,9 +829,31 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
+        },
+        {
+          "title": "卡特彼勒公司第二季度营收205.4亿美元，同比增长24%，预估190.1亿美元。 第二季度每股收益7.77美元，上年同期4.62美元。 第二季度调整后每股收益8.17美元，预估6.17美元。 卡特彼勒美股盘前涨超6%。",
+          "url": "https://wallstreetcn.com/livenews/3144682",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
+        },
+        {
+          "title": "美股盘前光通信股拉升，Coherent涨超15%，Lumentum涨近12%，康宁涨超9%，Credo涨近10%，迈威尔科技涨近8%。",
+          "url": "https://wallstreetcn.com/livenews/3144681",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
         },
         {
           "title": "金十图示：2026年08月03日（周一）美股热门股票行情一览（美股盘中）",
@@ -831,12 +887,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时55分"
+        },
+        {
+          "title": "Spotify第二季度营收47.8亿欧元，预期47.9亿欧元。 第二季度每股收益2.61欧元，去年同期每股亏损0.42欧元。 第二季度营业利润6.55亿欧元，同比增长61%。 第二季度月活跃用户数7.77亿，预期7.7818亿。 Spotify预计第三季度营收50亿欧元，市场预期49.3亿欧元。 Spotify预计第三季度营业利润6.70亿欧元，市场预期6.811亿欧元。 Spotify预计第三季度月活跃用户数7.88亿，市场预期7.9352亿。 Spotify美股盘前跌近4%。",
+          "url": "https://wallstreetcn.com/livenews/3144672",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "DeepSeek一天消耗了8万亿",
@@ -922,6 +989,19 @@
           "time_info": "[01时42分 ~ 08时01分]"
         },
         {
+          "title": "OpenCode 发文称 DeepSeek 单日吞下 8 万亿 Token，传递出哪些信号？",
+          "url": "https://www.zhihu.com/question/2067873642554156045",
+          "source": "知乎",
+          "ranks": [
+            8,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时39分 ~ 19时15分]"
+        },
+        {
           "title": "DeepSeek登顶全球第一",
           "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E7%99%BB%E9%A1%B6%E5%85%A8%E7%90%83%E7%AC%AC%E4%B8%80%23&t=31&band_rank=15&Refer=top",
           "source": "微博",
@@ -947,16 +1027,15 @@
           "time_info": "13时39分"
         },
         {
-          "title": "OpenCode 发文称 DeepSeek 单日吞下 8 万亿 Token，传递出哪些信号？",
-          "url": "https://www.zhihu.com/question/2067873642554156045",
-          "source": "知乎",
+          "title": "DeepSeek低价风暴打服硅谷",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E4%BD%8E%E4%BB%B7%E9%A3%8E%E6%9A%B4%E6%89%93%E6%9C%8D%E7%A1%85%E8%B0%B7",
+          "source": "百度热搜",
           "ranks": [
-            8,
-            4
+            12
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时39分 ~ 16时19分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
         },
         {
           "title": "OpenAI等巨头大幅降价对标DeepSeek",
@@ -968,6 +1047,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
+        },
+        {
+          "title": "DeepSeek斩杀了谁",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%96%A9%E6%9D%80%E4%BA%86%E8%B0%81",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
         }
       ]
     },
@@ -982,11 +1072,12 @@
           "ranks": [
             9,
             13,
-            18
+            18,
+            21
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时42分 ~ 16时19分]"
+          "appearance_count": 13,
+          "time_info": "[01时42分 ~ 19时15分]"
         },
         {
           "title": "OpenAI：我们下一代主要模型的一个内部版本，在数学和理论计算机科学领域长期未解决的开放问题上取得了10项新成果，所使用的计算成本约为按照GPT-5.6 Sol API费率计算的2000美元token费用。 我们将发布这些手稿、正式的Lean证明证书以及推理过程说明，供数学家们审查这些结果，并在相关研究思路基础上进一步发展。 这些成果涵盖球体堆积、编码理论、群论、量子复杂性、格密码学、极值组合学等领域。其中包括：证明非sofic群的存在性，以及对高维球体堆积界限取得指数级改进。",
@@ -1031,7 +1122,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
         },
