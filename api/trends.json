@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T14:35:10.611236+08:00",
-  "total_titles_processed": 1005,
+  "generated_at": "2026-08-08T15:40:54.264882+08:00",
+  "total_titles_processed": 1070,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时50分 ~ 14时35分]"
+          "appearance_count": 9,
+          "time_info": "[08时50分 ~ 15时40分]"
         },
         {
           "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
@@ -43,8 +43,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[03时44分 ~ 14时35分]"
+          "appearance_count": 15,
+          "time_info": "[03时44分 ~ 15时40分]"
         },
         {
           "title": "特朗普：隔着大洋呢，我们没掺和这事",
@@ -52,11 +52,26 @@
           "source": "凤凰网",
           "ranks": [
             11,
-            5
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时50分 ~ 15时40分]"
+        },
+        {
+          "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
+          "url": "https://www.cls.cn/detail/2449039",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7,
+            5,
+            4
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[10时50分 ~ 14时35分]"
+          "time_info": "[12时04分 ~ 15时40分]"
         },
         {
           "title": "涉及白宫宴会厅项目，特朗普称将提起上诉",
@@ -68,19 +83,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时50分 ~ 10时50分]"
-        },
-        {
-          "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
-          "url": "https://www.cls.cn/detail/2449039",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时04分 ~ 14时35分]"
         },
         {
           "title": "万斯为何能被特朗普青睐？背后有好几个大佬做靠山",
@@ -482,6 +484,19 @@
           "time_info": "[00时42分 ~ 07时25分]"
         },
         {
+          "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
+          "url": "https://www.cls.cn/detail/2448991",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[08时50分 ~ 15时40分]"
+        },
+        {
           "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
           "url": "https://www.cls.cn/detail/2448784",
           "source": "财联社热门",
@@ -492,8 +507,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时42分 ~ 14时35分]"
+          "appearance_count": 20,
+          "time_info": "[00时42分 ~ 15时40分]"
         },
         {
           "title": "非农爆冷打击加息预期，美股高开，光通信概念股普涨，光模块制造商AAOI涨超12%，现货黄金突破4350",
@@ -513,24 +528,12 @@
           "ranks": [
             10,
             4,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时25分 ~ 14时35分]"
-        },
-        {
-          "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
-          "url": "https://www.cls.cn/detail/2448991",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时50分 ~ 14时35分]"
+          "appearance_count": 11,
+          "time_info": "[06时25分 ~ 15时40分]"
         },
         {
           "title": "美股光模块黑马计划大幅扩产 全力押注800G、1.6T产品",
@@ -645,11 +648,12 @@
           "source": "知乎",
           "ranks": [
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时50分 ~ 14时35分]"
+          "appearance_count": 9,
+          "time_info": "[08时50分 ~ 15时40分]"
         },
         {
           "title": "业绩如何支撑高估值？与DeepSeek如何合作？如何看待股价炒作？王兴兴回应多个热点",
@@ -663,8 +667,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[03时44分 ~ 14时35分]"
+          "appearance_count": 15,
+          "time_info": "[03时44分 ~ 15时40分]"
         },
         {
           "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
@@ -740,8 +744,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时42分 ~ 14时35分]"
+          "appearance_count": 20,
+          "time_info": "[00时42分 ~ 15时40分]"
         },
         {
           "title": "奥士康：与AMD合作尚处送样阶段，未与英伟达、谷歌开展订单合作",
