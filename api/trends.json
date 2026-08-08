@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T16:28:29.626952+08:00",
-  "total_titles_processed": 1118,
+  "generated_at": "2026-08-08T17:28:20.308950+08:00",
+  "total_titles_processed": 1187,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 40,
       "titles": [
         {
           "title": "中期选举临近，特朗普连续21场败诉",
@@ -16,8 +16,23 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时50分 ~ 16时28分]"
+          "appearance_count": 11,
+          "time_info": "[08时50分 ~ 17时28分]"
+        },
+        {
+          "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
+          "url": "https://www.cls.cn/detail/2449039",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时04分 ~ 17时28分]"
         },
         {
           "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
@@ -43,8 +58,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[03时44分 ~ 16时28分]"
+          "appearance_count": 17,
+          "time_info": "[03时44分 ~ 17时28分]"
         },
         {
           "title": "特朗普：隔着大洋呢，我们没掺和这事",
@@ -58,20 +73,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[10时50分 ~ 16时28分]"
-        },
-        {
-          "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
-          "url": "https://www.cls.cn/detail/2449039",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时04分 ~ 16时28分]"
         },
         {
           "title": "涉及白宫宴会厅项目，特朗普称将提起上诉",
@@ -250,8 +251,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时34分 ~ 14时35分]"
+          "appearance_count": 3,
+          "time_info": "[14时34分 ~ 17时28分]"
         },
         {
           "title": "特朗普政府拟向电池及材料企业拨付20亿美元。 特朗普盛赞 MP 材料公司获得政府注资。（华尔街日报）",
@@ -311,6 +312,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时50分 ~ 08时51分]"
+        },
+        {
+          "title": "特朗普在会议上获赠一纯金礼品，当场要求传过来",
+          "url": "https://v.ifeng.com/c/8vONreNLVHw",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
         },
         {
           "title": "美国总统特朗普：向美国采矿院校提供1亿美元资金，这项投资将帮助培养下一代采矿工程师，因为该行业正面临大规模退休潮以及毕业生人数不足的问题。",
@@ -470,7 +482,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
@@ -482,8 +494,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时50分 ~ 16时28分]"
+          "appearance_count": 11,
+          "time_info": "[08时50分 ~ 17时28分]"
         },
         {
           "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
@@ -497,20 +509,6 @@
           "time_info": "[00时42分 ~ 07时25分]"
         },
         {
-          "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2448784",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            4,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时42分 ~ 16时28分]"
-        },
-        {
           "title": "非农爆冷打击加息预期，美股高开，光通信概念股普涨，光模块制造商AAOI涨超12%，现货黄金突破4350",
           "url": "https://wallstreetcn.com/articles/3778924",
           "source": "华尔街见闻",
@@ -522,6 +520,21 @@
           "time_info": "[00时42分 ~ 05时29分]"
         },
         {
+          "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2448784",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 22,
+          "time_info": "[00时42分 ~ 17时28分]"
+        },
+        {
           "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
           "url": "https://www.cls.cn/detail/2448974",
           "source": "财联社热门",
@@ -529,11 +542,12 @@
             10,
             4,
             3,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[06时25分 ~ 16时28分]"
+          "appearance_count": 13,
+          "time_info": "[06时25分 ~ 17时28分]"
         },
         {
           "title": "美股光模块黑马计划大幅扩产 全力押注800G、1.6T产品",
@@ -626,6 +640,17 @@
           "time_info": "[04时29分 ~ 08时51分]"
         },
         {
+          "title": "李大霄谈美股三大指数高开",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%B0%88%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%AB%98%E5%BC%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
+        },
+        {
           "title": "美股收盘：标普500指数再创新高",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E6%A0%87%E6%99%AE500%E6%8C%87%E6%95%B0%E5%86%8D%E5%88%9B%E6%96%B0%E9%AB%98",
           "source": "百度热搜",
@@ -653,8 +678,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时50分 ~ 16时28分]"
+          "appearance_count": 11,
+          "time_info": "[08时50分 ~ 17时28分]"
         },
         {
           "title": "业绩如何支撑高估值？与DeepSeek如何合作？如何看待股价炒作？王兴兴回应多个热点",
@@ -668,8 +693,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[03时44分 ~ 16时28分]"
+          "appearance_count": 17,
+          "time_info": "[03时44分 ~ 17时28分]"
         },
         {
           "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
@@ -746,8 +771,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时42分 ~ 16时28分]"
+          "appearance_count": 22,
+          "time_info": "[00时42分 ~ 17时28分]"
         },
         {
           "title": "奥士康：与AMD合作尚处送样阶段，未与英伟达、谷歌开展订单合作",
