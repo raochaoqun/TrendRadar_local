@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-08-11T16:03:48.845867+08:00",
-  "total_titles_processed": 1220,
+  "generated_at": "2026-08-11T18:42:13.601522+08:00",
+  "total_titles_processed": 1385,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
       "match_count": 37,
       "titles": [
+        {
+          "title": "“特朗普关联”石油公司擅运钻探设备上岛，格陵兰强烈警告",
+          "url": "https://news.ifeng.com/c/8vUAxbsrTSq",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时55分 ~ 18时42分]"
+        },
         {
           "title": "还剩85天，特朗普全面收缩，伊朗左冲右突",
           "url": "https://news.ifeng.com/c/8vTlIUCd26B",
@@ -31,17 +42,6 @@
           "time_info": "[00时42分 ~ 07时26分]"
         },
         {
-          "title": "“特朗普关联”石油公司擅运钻探设备上岛，格陵兰强烈警告",
-          "url": "https://news.ifeng.com/c/8vUAxbsrTSq",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时55分 ~ 16时03分]"
-        },
-        {
           "title": "新闻蒸馏器｜内塔尼亚胡公开拒绝美国15点加沙计划，与特朗普罕见摊牌",
           "url": "https://m.thepaper.cn/newsDetail_forward_33750452",
           "source": "澎湃新闻",
@@ -52,6 +52,20 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时42分 ~ 08时55分]"
+        },
+        {
+          "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
+          "url": "https://wallstreetcn.com/articles/3779107",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时19分 ~ 18时42分]"
         },
         {
           "title": "特朗普称要向伊朗索赔",
@@ -65,6 +79,28 @@
           "time_info": "[05时32分 ~ 07时26分]"
         },
         {
+          "title": "外媒曝出重大消息：特朗普放弃对伊朗的头号要求",
+          "url": "https://news.ifeng.com/c/8vUFosuJumv",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时47分 ~ 18时42分]"
+        },
+        {
+          "title": "特朗普：美军已100%控制霍尔木兹海峡",
+          "url": "https://news.ifeng.com/c/8vUfcNGWBFb",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时55分 ~ 18时42分]"
+        },
+        {
           "title": "伊朗称“目前伊美没有进行任何谈判”，特朗普表态“正在低调处理”",
           "url": "https://wallstreetcn.com/articles/3779034",
           "source": "华尔街见闻",
@@ -75,41 +111,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时42分 ~ 07时26分]"
-        },
-        {
-          "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
-          "url": "https://wallstreetcn.com/articles/3779107",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时19分 ~ 16时03分]"
-        },
-        {
-          "title": "外媒曝出重大消息：特朗普放弃对伊朗的头号要求",
-          "url": "https://news.ifeng.com/c/8vUFosuJumv",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时47分 ~ 16时03分]"
-        },
-        {
-          "title": "特朗普：美军已100%控制霍尔木兹海峡",
-          "url": "https://news.ifeng.com/c/8vUfcNGWBFb",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时55分 ~ 16时03分]"
         },
         {
           "title": "外媒曝出惊人消息：特朗普放弃对伊朗的头号要求",
@@ -163,7 +164,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
         },
@@ -380,7 +381,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
         },
@@ -435,6 +436,17 @@
       "match_count": 14,
       "titles": [
         {
+          "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
+          "url": "https://wallstreetcn.com/articles/3779052",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时55分 ~ 18时42分]"
+        },
+        {
           "title": "美股收盘：芯片股&光通信概念重挫 三大指数收低中概逆市走强",
           "url": "https://www.cls.cn/detail/2450652",
           "source": "财联社热门",
@@ -447,17 +459,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[06时27分 ~ 16时03分]"
-        },
-        {
-          "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
-          "url": "https://wallstreetcn.com/articles/3779052",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时55分 ~ 16时03分]"
         },
         {
           "title": "【早报】美股芯片股大跌；中概股逆势走强；原油飙升、黄金收涨；A股又一波回购潮来了",
@@ -501,7 +502,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
         },
@@ -730,7 +731,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
         },
@@ -749,7 +750,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "谷歌AI团队告知求职者：其HR筛选系统不可靠",
@@ -773,6 +774,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时42分"
+        },
+        {
+          "title": "谷歌(GOOG.O)宣布在美洲地区扩展全球网络基础设施，新增三条海底光缆系统：Alisios、Cano​​a和Olaluz。",
+          "url": "https://flash.jin10.com/detail/20260811180342170800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
         }
       ]
     },
