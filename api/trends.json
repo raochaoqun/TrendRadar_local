@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-13T13:39:35.344913+08:00",
-  "total_titles_processed": 1009,
+  "generated_at": "2026-08-13T15:11:48.856416+08:00",
+  "total_titles_processed": 1132,
   "failed_sources": [],
   "trends": [
     {
@@ -144,6 +144,18 @@
           "time_info": "[03时57分 ~ 04时33分]"
         },
         {
+          "title": "深度｜为逼光伏制造回流，特朗普再挥大棒：瞄准对手，反伤自身",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33773012",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时59分 ~ 15时11分]"
+        },
+        {
           "title": "美国总统特朗普：白宫新闻秘书莱维特将辞去职务，以便能有更多时间陪伴家人。",
           "url": "https://flash.jin10.com/detail/20260813033648092800",
           "source": "金十数据",
@@ -168,26 +180,16 @@
           "time_info": "[03时57分 ~ 04时33分]"
         },
         {
-          "title": "深度｜为逼光伏制造回流，特朗普再挥大棒：瞄准对手，反伤自身",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33773012",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时59分 ~ 13时39分]"
-        },
-        {
           "title": "特朗普声称掌控霍尔木兹、伊朗坚决否认 海峡通行量跌至三个月最低",
           "url": "https://www.cls.cn/detail/2452937",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时59分 ~ 13时39分]"
+          "appearance_count": 4,
+          "time_info": "[11时59分 ~ 15时11分]"
         },
         {
           "title": "特朗普：白宫新闻秘书莱维特将于本月底离任",
@@ -253,7 +255,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
         },
@@ -338,7 +340,7 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "DeepSeek V4 Pro正式版上线",
@@ -372,8 +374,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时03分 ~ 13时39分]"
+          "appearance_count": 5,
+          "time_info": "[09时03分 ~ 15时11分]"
         },
         {
           "title": "DeepSeek V4 Pro正式版来了！尚未公布调价方案",
@@ -385,8 +387,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时03分 ~ 13时39分]"
+          "appearance_count": 5,
+          "time_info": "[09时03分 ~ 15时11分]"
         },
         {
           "title": "DeepSeek V4 Pro正式版深夜“突袭”：多项测试逼近Fable 5，撞车Grok 4.6",
@@ -394,11 +396,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时03分 ~ 13时39分]"
+          "appearance_count": 5,
+          "time_info": "[09时03分 ~ 15时11分]"
         },
         {
           "title": "DeepSeek发布V4Pro正式版",
@@ -485,6 +488,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时46分 ~ 02时47分]"
+        },
+        {
+          "title": "快把真正的DeepSeek V4 Pro还给我",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BF%AB%E6%8A%8A%E7%9C%9F%E6%AD%A3%E7%9A%84DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E8%BF%98%E7%BB%99%E6%88%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时11分"
+        },
+        {
+          "title": "腾讯CodeBuddy支持DeepSeek-V4-Pro正式版",
+          "url": "https://flash.jin10.com/detail/20260813145830026800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时11分"
+        },
+        {
+          "title": "真实项目实测DeepSeek V4 Pro",
+          "url": "https://search.bilibili.com/all?keyword=%E7%9C%9F%E5%AE%9E%E9%A1%B9%E7%9B%AE%E6%B5%8BDeepSeek%20V4%20Pro",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时11分"
         }
       ]
     },
@@ -501,8 +537,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时30分 ~ 13时39分]"
+          "appearance_count": 6,
+          "time_info": "[07时30分 ~ 15时11分]"
         },
         {
           "title": "美温和CPI缓解加息压力，光通信领涨美股，Nebius暴涨超34%，美元、黄金齐涨",
@@ -513,8 +549,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时30分 ~ 13时39分]"
+          "appearance_count": 6,
+          "time_info": "[07时30分 ~ 15时11分]"
         },
         {
           "title": "美通胀温和缓解加息压力，美股高开，光通信、存储芯片股领涨，Nebius涨15%，油价震荡",
@@ -615,6 +651,18 @@
       "match_count": 8,
       "titles": [
         {
+          "title": "但斌美股持仓“大换血”：清仓苹果、特斯拉，减仓谷歌，新进英特尔成第二大持仓、闪迪第四大持仓......",
+          "url": "https://wallstreetcn.com/articles/3779285",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时30分 ~ 15时11分]"
+        },
+        {
           "title": "消息人士：谷歌重组部门全力发展Gemini",
           "url": "https://flash.jin10.com/detail/20260813021710644800",
           "source": "金十数据",
@@ -635,18 +683,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时46分"
-        },
-        {
-          "title": "但斌美股持仓“大换血”：清仓苹果、特斯拉，减仓谷歌，新进英特尔成第二大持仓、闪迪第四大持仓......",
-          "url": "https://wallstreetcn.com/articles/3779285",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时30分 ~ 13时39分]"
         },
         {
           "title": "谷歌：Pixel 11 Pro Fold今日开启预购，将于8月20日上市开售。",
