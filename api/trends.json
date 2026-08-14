@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T11:56:04.451979+08:00",
-  "total_titles_processed": 967,
+  "generated_at": "2026-08-14T13:25:42.547362+08:00",
+  "total_titles_processed": 1085,
   "failed_sources": [],
   "trends": [
     {
@@ -64,8 +64,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时55分 ~ 11时56分]"
+          "appearance_count": 3,
+          "time_info": "[11时55分 ~ 13时25分]"
         },
         {
           "title": "特朗普宣称美国“完全掌控”霍尔木兹海峡",
@@ -149,8 +149,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时03分 ~ 11时56分]"
+          "appearance_count": 4,
+          "time_info": "[09时03分 ~ 13时25分]"
         },
         {
           "title": "以色列发警报迫使特朗普换飞机，美中情局质疑以方用意",
@@ -160,8 +160,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时55分 ~ 11时56分]"
+          "appearance_count": 3,
+          "time_info": "[11时55分 ~ 13时25分]"
         },
         {
           "title": "特朗普女婿计划下周访问以色列，就加沙问题进行会谈",
@@ -182,7 +182,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时56分"
         },
@@ -193,7 +193,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时56分"
         },
@@ -366,7 +366,7 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "俱往矣!DeepSeek大幅涨价",
@@ -377,8 +377,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时45分 ~ 11时56分]"
+          "appearance_count": 11,
+          "time_info": "[00时45分 ~ 13时25分]"
         },
         {
           "title": "如何评价在 8 月 13 日发布的 DeepSeek Harness？",
@@ -405,8 +405,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时45分 ~ 11时56分]"
+          "appearance_count": 11,
+          "time_info": "[00时45分 ~ 13时25分]"
         },
         {
           "title": "怎么看 DeepSeek 8 月 17 日涨价后的价格，这个峰谷定价你接受吗？",
@@ -463,6 +463,21 @@
           "time_info": "[00时45分 ~ 09时03分]"
         },
         {
+          "title": "DeepSeek发布调价公告",
+          "url": "https://www.douyin.com/hot/2608709",
+          "source": "抖音",
+          "ranks": [
+            8,
+            7,
+            10,
+            17,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时45分 ~ 13时25分]"
+        },
+        {
           "title": "DeepSeek官方Agent发布",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%AE%98%E6%96%B9Agent%E5%8F%91%E5%B8%83",
           "source": "bilibili 热搜",
@@ -477,21 +492,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时45分 ~ 09时03分]"
-        },
-        {
-          "title": "DeepSeek发布调价公告",
-          "url": "https://www.douyin.com/hot/2608709",
-          "source": "抖音",
-          "ranks": [
-            8,
-            7,
-            10,
-            17,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 11时56分]"
         },
         {
           "title": "怎么看 DeepSeek Harness 正式开源，采用一切皆插件的架构？",
@@ -524,6 +524,17 @@
           "time_info": "[00时45分 ~ 05时35分]"
         },
         {
+          "title": "DeepSeek Harness是什么",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E6%98%AF%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
+        {
           "title": "为什么DeepSeek越涨价越是价格屠夫",
           "url": "https://www.toutiao.com/trending/7673637537293798953/",
           "source": "今日头条",
@@ -544,8 +555,20 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时03分 ~ 13时25分]"
+        },
+        {
+          "title": "DeepSeek Harness 来了，它不想做下一个Codex",
+          "url": "https://wallstreetcn.com/articles/3779390",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时03分 ~ 11时56分]"
+          "time_info": "[11时55分 ~ 13时25分]"
         },
         {
           "title": "如何看待 DeepSeek 撤回 v4Pro 正式版的公告？",
@@ -558,17 +581,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时03分 ~ 11时56分]"
-        },
-        {
-          "title": "DeepSeek Harness 来了，它不想做下一个Codex",
-          "url": "https://wallstreetcn.com/articles/3779390",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时55分 ~ 11时56分]"
         },
         {
           "title": "DeepSeek Harness 已发布，如何评价这款产品？",
@@ -591,6 +603,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
+        },
+        {
+          "title": "金山办公“灵犀”接入DeepSeek-V4-Pro正式版，已向用户开放",
+          "url": "https://wallstreetcn.com/livenews/3149467",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
         },
         {
           "title": "DeepSeek官网撤公告疑似回滚",
@@ -652,8 +675,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时03分 ~ 11时56分]"
+          "appearance_count": 4,
+          "time_info": "[09时03分 ~ 13时25分]"
         },
         {
           "title": "金十图示：2026年08月13日（周四）美股热门股票行情一览（美股收盘）",
