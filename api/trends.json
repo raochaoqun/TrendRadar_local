@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-08-15T06:13:23.181668+08:00",
-  "total_titles_processed": 415,
+  "generated_at": "2026-08-15T07:13:11.933069+08:00",
+  "total_titles_processed": 438,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
       "match_count": 14,
       "titles": [
+        {
+          "title": "事关特朗普与马斯克，美媒最新爆料",
+          "url": "https://news.ifeng.com/c/8vaHza2NSPn",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时44分 ~ 07时13分]"
+        },
         {
           "title": "美国总统特朗普：经济表现好得令人难以置信。",
           "url": "https://flash.jin10.com/detail/20260815012708562800",
@@ -17,6 +28,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时45分"
+        },
+        {
+          "title": "美国政府设备重新允许使用 TikTok，特朗普称其在 TikTok 上长期霸榜，靠它帮助赢下大选，如何解读？",
+          "url": "https://www.zhihu.com/question/2070813507499643585",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时44分 ~ 07时13分]"
         },
         {
           "title": "市场消息：美国总统特朗普已离开安德鲁斯联合基地，正前往纽约加登城。",
@@ -41,38 +63,17 @@
           "time_info": "01时45分"
         },
         {
-          "title": "事关特朗普与马斯克，美媒最新爆料",
-          "url": "https://news.ifeng.com/c/8vaHza2NSPn",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时44分 ~ 06时13分]"
-        },
-        {
-          "title": "美国政府设备重新允许使用 TikTok，特朗普称其在 TikTok 上长期霸榜，靠它帮助赢下大选，如何解读？",
-          "url": "https://www.zhihu.com/question/2070813507499643585",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时44分 ~ 06时13分]"
-        },
-        {
           "title": "特朗普：击败伊朗后会宣布霍尔木兹海峡为美国领土",
           "url": "https://wallstreetcn.com/livenews/3149885",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时55分 ~ 06时13分]"
+          "appearance_count": 3,
+          "time_info": "[05时55分 ~ 07时13分]"
         },
         {
           "title": "伊朗副外长加里巴巴迪：（回应特朗普称将宣布霍尔木兹海峡为美国领土的言论）不会被美国的威胁或武力展示所吓倒。",
@@ -80,11 +81,12 @@
           "source": "金十数据",
           "ranks": [
             10,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时55分 ~ 06时13分]"
+          "appearance_count": 3,
+          "time_info": "[05时55分 ~ 07时13分]"
         },
         {
           "title": "特朗普表示，每周从委内瑞拉获取数百万桶石油。 伊朗仍拥有导弹和无人机，但数量并不多。伊朗已无防御力量。伊朗货币毫无价值。 我们在伊朗问题上取得了重大胜利。",
@@ -92,11 +94,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             18,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时55分 ~ 06时13分]"
+          "appearance_count": 3,
+          "time_info": "[05时55分 ~ 07时13分]"
         },
         {
           "title": "美国总统特朗普表示，我很快将宣布霍尔木兹海峡为美国领土。美国对伊朗的封锁“势不可挡”，是一道“钢铁之墙”。 特朗普称，美国已经做好应对伊朗的充分准备，不会允许伊朗继续所作所为，也不会允许伊朗拥有核武器。",
@@ -104,11 +107,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             23,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时55分 ~ 06时13分]"
+          "appearance_count": 3,
+          "time_info": "[05时55分 ~ 07时13分]"
         },
         {
           "title": "市场消息：美国总统特朗普抵达马里兰州安德鲁斯联合基地。",
@@ -169,7 +173,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美疲弱零售销售数据再挫加息预期，美股涨跌互现，存储芯片股普涨，闪迪涨约7%，金涨油跌",
@@ -180,8 +184,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时44分 ~ 06时13分]"
+          "appearance_count": 6,
+          "time_info": "[01时44分 ~ 07时13分]"
         },
         {
           "title": "金十图示：2026年08月14日（周五）热门中概股行情一览（美股盘中）",
@@ -211,11 +215,23 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             21,
-            22
+            22,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时55分 ~ 07时13分]"
+        },
+        {
+          "title": "美股收盘：三大指数小幅收低 存储概念逆市走强 闪迪周涨逾35%",
+          "url": "https://www.cls.cn/detail/2455043",
+          "source": "财联社热门",
+          "ranks": [
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时55分 ~ 06时13分]"
+          "time_info": "[07时12分 ~ 07时13分]"
         },
         {
           "title": "美股三大指数集体走低，标普500指数跌0.23%，纳斯达克指数跌0.45%，道琼斯指数跌0.26%。",
@@ -251,11 +267,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时44分 ~ 06时13分]"
+          "appearance_count": 6,
+          "time_info": "[01时44分 ~ 07时13分]"
         },
         {
           "title": "俱往矣!DeepSeek大幅涨价",
@@ -265,8 +282,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时44分 ~ 06时13分]"
+          "appearance_count": 6,
+          "time_info": "[01时44分 ~ 07时13分]"
         },
         {
           "title": "网友热议DeepSeek Harness：“自进化软件”的雏形",
@@ -276,8 +293,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时44分 ~ 06时13分]"
+          "appearance_count": 6,
+          "time_info": "[01时44分 ~ 07时13分]"
         }
       ]
     },
@@ -291,11 +308,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             16,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时55分 ~ 06时13分]"
+          "appearance_count": 3,
+          "time_info": "[05时55分 ~ 07时13分]"
         },
         {
           "title": "伯克希尔哈撒韦Q2增持谷歌",
@@ -303,11 +321,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             20,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时55分 ~ 06时13分]"
+          "appearance_count": 3,
+          "time_info": "[05时55分 ~ 07时13分]"
         }
       ]
     },
@@ -340,8 +359,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时44分 ~ 06时13分]"
+          "appearance_count": 6,
+          "time_info": "[01时44分 ~ 07时13分]"
         }
       ]
     },
