@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-17T07:08:22.421014+08:00",
-  "total_titles_processed": 496,
+  "generated_at": "2026-10-17T10:03:59.587180+08:00",
+  "total_titles_processed": 647,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 28,
       "titles": [
         {
           "title": "俄乌“能源停火”破裂，俄专家：特朗普调停能力减弱",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时04分 ~ 07时08分]"
+          "appearance_count": 4,
+          "time_info": "[01时04分 ~ 10时03分]"
         },
         {
           "title": "美国总统特朗普：拜登向乌克兰提供了价值3500亿美元的装备和现金。这不好，非常不好，实在太糟糕了。",
@@ -25,9 +25,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
+        },
+        {
+          "title": "特朗普豁免《格雷厄姆法案》中多项对俄制裁、限制措施及关税",
+          "url": "https://wallstreetcn.com/livenews/3180516",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
         },
         {
           "title": "特朗普称可能打击伊朗镐山核设施",
@@ -41,15 +52,38 @@
           "time_info": "[01时04分 ~ 07时08分]"
         },
         {
+          "title": "美国总统特朗普： 在佐治亚州，优时比（UCB）将投资20亿美元，建设其在美国的首座制药工厂。 倍耐力（Pirelli）刚刚宣布，将投资12亿美元扩建罗马市工厂，新增1000个就业岗位。 现代汽车（Hyundai）宣布，将投资5.6亿美元扩建西点市的工厂。",
+          "url": "https://wallstreetcn.com/livenews/3180498",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时08分 ~ 10时03分]"
+        },
+        {
           "title": "美国总统特朗普：（关于霍尔木兹海峡）如果我们把它改名为“特朗普海峡”，阿拉伯国家会作何感想呢？我们轻松就能搞定这件事。",
           "url": "https://flash.jin10.com/detail/20261017053413059800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
+        },
+        {
+          "title": "美国总统特朗普周六日程一览",
+          "url": "https://flash.jin10.com/detail/20261017093800660800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
         },
         {
           "title": "特朗普：白宫未干预乌克兰卫星系统 马斯克也没有",
@@ -58,7 +92,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -74,6 +108,17 @@
           "time_info": "01时04分"
         },
         {
+          "title": "特朗普：我化妆很淡，都是自己动手，因为不化妆看起来像个死人",
+          "url": "https://v.ifeng.com/c/8xI38csArPf",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
           "title": "市场消息：美国总统特朗普重启与黎巴嫩的直接美国航班计划遭遇障碍。",
           "url": "https://flash.jin10.com/detail/20261017003823673800",
           "source": "金十数据",
@@ -85,26 +130,26 @@
           "time_info": "01时04分"
         },
         {
-          "title": "美国总统特朗普： 在佐治亚州，优时比（UCB）将投资20亿美元，建设其在美国的首座制药工厂。 倍耐力（Pirelli）刚刚宣布，将投资12亿美元扩建罗马市工厂，新增1000个就业岗位。 现代汽车（Hyundai）宣布，将投资5.6亿美元扩建西点市的工厂。",
-          "url": "https://wallstreetcn.com/livenews/3180498",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时08分"
-        },
-        {
           "title": "美国总统特朗普：欧洲人想得到格陵兰岛。他们当时就知道我是对的。",
           "url": "https://flash.jin10.com/detail/20261017051053149800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
+        },
+        {
+          "title": "上任仅5天 白宫新闻秘书遭特朗普“劝退”",
+          "url": "https://www.cls.cn/detail/2507355",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
         },
         {
           "title": "美国总统特朗普：（关于伊朗战事）这只是一次军事演习而已，明白吗？",
@@ -113,9 +158,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
+        },
+        {
+          "title": "白宫前新闻秘书扎卡里亚：特朗普总统是一位善良、出色、宽厚、体贴、充满热情的人，也是最勤奋的人。我希望有更多美国人能够欣赏他。没有人能够像他过去所做的、以及如今仍在继续做的那样，让美国再次伟大。能够为他工作是我的荣幸。（金十注：美国白宫官员当地时间16日透露，扎卡里亚在上任一周后实际上已被解职。）",
+          "url": "https://flash.jin10.com/detail/20261017091125002800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
         },
         {
           "title": "美国跨党派议员们提出法案，建议阻止总统特朗普的俄罗斯柴油交易",
@@ -146,7 +202,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -157,7 +213,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -179,7 +235,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -193,6 +249,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
+        },
+        {
+          "title": "特朗普豁免《格雷厄姆法案》中多项对俄制裁、限制措施及关税",
+          "url": "https://flash.jin10.com/detail/20261017084801915800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
+          "title": "据白宫发布的行政命令，美国总统特朗普表示，他已向国会提交一份证明文件，确认实施豁免符合美国国家利益。",
+          "url": "https://flash.jin10.com/detail/20261017084220650800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
+          "title": "美国总统特朗普在一项行政命令中表示，他即日起豁免适用《格雷厄姆制裁俄罗斯和伊朗法案》规定的部分制裁、限制措施及关税。",
+          "url": "https://flash.jin10.com/detail/20261017084033403800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
         },
         {
           "title": "据福克斯新闻：美国总统特朗普表示并不急于任命新的新闻秘书。",
@@ -212,7 +301,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -231,19 +320,54 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "美股收盘：科技重挫纳指跌超2% 红利、能源巨头再创新高",
+          "url": "https://www.cls.cn/detail/2507375",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时08分 ~ 10时03分]"
+        },
+        {
+          "title": "AI交易忧虑压垮美股，纳指跌超2%、CoreWeave暴跌12%，VIX一度升破22，布油涨破110",
+          "url": "https://wallstreetcn.com/articles/3783778",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
+          "title": "【早报】美股纳指大跌超500点，半导体、存储股全线跳水；黄仁勋谈“AI市场震荡”；国际油价大涨；胜宏科技、豪威集团等计划回购股份",
+          "url": "https://www.cls.cn/detail/2507382",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
         {
           "title": "沃什IMF年会上未释放加息信号 美股三大期指窄幅震荡 | 今夜看点",
           "url": "https://www.cls.cn/detail/2507212",
           "source": "财联社热门",
           "ranks": [
             5,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时04分 ~ 07时08分]"
+          "appearance_count": 4,
+          "time_info": "[01时04分 ~ 10时03分]"
         },
         {
           "title": "AI交易忧虑压垮美股，纳指跌超2%、CoreWeave暴跌12%，芯片指数八连跌，布油涨破110",
@@ -252,18 +376,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时08分"
-        },
-        {
-          "title": "美股收盘：科技重挫纳指跌超2% 红利、能源巨头再创新高",
-          "url": "https://www.cls.cn/detail/2507375",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -311,22 +424,24 @@
           "url": "https://wallstreetcn.com/livenews/3180499",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时08分 ~ 10时03分]"
         },
         {
           "title": "OpenAI从SpaceX挖走另一位聚焦AI的销售主管",
           "url": "https://wallstreetcn.com/livenews/3180494",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            13,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时08分 ~ 10时03分]"
         },
         {
           "title": "OpenAI：ChatGPT中的GPT-6 Astra Pro已升级，响应速度更快，插件与工具调用能力也得到提升。现在，多个智能体可并行处理任务的不同部分。你可以实时跟踪每个智能体的进展，并打开已完成的任务查看其工作成果。该功能现已面向Pro用户，在Chat标签页中上线。",
@@ -335,7 +450,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -361,22 +476,24 @@
           "url": "https://www.zhihu.com/question/2094475735796643677",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时08分 ~ 10时03分]"
         },
         {
           "title": "已恢复!DeepSeek发故障补偿",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367231&amp;topic_name=%E5%B7%B2%E6%81%A2%E5%A4%8D%21DeepSeek%E5%8F%91%E6%95%85%E9%9A%9C%E8%A1%A5%E5%81%BF",
           "source": "贴吧",
           "ranks": [
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时04分 ~ 07时08分]"
+          "appearance_count": 4,
+          "time_info": "[01时04分 ~ 10时03分]"
         },
         {
           "title": "如何看待网友说 DeepSeek 在爱里长大？",
@@ -413,7 +530,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -424,7 +541,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         }
