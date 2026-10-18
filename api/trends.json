@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-19T03:05:23.801370+08:00",
-  "total_titles_processed": 391,
+  "generated_at": "2026-10-19T06:02:40.159001+08:00",
+  "total_titles_processed": 446,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 16,
       "titles": [
         {
           "title": "公开施压！泽连斯基称“星链”限速“有意为之，仅针对乌克兰”，特朗普签署行政令豁免对俄多项制裁",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 03时05分]"
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 06时02分]"
         },
         {
           "title": "美国能源部长Wright：俄罗斯帮助世界的唯一方式就是（与乌克兰）实现能源停火。 总统特朗普暂停对俄制裁是一种创新。 对（美国市场的）汽油价格不满意，但乐见油价正在下跌。 汽油价格、柴油价格已经在数周前见顶，我们希望价格继续下跌。 那些反对美国对俄实施豁免的态度根本就是错误的。",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 03时05分]"
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 06时02分]"
         },
         {
           "title": "美国总统特朗普：伊朗非常强硬。（福克斯新闻）",
@@ -37,8 +37,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 03时05分]"
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 06时02分]"
         },
         {
           "title": "特朗普呼吁法国关闭边境",
@@ -48,8 +48,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 03时05分]"
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 06时02分]"
         },
         {
           "title": "美国能源部长：特朗普暂停对俄制裁但未解除",
@@ -69,7 +69,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
         },
@@ -83,6 +83,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时13分"
+        },
+        {
+          "title": "特朗普：不想把俄罗斯从谈判桌上赶走 泽连斯基不想结束战争",
+          "url": "https://flash.jin10.com/detail/20261019044419087800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "特朗普呼吁法国关闭边境",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%91%BC%E5%90%81%E6%B3%95%E5%9B%BD%E5%85%B3%E9%97%AD%E8%BE%B9%E5%A2%83%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
         },
         {
           "title": "特朗普支持内塔尼亚胡竞选连任以色列总理",
@@ -107,6 +129,17 @@
           "time_info": "00时13分"
         },
         {
+          "title": "伊朗前外长警告：油轮若停航一周，特朗普将迎来一场噩梦",
+          "url": "https://flash.jin10.com/detail/20261019033633792800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
           "title": "美国财长贝森特：（回应特朗普称美国情报共享曾中断）泽连斯基在发表这类不实言论时要谨言慎行才对。",
           "url": "https://flash.jin10.com/detail/20261018224259280800",
           "source": "金十数据",
@@ -127,6 +160,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时13分"
+        },
+        {
+          "title": "泽连斯基称特朗普正逼迫乌克兰向俄罗斯投降",
+          "url": "https://flash.jin10.com/detail/20261019030234794800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "伊朗军方高层嘲讽特朗普“老到站不起身”，警告美以勿再误判",
+          "url": "https://flash.jin10.com/detail/20261019024923039800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
         }
       ]
     },
@@ -142,8 +197,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 03时05分]"
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 06时02分]"
+        },
+        {
+          "title": "网传 DeepSeek V4.1 Flash 1017 指纹测出 GPT-6 Astra，这是怎么回事？",
+          "url": "https://www.zhihu.com/question/2094959269275878409",
+          "source": "知乎",
+          "ranks": [
+            12,
+            14,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 06时02分]"
         },
         {
           "title": "Deepseek公布API网页搜索与抓取费用：每1000次成功请求5元",
@@ -153,20 +221,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 03时05分]"
-        },
-        {
-          "title": "网传 DeepSeek V4.1 Flash 1017 指纹测出 GPT-6 Astra，这是怎么回事？",
-          "url": "https://www.zhihu.com/question/2094959269275878409",
-          "source": "知乎",
-          "ranks": [
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 03时05分]"
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 06时02分]"
         }
       ]
     },
@@ -182,8 +238,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 03时05分]"
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 06时02分]"
         },
         {
           "title": "美股收盘：科技重挫纳指跌超2% 红利、能源巨头再创新高",
@@ -191,11 +247,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 03时05分]"
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 06时02分]"
         }
       ]
     },
@@ -211,8 +268,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 03时05分]"
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 06时02分]"
         }
       ]
     }
