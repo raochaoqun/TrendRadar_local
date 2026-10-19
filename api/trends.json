@@ -1,463 +1,161 @@
 {
-  "generated_at": "2026-10-19T19:32:15.082767+08:00",
-  "total_titles_processed": 1032,
+  "generated_at": "2026-10-20T01:57:04.681224+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 6,
       "titles": [
         {
-          "title": "特朗普：你不愿结束战争，泽连斯基：你逼乌克兰投降",
-          "url": "https://news.ifeng.com/c/8xLGtqVJ3MX",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时28分 ~ 19时32分]"
-        },
-        {
-          "title": "美国能源部长Wright：俄罗斯帮助世界的唯一方式就是（与乌克兰）实现能源停火。 总统特朗普暂停对俄制裁是一种创新。 对（美国市场的）汽油价格不满意，但乐见油价正在下跌。 汽油价格、柴油价格已经在数周前见顶，我们希望价格继续下跌。 那些反对美国对俄实施豁免的态度根本就是错误的。",
-          "url": "https://wallstreetcn.com/livenews/3180672",
+          "title": "【以色列总理下令推翻伊朗政权】当地时间10月19日晚，以色列总理内塔尼亚胡在接受以色列第14频道电视台采访时称，他向以军、以色列情报和特勤局（摩萨德）以及以军军事情报局下达了“推翻伊朗政权”的指令。内塔尼亚胡结合此前美国总统特朗普对他的公开支持表示，特朗普的态度“非常明确”，即认为当前的“核心任务是彻底消除伊朗对以色列造成的生存威胁 ”。（CCTV国际时讯）",
+          "url": "https://wallstreetcn.com/livenews/3181354",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时13分 ~ 06时02分]"
-        },
-        {
-          "title": "公开施压！泽连斯基称“星链”限速“有意为之，仅针对乌克兰”，特朗普签署行政令豁免对俄多项制裁",
-          "url": "https://wallstreetcn.com/articles/3783843",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时13分 ~ 08时36分]"
-        },
-        {
-          "title": "特朗普新任白宫发言人上任仅 5 天就被解雇，创下史上最短纪录，为什么会这样？",
-          "url": "https://www.zhihu.com/question/2094636010722411929",
-          "source": "知乎",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时36分 ~ 19时32分]"
-        },
-        {
-          "title": "美国总统特朗普：伊朗非常强硬。（福克斯新闻）",
-          "url": "https://wallstreetcn.com/livenews/3180671",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时13分 ~ 06时02分]"
-        },
-        {
-          "title": "特朗普呼吁法国关闭边境",
-          "url": "https://wallstreetcn.com/livenews/3180661",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时13分 ~ 06时02分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时57分"
         },
         {
           "title": "不满豁免对俄制裁，担心更坏事情发生，美媒称泽连斯基决定“公开对抗特朗普”",
           "url": "https://wallstreetcn.com/articles/3783873",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时31分 ~ 19时32分]"
+          "time_info": "[01时56分 ~ 01时57分]"
         },
         {
-          "title": "美国总统特朗普：移民已经占领了法国。必须迅速关闭边界！",
-          "url": "https://flash.jin10.com/detail/20261019191705472800",
-          "source": "金十数据",
+          "title": "马斯克可能会通过“特朗普账户”（Trump Accounts）向美国儿童捐赠所持SpaceX股票。",
+          "url": "https://wallstreetcn.com/livenews/3181353",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时32分"
+          "time_info": "01时57分"
         },
         {
-          "title": "美国总统特朗普：今天堪萨斯州的集会人山人海。稍后见！",
-          "url": "https://flash.jin10.com/detail/20261019191159744800",
+          "title": "美国总统特朗普对以色列总理内塔尼亚胡说：你就是我想要在身边的人。",
+          "url": "https://flash.jin10.com/detail/20261020004228474800",
           "source": "金十数据",
           "ranks": [
-            11
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时32分"
+          "time_info": "01时57分"
         },
         {
-          "title": "美国能源部长：特朗普暂停对俄制裁但未解除",
-          "url": "https://flash.jin10.com/detail/20261018232106569800",
+          "title": "美国总统特朗普对以色列总理内塔尼亚胡说：你遭到了自己国家的不公平对待。",
+          "url": "https://flash.jin10.com/detail/20261020004144507800",
           "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时13分"
-        },
-        {
-          "title": "美国总统特朗普：福克斯新闻如今花在为民主党人辩护、宣传其观点上的时间，比该台历史上任何时候都多，甚至超过了给予共和党对手的时间。简直荒谬！福克斯新闻太想追求‘政治正确’了！今天请观看我在堪萨斯州举行的大型集会。",
-          "url": "https://flash.jin10.com/detail/20261019190905747800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时32分"
-        },
-        {
-          "title": "特朗普：一直打算支持内塔尼亚胡，只是不想太早表态",
-          "url": "https://flash.jin10.com/detail/20261019012501322800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时05分"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡：感谢特朗普总统给予的大力支持，以及双方开展的共同努力。我们将携手完成任务。",
-          "url": "https://flash.jin10.com/detail/20261018230026124800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时13分"
-        },
-        {
-          "title": "特朗普：不想把俄罗斯从谈判桌上赶走 泽连斯基不想结束战争",
-          "url": "https://flash.jin10.com/detail/20261019044419087800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "特朗普呼吁法国关闭边境",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%91%BC%E5%90%81%E6%B3%95%E5%9B%BD%E5%85%B3%E9%97%AD%E8%BE%B9%E5%A2%83%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
           "ranks": [
             20
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时02分"
+          "time_info": "01时57分"
         },
         {
-          "title": "特朗普支持内塔尼亚胡竞选连任以色列总理",
-          "url": "https://flash.jin10.com/detail/20261018225308314800",
+          "title": "以色列总理内塔尼亚胡对美国总统特朗普说：我们还有任务要完成，而且一定会完成。",
+          "url": "https://flash.jin10.com/detail/20261020004047642800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时13分"
-        },
-        {
-          "title": "美国财长贝森特：（回应泽连斯基关于星链限速的表述）特朗普和鲁比奥都表示，特朗普政府没有任何人下达过这样的命令。我认为，泽连斯基提出这样的指控是非常鲁莽的。",
-          "url": "https://flash.jin10.com/detail/20261018224523296800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时13分"
-        },
-        {
-          "title": "伊朗前外长警告：油轮若停航一周，特朗普将迎来一场噩梦",
-          "url": "https://flash.jin10.com/detail/20261019033633792800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "美国财长贝森特：（回应特朗普称美国情报共享曾中断）泽连斯基在发表这类不实言论时要谨言慎行才对。",
-          "url": "https://flash.jin10.com/detail/20261018224259280800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时13分"
-        },
-        {
-          "title": "美国财长贝森特：（回应特朗普豁免俄罗斯制裁）没有解除任何制裁。当时有一个为期60天的期限。看看目前的情况，唯一被取消的只是柴油禁运。",
-          "url": "https://flash.jin10.com/detail/20261018224206130800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时13分"
-        },
-        {
-          "title": "泽连斯基称特朗普正逼迫乌克兰向俄罗斯投降",
-          "url": "https://flash.jin10.com/detail/20261019030234794800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "伊朗军方高层嘲讽特朗普“老到站不起身”，警告美以勿再误判",
-          "url": "https://flash.jin10.com/detail/20261019024923039800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
+          "time_info": "01时57分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 10,
+      "match_count": 4,
       "titles": [
         {
           "title": "梁文锋和 DeepSeek，为什么配得上 「 国运级 」 三个字？",
           "url": "https://www.zhihu.com/question/2093628371448217836",
           "source": "知乎",
           "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时28分 ~ 19时32分]"
-        },
-        {
-          "title": "【早报】两部门：支持体育运动进影院；DeepSeek新模型登场",
-          "url": "https://www.cls.cn/detail/2507548",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时13分 ~ 08时36分]"
-        },
-        {
-          "title": "如何评价 DeepSeek 开放自研搜索 API，单价为每 1000 次成功请求 5 元？",
-          "url": "https://www.zhihu.com/question/2094892066190915387",
-          "source": "知乎",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时28分 ~ 19时32分]"
-        },
-        {
-          "title": "网传 DeepSeek V4.1 Flash 1017 指纹测出 GPT-6 Astra，这是怎么回事？",
-          "url": "https://www.zhihu.com/question/2094959269275878409",
-          "source": "知乎",
-          "ranks": [
-            12,
-            14,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时13分 ~ 06时02分]"
-        },
-        {
-          "title": "Deepseek公布API网页搜索与抓取费用：每1000次成功请求5元",
-          "url": "https://wallstreetcn.com/livenews/3180663",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时13分 ~ 06时02分]"
-        },
-        {
-          "title": "Deepseek 对百度搜索的冲击有多大？",
-          "url": "https://www.zhihu.com/question/13453602540",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时28分 ~ 13时29分]"
+          "time_info": "[01时56分 ~ 01时57分]"
         },
         {
           "title": "Deepseek对传统搜索的冲击有多大？",
           "url": "https://www.zhihu.com/question/13453602540",
           "source": "知乎",
           "ranks": [
-            9
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时31分 ~ 19时32分]"
+          "time_info": "[01时56分 ~ 01时57分]"
         },
         {
-          "title": "DeepSeek V4.1最新前端实测",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4.1%E6%9C%80%E6%96%B0%E5%89%8D%E7%AB%AF%E5%AE%9E%E6%B5%8B",
-          "source": "bilibili 热搜",
+          "title": "实测Deepseek v4.1动画效果",
+          "url": "https://www.douyin.com/hot/2703379",
+          "source": "抖音",
           "ranks": [
-            18
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时31分 ~ 19时32分]"
+          "time_info": "[01时56分 ~ 01时57分]"
         },
         {
-          "title": "【MiniMax认领Space Bunny，M3.1 Flash即将发布】10月19日下午，MiniMax官方账号发布一条短视频，配文“Welcome back，Space Bunny”。此举被视为官方认领匿名模型Space Bunny（太空兔）。该模型自9月下旬上线后，3天内即登顶 OpenRouter和 OpenCode的Token日调用量榜首，与DeepSeek V4.1 Flash、GLM 5.3 Flash一同占据前三名。（界面）",
-          "url": "https://wallstreetcn.com/livenews/3181164",
-          "source": "华尔街见闻-快讯",
+          "title": "如何评价 DeepSeek 开放自研搜索 API，单价为每 1000 次成功请求 5 元？",
+          "url": "https://www.zhihu.com/question/2094892066190915387",
+          "source": "知乎",
           "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时32分"
-        },
-        {
-          "title": "DeepSeek新模型有哪些优势",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E6%9C%89%E5%93%AA%E4%BA%9B%E4%BC%98%E5%8A%BF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "【早报】美股纳指大跌超500点，半导体、存储股全线跳水；黄仁勋谈“AI市场震荡”；国际油价大涨；胜宏科技、豪威集团等计划回购股份",
-          "url": "https://www.cls.cn/detail/2507382",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时13分 ~ 06时02分]"
-        },
-        {
-          "title": "美股收盘：科技重挫纳指跌超2% 红利、能源巨头再创新高",
-          "url": "https://www.cls.cn/detail/2507375",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时13分 ~ 06时02分]"
-        },
-        {
-          "title": "美股期货亚市盘初走高，标普500指数期货上涨0.3%，纳斯达克100指数期货上涨0.6%。",
-          "url": "https://wallstreetcn.com/livenews/3180708",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时36分"
+          "appearance_count": 2,
+          "time_info": "[01时56分 ~ 01时57分]"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
-          "title": "谷歌将 TPU AI 芯片送入太空，每次执行约 15 分钟运算，之后必须暂停散热，太空算力中心前景如何？",
-          "url": "https://www.zhihu.com/question/2094251044960211894",
-          "source": "知乎",
+          "title": "谷歌：自10月21日起，阿联酋地区的加密货币交易所、钱包、差价合约及外汇广告商，在获得谷歌认证后可投放广告。",
+          "url": "https://wallstreetcn.com/livenews/3181344",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            12
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时28分 ~ 13时29分]"
-        },
-        {
-          "title": "谷歌将 TPU 送上太空却因散热难题停机，太空算力中心前景如何？",
-          "url": "https://www.zhihu.com/question/2094251044960211894",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时36分"
+          "time_info": "01时57分"
         }
       ]
     },
     {
-      "keyword_group": "Claude",
+      "keyword_group": "美股",
       "match_count": 1,
       "titles": [
         {
-          "title": "Claude专封国人,二创人设变腹黑",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367470&amp;topic_name=Claude%E4%B8%93%E5%B0%81%E5%9B%BD%E4%BA%BA%2C%E4%BA%8C%E5%88%9B%E4%BA%BA%E8%AE%BE%E5%8F%98%E8%85%B9%E9%BB%91",
-          "source": "贴吧",
+          "title": "美股科技题材集体反弹 关键半导体指数有望结束连跌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2508914",
+          "source": "财联社热门",
           "ranks": [
-            20,
-            21,
-            26
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时13分 ~ 13时29分]"
+          "appearance_count": 2,
+          "time_info": "[01时56分 ~ 01时57分]"
         }
       ]
     }
