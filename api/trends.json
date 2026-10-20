@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-20T13:32:20.933277+08:00",
-  "total_titles_processed": 771,
+  "generated_at": "2026-10-20T18:37:43.630022+08:00",
+  "total_titles_processed": 972,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "特朗普：也许泽连斯基是时候找别人来谈判了",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时49分 ~ 13时32分]"
+          "appearance_count": 3,
+          "time_info": "[08时49分 ~ 18时37分]"
         },
         {
           "title": "普京提议中美俄三方会谈，特朗普表态",
@@ -26,9 +26,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时32分 ~ 18时37分]"
         },
         {
           "title": "特朗普为何突然表态支持内塔尼亚胡",
@@ -51,6 +51,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时49分"
+        },
+        {
+          "title": "特朗普：中方在乌问题上立场很公允",
+          "url": "https://www.toutiao.com/trending/7697897058136604715/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
         },
         {
           "title": "【以色列总理下令推翻伊朗政权】当地时间10月19日晚，以色列总理内塔尼亚胡在接受以色列第14频道电视台采访时称，他向以军、以色列情报和特勤局（摩萨德）以及以军军事情报局下达了“推翻伊朗政权”的指令。内塔尼亚胡结合此前美国总统特朗普对他的公开支持表示，特朗普的态度“非常明确”，即认为当前的“核心任务是彻底消除伊朗对以色列造成的生存威胁 ”。（CCTV国际时讯）",
@@ -82,8 +93,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时49分 ~ 13时32分]"
+          "appearance_count": 3,
+          "time_info": "[08时49分 ~ 18时37分]"
+        },
+        {
+          "title": "新华社：特朗普为何此时“力挺”内塔尼亚胡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34285005",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时49分 ~ 18时37分]"
         },
         {
           "title": "特朗普喊话美国民众别去法国参加革命",
@@ -95,17 +118,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时51分 ~ 05时52分]"
-        },
-        {
-          "title": "新华社：特朗普为何此时“力挺”内塔尼亚胡",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34285005",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时49分 ~ 13时32分]"
         },
         {
           "title": "马斯克可能会通过“特朗普账户”（Trump Accounts）向美国儿童捐赠所持SpaceX股票。",
@@ -130,6 +142,17 @@
           "time_info": "08时49分"
         },
         {
+          "title": "中期选举前关键民调！特朗普支持率创历史新低：31%",
+          "url": "https://www.cls.cn/detail/2509225",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
+        },
+        {
           "title": "美特使本周赴挪威重启俄乌和谈，特朗普公开喊话泽连斯基“换个人谈”",
           "url": "https://flash.jin10.com/detail/20261020081749654800",
           "source": "金十数据",
@@ -147,7 +170,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         },
@@ -290,7 +313,126 @@
           "ranks": [
             23
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "如何评价 DeepSeek V4.1 Flash 1017 登顶「史上最差 AI 模型名称排行榜」?",
+          "url": "https://www.zhihu.com/question/2095476625228019430",
+          "source": "知乎",
+          "ranks": [
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时49分 ~ 18时37分]"
+        },
+        {
+          "title": "美国政府指示各机构停用DeepSeek，外交部：反对将科技经贸问题政治化",
+          "url": "https://www.cls.cn/detail/2509748",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
+        },
+        {
+          "title": "梁文锋和 DeepSeek，为什么配得上 「 国运级 」 三个字？",
+          "url": "https://www.zhihu.com/question/2093628371448217836",
+          "source": "知乎",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时56分 ~ 08时49分]"
+        },
+        {
+          "title": "如何评价 DeepSeek 开放自研搜索 API，单价为每 1000 次成功请求 5 元？",
+          "url": "https://www.zhihu.com/question/2094892066190915387",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时56分 ~ 05时52分]"
+        },
+        {
+          "title": "实测Deepseek v4.1动画效果",
+          "url": "https://www.douyin.com/hot/2703379",
+          "source": "抖音",
+          "ranks": [
+            19,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时56分 ~ 08时49分]"
+        },
+        {
+          "title": "Deepseek对传统搜索的冲击有多大？",
+          "url": "https://www.zhihu.com/question/13453602540",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时56分 ~ 01时57分]"
+        },
+        {
+          "title": "如何评价美国国土安全部将 DeepSeek 及相关第三方产品排除出联邦文职采购？",
+          "url": "https://www.zhihu.com/question/2095646780692099465",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        },
+        {
+          "title": "中方回应美要求机构停用DeepSeek",
+          "url": "https://www.toutiao.com/trending/7698396845743850010/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
+        },
+        {
+          "title": "针对DeepSeek 美国政府下黑手",
+          "url": "https://www.baidu.com/s?wd=%E9%92%88%E5%AF%B9DeepSeek+%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E4%B8%8B%E9%BB%91%E6%89%8B",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        },
+        {
+          "title": "DeepSeek新模型升级背后",
+          "url": "https://www.toutiao.com/trending/7698600981168147977/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         }
@@ -405,105 +547,8 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "如何评价 DeepSeek V4.1 Flash 1017 登顶「史上最差 AI 模型名称排行榜」?",
-          "url": "https://www.zhihu.com/question/2095476625228019430",
-          "source": "知乎",
-          "ranks": [
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时49分 ~ 13时32分]"
-        },
-        {
-          "title": "梁文锋和 DeepSeek，为什么配得上 「 国运级 」 三个字？",
-          "url": "https://www.zhihu.com/question/2093628371448217836",
-          "source": "知乎",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时56分 ~ 08时49分]"
-        },
-        {
-          "title": "如何评价 DeepSeek 开放自研搜索 API，单价为每 1000 次成功请求 5 元？",
-          "url": "https://www.zhihu.com/question/2094892066190915387",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时56分 ~ 05时52分]"
-        },
-        {
-          "title": "实测Deepseek v4.1动画效果",
-          "url": "https://www.douyin.com/hot/2703379",
-          "source": "抖音",
-          "ranks": [
-            19,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时56分 ~ 08时49分]"
-        },
-        {
-          "title": "Deepseek对传统搜索的冲击有多大？",
-          "url": "https://www.zhihu.com/question/13453602540",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时56分 ~ 01时57分]"
-        },
-        {
-          "title": "如何评价美国国土安全部将 DeepSeek 及相关第三方产品排除出联邦文职采购？",
-          "url": "https://www.zhihu.com/question/2095646780692099465",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时32分"
-        },
-        {
-          "title": "针对DeepSeek 美国政府下黑手",
-          "url": "https://www.baidu.com/s?wd=%E9%92%88%E5%AF%B9DeepSeek+%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E4%B8%8B%E9%BB%91%E6%89%8B",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时32分"
-        },
-        {
-          "title": "DeepSeek新模型升级背后",
-          "url": "https://www.toutiao.com/trending/7698600981168147977/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时32分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "谷歌(GOOG.O)前首席执行官埃里克·施密特在Anthropic公司拥有约1%的股份。",
@@ -528,6 +573,17 @@
           "time_info": "05时52分"
         },
         {
+          "title": "谷歌云：在谷歌分布式云上推出搭载Gemini的企业搜索预览版。",
+          "url": "https://flash.jin10.com/detail/20261020180706755800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
+        },
+        {
           "title": "谷歌：自10月21日起，阿联酋地区的加密货币交易所、钱包、差价合约及外汇广告商，在获得谷歌认证后可投放广告。",
           "url": "https://wallstreetcn.com/livenews/3181344",
           "source": "华尔街见闻-快讯",
@@ -545,7 +601,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         }
@@ -553,8 +609,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "赶在Anthropic IPO前：OpenAI据悉加速融资 估值或超1.4万亿美元",
+          "url": "https://www.cls.cn/detail/2509215",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
+        },
         {
           "title": "报道：OpenAI计划在Anthropic上市前加快融资步伐",
           "url": "https://wallstreetcn.com/livenews/3181474",
